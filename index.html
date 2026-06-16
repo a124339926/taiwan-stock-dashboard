@@ -4,236 +4,517 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>台股飆股篩選器 - Wood Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0f1117;
-    --card: #1a1d2e;
-    --border: #2a2d3e;
-    --text: #e2e8f0;
-    --text2: #94a3b8;
-    --accent: #3b82f6;
+    --bg: #0a0a0c;
+    --surface: #111114;
+    --surface-raised: #16171c;
+    --border: #1e1f24;
+    --border-hover: #2a2b31;
+    --text: #e4e4e7;
+    --text-secondary: #6b6b73;
+    --text-tertiary: #4a4a52;
+    --accent: #10b981;
+    --accent-muted: rgba(16, 185, 129, 0.10);
     --up: #22c55e;
+    --up-bg: rgba(34, 197, 94, 0.08);
     --down: #ef4444;
+    --down-bg: rgba(239, 68, 68, 0.08);
     --gold: #f59e0b;
+    --gold-bg: rgba(245, 158, 11, 0.08);
+    --radius: 8px;
+    --radius-lg: 12px;
+    --transition: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   }
-  * { margin:0; padding:0; box-sizing:border-box; }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
   body {
-    background: var(--bg); color: var(--text);
-    font-family: -apple-system, 'Segoe UI', 'Noto Sans TC', sans-serif;
-    min-height: 100vh; padding: 20px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Noto Sans TC', 'Outfit', -apple-system, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    min-height: 100vh;
+    padding: 32px 24px 48px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
-  .container { max-width: 1300px; margin: 0 auto; }
+
+  .container {
+    max-width: 1340px;
+    margin: 0 auto;
+  }
 
   /* Header */
-  .header {
-    display: flex; justify-content: space-between; align-items: flex-start;
-    flex-wrap: wrap; gap: 16px; margin-bottom: 28px;
-    padding: 24px 28px; background: var(--card); border-radius: 16px;
-    border: 1px solid var(--border);
+  .site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 36px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
   }
-  .header-left h1 {
-    font-size: 26px; font-weight: 700; letter-spacing: -0.5px;
-    background: linear-gradient(135deg, #60a5fa, #a78bfa);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+
+  .brand-tag {
+    font-family: 'Outfit', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 8px;
   }
-  .header-left .sub {
-    color: var(--text2); font-size: 14px; margin-top: 4px;
+  .brand h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    line-height: 1.1;
   }
-  .header-right {
+  .brand .subtitle {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+  }
+
+  .header-meta {
     text-align: right;
   }
-  .header-right .datetime {
-    font-size: 28px; font-weight: 700; font-variant-numeric: tabular-nums;
-    letter-spacing: 1px;
+  .clock {
+    font-family: 'Outfit', monospace;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    font-variant-numeric: tabular-nums;
+    color: var(--text);
+    line-height: 1;
   }
-  .header-right .date {
-    color: var(--text2); font-size: 15px; margin-top: 2px;
+  .date-display {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 6px;
+    font-weight: 400;
   }
-  .header-right .update {
-    color: var(--text2); font-size: 12px; margin-top: 6px;
+  .update-info {
+    font-size: 11px;
+    color: var(--text-tertiary);
+    margin-top: 6px;
   }
-  .badge {
-    display: inline-block; padding: 3px 10px; border-radius: 20px;
-    font-size: 12px; font-weight: 600;
-  }
-  .badge-live { background: #22c55e20; color: #22c55e; }
-  .badge-count { background: #3b82f620; color: #60a5fa; margin-left: 8px; }
 
-  /* Stats Row */
+  /* Stats Strip */
   .stats-row {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 14px; margin-bottom: 24px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 32px;
   }
+
   .stat-card {
-    background: var(--card); border: 1px solid var(--border);
-    border-radius: 12px; padding: 18px 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 20px 22px;
+    transition: border-color var(--transition);
   }
-  .stat-card .label { color: var(--text2); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
-  .stat-card .value { font-size: 32px; font-weight: 700; margin-top: 4px; }
-  .stat-card .sub-text { color: var(--text2); font-size: 13px; margin-top: 2px; }
+  .stat-card:hover {
+    border-color: var(--border-hover);
+  }
+  .stat-label {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+  }
+  .stat-value {
+    font-family: 'Outfit', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1;
+  }
+  .stat-value.accent { color: var(--accent); }
+  .stat-desc {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin-top: 8px;
+  }
+
+  /* Section Title */
+  .section-label {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.10em;
+    color: var(--text-tertiary);
+    margin-bottom: 16px;
+  }
 
   /* Industry Bar */
-  .industry-section { margin-bottom: 24px; }
-  .section-title {
-    font-size: 16px; font-weight: 600; margin-bottom: 12px;
-    color: var(--text); display: flex; align-items: center; gap: 8px;
+  .industry-section {
+    margin-bottom: 32px;
   }
+
+  .industry-bar-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 16px 20px;
+  }
+
   .industry-bar {
-    display: flex; height: 28px; border-radius: 8px; overflow: hidden;
+    display: flex;
+    height: 32px;
+    border-radius: 6px;
+    overflow: hidden;
     gap: 2px;
   }
   .industry-segment {
-    display: flex; align-items: center; justify-content: center;
-    font-size: 11px; font-weight: 600; color: #fff; min-width: 0;
-    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    min-width: 0;
+    transition: filter 0.2s;
+    cursor: default;
   }
-  .industry-segment:hover { filter: brightness(1.2); }
+  .industry-segment:hover {
+    filter: brightness(1.15);
+  }
+
   .industry-legend {
-    display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 14px;
   }
   .legend-item {
-    display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--text2);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--text-secondary);
+    font-weight: 400;
   }
   .legend-dot {
-    width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0;
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    flex-shrink: 0;
   }
 
   /* Table */
-  .table-wrapper {
-    background: var(--card); border: 1px solid var(--border);
-    border-radius: 16px; overflow: hidden;
+  .table-section {
+    margin-bottom: 32px;
   }
-  .table-header {
-    padding: 16px 24px; border-bottom: 1px solid var(--border);
-    display: flex; justify-content: space-between; align-items: center;
+
+  .table-shell {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
   }
-  .table-header h2 { font-size: 17px; font-weight: 600; }
-  table {
-    width: 100%; border-collapse: collapse;
-  }
-  th {
-    text-align: left; padding: 12px 16px; font-size: 11px; font-weight: 600;
-    color: var(--text2); text-transform: uppercase; letter-spacing: 0.5px;
+
+  .table-meta {
+    padding: 16px 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     border-bottom: 1px solid var(--border);
+  }
+  .table-meta-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .table-meta-hint {
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto;
+    min-width: 1100px;
+  }
+
+  thead th {
+    text-align: left;
+    padding: 11px 16px;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    position: sticky;
+    top: 0;
     white-space: nowrap;
   }
-  td {
-    padding: 12px 16px; font-size: 14px; border-bottom: 1px solid #1e2035;
+
+  tbody td {
+    padding: 12px 16px;
+    font-size: 13px;
     white-space: nowrap;
+    transition: background var(--transition);
+    border-bottom: 1px solid var(--bg);
   }
-  tr:hover td { background: #1e2035; }
-  .stock-id { font-weight: 700; color: #60a5fa; }
-  .change-up { color: var(--up); }
-  .change-down { color: var(--down); }
-  .score-badge {
-    display: inline-block; padding: 3px 10px; border-radius: 20px;
-    font-weight: 700; font-size: 13px; min-width: 40px; text-align: center;
+
+  tbody tr:last-child td {
+    border-bottom: none;
   }
-  .score-high { background: #22c55e20; color: #22c55e; }
-  .score-mid { background: #f59e0b20; color: #f59e0b; }
-  .score-low { background: #94a3b820; color: #94a3b8; }
-  .industry-tag {
-    display: inline-block; padding: 2px 10px; border-radius: 12px;
-    font-size: 12px; font-weight: 500;
+
+  tbody tr:hover td {
+    background: var(--surface-raised);
   }
-  .flags { max-width: 240px; white-space: normal; font-size: 12px; color: var(--text2); line-height: 1.5; }
+
+  .cell-id {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 13px;
+  }
+  .cell-name {
+    font-weight: 500;
+  }
+  .cell-price {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .cell-change {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .cell-change.up { color: var(--up); }
+  .cell-change.down { color: var(--down); }
+
+  .cell-ma {
+    color: var(--text-secondary);
+    font-variant-numeric: tabular-nums;
+    font-size: 12px;
+  }
+
+  .cell-volume {
+    font-variant-numeric: tabular-nums;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+
+  .cell-industry {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+
+  .cell-score {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 28px;
+    border-radius: 5px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+  }
+  .cell-score.high {
+    background: var(--up-bg);
+    color: var(--up);
+  }
+  .cell-score.mid {
+    background: var(--gold-bg);
+    color: var(--gold);
+  }
+  .cell-score.low {
+    background: rgba(107, 107, 115, 0.08);
+    color: var(--text-secondary);
+  }
+
+  .cell-flags {
+    max-width: 260px;
+    white-space: normal;
+    font-size: 11px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
 
   /* Footer */
-  .footer {
-    text-align: center; padding: 24px; color: var(--text2); font-size: 12px;
+  .site-footer {
+    text-align: left;
+    padding: 24px 0 0;
+    border-top: 1px solid var(--border);
+    color: var(--text-tertiary);
+    font-size: 11px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 
-  @media (max-width: 768px) {
-    body { padding: 10px; }
-    .header { padding: 16px; }
-    .header-right .datetime { font-size: 20px; }
-    th, td { padding: 8px 10px; font-size: 12px; }
-    .stats-row { grid-template-columns: repeat(2, 1fr); }
+  @media (max-width: 900px) {
+    body {
+      padding: 20px 14px 36px;
+    }
+    .site-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+    .header-meta {
+      text-align: left;
+    }
+    .clock {
+      font-size: 28px;
+    }
+    .stats-row {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .stat-value {
+      font-size: 28px;
+    }
+    .brand h1 {
+      font-size: 24px;
+    }
+    table {
+      min-width: 900px;
+    }
+    tbody td {
+      padding: 10px 12px;
+      font-size: 12px;
+    }
+    thead th {
+      padding: 9px 12px;
+      font-size: 9px;
+    }
+    .site-footer {
+      flex-direction: column;
+      gap: 8px;
+      text-align: left;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .stats-row {
+      grid-template-columns: 1fr 1fr;
+    }
+    .stat-card {
+      padding: 14px 16px;
+    }
+    .stat-value {
+      font-size: 24px;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
   }
 </style>
 </head>
 <body>
 <div class="container">
 
-  <!-- Header -->
-  <div class="header">
-    <div class="header-left">
+  <header class="site-header">
+    <div class="brand">
+      <div class="brand-tag">Wood Studio</div>
       <h1>台股飆股篩選器</h1>
-      <div class="sub">Wood Studio · 技術面多維度分析</div>
-      <div style="margin-top:8px;">
-        <span class="badge badge-live">● LIVE</span>
-        <span class="badge badge-count">掃描 120 檔</span>
-        <span class="badge badge-count">篩出 28 檔</span>
-      </div>
+      <p class="subtitle">技術面多維度分析 - 創新高、多頭排列、動能篩選</p>
     </div>
-    <div class="header-right">
-      <div class="datetime" id="clock">--:--:--</div>
-      <div class="date" id="dateDisplay">----年--月--日</div>
-      <div class="update">資料更新：2026-06-16 17:52:30</div>
+    <div class="header-meta">
+      <div class="clock" id="clock">--:--:--</div>
+      <div class="date-display" id="dateDisplay">----年--月--日</div>
+      <div class="update-info">資料更新：2026-06-16 17:52:30</div>
     </div>
-  </div>
+  </header>
 
-  <!-- Stats -->
   <div class="stats-row">
     <div class="stat-card">
-      <div class="label">掃描股票</div>
-      <div class="value">120</div>
-      <div class="sub-text">上市 + 上櫃熱門股</div>
+      <div class="stat-label">掃描股票</div>
+      <div class="stat-value">120</div>
+      <div class="stat-desc">上市 + 上櫃熱門股</div>
     </div>
     <div class="stat-card">
-      <div class="label">達標飆股</div>
-      <div class="value" style="color:#22c55e;">28</div>
-      <div class="sub-text">通過技術面篩選</div>
+      <div class="stat-label">達標飆股</div>
+      <div class="stat-value accent">28</div>
+      <div class="stat-desc">通過技術面篩選</div>
     </div>
     <div class="stat-card">
-      <div class="label">主力產業</div>
-      <div class="value" style="font-size:22px; color:#f59e0b;">金融保險</div>
-      <div class="sub-text">12 檔入榜</div>
+      <div class="stat-label">主力產業</div>
+      <div class="stat-value accent" style="font-size:22px;">金融保險</div>
+      <div class="stat-desc">12 檔入榜</div>
     </div>
     <div class="stat-card">
-      <div class="label">最高分</div>
-      <div class="value" style="font-size:22px; color:#3b82f6;">3044 100分</div>
-      <div class="sub-text">電子零組件</div>
+      <div class="stat-label">最高評分</div>
+      <div class="stat-value accent" style="font-size:22px;">3044 100分</div>
+      <div class="stat-desc">電子零組件</div>
     </div>
   </div>
 
-  <!-- Industry Distribution -->
-  <div class="industry-section">
-    <div class="section-title">📊 產業分布</div>
-    <div class="industry-bar" id="industryBar"></div>
-    <div class="industry-legend" id="industryLegend"></div>
-  </div>
-
-  <!-- Table -->
-  <div class="table-wrapper">
-    <div class="table-header">
-      <h2>🏆 潛在飆股清單</h2>
-      <span style="color:var(--text2);font-size:13px;">依綜合評分排序</span>
+  <section class="industry-section">
+    <div class="section-label">產業分布</div>
+    <div class="industry-bar-wrap">
+      <div class="industry-bar" id="industryBar"></div>
+      <div class="industry-legend" id="industryLegend"></div>
     </div>
-    <div style="overflow-x:auto;">
-    <table>
-      <thead>
-        <tr>
-          <th>代號</th>
-          <th>名稱</th>
-          <th>產業</th>
-          <th>收盤價</th>
-          <th>漲跌</th>
-          <th>MA5</th>
-          <th>MA20</th>
-          <th>成交量(張)</th>
-          <th>評分</th>
-          <th>判斷依據</th>
-        </tr>
-      </thead>
-      <tbody id="stockTableBody"></tbody>
-    </table>
-    </div>
-  </div>
+  </section>
 
-  <div class="footer">
-    Wood Studio © 2026 · 資料來源：Yahoo Finance · 篩選結果僅供參考，投資風險請自行評估
-  </div>
+  <section class="table-section">
+    <div class="section-label">潛在飆股清單</div>
+    <div class="table-shell">
+      <div class="table-meta">
+        <span class="table-meta-title">共 28 檔</span>
+        <span class="table-meta-hint">依綜合評分排序</span>
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>代號</th>
+              <th>名稱</th>
+              <th>產業</th>
+              <th>收盤價</th>
+              <th>漲跌</th>
+              <th>MA5</th>
+              <th>MA20</th>
+              <th>成交量</th>
+              <th>評分</th>
+              <th>判斷依據</th>
+            </tr>
+          </thead>
+          <tbody id="stockTableBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <span>Wood Studio &copy; 2026</span>
+    <span>資料來源：Yahoo Finance - 篩選結果僅供參考，投資風險請自行評估</span>
+    <span>掃描 120 檔 | 達標 28 檔</span>
+  </footer>
 </div>
 
 <script>
@@ -241,91 +522,87 @@ const DATA = {"update_time": "2026-06-16 17:52:30", "update_date": "2026年06月
 
 const COLORS = {"金融保險": "#F59E0B", "半導體": "#3B82F6", "光電": "#8B5CF6", "電子零組件": "#06B6D4", "航運": "#10B981", "電腦及週邊": "#EC4899", "塑膠": "#6366F1", "鋼鐵": "#64748B", "水泥": "#78716C", "電機機械": "#F97316", "汽車": "#EF4444", "通信網路": "#14B8A6", "貿易百貨": "#A855F7", "觀光餐旅": "#E11D48", "其他": "#6B7280"};
 
-// ===== 即時時鐘 =====
-function updateClock() {
-  const now = new Date();
-  const h = String(now.getHours()).padStart(2,'0');
-  const m = String(now.getMinutes()).padStart(2,'0');
-  const s = String(now.getSeconds()).padStart(2,'0');
-  document.getElementById('clock').textContent = `${h}:${m}:${s}`;
+(function() {
+  function pad(n) { return String(n).padStart(2, '0'); }
+  function update() {
+    var now = new Date();
+    document.getElementById('clock').textContent =
+      pad(now.getHours()) + ':' + pad(now.getMinutes()) + ':' + pad(now.getSeconds());
+    var days = ['日','一','二','三','四','五','六'];
+    document.getElementById('dateDisplay').textContent =
+      now.getFullYear() + '年' + pad(now.getMonth()+1) + '月' + pad(now.getDate()) + '日 星期' + days[now.getDay()];
+  }
+  update();
+  setInterval(update, 1000);
+})();
 
-  const days = ['日','一','二','三','四','五','六'];
-  const y = now.getFullYear();
-  const mo = String(now.getMonth()+1).padStart(2,'0');
-  const d = String(now.getDate()).padStart(2,'0');
-  const w = days[now.getDay()];
-  document.getElementById('dateDisplay').textContent = `${y}年${mo}月${d}日 星期${w}`;
-}
-updateClock();
-setInterval(updateClock, 1000);
+(function() {
+  var dist = DATA.industry_distribution;
+  var total = 0;
+  dist.forEach(function(d) { total += d.count; });
+  var bar = document.getElementById('industryBar');
+  var legend = document.getElementById('industryLegend');
 
-// ===== 產業分布條 =====
-function renderIndustryBar() {
-  const dist = DATA.industry_distribution;
-  const total = dist.reduce((s,i)=>s+i.count, 0);
-  const bar = document.getElementById('industryBar');
-  const legend = document.getElementById('industryLegend');
-  bar.innerHTML = '';
-  legend.innerHTML = '';
+  dist.forEach(function(item) {
+    var pct = (item.count / total * 100).toFixed(1);
+    var color = COLORS[item.name] || '#6B7280';
 
-  dist.forEach((item, idx) => {
-    const pct = ((item.count/total)*100).toFixed(1);
-    const color = COLORS[item.name] || '#6B7280';
-
-    // Bar segment
-    const seg = document.createElement('div');
+    var seg = document.createElement('div');
     seg.className = 'industry-segment';
     seg.style.width = pct + '%';
     seg.style.background = color;
-    seg.title = `${item.name}: ${item.count}檔 (${pct}%)`;
+    seg.title = item.name + ': ' + item.count + '檔 (' + pct + '%)';
     if (parseFloat(pct) > 5) seg.textContent = item.name;
     bar.appendChild(seg);
 
-    // Legend
-    const li = document.createElement('div');
+    var li = document.createElement('div');
     li.className = 'legend-item';
-    li.innerHTML = `<span class="legend-dot" style="background:${color}"></span>${item.name} ${item.count}檔`;
+    var dot = document.createElement('span');
+    dot.className = 'legend-dot';
+    dot.style.background = color;
+    li.appendChild(dot);
+    li.appendChild(document.createTextNode(item.name + ' ' + item.count + ' 檔'));
     legend.appendChild(li);
   });
-}
+})();
 
-// ===== 股票表格 =====
-function renderTable() {
-  const tbody = document.getElementById('stockTableBody');
-  const stocks = DATA.stocks;
+(function() {
+  var tbody = document.getElementById('stockTableBody');
+  var stocks = DATA.stocks;
 
-  stocks.forEach((s, idx) => {
-    const changeClass = s.change_pct >= 0 ? 'change-up' : 'change-down';
-    const changeSign = s.change_pct >= 0 ? '+' : '';
+  stocks.forEach(function(s) {
+    var changeClass = s.change_pct >= 0 ? 'up' : 'down';
+    var changeSign = s.change_pct >= 0 ? '+' : '';
 
-    let scoreClass = 'score-low';
-    if (s.score >= 70) scoreClass = 'score-high';
-    else if (s.score >= 55) scoreClass = 'score-mid';
+    var scoreClass = 'low';
+    if (s.score >= 70) scoreClass = 'high';
+    else if (s.score >= 55) scoreClass = 'mid';
 
-    const indColor = COLORS[s.industry] || '#6B7280';
-    const volK = Math.round(s.volume / 1000);
+    var indColor = COLORS[s.industry] || '#6B7280';
+    var volStr;
+    if (s.volume >= 1000000) {
+      volStr = (s.volume / 1000000).toFixed(1) + 'M';
+    } else if (s.volume >= 1000) {
+      volStr = Math.round(s.volume / 1000).toLocaleString() + 'K';
+    } else {
+      volStr = s.volume.toLocaleString();
+    }
 
-    const rankIcon = idx === 0 ? '🥇' : idx === 1 ? '🥈' : idx === 2 ? '🥉' : '';
-
-    const row = document.createElement('tr');
-    row.innerHTML = `
-      <td><span class="stock-id">${rankIcon} ${s.stock_id}</span></td>
-      <td style="font-weight:500;">${s.name}</td>
-      <td><span class="industry-tag" style="background:${indColor}20;color:${indColor}">${s.industry}</span></td>
-      <td style="font-weight:600;">${s.close.toLocaleString()}</td>
-      <td class="${changeClass}" style="font-weight:600;">${changeSign}${s.change_pct.toFixed(1)}%</td>
-      <td>${s.ma5.toLocaleString()}</td>
-      <td>${s.ma20.toLocaleString()}</td>
-      <td>${volK.toLocaleString()}K</td>
-      <td><span class="score-badge ${scoreClass}">${s.score}</span></td>
-      <td class="flags">${s.flags}</td>
-    `;
-    tbody.appendChild(row);
+    var tr = document.createElement('tr');
+    tr.innerHTML =
+      '<td><span class="cell-id">' + s.stock_id + '</span></td>' +
+      '<td class="cell-name">' + s.name + '</td>' +
+      '<td><span class="cell-industry" style="background:' + indColor + '18;color:' + indColor + '">' + s.industry + '</span></td>' +
+      '<td class="cell-price">' + s.close.toLocaleString() + '</td>' +
+      '<td class="cell-change ' + changeClass + '">' + changeSign + s.change_pct.toFixed(1) + '%</td>' +
+      '<td class="cell-ma">' + s.ma5.toLocaleString() + '</td>' +
+      '<td class="cell-ma">' + s.ma20.toLocaleString() + '</td>' +
+      '<td class="cell-volume">' + volStr + '</td>' +
+      '<td><span class="cell-score ' + scoreClass + '">' + s.score + '</span></td>' +
+      '<td class="cell-flags">' + s.flags + '</td>';
+    tbody.appendChild(tr);
   });
-}
-
-renderIndustryBar();
-renderTable();
+})();
 </script>
 </body>
 </html>
