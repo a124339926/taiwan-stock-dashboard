@@ -428,7 +428,7 @@ function fmtVol(v) {
   barChart.innerHTML = dist.map(function(d) {
     var pct = (d.count/maxCount*100).toFixed(0);
     var color = industryColors[d.name] || '#6B7280';
-    return '<div class="bar-row" onclick="openIndustry(''+d.name+'')" data-industry="'+d.name+'">' +
+    return '<div class="bar-row" onclick="openIndustry(\''+d.name+'\')" data-industry="'+d.name+'">' +
       '<div class="bar-label">'+d.name+'</div>' +
       '<div class="bar-track"><div class="bar-fill" style="width:'+pct+'%;background:'+color+'">' +
       '<span class="bar-count">'+d.count+'</span></div></div>' +
@@ -562,13 +562,13 @@ window.openIndustry = function(indName) {
   filtered.forEach(function(s) {
     var sign = s.change_pct >= 0 ? '+' : '';
     var chCls = s.change_pct >= 0 ? 'cell-up' : 'cell-down';
-    html += '<tr onclick="event.stopPropagation();showDetail(''+s.code+'');closePanel();">' +
+    html += '<tr onclick="event.stopPropagation();showDetail(\''+s.code+'\');closePanel();">' +
       '<td class="ind-code">'+s.code+'</td>' +
       '<td>'+s.name+'</td><td>'+s.market+'</td>' +
       '<td class="right">'+s.close+'</td>' +
       '<td class="right '+chCls+'">'+sign+s.change_amount+'</td>' +
       '<td class="right '+chCls+'">'+sign+s.change_pct+'%</td>' +
-      '<td><button class="ind-kline-btn" onclick="event.stopPropagation();closePanel();openKline(''+s.code+'')">K線</button></td>' +
+      '<td><button class="ind-kline-btn" onclick="event.stopPropagation();closePanel();openKline(\''+s.code+'\')">K線</button></td>' +
       '</tr>';
   });
   html += '</tbody></table>';
