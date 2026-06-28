@@ -1,6 +1,6 @@
 var LOOKUP = {
-  "update_time": "2026-06-27 14:00:08",
-  "update_date": "2026年06月27日",
+  "update_time": "2026-06-28 14:00:09",
+  "update_date": "2026年06月28日",
   "total": 2646,
   "stocks": [
     {
@@ -4423,16 +4423,16 @@ var LOOKUP = {
       "code": "00972",
       "name": "野村日本動能高息",
       "industry": "ETF",
-      "close": 19.4,
-      "change_amount": 0.0,
-      "change_pct": 0.1,
-      "ma5": 19.4,
-      "ma10": 19.2,
+      "close": 19.2,
+      "change_amount": 0.1,
+      "change_pct": 0.47,
+      "ma5": 19.2,
+      "ma10": 19.3,
       "ma20": 19.1,
-      "ma60": null,
+      "ma60": 18.9,
       "high52": 19.6,
       "low52": 18.1,
-      "volume": 196000,
+      "volume": 60000,
       "market": "上市"
     },
     {

@@ -1,6 +1,6 @@
 var SCREENER = {
-  "update_time": "2026-06-27 14:00:08",
-  "update_date": "2026年06月27日",
+  "update_time": "2026-06-28 14:00:09",
+  "update_date": "2026年06月28日",
   "total_scanned": 2689,
   "total_matched": 30,
   "stocks": [
