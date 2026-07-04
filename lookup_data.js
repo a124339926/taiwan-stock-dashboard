@@ -1,6 +1,6 @@
 var LOOKUP = {
-  "update_time": "2026-07-03 14:01:06",
-  "update_date": "2026年07月03日",
+  "update_time": "2026-07-04 14:00:08",
+  "update_date": "2026年07月04日",
   "total": 2655,
   "stocks": [
     {
@@ -16,7 +16,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 15.6,
       "low52": 10.2,
-      "volume": 39919662,
+      "volume": 39760214,
       "market": "上市"
     },
     {
@@ -32,7 +32,7 @@ var LOOKUP = {
       "ma60": 12.8,
       "high52": 14.2,
       "low52": 10.0,
-      "volume": 1832323,
+      "volume": 1807000,
       "market": "上市"
     },
     {
@@ -48,7 +48,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 11.4,
       "low52": 9.7,
-      "volume": 208034379,
+      "volume": 207953648,
       "market": "上市"
     },
     {
@@ -64,7 +64,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 10.5,
       "low52": 9.6,
-      "volume": 7656649,
+      "volume": 7644014,
       "market": "上市"
     },
     {
@@ -80,7 +80,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 10.0,
       "low52": 8.9,
-      "volume": 57636021,
+      "volume": 57578851,
       "market": "上市"
     },
     {
@@ -96,7 +96,7 @@ var LOOKUP = {
       "ma60": 97.6,
       "high52": 111.2,
       "low52": 75.3,
-      "volume": 82202100,
+      "volume": 76733905,
       "market": "上市"
     },
     {
@@ -112,7 +112,7 @@ var LOOKUP = {
       "ma60": 134.8,
       "high52": 151.5,
       "low52": 109.7,
-      "volume": 67075,
+      "volume": 52107,
       "market": "上市"
     },
     {
@@ -128,7 +128,7 @@ var LOOKUP = {
       "ma60": 57.2,
       "high52": 65.2,
       "low52": 43.5,
-      "volume": 29801520,
+      "volume": 29162914,
       "market": "上市"
     },
     {
@@ -144,7 +144,7 @@ var LOOKUP = {
       "ma60": 224.0,
       "high52": 252.1,
       "low52": 168.4,
-      "volume": 23319,
+      "volume": 8200,
       "market": "上市"
     },
     {
@@ -160,7 +160,7 @@ var LOOKUP = {
       "ma60": 36.5,
       "high52": 43.5,
       "low52": 32.8,
-      "volume": 432143,
+      "volume": 417088,
       "market": "上市"
     },
     {
@@ -176,7 +176,7 @@ var LOOKUP = {
       "ma60": 46.8,
       "high52": 54.0,
       "low52": 37.2,
-      "volume": 33906507,
+      "volume": 32981684,
       "market": "上市"
     },
     {
@@ -192,7 +192,7 @@ var LOOKUP = {
       "ma60": 289.9,
       "high52": 325.8,
       "low52": 223.4,
-      "volume": 8742,
+      "volume": 7000,
       "market": "上市"
     },
     {
@@ -208,7 +208,7 @@ var LOOKUP = {
       "ma60": 24.8,
       "high52": 25.8,
       "low52": 22.8,
-      "volume": 252688,
+      "volume": 248105,
       "market": "上市"
     },
     {
@@ -224,7 +224,7 @@ var LOOKUP = {
       "ma60": 45.9,
       "high52": 50.8,
       "low52": 33.9,
-      "volume": 216264,
+      "volume": 204000,
       "market": "上櫃"
     },
     {
@@ -240,7 +240,7 @@ var LOOKUP = {
       "ma60": 177.8,
       "high52": 201.8,
       "low52": 137.1,
-      "volume": 5542,
+      "volume": 4000,
       "market": "上市"
     },
     {
@@ -256,7 +256,7 @@ var LOOKUP = {
       "ma60": 211.4,
       "high52": 239.3,
       "low52": 168.2,
-      "volume": 10512,
+      "volume": 9000,
       "market": "上市"
     },
     {
@@ -272,7 +272,7 @@ var LOOKUP = {
       "ma60": 40.9,
       "high52": 42.3,
       "low52": 38.8,
-      "volume": 890189,
+      "volume": 886020,
       "market": "上市"
     },
     {
@@ -288,7 +288,7 @@ var LOOKUP = {
       "ma60": 37.0,
       "high52": 38.3,
       "low52": 35.6,
-      "volume": 65611,
+      "volume": 63500,
       "market": "上市"
     },
     {
@@ -304,7 +304,7 @@ var LOOKUP = {
       "ma60": 33.3,
       "high52": 34.7,
       "low52": 30.4,
-      "volume": 282692,
+      "volume": 279000,
       "market": "上市"
     },
     {
@@ -320,7 +320,7 @@ var LOOKUP = {
       "ma60": 226.1,
       "high52": 257.5,
       "low52": 174.8,
-      "volume": 3061934,
+      "volume": 2542826,
       "market": "上市"
     },
     {
@@ -328,15 +328,15 @@ var LOOKUP = {
       "name": "富邦上証+R",
       "industry": "ETF",
       "close": 9.0,
-      "change_amount": -33.2,
-      "change_pct": -78.67,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
       "ma5": 15.6,
       "ma10": 12.3,
       "ma20": 10.5,
       "ma60": 9.4,
       "high52": 42.2,
       "low52": 8.4,
-      "volume": 9000,
+      "volume": 0,
       "market": "上市"
     },
     {
@@ -352,7 +352,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 41.3,
       "low52": 20.6,
-      "volume": 264184450,
+      "volume": 262505215,
       "market": "上市"
     },
     {
@@ -368,7 +368,7 @@ var LOOKUP = {
       "ma60": 11.1,
       "high52": 14.2,
       "low52": 9.6,
-      "volume": 142943474,
+      "volume": 143056760,
       "market": "上市"
     },
     {
@@ -384,7 +384,7 @@ var LOOKUP = {
       "ma60": 51.8,
       "high52": 55.6,
       "low52": 44.7,
-      "volume": 3644038,
+      "volume": 3635000,
       "market": "上市"
     },
     {
@@ -400,7 +400,7 @@ var LOOKUP = {
       "ma60": 3.1,
       "high52": 3.4,
       "low52": 3.0,
-      "volume": 598898,
+      "volume": 596000,
       "market": "上市"
     },
     {
@@ -416,7 +416,7 @@ var LOOKUP = {
       "ma60": 46.9,
       "high52": 50.8,
       "low52": 41.6,
-      "volume": 7459911,
+      "volume": 7396045,
       "market": "上市"
     },
     {
@@ -432,7 +432,7 @@ var LOOKUP = {
       "ma60": 28.5,
       "high52": 29.5,
       "low52": 26.5,
-      "volume": 314767,
+      "volume": 311000,
       "market": "上市"
     },
     {
@@ -464,7 +464,7 @@ var LOOKUP = {
       "ma60": 21.4,
       "high52": 23.0,
       "low52": 18.5,
-      "volume": 27355895,
+      "volume": 27338150,
       "market": "上市"
     },
     {
@@ -480,7 +480,7 @@ var LOOKUP = {
       "ma60": 6.6,
       "high52": 7.2,
       "low52": 6.3,
-      "volume": 219500,
+      "volume": 219000,
       "market": "上市"
     },
     {
@@ -496,7 +496,7 @@ var LOOKUP = {
       "ma60": 17.8,
       "high52": 18.9,
       "low52": 15.2,
-      "volume": 451071,
+      "volume": 444000,
       "market": "上市"
     },
     {
@@ -512,7 +512,7 @@ var LOOKUP = {
       "ma60": 98.3,
       "high52": 109.3,
       "low52": 87.9,
-      "volume": 106894,
+      "volume": 103009,
       "market": "上市"
     },
     {
@@ -528,7 +528,7 @@ var LOOKUP = {
       "ma60": 3.9,
       "high52": 4.2,
       "low52": 3.7,
-      "volume": 1187020,
+      "volume": 1186000,
       "market": "上市"
     },
     {
@@ -544,7 +544,7 @@ var LOOKUP = {
       "ma60": 28.0,
       "high52": 33.2,
       "low52": 22.2,
-      "volume": 1753363,
+      "volume": 1744999,
       "market": "上市"
     },
     {
@@ -560,7 +560,7 @@ var LOOKUP = {
       "ma60": 19.9,
       "high52": 20.9,
       "low52": 17.3,
-      "volume": 2852096,
+      "volume": 2849000,
       "market": "上市"
     },
     {
@@ -592,7 +592,7 @@ var LOOKUP = {
       "ma60": 54.6,
       "high52": 57.8,
       "low52": 51.4,
-      "volume": 95912,
+      "volume": 90036,
       "market": "上市"
     },
     {
@@ -608,7 +608,7 @@ var LOOKUP = {
       "ma60": 72.8,
       "high52": 75.2,
       "low52": 66.2,
-      "volume": 2498362,
+      "volume": 2419307,
       "market": "上市"
     },
     {
@@ -624,7 +624,7 @@ var LOOKUP = {
       "ma60": 129.0,
       "high52": 137.9,
       "low52": 106.1,
-      "volume": 30468,
+      "volume": 28000,
       "market": "上市"
     },
     {
@@ -656,7 +656,7 @@ var LOOKUP = {
       "ma60": 16.7,
       "high52": 18.3,
       "low52": 13.7,
-      "volume": 5578072,
+      "volume": 5572200,
       "market": "上市"
     },
     {
@@ -672,7 +672,7 @@ var LOOKUP = {
       "ma60": 5.3,
       "high52": 5.9,
       "low52": 5.1,
-      "volume": 318459,
+      "volume": 316000,
       "market": "上市"
     },
     {
@@ -688,7 +688,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 34.2,
       "low52": 31.4,
-      "volume": 870238,
+      "volume": 862100,
       "market": "上市"
     },
     {
@@ -704,7 +704,7 @@ var LOOKUP = {
       "ma60": 46.0,
       "high52": 48.8,
       "low52": 43.1,
-      "volume": 309786,
+      "volume": 307000,
       "market": "上市"
     },
     {
@@ -736,7 +736,7 @@ var LOOKUP = {
       "ma60": 36.1,
       "high52": 38.9,
       "low52": 31.1,
-      "volume": 1529870,
+      "volume": 1526061,
       "market": "上市"
     },
     {
@@ -752,7 +752,7 @@ var LOOKUP = {
       "ma60": 5.8,
       "high52": 6.4,
       "low52": 5.6,
-      "volume": 85400,
+      "volume": 84000,
       "market": "上市"
     },
     {
@@ -768,7 +768,7 @@ var LOOKUP = {
       "ma60": 74.9,
       "high52": 84.4,
       "low52": 63.1,
-      "volume": 153984,
+      "volume": 155045,
       "market": "上市"
     },
     {
@@ -800,7 +800,7 @@ var LOOKUP = {
       "ma60": 43.9,
       "high52": 46.8,
       "low52": 41.5,
-      "volume": 11048,
+      "volume": 8085,
       "market": "上市"
     },
     {
@@ -816,7 +816,7 @@ var LOOKUP = {
       "ma60": 82.4,
       "high52": 93.6,
       "low52": 69.2,
-      "volume": 68574,
+      "volume": 62000,
       "market": "上市"
     },
     {
@@ -832,7 +832,7 @@ var LOOKUP = {
       "ma60": 116.4,
       "high52": 123.9,
       "low52": 98.8,
-      "volume": 2269053,
+      "volume": 2065256,
       "market": "上市"
     },
     {
@@ -848,7 +848,7 @@ var LOOKUP = {
       "ma60": 94.9,
       "high52": 120.2,
       "low52": 59.3,
-      "volume": 12838538,
+      "volume": 12771429,
       "market": "上市"
     },
     {
@@ -864,7 +864,7 @@ var LOOKUP = {
       "ma60": 1.8,
       "high52": 2.3,
       "low52": 1.6,
-      "volume": 17541294,
+      "volume": 17549000,
       "market": "上市"
     },
     {
@@ -880,7 +880,7 @@ var LOOKUP = {
       "ma60": 9.4,
       "high52": 10.4,
       "low52": 7.4,
-      "volume": 21133259,
+      "volume": 21209070,
       "market": "上市"
     },
     {
@@ -896,7 +896,7 @@ var LOOKUP = {
       "ma60": 9.2,
       "high52": 10.4,
       "low52": 8.7,
-      "volume": 53747,
+      "volume": 53000,
       "market": "上市"
     },
     {
@@ -912,7 +912,7 @@ var LOOKUP = {
       "ma60": 57.9,
       "high52": 62.0,
       "low52": 54.2,
-      "volume": 951559,
+      "volume": 949476,
       "market": "上市"
     },
     {
@@ -944,7 +944,7 @@ var LOOKUP = {
       "ma60": 5.5,
       "high52": 5.9,
       "low52": 5.2,
-      "volume": 1305259,
+      "volume": 1302000,
       "market": "上市"
     },
     {
@@ -960,7 +960,7 @@ var LOOKUP = {
       "ma60": 197.3,
       "high52": 224.8,
       "low52": 141.2,
-      "volume": 668056,
+      "volume": 607530,
       "market": "上市"
     },
     {
@@ -976,7 +976,7 @@ var LOOKUP = {
       "ma60": 2.5,
       "high52": 3.0,
       "low52": 2.4,
-      "volume": 4467086,
+      "volume": 4466000,
       "market": "上市"
     },
     {
@@ -992,7 +992,7 @@ var LOOKUP = {
       "ma60": 13.3,
       "high52": 16.3,
       "low52": 11.2,
-      "volume": 13741868,
+      "volume": 13741050,
       "market": "上市"
     },
     {
@@ -1008,7 +1008,7 @@ var LOOKUP = {
       "ma60": 25.2,
       "high52": 30.9,
       "low52": 5.1,
-      "volume": 667922,
+      "volume": 665550,
       "market": "上市"
     },
     {
@@ -1024,7 +1024,7 @@ var LOOKUP = {
       "ma60": 287.3,
       "high52": 364.0,
       "low52": 180.0,
-      "volume": 2410548,
+      "volume": 2359061,
       "market": "上市"
     },
     {
@@ -1040,7 +1040,7 @@ var LOOKUP = {
       "ma60": 6.1,
       "high52": 7.8,
       "low52": 5.3,
-      "volume": 7944242,
+      "volume": 7936000,
       "market": "上市"
     },
     {
@@ -1056,7 +1056,7 @@ var LOOKUP = {
       "ma60": 36.4,
       "high52": 41.7,
       "low52": 34.4,
-      "volume": 528840,
+      "volume": 523215,
       "market": "上市"
     },
     {
@@ -1072,7 +1072,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 27.5,
       "low52": 25.8,
-      "volume": 16145413,
+      "volume": 16094000,
       "market": "上櫃"
     },
     {
@@ -1088,7 +1088,7 @@ var LOOKUP = {
       "ma60": 6.9,
       "high52": 7.2,
       "low52": 6.5,
-      "volume": 12721684,
+      "volume": 12726000,
       "market": "上市"
     },
     {
@@ -1112,15 +1112,15 @@ var LOOKUP = {
       "name": "期元大美元指數",
       "industry": "ETF",
       "close": 20.6,
-      "change_amount": -0.4,
-      "change_pct": -1.72,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
       "ma5": 20.8,
       "ma10": 20.8,
       "ma20": 20.6,
       "ma60": 20.3,
       "high52": 21.0,
       "low52": 20.0,
-      "volume": 1000,
+      "volume": 0,
       "market": "上市"
     },
     {
@@ -1136,7 +1136,7 @@ var LOOKUP = {
       "ma60": 21.3,
       "high52": 22.3,
       "low52": 20.6,
-      "volume": 51675,
+      "volume": 52000,
       "market": "上市"
     },
     {
@@ -1168,7 +1168,7 @@ var LOOKUP = {
       "ma60": 1.1,
       "high52": 1.4,
       "low52": 0.9,
-      "volume": 8306902,
+      "volume": 8306000,
       "market": "上市"
     },
     {
@@ -1184,7 +1184,7 @@ var LOOKUP = {
       "ma60": 27.7,
       "high52": 28.5,
       "low52": 26.9,
-      "volume": 12421206,
+      "volume": 12391000,
       "market": "上櫃"
     },
     {
@@ -1216,7 +1216,7 @@ var LOOKUP = {
       "ma60": 6.9,
       "high52": 7.2,
       "low52": 6.5,
-      "volume": 2459566,
+      "volume": 2459000,
       "market": "上市"
     },
     {
@@ -1248,7 +1248,7 @@ var LOOKUP = {
       "ma60": 72.8,
       "high52": 84.9,
       "low52": 51.0,
-      "volume": 216877,
+      "volume": 208405,
       "market": "上市"
     },
     {
@@ -1264,7 +1264,7 @@ var LOOKUP = {
       "ma60": 84.9,
       "high52": 95.8,
       "low52": 66.6,
-      "volume": 604909,
+      "volume": 569958,
       "market": "上市"
     },
     {
@@ -1280,7 +1280,7 @@ var LOOKUP = {
       "ma60": 21.7,
       "high52": 22.8,
       "low52": 20.5,
-      "volume": 241275,
+      "volume": 239000,
       "market": "上市"
     },
     {
@@ -1296,7 +1296,7 @@ var LOOKUP = {
       "ma60": 41.6,
       "high52": 42.2,
       "low52": 41.3,
-      "volume": 123609,
+      "volume": 122000,
       "market": "上櫃"
     },
     {
@@ -1312,7 +1312,7 @@ var LOOKUP = {
       "ma60": 35.2,
       "high52": 35.7,
       "low52": 34.8,
-      "volume": 174037,
+      "volume": 172000,
       "market": "上櫃"
     },
     {
@@ -1328,7 +1328,7 @@ var LOOKUP = {
       "ma60": 29.0,
       "high52": 29.9,
       "low52": 28.1,
-      "volume": 1753696,
+      "volume": 1749000,
       "market": "上櫃"
     },
     {
@@ -1344,7 +1344,7 @@ var LOOKUP = {
       "ma60": 35.4,
       "high52": 36.0,
       "low52": 35.0,
-      "volume": 148884,
+      "volume": 143000,
       "market": "上櫃"
     },
     {
@@ -1360,7 +1360,7 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 18.0,
       "low52": 15.1,
-      "volume": 303246,
+      "volume": 298611,
       "market": "上市"
     },
     {
@@ -1376,7 +1376,7 @@ var LOOKUP = {
       "ma60": 33.7,
       "high52": 40.4,
       "low52": 29.1,
-      "volume": 402201,
+      "volume": 388105,
       "market": "上市"
     },
     {
@@ -1392,7 +1392,7 @@ var LOOKUP = {
       "ma60": 24.0,
       "high52": 25.1,
       "low52": 23.5,
-      "volume": 127706,
+      "volume": 122000,
       "market": "上市"
     },
     {
@@ -1408,7 +1408,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 21.0,
       "low52": 17.5,
-      "volume": 70290,
+      "volume": 69000,
       "market": "上市"
     },
     {
@@ -1424,7 +1424,7 @@ var LOOKUP = {
       "ma60": 19.2,
       "high52": 20.0,
       "low52": 18.4,
-      "volume": 2510307,
+      "volume": 2503874,
       "market": "上市"
     },
     {
@@ -1432,12 +1432,12 @@ var LOOKUP = {
       "name": "期元大S&P日圓反1",
       "industry": "ETF",
       "close": 32.7,
-      "change_amount": -0.3,
-      "change_pct": -0.91,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
       "ma5": 32.8,
       "ma10": 32.6,
       "ma20": 32.4,
-      "ma60": 32.0,
+      "ma60": 32.1,
       "high52": 33.0,
       "low52": 31.4,
       "volume": 0,
@@ -1456,7 +1456,7 @@ var LOOKUP = {
       "ma60": 88.6,
       "high52": 104.1,
       "low52": 68.4,
-      "volume": 6998676,
+      "volume": 6931714,
       "market": "上市"
     },
     {
@@ -1472,7 +1472,7 @@ var LOOKUP = {
       "ma60": 38.5,
       "high52": 40.3,
       "low52": 36.9,
-      "volume": 56272,
+      "volume": 51000,
       "market": "上市"
     },
     {
@@ -1488,7 +1488,7 @@ var LOOKUP = {
       "ma60": 18.6,
       "high52": 19.0,
       "low52": 18.5,
-      "volume": 183582,
+      "volume": 179032,
       "market": "上市"
     },
     {
@@ -1504,7 +1504,7 @@ var LOOKUP = {
       "ma60": 15.9,
       "high52": 16.3,
       "low52": 15.5,
-      "volume": 109826,
+      "volume": 106000,
       "market": "上市"
     },
     {
@@ -1520,7 +1520,7 @@ var LOOKUP = {
       "ma60": 8.7,
       "high52": 9.0,
       "low52": 8.4,
-      "volume": 24737605,
+      "volume": 24681927,
       "market": "上市"
     },
     {
@@ -1536,7 +1536,7 @@ var LOOKUP = {
       "ma60": 55.8,
       "high52": 60.8,
       "low52": 51.0,
-      "volume": 7101608,
+      "volume": 6960868,
       "market": "上市"
     },
     {
@@ -1552,7 +1552,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 22.3,
       "low52": 20.4,
-      "volume": 71558,
+      "volume": 69100,
       "market": "上市"
     },
     {
@@ -1568,7 +1568,7 @@ var LOOKUP = {
       "ma60": 52.6,
       "high52": 74.2,
       "low52": 31.4,
-      "volume": 4596646,
+      "volume": 4577014,
       "market": "上市"
     },
     {
@@ -1584,7 +1584,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 15.2,
       "low52": 14.8,
-      "volume": 167541,
+      "volume": 165000,
       "market": "上市"
     },
     {
@@ -1600,7 +1600,7 @@ var LOOKUP = {
       "ma60": 30.9,
       "high52": 31.3,
       "low52": 30.7,
-      "volume": 2811408,
+      "volume": 2795000,
       "market": "上櫃"
     },
     {
@@ -1616,7 +1616,7 @@ var LOOKUP = {
       "ma60": 33.1,
       "high52": 34.0,
       "low52": 32.3,
-      "volume": 3611265,
+      "volume": 3592000,
       "market": "上櫃"
     },
     {
@@ -1632,7 +1632,7 @@ var LOOKUP = {
       "ma60": 36.0,
       "high52": 36.8,
       "low52": 35.2,
-      "volume": 2682122,
+      "volume": 2679000,
       "market": "上櫃"
     },
     {
@@ -1664,7 +1664,7 @@ var LOOKUP = {
       "ma60": 33.8,
       "high52": 34.6,
       "low52": 33.1,
-      "volume": 3482445,
+      "volume": 3478000,
       "market": "上櫃"
     },
     {
@@ -1680,7 +1680,7 @@ var LOOKUP = {
       "ma60": 35.1,
       "high52": 36.0,
       "low52": 34.4,
-      "volume": 3826749,
+      "volume": 3814000,
       "market": "上櫃"
     },
     {
@@ -1696,7 +1696,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 33.4,
       "low52": 32.3,
-      "volume": 254803,
+      "volume": 251000,
       "market": "上櫃"
     },
     {
@@ -1712,7 +1712,7 @@ var LOOKUP = {
       "ma60": 39.4,
       "high52": 40.1,
       "low52": 39.0,
-      "volume": 120594,
+      "volume": 120000,
       "market": "上櫃"
     },
     {
@@ -1728,7 +1728,7 @@ var LOOKUP = {
       "ma60": 58.2,
       "high52": 67.2,
       "low52": 43.3,
-      "volume": 130777,
+      "volume": 122850,
       "market": "上市"
     },
     {
@@ -1744,7 +1744,7 @@ var LOOKUP = {
       "ma60": 27.0,
       "high52": 29.6,
       "low52": 22.1,
-      "volume": 243747,
+      "volume": 235050,
       "market": "上市"
     },
     {
@@ -1760,7 +1760,7 @@ var LOOKUP = {
       "ma60": 78.8,
       "high52": 91.6,
       "low52": 70.3,
-      "volume": 597641,
+      "volume": 592000,
       "market": "上市"
     },
     {
@@ -1776,7 +1776,7 @@ var LOOKUP = {
       "ma60": 69.6,
       "high52": 80.3,
       "low52": 55.8,
-      "volume": 926457,
+      "volume": 904431,
       "market": "上市"
     },
     {
@@ -1792,7 +1792,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 16.1,
       "low52": 15.5,
-      "volume": 1157,
+      "volume": 1000,
       "market": "上櫃"
     },
     {
@@ -1808,7 +1808,7 @@ var LOOKUP = {
       "ma60": 99.9,
       "high52": 122.7,
       "low52": 66.6,
-      "volume": 2880375,
+      "volume": 2720252,
       "market": "上市"
     },
     {
@@ -1824,7 +1824,7 @@ var LOOKUP = {
       "ma60": 30.4,
       "high52": 31.6,
       "low52": 27.8,
-      "volume": 135572,
+      "volume": 134000,
       "market": "上市"
     },
     {
@@ -1840,7 +1840,7 @@ var LOOKUP = {
       "ma60": 37.1,
       "high52": 41.3,
       "low52": 32.5,
-      "volume": 174215,
+      "volume": 166080,
       "market": "上市"
     },
     {
@@ -1856,7 +1856,7 @@ var LOOKUP = {
       "ma60": 58.8,
       "high52": 70.3,
       "low52": 45.5,
-      "volume": 4576479,
+      "volume": 4523861,
       "market": "上市"
     },
     {
@@ -1872,7 +1872,7 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 30.0,
       "low52": 26.3,
-      "volume": 20904,
+      "volume": 19087,
       "market": "上市"
     },
     {
@@ -1888,7 +1888,7 @@ var LOOKUP = {
       "ma60": 38.5,
       "high52": 39.4,
       "low52": 37.7,
-      "volume": 2734661,
+      "volume": 2731000,
       "market": "上櫃"
     },
     {
@@ -1904,7 +1904,7 @@ var LOOKUP = {
       "ma60": 37.0,
       "high52": 37.5,
       "low52": 36.8,
-      "volume": 93823,
+      "volume": 93000,
       "market": "上櫃"
     },
     {
@@ -1913,14 +1913,14 @@ var LOOKUP = {
       "industry": "ETF",
       "close": 36.1,
       "change_amount": 0.1,
-      "change_pct": 0.36,
+      "change_pct": 0.42,
       "ma5": 36.2,
       "ma10": 36.1,
       "ma20": 35.8,
       "ma60": 35.6,
       "high52": 36.4,
       "low52": 34.8,
-      "volume": 1194844,
+      "volume": 1194000,
       "market": "上櫃"
     },
     {
@@ -1936,7 +1936,7 @@ var LOOKUP = {
       "ma60": 31.7,
       "high52": 32.4,
       "low52": 30.9,
-      "volume": 101044,
+      "volume": 101000,
       "market": "上櫃"
     },
     {
@@ -1968,7 +1968,7 @@ var LOOKUP = {
       "ma60": 31.4,
       "high52": 32.2,
       "low52": 30.6,
-      "volume": 3828601,
+      "volume": 3811000,
       "market": "上櫃"
     },
     {
@@ -1984,7 +1984,7 @@ var LOOKUP = {
       "ma60": 23.2,
       "high52": 25.1,
       "low52": 20.3,
-      "volume": 1652221,
+      "volume": 1636163,
       "market": "上市"
     },
     {
@@ -2000,7 +2000,7 @@ var LOOKUP = {
       "ma60": 10.0,
       "high52": 11.2,
       "low52": 8.0,
-      "volume": 13712485,
+      "volume": 13719100,
       "market": "上市"
     },
     {
@@ -2032,7 +2032,7 @@ var LOOKUP = {
       "ma60": 32.7,
       "high52": 33.6,
       "low52": 31.9,
-      "volume": 102985,
+      "volume": 102000,
       "market": "上櫃"
     },
     {
@@ -2048,7 +2048,7 @@ var LOOKUP = {
       "ma60": 31.4,
       "high52": 32.2,
       "low52": 30.4,
-      "volume": 117789,
+      "volume": 117000,
       "market": "上櫃"
     },
     {
@@ -2064,7 +2064,7 @@ var LOOKUP = {
       "ma60": 125.4,
       "high52": 138.1,
       "low52": 106.9,
-      "volume": 1582128,
+      "volume": 1480628,
       "market": "上市"
     },
     {
@@ -2096,7 +2096,7 @@ var LOOKUP = {
       "ma60": 54.4,
       "high52": 56.2,
       "low52": 53.1,
-      "volume": 100018,
+      "volume": 100000,
       "market": "上櫃"
     },
     {
@@ -2112,7 +2112,7 @@ var LOOKUP = {
       "ma60": 53.6,
       "high52": 54.8,
       "low52": 52.5,
-      "volume": 106438,
+      "volume": 105000,
       "market": "上櫃"
     },
     {
@@ -2128,7 +2128,7 @@ var LOOKUP = {
       "ma60": 34.4,
       "high52": 35.2,
       "low52": 33.6,
-      "volume": 902455,
+      "volume": 900000,
       "market": "上櫃"
     },
     {
@@ -2144,7 +2144,7 @@ var LOOKUP = {
       "ma60": 108.5,
       "high52": 123.2,
       "low52": 81.8,
-      "volume": 343941,
+      "volume": 313986,
       "market": "上市"
     },
     {
@@ -2160,7 +2160,7 @@ var LOOKUP = {
       "ma60": 33.4,
       "high52": 35.7,
       "low52": 30.5,
-      "volume": 877430,
+      "volume": 871500,
       "market": "上市"
     },
     {
@@ -2176,7 +2176,7 @@ var LOOKUP = {
       "ma60": 27.6,
       "high52": 28.5,
       "low52": 26.8,
-      "volume": 4662714,
+      "volume": 4659000,
       "market": "上櫃"
     },
     {
@@ -2192,7 +2192,7 @@ var LOOKUP = {
       "ma60": 50.0,
       "high52": 51.5,
       "low52": 48.4,
-      "volume": 480268,
+      "volume": 478000,
       "market": "上櫃"
     },
     {
@@ -2208,7 +2208,7 @@ var LOOKUP = {
       "ma60": 63.6,
       "high52": 71.4,
       "low52": 50.8,
-      "volume": 131377,
+      "volume": 113732,
       "market": "上市"
     },
     {
@@ -2224,7 +2224,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 15.9,
       "low52": 15.6,
-      "volume": 15426,
+      "volume": 15000,
       "market": "上市"
     },
     {
@@ -2240,7 +2240,7 @@ var LOOKUP = {
       "ma60": 33.6,
       "high52": 34.4,
       "low52": 32.8,
-      "volume": 1834062,
+      "volume": 1818000,
       "market": "上櫃"
     },
     {
@@ -2256,7 +2256,7 @@ var LOOKUP = {
       "ma60": 35.7,
       "high52": 36.6,
       "low52": 35.0,
-      "volume": 648939,
+      "volume": 647000,
       "market": "上櫃"
     },
     {
@@ -2272,7 +2272,7 @@ var LOOKUP = {
       "ma60": 32.2,
       "high52": 33.0,
       "low52": 31.3,
-      "volume": 80052,
+      "volume": 80000,
       "market": "上市"
     },
     {
@@ -2288,7 +2288,7 @@ var LOOKUP = {
       "ma60": 32.5,
       "high52": 33.3,
       "low52": 31.7,
-      "volume": 101001,
+      "volume": 101000,
       "market": "上櫃"
     },
     {
@@ -2320,7 +2320,7 @@ var LOOKUP = {
       "ma60": 28.0,
       "high52": 28.8,
       "low52": 27.1,
-      "volume": 490995,
+      "volume": 490000,
       "market": "上櫃"
     },
     {
@@ -2336,7 +2336,7 @@ var LOOKUP = {
       "ma60": 37.1,
       "high52": 37.8,
       "low52": 36.6,
-      "volume": 214340,
+      "volume": 214000,
       "market": "上櫃"
     },
     {
@@ -2352,7 +2352,7 @@ var LOOKUP = {
       "ma60": 28.2,
       "high52": 28.8,
       "low52": 27.6,
-      "volume": 106502,
+      "volume": 106000,
       "market": "上櫃"
     },
     {
@@ -2368,7 +2368,7 @@ var LOOKUP = {
       "ma60": 30.5,
       "high52": 31.4,
       "low52": 29.8,
-      "volume": 207239,
+      "volume": 207000,
       "market": "上櫃"
     },
     {
@@ -2384,7 +2384,7 @@ var LOOKUP = {
       "ma60": 29.8,
       "high52": 32.2,
       "low52": 26.7,
-      "volume": 208413,
+      "volume": 207000,
       "market": "上市"
     },
     {
@@ -2416,7 +2416,7 @@ var LOOKUP = {
       "ma60": 32.6,
       "high52": 33.4,
       "low52": 31.9,
-      "volume": 45327,
+      "volume": 45000,
       "market": "上櫃"
     },
     {
@@ -2464,7 +2464,7 @@ var LOOKUP = {
       "ma60": 48.4,
       "high52": 49.6,
       "low52": 47.2,
-      "volume": 102019,
+      "volume": 101000,
       "market": "上櫃"
     },
     {
@@ -2480,7 +2480,7 @@ var LOOKUP = {
       "ma60": 56.6,
       "high52": 57.4,
       "low52": 56.0,
-      "volume": 106600,
+      "volume": 106000,
       "market": "上櫃"
     },
     {
@@ -2496,7 +2496,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 32.4,
       "low52": 30.7,
-      "volume": 102450,
+      "volume": 102000,
       "market": "上櫃"
     },
     {
@@ -2528,7 +2528,7 @@ var LOOKUP = {
       "ma60": 26.8,
       "high52": 27.6,
       "low52": 26.0,
-      "volume": 3033649,
+      "volume": 3023000,
       "market": "上櫃"
     },
     {
@@ -2544,7 +2544,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 30.4,
       "low52": 28.9,
-      "volume": 124597,
+      "volume": 124000,
       "market": "上櫃"
     },
     {
@@ -2560,7 +2560,7 @@ var LOOKUP = {
       "ma60": 83.2,
       "high52": 100.6,
       "low52": 55.6,
-      "volume": 21342118,
+      "volume": 19727596,
       "market": "上市"
     },
     {
@@ -2584,15 +2584,15 @@ var LOOKUP = {
       "name": "永豐10年A公司債",
       "industry": "ETF",
       "close": 29.0,
-      "change_amount": -0.0,
-      "change_pct": -0.1,
-      "ma5": 29.2,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 29.1,
       "ma10": 29.1,
       "ma20": 28.9,
       "ma60": 28.6,
       "high52": 29.4,
       "low52": 27.9,
-      "volume": 4000,
+      "volume": 0,
       "market": "上櫃"
     },
     {
@@ -2640,7 +2640,7 @@ var LOOKUP = {
       "ma60": 30.5,
       "high52": 31.3,
       "low52": 30.0,
-      "volume": 87030,
+      "volume": 87000,
       "market": "上櫃"
     },
     {
@@ -2688,7 +2688,7 @@ var LOOKUP = {
       "ma60": 35.8,
       "high52": 36.5,
       "low52": 35.4,
-      "volume": 101597,
+      "volume": 101000,
       "market": "上櫃"
     },
     {
@@ -2736,7 +2736,7 @@ var LOOKUP = {
       "ma60": 37.2,
       "high52": 37.7,
       "low52": 36.9,
-      "volume": 309367,
+      "volume": 309000,
       "market": "上櫃"
     },
     {
@@ -2752,7 +2752,7 @@ var LOOKUP = {
       "ma60": 82.6,
       "high52": 95.0,
       "low52": 61.9,
-      "volume": 533179,
+      "volume": 496719,
       "market": "上市"
     },
     {
@@ -2768,7 +2768,7 @@ var LOOKUP = {
       "ma60": 66.5,
       "high52": 74.6,
       "low52": 54.8,
-      "volume": 6671,
+      "volume": 5048,
       "market": "上市"
     },
     {
@@ -2784,7 +2784,7 @@ var LOOKUP = {
       "ma60": 32.2,
       "high52": 35.6,
       "low52": 28.1,
-      "volume": 137541,
+      "volume": 135000,
       "market": "上市"
     },
     {
@@ -2800,7 +2800,7 @@ var LOOKUP = {
       "ma60": 27.5,
       "high52": 28.2,
       "low52": 26.9,
-      "volume": 1076071,
+      "volume": 1075000,
       "market": "上櫃"
     },
     {
@@ -2816,7 +2816,7 @@ var LOOKUP = {
       "ma60": 37.3,
       "high52": 37.8,
       "low52": 37.0,
-      "volume": 78449,
+      "volume": 78000,
       "market": "上櫃"
     },
     {
@@ -2832,7 +2832,7 @@ var LOOKUP = {
       "ma60": 23.0,
       "high52": 23.7,
       "low52": 22.4,
-      "volume": 583413,
+      "volume": 581000,
       "market": "上櫃"
     },
     {
@@ -2848,7 +2848,7 @@ var LOOKUP = {
       "ma60": 35.1,
       "high52": 36.5,
       "low52": 31.8,
-      "volume": 665778,
+      "volume": 651000,
       "market": "上櫃"
     },
     {
@@ -2864,7 +2864,7 @@ var LOOKUP = {
       "ma60": 40.4,
       "high52": 41.0,
       "low52": 40.1,
-      "volume": 2900236,
+      "volume": 2898000,
       "market": "上櫃"
     },
     {
@@ -2880,7 +2880,7 @@ var LOOKUP = {
       "ma60": 37.8,
       "high52": 38.5,
       "low52": 37.5,
-      "volume": 110100,
+      "volume": 110000,
       "market": "上櫃"
     },
     {
@@ -2896,7 +2896,7 @@ var LOOKUP = {
       "ma60": 84.9,
       "high52": 97.5,
       "low52": 64.7,
-      "volume": 165506,
+      "volume": 84700,
       "market": "上市"
     },
     {
@@ -2912,7 +2912,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 32.3,
       "low52": 30.8,
-      "volume": 374030,
+      "volume": 374000,
       "market": "上櫃"
     },
     {
@@ -2944,7 +2944,7 @@ var LOOKUP = {
       "ma60": 45.8,
       "high52": 46.5,
       "low52": 45.5,
-      "volume": 809965,
+      "volume": 805000,
       "market": "上櫃"
     },
     {
@@ -2960,7 +2960,7 @@ var LOOKUP = {
       "ma60": 48.0,
       "high52": 48.7,
       "low52": 47.6,
-      "volume": 3930347,
+      "volume": 3922500,
       "market": "上市"
     },
     {
@@ -2976,7 +2976,7 @@ var LOOKUP = {
       "ma60": 31.1,
       "high52": 31.9,
       "low52": 30.4,
-      "volume": 5252,
+      "volume": 5000,
       "market": "上櫃"
     },
     {
@@ -3008,7 +3008,7 @@ var LOOKUP = {
       "ma60": 44.5,
       "high52": 51.7,
       "low52": 36.2,
-      "volume": 273497,
+      "volume": 270000,
       "market": "上市"
     },
     {
@@ -3024,7 +3024,7 @@ var LOOKUP = {
       "ma60": 86.8,
       "high52": 106.0,
       "low52": 62.5,
-      "volume": 336542,
+      "volume": 275156,
       "market": "上市"
     },
     {
@@ -3040,7 +3040,7 @@ var LOOKUP = {
       "ma60": 40.3,
       "high52": 50.0,
       "low52": 27.6,
-      "volume": 4519497,
+      "volume": 4472000,
       "market": "上櫃"
     },
     {
@@ -3056,7 +3056,7 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 34.1,
       "low52": 21.8,
-      "volume": 22219654,
+      "volume": 21657183,
       "market": "上市"
     },
     {
@@ -3072,7 +3072,7 @@ var LOOKUP = {
       "ma60": 50.4,
       "high52": 57.3,
       "low52": 36.8,
-      "volume": 9299770,
+      "volume": 9165014,
       "market": "上市"
     },
     {
@@ -3088,7 +3088,7 @@ var LOOKUP = {
       "ma60": 15.7,
       "high52": 16.3,
       "low52": 14.6,
-      "volume": 11639210,
+      "volume": 11620517,
       "market": "上市"
     },
     {
@@ -3104,7 +3104,7 @@ var LOOKUP = {
       "ma60": 29.7,
       "high52": 30.4,
       "low52": 29.0,
-      "volume": 311673,
+      "volume": 310000,
       "market": "上櫃"
     },
     {
@@ -3120,7 +3120,7 @@ var LOOKUP = {
       "ma60": 18.8,
       "high52": 19.6,
       "low52": 17.4,
-      "volume": 4301988,
+      "volume": 4277089,
       "market": "上市"
     },
     {
@@ -3128,15 +3128,15 @@ var LOOKUP = {
       "name": "永豐美國科技",
       "industry": "ETF",
       "close": 45.8,
-      "change_amount": -0.5,
-      "change_pct": -1.08,
-      "ma5": 45.2,
-      "ma10": 44.8,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 45.5,
+      "ma10": 45.0,
       "ma20": 44.4,
-      "ma60": 41.8,
+      "ma60": 41.9,
       "high52": 46.2,
       "low52": 34.3,
-      "volume": 3000,
+      "volume": 0,
       "market": "上櫃"
     },
     {
@@ -3152,7 +3152,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 21.0,
       "low52": 12.1,
-      "volume": 13218991,
+      "volume": 13154000,
       "market": "上櫃"
     },
     {
@@ -3168,7 +3168,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 38.7,
       "low52": 22.2,
-      "volume": 19017988,
+      "volume": 18779000,
       "market": "上櫃"
     },
     {
@@ -3200,7 +3200,7 @@ var LOOKUP = {
       "ma60": 33.1,
       "high52": 39.1,
       "low52": 23.1,
-      "volume": 11253446,
+      "volume": 11028991,
       "market": "上市"
     },
     {
@@ -3216,7 +3216,7 @@ var LOOKUP = {
       "ma60": 41.6,
       "high52": 47.5,
       "low52": 29.4,
-      "volume": 7846800,
+      "volume": 7758898,
       "market": "上市"
     },
     {
@@ -3232,7 +3232,7 @@ var LOOKUP = {
       "ma60": 43.6,
       "high52": 48.1,
       "low52": 33.4,
-      "volume": 605167,
+      "volume": 581986,
       "market": "上市"
     },
     {
@@ -3248,7 +3248,7 @@ var LOOKUP = {
       "ma60": 46.2,
       "high52": 51.6,
       "low52": 33.4,
-      "volume": 767039,
+      "volume": 739250,
       "market": "上市"
     },
     {
@@ -3264,7 +3264,7 @@ var LOOKUP = {
       "ma60": 48.9,
       "high52": 53.5,
       "low52": 39.3,
-      "volume": 1099893,
+      "volume": 1086210,
       "market": "上市"
     },
     {
@@ -3280,7 +3280,7 @@ var LOOKUP = {
       "ma60": 25.7,
       "high52": 28.8,
       "low52": 19.9,
-      "volume": 4686750,
+      "volume": 4652513,
       "market": "上市"
     },
     {
@@ -3296,7 +3296,7 @@ var LOOKUP = {
       "ma60": 10.0,
       "high52": 11.8,
       "low52": 9.4,
-      "volume": 1573470,
+      "volume": 1555829,
       "market": "上市"
     },
     {
@@ -3312,7 +3312,7 @@ var LOOKUP = {
       "ma60": 8.3,
       "high52": 9.7,
       "low52": 7.8,
-      "volume": 1613097,
+      "volume": 1607110,
       "market": "上市"
     },
     {
@@ -3328,7 +3328,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 30.1,
       "low52": 23.6,
-      "volume": 89812,
+      "volume": 85000,
       "market": "上市"
     },
     {
@@ -3344,7 +3344,7 @@ var LOOKUP = {
       "ma60": 17.4,
       "high52": 20.2,
       "low52": 13.6,
-      "volume": 5873199,
+      "volume": 5839276,
       "market": "上市"
     },
     {
@@ -3360,7 +3360,7 @@ var LOOKUP = {
       "ma60": 42.1,
       "high52": 49.1,
       "low52": 29.2,
-      "volume": 267766,
+      "volume": 262000,
       "market": "上市"
     },
     {
@@ -3376,7 +3376,7 @@ var LOOKUP = {
       "ma60": 16.0,
       "high52": 17.5,
       "low52": 14.0,
-      "volume": 1186282,
+      "volume": 1171597,
       "market": "上市"
     },
     {
@@ -3392,7 +3392,7 @@ var LOOKUP = {
       "ma60": 20.4,
       "high52": 23.4,
       "low52": 15.7,
-      "volume": 34035,
+      "volume": 32191,
       "market": "上市"
     },
     {
@@ -3408,7 +3408,7 @@ var LOOKUP = {
       "ma60": 38.7,
       "high52": 45.6,
       "low52": 27.6,
-      "volume": 1659500,
+      "volume": 1635907,
       "market": "上市"
     },
     {
@@ -3424,7 +3424,7 @@ var LOOKUP = {
       "ma60": 25.3,
       "high52": 29.4,
       "low52": 19.1,
-      "volume": 3209529,
+      "volume": 3138250,
       "market": "上市"
     },
     {
@@ -3440,7 +3440,7 @@ var LOOKUP = {
       "ma60": 15.2,
       "high52": 16.5,
       "low52": 14.2,
-      "volume": 1329772,
+      "volume": 1318018,
       "market": "上市"
     },
     {
@@ -3456,7 +3456,7 @@ var LOOKUP = {
       "ma60": 14.4,
       "high52": 15.3,
       "low52": 13.4,
-      "volume": 606106,
+      "volume": 594000,
       "market": "上市"
     },
     {
@@ -3472,7 +3472,7 @@ var LOOKUP = {
       "ma60": 46.7,
       "high52": 52.2,
       "low52": 35.2,
-      "volume": 2175506,
+      "volume": 2075080,
       "market": "上市"
     },
     {
@@ -3488,7 +3488,7 @@ var LOOKUP = {
       "ma60": 70.8,
       "high52": 87.9,
       "low52": 57.3,
-      "volume": 1078630,
+      "volume": 1004131,
       "market": "上市"
     },
     {
@@ -3504,7 +3504,7 @@ var LOOKUP = {
       "ma60": 56.0,
       "high52": 68.2,
       "low52": 36.9,
-      "volume": 1174018,
+      "volume": 1027185,
       "market": "上市"
     },
     {
@@ -3520,7 +3520,7 @@ var LOOKUP = {
       "ma60": 31.0,
       "high52": 35.8,
       "low52": 23.8,
-      "volume": 911084,
+      "volume": 894048,
       "market": "上市"
     },
     {
@@ -3536,7 +3536,7 @@ var LOOKUP = {
       "ma60": 45.4,
       "high52": 56.5,
       "low52": 29.5,
-      "volume": 1157038,
+      "volume": 1130050,
       "market": "上市"
     },
     {
@@ -3552,7 +3552,7 @@ var LOOKUP = {
       "ma60": 27.8,
       "high52": 33.3,
       "low52": 23.0,
-      "volume": 2651432,
+      "volume": 2634026,
       "market": "上市"
     },
     {
@@ -3568,7 +3568,7 @@ var LOOKUP = {
       "ma60": 25.7,
       "high52": 29.1,
       "low52": 23.4,
-      "volume": 3453241,
+      "volume": 3428680,
       "market": "上市"
     },
     {
@@ -3584,7 +3584,7 @@ var LOOKUP = {
       "ma60": 21.8,
       "high52": 22.8,
       "low52": 20.8,
-      "volume": 746368,
+      "volume": 726017,
       "market": "上市"
     },
     {
@@ -3600,7 +3600,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 32.5,
       "low52": 21.2,
-      "volume": 30768399,
+      "volume": 30697388,
       "market": "上市"
     },
     {
@@ -3616,7 +3616,7 @@ var LOOKUP = {
       "ma60": 26.4,
       "high52": 30.8,
       "low52": 21.9,
-      "volume": 53842452,
+      "volume": 53272073,
       "market": "上市"
     },
     {
@@ -3632,7 +3632,7 @@ var LOOKUP = {
       "ma60": 25.9,
       "high52": 27.7,
       "low52": 21.7,
-      "volume": 123767,
+      "volume": 111243,
       "market": "上市"
     },
     {
@@ -3648,7 +3648,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 23.9,
       "low52": 18.1,
-      "volume": 133594,
+      "volume": 128207,
       "market": "上市"
     },
     {
@@ -3664,7 +3664,7 @@ var LOOKUP = {
       "ma60": 37.0,
       "high52": 42.6,
       "low52": 27.8,
-      "volume": 13368135,
+      "volume": 13209715,
       "market": "上市"
     },
     {
@@ -3680,7 +3680,7 @@ var LOOKUP = {
       "ma60": 38.8,
       "high52": 44.6,
       "low52": 28.6,
-      "volume": 3149845,
+      "volume": 3092108,
       "market": "上市"
     },
     {
@@ -3696,7 +3696,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 33.1,
       "low52": 27.5,
-      "volume": 1568796,
+      "volume": 1508700,
       "market": "上市"
     },
     {
@@ -3712,7 +3712,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 25.5,
       "low52": 22.8,
-      "volume": 1804308,
+      "volume": 1799000,
       "market": "上市"
     },
     {
@@ -3728,7 +3728,7 @@ var LOOKUP = {
       "ma60": 35.5,
       "high52": 43.5,
       "low52": 23.3,
-      "volume": 70982776,
+      "volume": 70092088,
       "market": "上市"
     },
     {
@@ -3744,7 +3744,7 @@ var LOOKUP = {
       "ma60": 35.4,
       "high52": 40.7,
       "low52": 24.9,
-      "volume": 1711181,
+      "volume": 1671000,
       "market": "上櫃"
     },
     {
@@ -3760,7 +3760,7 @@ var LOOKUP = {
       "ma60": 26.4,
       "high52": 32.2,
       "low52": 18.6,
-      "volume": 21641310,
+      "volume": 21521846,
       "market": "上市"
     },
     {
@@ -3776,7 +3776,7 @@ var LOOKUP = {
       "ma60": 22.1,
       "high52": 26.2,
       "low52": 16.8,
-      "volume": 459224,
+      "volume": 452205,
       "market": "上市"
     },
     {
@@ -3792,7 +3792,7 @@ var LOOKUP = {
       "ma60": 13.5,
       "high52": 13.9,
       "low52": 13.1,
-      "volume": 2435207,
+      "volume": 2426000,
       "market": "上櫃"
     },
     {
@@ -3808,7 +3808,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 18.0,
       "low52": 14.3,
-      "volume": 1359228,
+      "volume": 1346400,
       "market": "上市"
     },
     {
@@ -3824,7 +3824,7 @@ var LOOKUP = {
       "ma60": 15.9,
       "high52": 16.3,
       "low52": 15.6,
-      "volume": 4840547,
+      "volume": 4811000,
       "market": "上櫃"
     },
     {
@@ -3840,7 +3840,7 @@ var LOOKUP = {
       "ma60": 25.7,
       "high52": 29.1,
       "low52": 20.3,
-      "volume": 2708565,
+      "volume": 2687509,
       "market": "上市"
     },
     {
@@ -3856,7 +3856,7 @@ var LOOKUP = {
       "ma60": 55.1,
       "high52": 64.2,
       "low52": 37.5,
-      "volume": 12339982,
+      "volume": 12043767,
       "market": "上市"
     },
     {
@@ -3872,7 +3872,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 21.9,
       "low52": 17.2,
-      "volume": 1253024,
+      "volume": 1241008,
       "market": "上市"
     },
     {
@@ -3888,7 +3888,7 @@ var LOOKUP = {
       "ma60": 14.8,
       "high52": 15.2,
       "low52": 14.5,
-      "volume": 39647988,
+      "volume": 39589000,
       "market": "上櫃"
     },
     {
@@ -3904,7 +3904,7 @@ var LOOKUP = {
       "ma60": 21.8,
       "high52": 25.1,
       "low52": 18.5,
-      "volume": 1549633,
+      "volume": 1546865,
       "market": "上市"
     },
     {
@@ -3920,7 +3920,7 @@ var LOOKUP = {
       "ma60": 18.9,
       "high52": 21.8,
       "low52": 15.2,
-      "volume": 3657470,
+      "volume": 3645490,
       "market": "上市"
     },
     {
@@ -3936,7 +3936,7 @@ var LOOKUP = {
       "ma60": 11.4,
       "high52": 12.8,
       "low52": 9.5,
-      "volume": 14303626,
+      "volume": 14153673,
       "market": "上市"
     },
     {
@@ -3952,7 +3952,7 @@ var LOOKUP = {
       "ma60": 25.7,
       "high52": 29.8,
       "low52": 21.9,
-      "volume": 2755098,
+      "volume": 2612328,
       "market": "上市"
     },
     {
@@ -3968,7 +3968,7 @@ var LOOKUP = {
       "ma60": 14.3,
       "high52": 14.6,
       "low52": 13.9,
-      "volume": 1990041,
+      "volume": 1988000,
       "market": "上櫃"
     },
     {
@@ -3984,7 +3984,7 @@ var LOOKUP = {
       "ma60": 19.9,
       "high52": 23.4,
       "low52": 15.0,
-      "volume": 59628,
+      "volume": 52000,
       "market": "上市"
     },
     {
@@ -4000,7 +4000,7 @@ var LOOKUP = {
       "ma60": 19.3,
       "high52": 22.5,
       "low52": 15.2,
-      "volume": 304093,
+      "volume": 297000,
       "market": "上市"
     },
     {
@@ -4016,7 +4016,7 @@ var LOOKUP = {
       "ma60": 14.3,
       "high52": 14.6,
       "low52": 14.2,
-      "volume": 7569084,
+      "volume": 7551055,
       "market": "上市"
     },
     {
@@ -4032,7 +4032,7 @@ var LOOKUP = {
       "ma60": 13.4,
       "high52": 15.9,
       "low52": 10.0,
-      "volume": 4541318,
+      "volume": 4513072,
       "market": "上市"
     },
     {
@@ -4048,7 +4048,7 @@ var LOOKUP = {
       "ma60": 35.1,
       "high52": 43.0,
       "low52": 22.9,
-      "volume": 6433478,
+      "volume": 6285982,
       "market": "上市"
     },
     {
@@ -4064,7 +4064,7 @@ var LOOKUP = {
       "ma60": 9.4,
       "high52": 9.7,
       "low52": 9.2,
-      "volume": 6535140,
+      "volume": 6525000,
       "market": "上櫃"
     },
     {
@@ -4080,7 +4080,7 @@ var LOOKUP = {
       "ma60": 20.1,
       "high52": 21.0,
       "low52": 19.1,
-      "volume": 1173256,
+      "volume": 1158535,
       "market": "上市"
     },
     {
@@ -4096,7 +4096,7 @@ var LOOKUP = {
       "ma60": 14.0,
       "high52": 14.3,
       "low52": 13.7,
-      "volume": 7352091,
+      "volume": 7349000,
       "market": "上櫃"
     },
     {
@@ -4112,7 +4112,7 @@ var LOOKUP = {
       "ma60": 17.3,
       "high52": 21.5,
       "low52": 13.1,
-      "volume": 2116549,
+      "volume": 2085396,
       "market": "上市"
     },
     {
@@ -4128,7 +4128,7 @@ var LOOKUP = {
       "ma60": 17.3,
       "high52": 20.1,
       "low52": 12.7,
-      "volume": 3099046,
+      "volume": 3077500,
       "market": "上市"
     },
     {
@@ -4144,7 +4144,7 @@ var LOOKUP = {
       "ma60": 9.6,
       "high52": 9.7,
       "low52": 9.5,
-      "volume": 32816614,
+      "volume": 32801801,
       "market": "上市"
     },
     {
@@ -4160,7 +4160,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 22.9,
       "low52": 14.0,
-      "volume": 3898020,
+      "volume": 3870750,
       "market": "上市"
     },
     {
@@ -4176,7 +4176,7 @@ var LOOKUP = {
       "ma60": 15.1,
       "high52": 16.7,
       "low52": 13.7,
-      "volume": 6848775,
+      "volume": 6798000,
       "market": "上櫃"
     },
     {
@@ -4192,7 +4192,7 @@ var LOOKUP = {
       "ma60": 12.2,
       "high52": 12.6,
       "low52": 11.8,
-      "volume": 1240584,
+      "volume": 1235000,
       "market": "上市"
     },
     {
@@ -4201,14 +4201,14 @@ var LOOKUP = {
       "industry": "ETF",
       "close": 13.7,
       "change_amount": 0.1,
-      "change_pct": 0.51,
+      "change_pct": 0.66,
       "ma5": 13.7,
       "ma10": 13.7,
       "ma20": 13.6,
       "ma60": 13.4,
       "high52": 13.8,
       "low52": 13.1,
-      "volume": 755036,
+      "volume": 754000,
       "market": "上櫃"
     },
     {
@@ -4224,7 +4224,7 @@ var LOOKUP = {
       "ma60": 9.2,
       "high52": 9.5,
       "low52": 9.1,
-      "volume": 74070,
+      "volume": 73000,
       "market": "上櫃"
     },
     {
@@ -4240,7 +4240,7 @@ var LOOKUP = {
       "ma60": 9.3,
       "high52": 9.6,
       "low52": 9.1,
-      "volume": 671469,
+      "volume": 669000,
       "market": "上櫃"
     },
     {
@@ -4256,7 +4256,7 @@ var LOOKUP = {
       "ma60": 17.4,
       "high52": 18.2,
       "low52": 16.6,
-      "volume": 751255,
+      "volume": 749352,
       "market": "上市"
     },
     {
@@ -4272,7 +4272,7 @@ var LOOKUP = {
       "ma60": 11.5,
       "high52": 13.3,
       "low52": 9.6,
-      "volume": 12581772,
+      "volume": 12512278,
       "market": "上市"
     },
     {
@@ -4288,7 +4288,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 16.3,
       "low52": 10.5,
-      "volume": 304119,
+      "volume": 298146,
       "market": "上市"
     },
     {
@@ -4304,7 +4304,7 @@ var LOOKUP = {
       "ma60": 12.6,
       "high52": 12.8,
       "low52": 12.3,
-      "volume": 1048342,
+      "volume": 1044000,
       "market": "上市"
     },
     {
@@ -4320,7 +4320,7 @@ var LOOKUP = {
       "ma60": 14.0,
       "high52": 14.7,
       "low52": 13.1,
-      "volume": 2125817,
+      "volume": 2119136,
       "market": "上市"
     },
     {
@@ -4336,7 +4336,7 @@ var LOOKUP = {
       "ma60": 25.4,
       "high52": 26.1,
       "low52": 24.0,
-      "volume": 3621856,
+      "volume": 3572863,
       "market": "上市"
     },
     {
@@ -4352,7 +4352,7 @@ var LOOKUP = {
       "ma60": 13.9,
       "high52": 14.2,
       "low52": 13.5,
-      "volume": 471210,
+      "volume": 470000,
       "market": "上櫃"
     },
     {
@@ -4368,7 +4368,7 @@ var LOOKUP = {
       "ma60": 9.1,
       "high52": 9.3,
       "low52": 8.9,
-      "volume": 1375567,
+      "volume": 1375000,
       "market": "上櫃"
     },
     {
@@ -4384,7 +4384,7 @@ var LOOKUP = {
       "ma60": 9.2,
       "high52": 9.4,
       "low52": 9.1,
-      "volume": 3108491,
+      "volume": 3105000,
       "market": "上櫃"
     },
     {
@@ -4400,7 +4400,7 @@ var LOOKUP = {
       "ma60": 8.3,
       "high52": 8.8,
       "low52": 7.9,
-      "volume": 460451,
+      "volume": 460000,
       "market": "上櫃"
     },
     {
@@ -4416,7 +4416,7 @@ var LOOKUP = {
       "ma60": 9.3,
       "high52": 9.6,
       "low52": 9.1,
-      "volume": 1579648,
+      "volume": 1578000,
       "market": "上櫃"
     },
     {
@@ -4432,23 +4432,23 @@ var LOOKUP = {
       "ma60": 16.5,
       "high52": 17.1,
       "low52": 14.8,
-      "volume": 267813,
+      "volume": 259057,
       "market": "上市"
     },
     {
       "code": "00972",
       "name": "野村日本動能高息",
       "industry": "ETF",
-      "close": 19.9,
-      "change_amount": 0.7,
-      "change_pct": 3.75,
-      "ma5": 19.3,
-      "ma10": 19.4,
-      "ma20": 19.2,
+      "close": 19.2,
+      "change_amount": 0.1,
+      "change_pct": 0.47,
+      "ma5": 19.2,
+      "ma10": 19.3,
+      "ma20": 19.1,
       "ma60": null,
-      "high52": 19.9,
+      "high52": 19.6,
       "low52": 18.1,
-      "volume": 105944,
+      "volume": 60000,
       "market": "上市"
     },
     {
@@ -4464,7 +4464,7 @@ var LOOKUP = {
       "ma60": 12.6,
       "high52": 13.4,
       "low52": 10.7,
-      "volume": 1021119,
+      "volume": 992295,
       "market": "上市"
     },
     {
@@ -4480,7 +4480,7 @@ var LOOKUP = {
       "ma60": 11.9,
       "high52": 12.9,
       "low52": 10.3,
-      "volume": 608810,
+      "volume": 600000,
       "market": "上市"
     },
     {
@@ -4496,7 +4496,7 @@ var LOOKUP = {
       "ma60": 17.7,
       "high52": 20.8,
       "low52": 12.3,
-      "volume": 2726055,
+      "volume": 2690955,
       "market": "上市"
     },
     {
@@ -4512,7 +4512,7 @@ var LOOKUP = {
       "ma60": 20.0,
       "high52": 22.7,
       "low52": 15.0,
-      "volume": 1346724,
+      "volume": 1317737,
       "market": "上市"
     },
     {
@@ -4528,7 +4528,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 25.1,
       "low52": 15.9,
-      "volume": 4576589,
+      "volume": 4469228,
       "market": "上市"
     },
     {
@@ -4544,7 +4544,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 17.4,
       "low52": 15.0,
-      "volume": 6545756,
+      "volume": 6469724,
       "market": "上市"
     },
     {
@@ -4560,7 +4560,7 @@ var LOOKUP = {
       "ma60": 12.9,
       "high52": 13.4,
       "low52": 11.6,
-      "volume": 33079,
+      "volume": 30000,
       "market": "上櫃"
     },
     {
@@ -4576,7 +4576,7 @@ var LOOKUP = {
       "ma60": 15.6,
       "high52": 17.6,
       "low52": 12.4,
-      "volume": 17636,
+      "volume": 16000,
       "market": "上櫃"
     },
     {
@@ -4592,7 +4592,7 @@ var LOOKUP = {
       "ma60": 28.5,
       "high52": 33.0,
       "low52": 21.5,
-      "volume": 355631,
+      "volume": 353000,
       "market": "上市"
     },
     {
@@ -4608,7 +4608,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 18.3,
       "low52": 12.2,
-      "volume": 735337,
+      "volume": 733000,
       "market": "上市"
     },
     {
@@ -4624,7 +4624,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 25.7,
       "low52": 17.0,
-      "volume": 4200288,
+      "volume": 4129673,
       "market": "上市"
     },
     {
@@ -4640,7 +4640,7 @@ var LOOKUP = {
       "ma60": 9.4,
       "high52": 9.7,
       "low52": 9.2,
-      "volume": 401122,
+      "volume": 401000,
       "market": "上櫃"
     },
     {
@@ -4656,7 +4656,7 @@ var LOOKUP = {
       "ma60": 20.3,
       "high52": 20.6,
       "low52": 20.0,
-      "volume": 489976,
+      "volume": 485000,
       "market": "上櫃"
     },
     {
@@ -4672,7 +4672,7 @@ var LOOKUP = {
       "ma60": 11.3,
       "high52": 11.9,
       "low52": 10.2,
-      "volume": 443559,
+      "volume": 442000,
       "market": "上櫃"
     },
     {
@@ -4688,7 +4688,7 @@ var LOOKUP = {
       "ma60": 20.1,
       "high52": 21.0,
       "low52": 18.1,
-      "volume": 86802,
+      "volume": 85000,
       "market": "上市"
     },
     {
@@ -4704,7 +4704,7 @@ var LOOKUP = {
       "ma60": 12.6,
       "high52": 13.1,
       "low52": 11.1,
-      "volume": 2698872,
+      "volume": 2680305,
       "market": "上市"
     },
     {
@@ -4720,7 +4720,7 @@ var LOOKUP = {
       "ma60": 12.0,
       "high52": 12.6,
       "low52": 11.4,
-      "volume": 853365,
+      "volume": 845158,
       "market": "上市"
     },
     {
@@ -4736,7 +4736,7 @@ var LOOKUP = {
       "ma60": 11.0,
       "high52": 11.4,
       "low52": 9.9,
-      "volume": 3001909,
+      "volume": 2987468,
       "market": "上市"
     },
     {
@@ -4752,7 +4752,7 @@ var LOOKUP = {
       "ma60": 10.8,
       "high52": 11.1,
       "low52": 9.8,
-      "volume": 1339755,
+      "volume": 1320000,
       "market": "上櫃"
     },
     {
@@ -4768,7 +4768,7 @@ var LOOKUP = {
       "ma60": 10.9,
       "high52": 11.7,
       "low52": 9.3,
-      "volume": 4727606,
+      "volume": 4735605,
       "market": "上櫃"
     },
     {
@@ -4784,7 +4784,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 16.2,
       "low52": 10.7,
-      "volume": 101572082,
+      "volume": 100535845,
       "market": "上市"
     },
     {
@@ -4800,7 +4800,7 @@ var LOOKUP = {
       "ma60": 9.0,
       "high52": 9.6,
       "low52": 8.6,
-      "volume": 2215305,
+      "volume": 2209000,
       "market": "上市"
     },
     {
@@ -4816,7 +4816,7 @@ var LOOKUP = {
       "ma60": 18.6,
       "high52": 20.4,
       "low52": 14.9,
-      "volume": 481314,
+      "volume": 479000,
       "market": "上市"
     },
     {
@@ -4832,7 +4832,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 12.5,
       "low52": 9.9,
-      "volume": 8872319,
+      "volume": 8802670,
       "market": "上市"
     },
     {
@@ -4848,7 +4848,7 @@ var LOOKUP = {
       "ma60": 28.8,
       "high52": 32.3,
       "low52": 20.3,
-      "volume": 175535063,
+      "volume": 174304244,
       "market": "上市"
     },
     {
@@ -4864,7 +4864,7 @@ var LOOKUP = {
       "ma60": 9.1,
       "high52": 9.3,
       "low52": 9.0,
-      "volume": 13661333,
+      "volume": 13645000,
       "market": "上櫃"
     },
     {
@@ -4880,7 +4880,7 @@ var LOOKUP = {
       "ma60": 10.3,
       "high52": 10.5,
       "low52": 10.2,
-      "volume": 3405996,
+      "volume": 3388000,
       "market": "上櫃"
     },
     {
@@ -4896,7 +4896,7 @@ var LOOKUP = {
       "ma60": 11.8,
       "high52": 12.4,
       "low52": 10.9,
-      "volume": 1964856,
+      "volume": 1955037,
       "market": "上市"
     },
     {
@@ -4912,7 +4912,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 10.9,
       "low52": 9.7,
-      "volume": 8044392,
+      "volume": 7996039,
       "market": "上市"
     },
     {
@@ -4928,7 +4928,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 10.0,
       "low52": 9.1,
-      "volume": 561520,
+      "volume": 560000,
       "market": "上櫃"
     },
     {
@@ -4944,7 +4944,7 @@ var LOOKUP = {
       "ma60": 22.3,
       "high52": 25.5,
       "low52": 16.0,
-      "volume": 22347286,
+      "volume": 22214357,
       "market": "上市"
     },
     {
@@ -4960,7 +4960,7 @@ var LOOKUP = {
       "ma60": 9.8,
       "high52": 10.0,
       "low52": 9.6,
-      "volume": 19309,
+      "volume": 19000,
       "market": "上櫃"
     },
     {
@@ -4976,7 +4976,7 @@ var LOOKUP = {
       "ma60": 9.9,
       "high52": 10.1,
       "low52": 9.8,
-      "volume": 413683,
+      "volume": 412000,
       "market": "上市"
     },
     {
@@ -4992,7 +4992,7 @@ var LOOKUP = {
       "ma60": 14.4,
       "high52": 16.1,
       "low52": 10.9,
-      "volume": 55169,
+      "volume": 53040,
       "market": "上市"
     },
     {
@@ -5008,7 +5008,7 @@ var LOOKUP = {
       "ma60": 11.6,
       "high52": 12.5,
       "low52": 10.4,
-      "volume": 1285370,
+      "volume": 1269866,
       "market": "上市"
     },
     {
@@ -5024,7 +5024,7 @@ var LOOKUP = {
       "ma60": 15.6,
       "high52": 16.0,
       "low52": 15.1,
-      "volume": 72190,
+      "volume": 72000,
       "market": "上櫃"
     },
     {
@@ -5040,7 +5040,7 @@ var LOOKUP = {
       "ma60": 10.1,
       "high52": 10.2,
       "low52": 9.9,
-      "volume": 770076,
+      "volume": 767000,
       "market": "上市"
     },
     {
@@ -5056,7 +5056,7 @@ var LOOKUP = {
       "ma60": 15.3,
       "high52": 17.3,
       "low52": 12.4,
-      "volume": 6917590,
+      "volume": 6827300,
       "market": "上市"
     },
     {
@@ -5072,7 +5072,7 @@ var LOOKUP = {
       "ma60": 16.2,
       "high52": 16.6,
       "low52": 15.9,
-      "volume": 958489,
+      "volume": 957000,
       "market": "上櫃"
     },
     {
@@ -5088,7 +5088,7 @@ var LOOKUP = {
       "ma60": 9.9,
       "high52": 10.1,
       "low52": 9.8,
-      "volume": 8608388,
+      "volume": 8597751,
       "market": "上市"
     },
     {
@@ -5104,7 +5104,7 @@ var LOOKUP = {
       "ma60": 20.9,
       "high52": 23.0,
       "low52": 16.1,
-      "volume": 2628497,
+      "volume": 2579280,
       "market": "上市"
     },
     {
@@ -5120,7 +5120,7 @@ var LOOKUP = {
       "ma60": 10.2,
       "high52": 10.3,
       "low52": 10.1,
-      "volume": 4164069,
+      "volume": 4157000,
       "market": "上市"
     },
     {
@@ -5136,7 +5136,7 @@ var LOOKUP = {
       "ma60": 10.1,
       "high52": 10.4,
       "low52": 9.9,
-      "volume": 234734,
+      "volume": 232000,
       "market": "上櫃"
     },
     {
@@ -5152,7 +5152,7 @@ var LOOKUP = {
       "ma60": 14.4,
       "high52": 15.8,
       "low52": 11.9,
-      "volume": 210526,
+      "volume": 199000,
       "market": "上市"
     },
     {
@@ -5184,7 +5184,7 @@ var LOOKUP = {
       "ma60": 14.7,
       "high52": 15.0,
       "low52": 14.6,
-      "volume": 732696,
+      "volume": 730000,
       "market": "上櫃"
     },
     {
@@ -5200,7 +5200,7 @@ var LOOKUP = {
       "ma60": 16.7,
       "high52": 18.2,
       "low52": 12.5,
-      "volume": 1979848,
+      "volume": 1964227,
       "market": "上市"
     },
     {
@@ -5216,7 +5216,7 @@ var LOOKUP = {
       "ma60": 15.9,
       "high52": 16.1,
       "low52": 15.5,
-      "volume": 924574,
+      "volume": 923000,
       "market": "上櫃"
     },
     {
@@ -5232,7 +5232,7 @@ var LOOKUP = {
       "ma60": 19.6,
       "high52": 23.7,
       "low52": 12.9,
-      "volume": 104832569,
+      "volume": 103269728,
       "market": "上市"
     },
     {
@@ -5248,7 +5248,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 19.9,
       "low52": 19.4,
-      "volume": 2302375,
+      "volume": 2296000,
       "market": "上櫃"
     },
     {
@@ -5264,7 +5264,7 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 18.6,
       "low52": 13.7,
-      "volume": 1797891,
+      "volume": 1781010,
       "market": "上市"
     },
     {
@@ -5280,7 +5280,7 @@ var LOOKUP = {
       "ma60": 10.0,
       "high52": 10.2,
       "low52": 9.9,
-      "volume": 2369780,
+      "volume": 2368000,
       "market": "上櫃"
     },
     {
@@ -5296,7 +5296,7 @@ var LOOKUP = {
       "ma60": 18.1,
       "high52": 21.7,
       "low52": 12.3,
-      "volume": 64716934,
+      "volume": 64240983,
       "market": "上市"
     },
     {
@@ -5312,7 +5312,7 @@ var LOOKUP = {
       "ma60": 18.1,
       "high52": 21.3,
       "low52": 12.6,
-      "volume": 92083015,
+      "volume": 91413391,
       "market": "上市"
     },
     {
@@ -5328,7 +5328,7 @@ var LOOKUP = {
       "ma60": 17.7,
       "high52": 19.4,
       "low52": 13.4,
-      "volume": 37962883,
+      "volume": 37818241,
       "market": "上市"
     },
     {
@@ -5344,7 +5344,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 14.6,
       "low52": 10.7,
-      "volume": 5489125,
+      "volume": 5497765,
       "market": "上市"
     },
     {
@@ -5360,7 +5360,7 @@ var LOOKUP = {
       "ma60": 16.8,
       "high52": 18.5,
       "low52": 12.2,
-      "volume": 5078764,
+      "volume": 5037126,
       "market": "上市"
     },
     {
@@ -5376,7 +5376,7 @@ var LOOKUP = {
       "ma60": 16.8,
       "high52": 18.8,
       "low52": 12.0,
-      "volume": 4011262,
+      "volume": 3965100,
       "market": "上市"
     },
     {
@@ -5392,7 +5392,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 16.3,
       "low52": 9.9,
-      "volume": 5872862,
+      "volume": 5880422,
       "market": "上市"
     },
     {
@@ -5408,7 +5408,7 @@ var LOOKUP = {
       "ma60": 12.5,
       "high52": 14.7,
       "low52": 10.0,
-      "volume": 62015956,
+      "volume": 62850990,
       "market": "上市"
     },
     {
@@ -5424,7 +5424,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 17.0,
       "low52": 14.6,
-      "volume": 3405593,
+      "volume": 3385000,
       "market": "上櫃"
     },
     {
@@ -5440,7 +5440,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 11.4,
       "low52": 10.0,
-      "volume": 16646400,
+      "volume": 16622151,
       "market": "上市"
     },
     {
@@ -5472,7 +5472,7 @@ var LOOKUP = {
       "ma60": 24.4,
       "high52": 25.5,
       "low52": 23.0,
-      "volume": 28078408,
+      "volume": 28010770,
       "market": "上市"
     },
     {
@@ -5488,7 +5488,7 @@ var LOOKUP = {
       "ma60": 35.0,
       "high52": 36.5,
       "low52": 32.4,
-      "volume": 17514501,
+      "volume": 17466549,
       "market": "上市"
     },
     {
@@ -5504,7 +5504,7 @@ var LOOKUP = {
       "ma60": 13.5,
       "high52": 14.0,
       "low52": 12.9,
-      "volume": 604490,
+      "volume": 597900,
       "market": "上市"
     },
     {
@@ -5520,7 +5520,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 27.6,
       "low52": 25.5,
-      "volume": 1212647,
+      "volume": 1204229,
       "market": "上市"
     },
     {
@@ -5536,7 +5536,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 14.9,
       "low52": 13.5,
-      "volume": 1071217,
+      "volume": 1069000,
       "market": "上市"
     },
     {
@@ -5552,7 +5552,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 15.5,
       "low52": 14.4,
-      "volume": 287658,
+      "volume": 283556,
       "market": "上市"
     },
     {
@@ -5568,7 +5568,7 @@ var LOOKUP = {
       "ma60": 15.1,
       "high52": 16.0,
       "low52": 13.9,
-      "volume": 477756,
+      "volume": 477000,
       "market": "上市"
     },
     {
@@ -5584,7 +5584,7 @@ var LOOKUP = {
       "ma60": 12.5,
       "high52": 13.6,
       "low52": 12.0,
-      "volume": 794611,
+      "volume": 785057,
       "market": "上市"
     },
     {
@@ -5600,7 +5600,7 @@ var LOOKUP = {
       "ma60": 42.9,
       "high52": 44.2,
       "low52": 39.8,
-      "volume": 15446,
+      "volume": 15577,
       "market": "上市"
     },
     {
@@ -5616,7 +5616,7 @@ var LOOKUP = {
       "ma60": 53.9,
       "high52": 58.0,
       "low52": 51.7,
-      "volume": 5760139,
+      "volume": 5693539,
       "market": "上市"
     },
     {
@@ -5632,7 +5632,7 @@ var LOOKUP = {
       "ma60": 8.6,
       "high52": 9.5,
       "low52": 7.5,
-      "volume": 79000,
+      "volume": 79097,
       "market": "上市"
     },
     {
@@ -5648,7 +5648,7 @@ var LOOKUP = {
       "ma60": 126.1,
       "high52": 137.9,
       "low52": 110.5,
-      "volume": 981847,
+      "volume": 950978,
       "market": "上市"
     },
     {
@@ -5664,7 +5664,7 @@ var LOOKUP = {
       "ma60": 73.1,
       "high52": 76.5,
       "low52": 68.7,
-      "volume": 16102272,
+      "volume": 15968716,
       "market": "上市"
     },
     {
@@ -5680,7 +5680,7 @@ var LOOKUP = {
       "ma60": 9.8,
       "high52": 10.1,
       "low52": 9.3,
-      "volume": 1333924,
+      "volume": 1323578,
       "market": "上市"
     },
     {
@@ -5696,7 +5696,7 @@ var LOOKUP = {
       "ma60": 17.7,
       "high52": 18.3,
       "low52": 17.1,
-      "volume": 1968177,
+      "volume": 1949270,
       "market": "上市"
     },
     {
@@ -5712,7 +5712,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 14.0,
       "low52": 11.9,
-      "volume": 1229082,
+      "volume": 1224802,
       "market": "上市"
     },
     {
@@ -5728,7 +5728,7 @@ var LOOKUP = {
       "ma60": 12.0,
       "high52": 12.8,
       "low52": 11.4,
-      "volume": 90454,
+      "volume": 77405,
       "market": "上市"
     },
     {
@@ -5744,7 +5744,7 @@ var LOOKUP = {
       "ma60": 31.0,
       "high52": 34.2,
       "low52": 28.6,
-      "volume": 298889,
+      "volume": 296310,
       "market": "上市"
     },
     {
@@ -5760,7 +5760,7 @@ var LOOKUP = {
       "ma60": 29.0,
       "high52": 30.8,
       "low52": 27.9,
-      "volume": 2571528,
+      "volume": 2551598,
       "market": "上市"
     },
     {
@@ -5776,7 +5776,7 @@ var LOOKUP = {
       "ma60": 41.8,
       "high52": 45.0,
       "low52": 38.3,
-      "volume": 4776572,
+      "volume": 4716747,
       "market": "上市"
     },
     {
@@ -5792,7 +5792,7 @@ var LOOKUP = {
       "ma60": 87.4,
       "high52": 93.2,
       "low52": 84.7,
-      "volume": 324405,
+      "volume": 311113,
       "market": "上市"
     },
     {
@@ -5808,7 +5808,7 @@ var LOOKUP = {
       "ma60": 141.9,
       "high52": 146.5,
       "low52": 140.4,
-      "volume": 720314,
+      "volume": 701403,
       "market": "上市"
     },
     {
@@ -5824,7 +5824,7 @@ var LOOKUP = {
       "ma60": 28.5,
       "high52": 29.6,
       "low52": 27.4,
-      "volume": 41660,
+      "volume": 41033,
       "market": "上市"
     },
     {
@@ -5840,7 +5840,7 @@ var LOOKUP = {
       "ma60": 33.3,
       "high52": 34.5,
       "low52": 31.8,
-      "volume": 209039,
+      "volume": 204423,
       "market": "上市"
     },
     {
@@ -5856,7 +5856,7 @@ var LOOKUP = {
       "ma60": 40.7,
       "high52": 46.5,
       "low52": 36.2,
-      "volume": 12128,
+      "volume": 12000,
       "market": "上市"
     },
     {
@@ -5872,7 +5872,7 @@ var LOOKUP = {
       "ma60": 25.4,
       "high52": 27.0,
       "low52": 23.4,
-      "volume": 107832,
+      "volume": 107025,
       "market": "上市"
     },
     {
@@ -5888,7 +5888,7 @@ var LOOKUP = {
       "ma60": 58.4,
       "high52": 59.8,
       "low52": 57.2,
-      "volume": 5321,
+      "volume": 5051,
       "market": "上櫃"
     },
     {
@@ -5904,7 +5904,7 @@ var LOOKUP = {
       "ma60": 176.6,
       "high52": 209.5,
       "low52": 150.0,
-      "volume": 166071,
+      "volume": 156000,
       "market": "上市"
     },
     {
@@ -5914,7 +5914,7 @@ var LOOKUP = {
       "close": 56.7,
       "change_amount": 0.0,
       "change_pct": 0.0,
-      "ma5": 56.7,
+      "ma5": 56.8,
       "ma10": 56.7,
       "ma20": 57.0,
       "ma60": 57.0,
@@ -5952,7 +5952,7 @@ var LOOKUP = {
       "ma60": 271.9,
       "high52": 280.0,
       "low52": 266.5,
-      "volume": 39921,
+      "volume": 36002,
       "market": "上櫃"
     },
     {
@@ -5968,7 +5968,7 @@ var LOOKUP = {
       "ma60": 163.5,
       "high52": 171.5,
       "low52": 154.5,
-      "volume": 34446,
+      "volume": 34000,
       "market": "上櫃"
     },
     {
@@ -5984,39 +5984,39 @@ var LOOKUP = {
       "ma60": 72.4,
       "high52": 82.5,
       "low52": 65.0,
-      "volume": 16452,
+      "volume": 18502,
       "market": "興櫃"
     },
     {
       "code": "1271",
       "name": "晨暉生技",
       "industry": "生技醫療",
-      "close": 61.8,
-      "change_amount": 0.4,
-      "change_pct": 0.65,
-      "ma5": 61.7,
+      "close": 61.3,
+      "change_amount": -0.1,
+      "change_pct": -0.16,
+      "ma5": 61.6,
       "ma10": 61.9,
       "ma20": 62.9,
       "ma60": 62.0,
       "high52": 70.6,
       "low52": 56.3,
-      "volume": 39707,
+      "volume": 39817,
       "market": "興櫃"
     },
     {
       "code": "1293",
       "name": "利統",
       "industry": "食品",
-      "close": 28.1,
-      "change_amount": 2.7,
-      "change_pct": 10.63,
-      "ma5": 26.6,
+      "close": 27.6,
+      "change_amount": 2.2,
+      "change_pct": 8.66,
+      "ma5": 26.4,
       "ma10": 26.7,
       "ma20": 27.1,
       "ma60": 27.6,
       "high52": 29.1,
       "low52": 25.3,
-      "volume": 53521,
+      "volume": 55521,
       "market": "興櫃"
     },
     {
@@ -6032,7 +6032,7 @@ var LOOKUP = {
       "ma60": 63.0,
       "high52": 66.0,
       "low52": 61.3,
-      "volume": 353639,
+      "volume": 343123,
       "market": "上櫃"
     },
     {
@@ -6048,7 +6048,7 @@ var LOOKUP = {
       "ma60": 52.6,
       "high52": 61.8,
       "low52": 47.0,
-      "volume": 44304,
+      "volume": 44005,
       "market": "上櫃"
     },
     {
@@ -6064,7 +6064,7 @@ var LOOKUP = {
       "ma60": 49.3,
       "high52": 62.1,
       "low52": 43.4,
-      "volume": 189828205,
+      "volume": 189353771,
       "market": "上市"
     },
     {
@@ -6080,7 +6080,7 @@ var LOOKUP = {
       "ma60": 106.3,
       "high52": 197.0,
       "low52": 80.5,
-      "volume": 35579843,
+      "volume": 35081185,
       "market": "上市"
     },
     {
@@ -6096,7 +6096,7 @@ var LOOKUP = {
       "ma60": 13.5,
       "high52": 17.8,
       "low52": 11.9,
-      "volume": 27495207,
+      "volume": 27411455,
       "market": "上市"
     },
     {
@@ -6112,7 +6112,7 @@ var LOOKUP = {
       "ma60": 13.6,
       "high52": 17.6,
       "low52": 12.0,
-      "volume": 23470645,
+      "volume": 23449349,
       "market": "上市"
     },
     {
@@ -6128,7 +6128,7 @@ var LOOKUP = {
       "ma60": 33.0,
       "high52": 37.4,
       "low52": 30.6,
-      "volume": 2920870,
+      "volume": 2901599,
       "market": "上市"
     },
     {
@@ -6144,7 +6144,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 18.6,
       "low52": 12.9,
-      "volume": 14794605,
+      "volume": 14744033,
       "market": "上市"
     },
     {
@@ -6160,7 +6160,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 26.5,
       "low52": 14.3,
-      "volume": 21658564,
+      "volume": 21600700,
       "market": "上市"
     },
     {
@@ -6176,7 +6176,7 @@ var LOOKUP = {
       "ma60": 9.2,
       "high52": 11.4,
       "low52": 7.7,
-      "volume": 25020145,
+      "volume": 24986532,
       "market": "上市"
     },
     {
@@ -6192,7 +6192,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 15.1,
       "low52": 10.0,
-      "volume": 96820232,
+      "volume": 96842525,
       "market": "上市"
     },
     {
@@ -6208,7 +6208,7 @@ var LOOKUP = {
       "ma60": 11.4,
       "high52": 14.3,
       "low52": 10.2,
-      "volume": 38838191,
+      "volume": 38716340,
       "market": "上市"
     },
     {
@@ -6224,7 +6224,7 @@ var LOOKUP = {
       "ma60": 7.6,
       "high52": 9.9,
       "low52": 6.7,
-      "volume": 294551481,
+      "volume": 294149506,
       "market": "上市"
     },
     {
@@ -6240,7 +6240,7 @@ var LOOKUP = {
       "ma60": 61.9,
       "high52": 64.0,
       "low52": 60.3,
-      "volume": 66655,
+      "volume": 64500,
       "market": "上市"
     },
     {
@@ -6256,7 +6256,7 @@ var LOOKUP = {
       "ma60": 11.0,
       "high52": 12.2,
       "low52": 10.1,
-      "volume": 4458806,
+      "volume": 4448429,
       "market": "上市"
     },
     {
@@ -6272,7 +6272,7 @@ var LOOKUP = {
       "ma60": 80.0,
       "high52": 101.6,
       "low52": 69.9,
-      "volume": 2587233,
+      "volume": 2564716,
       "market": "上市"
     },
     {
@@ -6288,7 +6288,7 @@ var LOOKUP = {
       "ma60": 30.6,
       "high52": 33.6,
       "low52": 28.5,
-      "volume": 178471,
+      "volume": 178000,
       "market": "上市"
     },
     {
@@ -6304,7 +6304,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 23.6,
       "low52": 18.4,
-      "volume": 159132,
+      "volume": 157100,
       "market": "上市"
     },
     {
@@ -6320,7 +6320,7 @@ var LOOKUP = {
       "ma60": 10.6,
       "high52": 12.8,
       "low52": 10.1,
-      "volume": 383289,
+      "volume": 380251,
       "market": "上市"
     },
     {
@@ -6336,7 +6336,7 @@ var LOOKUP = {
       "ma60": 26.4,
       "high52": 27.6,
       "low52": 24.0,
-      "volume": 397251,
+      "volume": 398500,
       "market": "上市"
     },
     {
@@ -6352,7 +6352,7 @@ var LOOKUP = {
       "ma60": 50.2,
       "high52": 68.0,
       "low52": 43.9,
-      "volume": 97523530,
+      "volume": 97248375,
       "market": "上市"
     },
     {
@@ -6368,7 +6368,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 15.9,
       "low52": 12.9,
-      "volume": 48411,
+      "volume": 48001,
       "market": "上櫃"
     },
     {
@@ -6384,7 +6384,7 @@ var LOOKUP = {
       "ma60": 5.1,
       "high52": 6.1,
       "low52": 4.7,
-      "volume": 4728099,
+      "volume": 4714513,
       "market": "上市"
     },
     {
@@ -6400,7 +6400,7 @@ var LOOKUP = {
       "ma60": 16.4,
       "high52": 17.6,
       "low52": 15.2,
-      "volume": 423233,
+      "volume": 419090,
       "market": "上市"
     },
     {
@@ -6416,7 +6416,7 @@ var LOOKUP = {
       "ma60": 42.3,
       "high52": 45.6,
       "low52": 39.7,
-      "volume": 113506,
+      "volume": 111000,
       "market": "上市"
     },
     {
@@ -6432,7 +6432,7 @@ var LOOKUP = {
       "ma60": 5.7,
       "high52": 6.7,
       "low52": 5.3,
-      "volume": 468906,
+      "volume": 462447,
       "market": "上市"
     },
     {
@@ -6448,7 +6448,7 @@ var LOOKUP = {
       "ma60": 57.6,
       "high52": 60.4,
       "low52": 55.6,
-      "volume": 5596,
+      "volume": 5001,
       "market": "上市"
     },
     {
@@ -6464,23 +6464,23 @@ var LOOKUP = {
       "ma60": 99.9,
       "high52": 117.5,
       "low52": 87.0,
-      "volume": 670400,
+      "volume": 658306,
       "market": "上市"
     },
     {
       "code": "1343",
       "name": "旭東環保",
       "industry": "數位雲端",
-      "close": 23.2,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 23.4,
+      "close": 23.3,
+      "change_amount": 0.1,
+      "change_pct": 0.43,
+      "ma5": 23.5,
       "ma10": 24.8,
       "ma20": 22.2,
       "ma60": 21.6,
       "high52": 29.9,
       "low52": 19.1,
-      "volume": 11055,
+      "volume": 12056,
       "market": "興櫃"
     },
     {
@@ -6496,7 +6496,7 @@ var LOOKUP = {
       "ma60": 26.9,
       "high52": 29.1,
       "low52": 23.5,
-      "volume": 25481070,
+      "volume": 25406051,
       "market": "上市"
     },
     {
@@ -6512,7 +6512,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 31.0,
       "low52": 15.5,
-      "volume": 79549632,
+      "volume": 78802560,
       "market": "上市"
     },
     {
@@ -6528,7 +6528,7 @@ var LOOKUP = {
       "ma60": 27.1,
       "high52": 31.8,
       "low52": 24.4,
-      "volume": 401747,
+      "volume": 401000,
       "market": "上市"
     },
     {
@@ -6544,7 +6544,7 @@ var LOOKUP = {
       "ma60": 9.5,
       "high52": 9.9,
       "low52": 9.2,
-      "volume": 124194,
+      "volume": 122615,
       "market": "上市"
     },
     {
@@ -6560,7 +6560,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 19.5,
       "low52": 14.1,
-      "volume": 470133,
+      "volume": 465395,
       "market": "上市"
     },
     {
@@ -6576,7 +6576,7 @@ var LOOKUP = {
       "ma60": 10.9,
       "high52": 11.4,
       "low52": 10.5,
-      "volume": 441978,
+      "volume": 441459,
       "market": "上市"
     },
     {
@@ -6592,7 +6592,7 @@ var LOOKUP = {
       "ma60": 8.6,
       "high52": 9.2,
       "low52": 8.1,
-      "volume": 950443,
+      "volume": 941628,
       "market": "上市"
     },
     {
@@ -6608,7 +6608,7 @@ var LOOKUP = {
       "ma60": 18.4,
       "high52": 19.4,
       "low52": 17.1,
-      "volume": 14373,
+      "volume": 14001,
       "market": "上市"
     },
     {
@@ -6624,7 +6624,7 @@ var LOOKUP = {
       "ma60": 64.6,
       "high52": 67.7,
       "low52": 61.3,
-      "volume": 224146,
+      "volume": 222351,
       "market": "上市"
     },
     {
@@ -6640,7 +6640,7 @@ var LOOKUP = {
       "ma60": 38.3,
       "high52": 41.5,
       "low52": 36.5,
-      "volume": 28411,
+      "volume": 29275,
       "market": "上市"
     },
     {
@@ -6656,7 +6656,7 @@ var LOOKUP = {
       "ma60": 15.1,
       "high52": 16.0,
       "low52": 14.3,
-      "volume": 333067,
+      "volume": 321157,
       "market": "上市"
     },
     {
@@ -6672,7 +6672,7 @@ var LOOKUP = {
       "ma60": 16.2,
       "high52": 18.9,
       "low52": 14.9,
-      "volume": 34637441,
+      "volume": 34536115,
       "market": "上市"
     },
     {
@@ -6688,7 +6688,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 33.0,
       "low52": 12.9,
-      "volume": 79585,
+      "volume": 76001,
       "market": "上市"
     },
     {
@@ -6704,7 +6704,7 @@ var LOOKUP = {
       "ma60": 47.7,
       "high52": 54.0,
       "low52": 44.0,
-      "volume": 502235,
+      "volume": 497000,
       "market": "上市"
     },
     {
@@ -6720,7 +6720,7 @@ var LOOKUP = {
       "ma60": 29.4,
       "high52": 31.1,
       "low52": 28.1,
-      "volume": 240212,
+      "volume": 240099,
       "market": "上市"
     },
     {
@@ -6736,7 +6736,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 29.1,
       "low52": 19.6,
-      "volume": 41607,
+      "volume": 40004,
       "market": "上市"
     },
     {
@@ -6752,7 +6752,7 @@ var LOOKUP = {
       "ma60": 25.8,
       "high52": 28.0,
       "low52": 23.9,
-      "volume": 30002,
+      "volume": 30553,
       "market": "上市"
     },
     {
@@ -6768,7 +6768,7 @@ var LOOKUP = {
       "ma60": 12.9,
       "high52": 15.6,
       "low52": 11.3,
-      "volume": 6830721,
+      "volume": 6818300,
       "market": "上市"
     },
     {
@@ -6784,7 +6784,7 @@ var LOOKUP = {
       "ma60": 9.8,
       "high52": 14.0,
       "low52": 9.0,
-      "volume": 89943,
+      "volume": 88243,
       "market": "上市"
     },
     {
@@ -6800,7 +6800,7 @@ var LOOKUP = {
       "ma60": 27.1,
       "high52": 30.1,
       "low52": 25.5,
-      "volume": 720113,
+      "volume": 717100,
       "market": "上市"
     },
     {
@@ -6816,7 +6816,7 @@ var LOOKUP = {
       "ma60": 25.3,
       "high52": 27.9,
       "low52": 21.2,
-      "volume": 4181,
+      "volume": 4687,
       "market": "上市"
     },
     {
@@ -6832,7 +6832,7 @@ var LOOKUP = {
       "ma60": 6.7,
       "high52": 10.0,
       "low52": 5.8,
-      "volume": 19679960,
+      "volume": 19610007,
       "market": "上市"
     },
     {
@@ -6848,7 +6848,7 @@ var LOOKUP = {
       "ma60": 11.9,
       "high52": 13.2,
       "low52": 10.6,
-      "volume": 799144,
+      "volume": 798010,
       "market": "上市"
     },
     {
@@ -6864,7 +6864,7 @@ var LOOKUP = {
       "ma60": 16.2,
       "high52": 17.7,
       "low52": 15.1,
-      "volume": 1073570,
+      "volume": 1072000,
       "market": "上市"
     },
     {
@@ -6880,7 +6880,7 @@ var LOOKUP = {
       "ma60": 5.9,
       "high52": 10.0,
       "low52": 4.9,
-      "volume": 37905194,
+      "volume": 37523476,
       "market": "上市"
     },
     {
@@ -6896,7 +6896,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 16.4,
       "low52": 12.1,
-      "volume": 1286859,
+      "volume": 1282326,
       "market": "上市"
     },
     {
@@ -6912,7 +6912,7 @@ var LOOKUP = {
       "ma60": 16.9,
       "high52": 17.6,
       "low52": 16.4,
-      "volume": 325709,
+      "volume": 320839,
       "market": "上市"
     },
     {
@@ -6928,7 +6928,7 @@ var LOOKUP = {
       "ma60": 10.9,
       "high52": 11.9,
       "low52": 10.1,
-      "volume": 609930,
+      "volume": 600041,
       "market": "上市"
     },
     {
@@ -6944,7 +6944,7 @@ var LOOKUP = {
       "ma60": 11.6,
       "high52": 12.4,
       "low52": 11.1,
-      "volume": 72510,
+      "volume": 69393,
       "market": "上市"
     },
     {
@@ -6960,7 +6960,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 14.2,
       "low52": 12.5,
-      "volume": 43695,
+      "volume": 39161,
       "market": "上市"
     },
     {
@@ -6976,7 +6976,7 @@ var LOOKUP = {
       "ma60": 8.8,
       "high52": 11.0,
       "low52": 7.8,
-      "volume": 7504456,
+      "volume": 7453206,
       "market": "上市"
     },
     {
@@ -6992,7 +6992,7 @@ var LOOKUP = {
       "ma60": 13.9,
       "high52": 15.6,
       "low52": 12.5,
-      "volume": 71960,
+      "volume": 71031,
       "market": "上市"
     },
     {
@@ -7008,7 +7008,7 @@ var LOOKUP = {
       "ma60": 14.5,
       "high52": 15.6,
       "low52": 13.9,
-      "volume": 434678,
+      "volume": 432051,
       "market": "上市"
     },
     {
@@ -7024,7 +7024,7 @@ var LOOKUP = {
       "ma60": 11.6,
       "high52": 12.0,
       "low52": 11.4,
-      "volume": 642052,
+      "volume": 643220,
       "market": "上市"
     },
     {
@@ -7040,7 +7040,7 @@ var LOOKUP = {
       "ma60": 7.1,
       "high52": 8.6,
       "low52": 6.7,
-      "volume": 11218749,
+      "volume": 11161972,
       "market": "上市"
     },
     {
@@ -7056,7 +7056,7 @@ var LOOKUP = {
       "ma60": 17.9,
       "high52": 19.7,
       "low52": 17.3,
-      "volume": 138180,
+      "volume": 138000,
       "market": "上市"
     },
     {
@@ -7072,7 +7072,7 @@ var LOOKUP = {
       "ma60": 10.3,
       "high52": 11.0,
       "low52": 9.9,
-      "volume": 2299961,
+      "volume": 2286478,
       "market": "上市"
     },
     {
@@ -7088,7 +7088,7 @@ var LOOKUP = {
       "ma60": 12.4,
       "high52": 13.1,
       "low52": 11.9,
-      "volume": 247344,
+      "volume": 245037,
       "market": "上市"
     },
     {
@@ -7104,7 +7104,7 @@ var LOOKUP = {
       "ma60": 15.3,
       "high52": 18.4,
       "low52": 13.8,
-      "volume": 2295008,
+      "volume": 2297001,
       "market": "上市"
     },
     {
@@ -7120,7 +7120,7 @@ var LOOKUP = {
       "ma60": 7.3,
       "high52": 9.7,
       "low52": 6.9,
-      "volume": 1329626,
+      "volume": 1315000,
       "market": "上市"
     },
     {
@@ -7136,7 +7136,7 @@ var LOOKUP = {
       "ma60": 12.1,
       "high52": 12.6,
       "low52": 11.6,
-      "volume": 39260,
+      "volume": 39000,
       "market": "上市"
     },
     {
@@ -7152,7 +7152,7 @@ var LOOKUP = {
       "ma60": 21.6,
       "high52": 22.6,
       "low52": 20.5,
-      "volume": 2008,
+      "volume": 2000,
       "market": "上市"
     },
     {
@@ -7168,7 +7168,7 @@ var LOOKUP = {
       "ma60": 11.2,
       "high52": 13.1,
       "low52": 10.1,
-      "volume": 891117,
+      "volume": 891585,
       "market": "上市"
     },
     {
@@ -7184,7 +7184,7 @@ var LOOKUP = {
       "ma60": 85.3,
       "high52": 90.0,
       "low52": 82.3,
-      "volume": 33262,
+      "volume": 33340,
       "market": "上市"
     },
     {
@@ -7200,7 +7200,7 @@ var LOOKUP = {
       "ma60": 20.8,
       "high52": 23.7,
       "low52": 19.6,
-      "volume": 177958,
+      "volume": 174000,
       "market": "上市"
     },
     {
@@ -7216,7 +7216,7 @@ var LOOKUP = {
       "ma60": 10.1,
       "high52": 11.4,
       "low52": 9.6,
-      "volume": 1200620,
+      "volume": 1194031,
       "market": "上市"
     },
     {
@@ -7232,7 +7232,7 @@ var LOOKUP = {
       "ma60": 27.0,
       "high52": 29.0,
       "low52": 24.9,
-      "volume": 11476,
+      "volume": 11000,
       "market": "上市"
     },
     {
@@ -7248,7 +7248,7 @@ var LOOKUP = {
       "ma60": 324.3,
       "high52": 347.6,
       "low52": 304.1,
-      "volume": 1079505,
+      "volume": 1059319,
       "market": "上市"
     },
     {
@@ -7264,7 +7264,7 @@ var LOOKUP = {
       "ma60": 219.3,
       "high52": 230.5,
       "low52": 210.0,
-      "volume": 2793593,
+      "volume": 2719650,
       "market": "上市"
     },
     {
@@ -7296,7 +7296,7 @@ var LOOKUP = {
       "ma60": 211.8,
       "high52": 268.0,
       "low52": 179.0,
-      "volume": 1562627,
+      "volume": 1517038,
       "market": "上市"
     },
     {
@@ -7312,7 +7312,7 @@ var LOOKUP = {
       "ma60": 67.6,
       "high52": 84.6,
       "low52": 57.1,
-      "volume": 6566512,
+      "volume": 6499768,
       "market": "上市"
     },
     {
@@ -7328,7 +7328,7 @@ var LOOKUP = {
       "ma60": 10.5,
       "high52": 11.4,
       "low52": 10.0,
-      "volume": 329597,
+      "volume": 328070,
       "market": "上市"
     },
     {
@@ -7344,7 +7344,7 @@ var LOOKUP = {
       "ma60": 7.1,
       "high52": 7.5,
       "low52": 6.7,
-      "volume": 233806,
+      "volume": 229405,
       "market": "上市"
     },
     {
@@ -7360,7 +7360,7 @@ var LOOKUP = {
       "ma60": 162.5,
       "high52": 187.0,
       "low52": 144.5,
-      "volume": 2733842,
+      "volume": 2654510,
       "market": "上市"
     },
     {
@@ -7376,7 +7376,7 @@ var LOOKUP = {
       "ma60": 119.5,
       "high52": 149.5,
       "low52": 100.0,
-      "volume": 4284319,
+      "volume": 4219471,
       "market": "上市"
     },
     {
@@ -7392,7 +7392,7 @@ var LOOKUP = {
       "ma60": 24.0,
       "high52": 42.0,
       "low52": 21.2,
-      "volume": 13250273,
+      "volume": 13198626,
       "market": "上市"
     },
     {
@@ -7408,7 +7408,7 @@ var LOOKUP = {
       "ma60": 20.7,
       "high52": 22.0,
       "low52": 18.5,
-      "volume": 36427,
+      "volume": 36011,
       "market": "上市"
     },
     {
@@ -7424,7 +7424,7 @@ var LOOKUP = {
       "ma60": 10.4,
       "high52": 11.3,
       "low52": 9.9,
-      "volume": 1404984,
+      "volume": 1400314,
       "market": "上市"
     },
     {
@@ -7440,7 +7440,7 @@ var LOOKUP = {
       "ma60": 843.6,
       "high52": 935.0,
       "low52": 757.0,
-      "volume": 1058720,
+      "volume": 978450,
       "market": "上市"
     },
     {
@@ -7456,7 +7456,7 @@ var LOOKUP = {
       "ma60": 24.9,
       "high52": 28.7,
       "low52": 23.5,
-      "volume": 25214,
+      "volume": 24000,
       "market": "上市"
     },
     {
@@ -7472,7 +7472,7 @@ var LOOKUP = {
       "ma60": 31.2,
       "high52": 34.5,
       "low52": 28.6,
-      "volume": 639130,
+      "volume": 636067,
       "market": "上市"
     },
     {
@@ -7488,7 +7488,7 @@ var LOOKUP = {
       "ma60": 29.5,
       "high52": 33.8,
       "low52": 27.3,
-      "volume": 752504,
+      "volume": 747174,
       "market": "上市"
     },
     {
@@ -7504,7 +7504,7 @@ var LOOKUP = {
       "ma60": 61.5,
       "high52": 68.7,
       "low52": 55.5,
-      "volume": 78077,
+      "volume": 77015,
       "market": "上市"
     },
     {
@@ -7520,7 +7520,7 @@ var LOOKUP = {
       "ma60": 15.2,
       "high52": 17.1,
       "low52": 13.9,
-      "volume": 226135,
+      "volume": 226039,
       "market": "上市"
     },
     {
@@ -7536,7 +7536,7 @@ var LOOKUP = {
       "ma60": 32.9,
       "high52": 34.2,
       "low52": 32.0,
-      "volume": 701330,
+      "volume": 693153,
       "market": "上市"
     },
     {
@@ -7552,7 +7552,7 @@ var LOOKUP = {
       "ma60": 26.4,
       "high52": 30.7,
       "low52": 22.9,
-      "volume": 1549333,
+      "volume": 1540548,
       "market": "上市"
     },
     {
@@ -7568,7 +7568,7 @@ var LOOKUP = {
       "ma60": 22.5,
       "high52": 24.9,
       "low52": 20.0,
-      "volume": 1166255,
+      "volume": 1163405,
       "market": "上市"
     },
     {
@@ -7584,7 +7584,7 @@ var LOOKUP = {
       "ma60": 28.9,
       "high52": 35.8,
       "low52": 26.0,
-      "volume": 126482,
+      "volume": 124017,
       "market": "上市"
     },
     {
@@ -7600,7 +7600,7 @@ var LOOKUP = {
       "ma60": 12.8,
       "high52": 13.4,
       "low52": 12.1,
-      "volume": 315842,
+      "volume": 315100,
       "market": "上市"
     },
     {
@@ -7616,7 +7616,7 @@ var LOOKUP = {
       "ma60": 21.8,
       "high52": 24.2,
       "low52": 20.2,
-      "volume": 683375,
+      "volume": 681009,
       "market": "上市"
     },
     {
@@ -7632,7 +7632,7 @@ var LOOKUP = {
       "ma60": 35.4,
       "high52": 40.6,
       "low52": 29.2,
-      "volume": 170452,
+      "volume": 169080,
       "market": "上市"
     },
     {
@@ -7648,7 +7648,7 @@ var LOOKUP = {
       "ma60": 50.4,
       "high52": 52.5,
       "low52": 48.8,
-      "volume": 67524,
+      "volume": 67131,
       "market": "上市"
     },
     {
@@ -7664,7 +7664,7 @@ var LOOKUP = {
       "ma60": 50.7,
       "high52": 56.5,
       "low52": 47.1,
-      "volume": 8179325,
+      "volume": 8130432,
       "market": "上市"
     },
     {
@@ -7680,7 +7680,7 @@ var LOOKUP = {
       "ma60": 125.2,
       "high52": 128.5,
       "low52": 122.0,
-      "volume": 31964,
+      "volume": 31000,
       "market": "上市"
     },
     {
@@ -7692,7 +7692,7 @@ var LOOKUP = {
       "change_pct": 0.0,
       "ma5": 11.2,
       "ma10": 11.4,
-      "ma20": 11.6,
+      "ma20": 11.5,
       "ma60": 12.2,
       "high52": 14.2,
       "low52": 11.1,
@@ -7712,7 +7712,7 @@ var LOOKUP = {
       "ma60": 16.0,
       "high52": 16.6,
       "low52": 15.4,
-      "volume": 111013,
+      "volume": 111030,
       "market": "上市"
     },
     {
@@ -7728,7 +7728,7 @@ var LOOKUP = {
       "ma60": 21.6,
       "high52": 23.0,
       "low52": 20.3,
-      "volume": 520977,
+      "volume": 520000,
       "market": "上市"
     },
     {
@@ -7744,7 +7744,7 @@ var LOOKUP = {
       "ma60": 22.5,
       "high52": 26.5,
       "low52": 20.1,
-      "volume": 10513,
+      "volume": 10100,
       "market": "上市"
     },
     {
@@ -7760,7 +7760,7 @@ var LOOKUP = {
       "ma60": 91.3,
       "high52": 93.8,
       "low52": 89.6,
-      "volume": 105841,
+      "volume": 104011,
       "market": "上市"
     },
     {
@@ -7776,7 +7776,7 @@ var LOOKUP = {
       "ma60": 638.3,
       "high52": 769.0,
       "low52": 474.0,
-      "volume": 703453,
+      "volume": 675739,
       "market": "上市"
     },
     {
@@ -7792,7 +7792,7 @@ var LOOKUP = {
       "ma60": 52.8,
       "high52": 70.5,
       "low52": 40.7,
-      "volume": 4154352,
+      "volume": 4120022,
       "market": "上市"
     },
     {
@@ -7808,7 +7808,7 @@ var LOOKUP = {
       "ma60": 98.3,
       "high52": 109.0,
       "low52": 92.3,
-      "volume": 255445,
+      "volume": 251051,
       "market": "上櫃"
     },
     {
@@ -7824,7 +7824,7 @@ var LOOKUP = {
       "ma60": 33.8,
       "high52": 49.8,
       "low52": 22.0,
-      "volume": 1462964,
+      "volume": 1459012,
       "market": "上市"
     },
     {
@@ -7840,7 +7840,7 @@ var LOOKUP = {
       "ma60": 52.6,
       "high52": 63.5,
       "low52": 44.9,
-      "volume": 675860,
+      "volume": 671200,
       "market": "上櫃"
     },
     {
@@ -7856,7 +7856,7 @@ var LOOKUP = {
       "ma60": 40.1,
       "high52": 53.4,
       "low52": 30.8,
-      "volume": 349046,
+      "volume": 347000,
       "market": "上櫃"
     },
     {
@@ -7872,7 +7872,7 @@ var LOOKUP = {
       "ma60": 123.9,
       "high52": 130.0,
       "low52": 121.0,
-      "volume": 94002,
+      "volume": 91001,
       "market": "上櫃"
     },
     {
@@ -7888,7 +7888,7 @@ var LOOKUP = {
       "ma60": 95.1,
       "high52": 115.6,
       "low52": 81.7,
-      "volume": 1010610,
+      "volume": 994030,
       "market": "上市"
     },
     {
@@ -7904,7 +7904,7 @@ var LOOKUP = {
       "ma60": 49.5,
       "high52": 60.0,
       "low52": 43.4,
-      "volume": 32853,
+      "volume": 32000,
       "market": "上市"
     },
     {
@@ -7920,7 +7920,7 @@ var LOOKUP = {
       "ma60": 19.8,
       "high52": 22.0,
       "low52": 18.5,
-      "volume": 2747107,
+      "volume": 2745628,
       "market": "上櫃"
     },
     {
@@ -7936,7 +7936,7 @@ var LOOKUP = {
       "ma60": 21.6,
       "high52": 23.5,
       "low52": 19.1,
-      "volume": 707911,
+      "volume": 1208895,
       "market": "上櫃"
     },
     {
@@ -7952,7 +7952,7 @@ var LOOKUP = {
       "ma60": 30.4,
       "high52": 37.3,
       "low52": 26.7,
-      "volume": 343085,
+      "volume": 342150,
       "market": "上市"
     },
     {
@@ -7968,7 +7968,7 @@ var LOOKUP = {
       "ma60": 1361.3,
       "high52": 1550.0,
       "low52": 1030.0,
-      "volume": 885759,
+      "volume": 868334,
       "market": "上市"
     },
     {
@@ -7984,7 +7984,7 @@ var LOOKUP = {
       "ma60": 30.1,
       "high52": 31.8,
       "low52": 28.9,
-      "volume": 124975,
+      "volume": 124784,
       "market": "上櫃"
     },
     {
@@ -8016,7 +8016,7 @@ var LOOKUP = {
       "ma60": 76.4,
       "high52": 100.5,
       "low52": 40.9,
-      "volume": 600457,
+      "volume": 592400,
       "market": "上櫃"
     },
     {
@@ -8032,7 +8032,7 @@ var LOOKUP = {
       "ma60": 153.3,
       "high52": 221.0,
       "low52": 89.6,
-      "volume": 6854327,
+      "volume": 6793452,
       "market": "上市"
     },
     {
@@ -8048,7 +8048,7 @@ var LOOKUP = {
       "ma60": 19.8,
       "high52": 21.6,
       "low52": 18.7,
-      "volume": 236369,
+      "volume": 235150,
       "market": "上市"
     },
     {
@@ -8064,7 +8064,7 @@ var LOOKUP = {
       "ma60": 24.1,
       "high52": 25.6,
       "low52": 23.0,
-      "volume": 182883,
+      "volume": 178047,
       "market": "上櫃"
     },
     {
@@ -8080,7 +8080,7 @@ var LOOKUP = {
       "ma60": 31.8,
       "high52": 34.2,
       "low52": 29.4,
-      "volume": 297129,
+      "volume": 297395,
       "market": "上市"
     },
     {
@@ -8096,7 +8096,7 @@ var LOOKUP = {
       "ma60": 23.3,
       "high52": 24.1,
       "low52": 22.8,
-      "volume": 1017227,
+      "volume": 1012359,
       "market": "上市"
     },
     {
@@ -8112,7 +8112,7 @@ var LOOKUP = {
       "ma60": 34.9,
       "high52": 42.1,
       "low52": 29.6,
-      "volume": 19410907,
+      "volume": 19367070,
       "market": "上市"
     },
     {
@@ -8128,7 +8128,7 @@ var LOOKUP = {
       "ma60": 33.8,
       "high52": 39.4,
       "low52": 31.2,
-      "volume": 4008367,
+      "volume": 3989981,
       "market": "上市"
     },
     {
@@ -8144,7 +8144,7 @@ var LOOKUP = {
       "ma60": 35.2,
       "high52": 42.2,
       "low52": 31.4,
-      "volume": 16388414,
+      "volume": 16294050,
       "market": "上市"
     },
     {
@@ -8160,7 +8160,7 @@ var LOOKUP = {
       "ma60": 12.4,
       "high52": 15.0,
       "low52": 11.0,
-      "volume": 1946835,
+      "volume": 1939125,
       "market": "上市"
     },
     {
@@ -8176,7 +8176,7 @@ var LOOKUP = {
       "ma60": 34.3,
       "high52": 37.9,
       "low52": 32.1,
-      "volume": 945991,
+      "volume": 942109,
       "market": "上市"
     },
     {
@@ -8192,7 +8192,7 @@ var LOOKUP = {
       "ma60": 31.8,
       "high52": 33.9,
       "low52": 30.5,
-      "volume": 132361,
+      "volume": 132125,
       "market": "上市"
     },
     {
@@ -8208,7 +8208,7 @@ var LOOKUP = {
       "ma60": 45.0,
       "high52": 47.7,
       "low52": 42.7,
-      "volume": 144754,
+      "volume": 143000,
       "market": "上市"
     },
     {
@@ -8224,7 +8224,7 @@ var LOOKUP = {
       "ma60": 22.4,
       "high52": 25.0,
       "low52": 20.4,
-      "volume": 1389942,
+      "volume": 1375092,
       "market": "上市"
     },
     {
@@ -8240,7 +8240,7 @@ var LOOKUP = {
       "ma60": 16.1,
       "high52": 24.5,
       "low52": 14.2,
-      "volume": 4479618,
+      "volume": 4447432,
       "market": "上市"
     },
     {
@@ -8256,7 +8256,7 @@ var LOOKUP = {
       "ma60": 40.4,
       "high52": 45.2,
       "low52": 38.0,
-      "volume": 862536,
+      "volume": 855841,
       "market": "上市"
     },
     {
@@ -8272,7 +8272,7 @@ var LOOKUP = {
       "ma60": 224.0,
       "high52": 255.0,
       "low52": 176.5,
-      "volume": 394855,
+      "volume": 392055,
       "market": "上市"
     },
     {
@@ -8288,7 +8288,7 @@ var LOOKUP = {
       "ma60": 10.5,
       "high52": 12.0,
       "low52": 9.7,
-      "volume": 175267,
+      "volume": 170136,
       "market": "上市"
     },
     {
@@ -8304,7 +8304,7 @@ var LOOKUP = {
       "ma60": 32.3,
       "high52": 35.2,
       "low52": 30.8,
-      "volume": 731330,
+      "volume": 719623,
       "market": "上市"
     },
     {
@@ -8320,7 +8320,7 @@ var LOOKUP = {
       "ma60": 103.1,
       "high52": 117.5,
       "low52": 90.7,
-      "volume": 715961,
+      "volume": 701106,
       "market": "上市"
     },
     {
@@ -8336,7 +8336,7 @@ var LOOKUP = {
       "ma60": 42.6,
       "high52": 60.7,
       "low52": 35.7,
-      "volume": 33220642,
+      "volume": 33043221,
       "market": "上市"
     },
     {
@@ -8352,7 +8352,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 23.7,
       "low52": 18.0,
-      "volume": 4679829,
+      "volume": 4667881,
       "market": "上市"
     },
     {
@@ -8368,7 +8368,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 18.9,
       "low52": 11.5,
-      "volume": 43220884,
+      "volume": 43149020,
       "market": "上市"
     },
     {
@@ -8384,7 +8384,7 @@ var LOOKUP = {
       "ma60": 49.0,
       "high52": 62.0,
       "low52": 33.3,
-      "volume": 8082892,
+      "volume": 8043508,
       "market": "上市"
     },
     {
@@ -8400,7 +8400,7 @@ var LOOKUP = {
       "ma60": 40.7,
       "high52": 43.5,
       "low52": 38.8,
-      "volume": 879877,
+      "volume": 873793,
       "market": "上市"
     },
     {
@@ -8416,7 +8416,7 @@ var LOOKUP = {
       "ma60": 48.4,
       "high52": 50.5,
       "low52": 46.2,
-      "volume": 132707,
+      "volume": 131000,
       "market": "上市"
     },
     {
@@ -8432,7 +8432,7 @@ var LOOKUP = {
       "ma60": 12.3,
       "high52": 22.8,
       "low52": 9.1,
-      "volume": 16629772,
+      "volume": 16583219,
       "market": "上市"
     },
     {
@@ -8448,7 +8448,7 @@ var LOOKUP = {
       "ma60": 76.9,
       "high52": 84.5,
       "low52": 60.2,
-      "volume": 60540587,
+      "volume": 59813820,
       "market": "上市"
     },
     {
@@ -8464,7 +8464,7 @@ var LOOKUP = {
       "ma60": 8.1,
       "high52": 14.9,
       "low52": 6.3,
-      "volume": 148795754,
+      "volume": 148531692,
       "market": "上市"
     },
     {
@@ -8480,7 +8480,7 @@ var LOOKUP = {
       "ma60": 62.2,
       "high52": 63.9,
       "low52": 60.7,
-      "volume": 419410,
+      "volume": 416166,
       "market": "上市"
     },
     {
@@ -8496,7 +8496,7 @@ var LOOKUP = {
       "ma60": 25.9,
       "high52": 34.8,
       "low52": 16.5,
-      "volume": 2950499,
+      "volume": 2934503,
       "market": "上市"
     },
     {
@@ -8512,7 +8512,7 @@ var LOOKUP = {
       "ma60": 46.9,
       "high52": 50.7,
       "low52": 44.2,
-      "volume": 3191367,
+      "volume": 3164401,
       "market": "上市"
     },
     {
@@ -8528,7 +8528,7 @@ var LOOKUP = {
       "ma60": 82.2,
       "high52": 90.0,
       "low52": 77.1,
-      "volume": 458444,
+      "volume": 452463,
       "market": "上市"
     },
     {
@@ -8544,7 +8544,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 39.9,
       "low52": 27.6,
-      "volume": 214382,
+      "volume": 213000,
       "market": "上市"
     },
     {
@@ -8560,7 +8560,7 @@ var LOOKUP = {
       "ma60": 77.2,
       "high52": 79.2,
       "low52": 75.0,
-      "volume": 30261,
+      "volume": 30045,
       "market": "上市"
     },
     {
@@ -8576,7 +8576,7 @@ var LOOKUP = {
       "ma60": 82.5,
       "high52": 104.3,
       "low52": 47.0,
-      "volume": 4305266,
+      "volume": 4260449,
       "market": "上市"
     },
     {
@@ -8592,7 +8592,7 @@ var LOOKUP = {
       "ma60": 49.9,
       "high52": 51.2,
       "low52": 49.5,
-      "volume": 312887,
+      "volume": 305676,
       "market": "上市"
     },
     {
@@ -8608,7 +8608,7 @@ var LOOKUP = {
       "ma60": 20.5,
       "high52": 20.8,
       "low52": 20.1,
-      "volume": 94315,
+      "volume": 93000,
       "market": "上市"
     },
     {
@@ -8624,7 +8624,7 @@ var LOOKUP = {
       "ma60": 26.3,
       "high52": 27.1,
       "low52": 25.4,
-      "volume": 275469,
+      "volume": 275020,
       "market": "上市"
     },
     {
@@ -8640,7 +8640,7 @@ var LOOKUP = {
       "ma60": 28.4,
       "high52": 29.9,
       "low52": 27.0,
-      "volume": 142799,
+      "volume": 141014,
       "market": "上市"
     },
     {
@@ -8656,7 +8656,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 33.6,
       "low52": 30.5,
-      "volume": 573999,
+      "volume": 558967,
       "market": "上市"
     },
     {
@@ -8672,7 +8672,7 @@ var LOOKUP = {
       "ma60": 25.0,
       "high52": 29.6,
       "low52": 21.4,
-      "volume": 401885,
+      "volume": 399000,
       "market": "上市"
     },
     {
@@ -8688,7 +8688,7 @@ var LOOKUP = {
       "ma60": 119.6,
       "high52": 134.0,
       "low52": 108.0,
-      "volume": 878720,
+      "volume": 870125,
       "market": "上市"
     },
     {
@@ -8704,7 +8704,7 @@ var LOOKUP = {
       "ma60": 31.7,
       "high52": 32.2,
       "low52": 31.4,
-      "volume": 137343,
+      "volume": 134877,
       "market": "上市"
     },
     {
@@ -8720,7 +8720,7 @@ var LOOKUP = {
       "ma60": 15.5,
       "high52": 16.4,
       "low52": 14.6,
-      "volume": 35827,
+      "volume": 35007,
       "market": "上櫃"
     },
     {
@@ -8736,7 +8736,7 @@ var LOOKUP = {
       "ma60": 31.9,
       "high52": 34.2,
       "low52": 30.8,
-      "volume": 60861,
+      "volume": 59245,
       "market": "上市"
     },
     {
@@ -8752,7 +8752,7 @@ var LOOKUP = {
       "ma60": 61.1,
       "high52": 67.8,
       "low52": 58.0,
-      "volume": 509664,
+      "volume": 502003,
       "market": "上市"
     },
     {
@@ -8768,7 +8768,7 @@ var LOOKUP = {
       "ma60": 34.8,
       "high52": 42.3,
       "low52": 27.5,
-      "volume": 216845,
+      "volume": 215126,
       "market": "上市"
     },
     {
@@ -8784,7 +8784,7 @@ var LOOKUP = {
       "ma60": 169.6,
       "high52": 190.6,
       "low52": 142.2,
-      "volume": 752747,
+      "volume": 729453,
       "market": "上市"
     },
     {
@@ -8800,7 +8800,7 @@ var LOOKUP = {
       "ma60": 17.4,
       "high52": 20.5,
       "low52": 14.9,
-      "volume": 179672,
+      "volume": 178117,
       "market": "上市"
     },
     {
@@ -8816,7 +8816,7 @@ var LOOKUP = {
       "ma60": 71.4,
       "high52": 72.7,
       "low52": 70.6,
-      "volume": 31290,
+      "volume": 31000,
       "market": "上櫃"
     },
     {
@@ -8832,7 +8832,7 @@ var LOOKUP = {
       "ma60": 29.2,
       "high52": 34.6,
       "low52": 24.5,
-      "volume": 147845,
+      "volume": 147000,
       "market": "上櫃"
     },
     {
@@ -8848,7 +8848,7 @@ var LOOKUP = {
       "ma60": 11.3,
       "high52": 12.1,
       "low52": 10.2,
-      "volume": 67113,
+      "volume": 67000,
       "market": "上櫃"
     },
     {
@@ -8864,7 +8864,7 @@ var LOOKUP = {
       "ma60": 39.4,
       "high52": 43.0,
       "low52": 38.1,
-      "volume": 180971,
+      "volume": 178056,
       "market": "上市"
     },
     {
@@ -8880,7 +8880,7 @@ var LOOKUP = {
       "ma60": 71.5,
       "high52": 84.3,
       "low52": 64.8,
-      "volume": 312445,
+      "volume": 309136,
       "market": "上櫃"
     },
     {
@@ -8896,7 +8896,7 @@ var LOOKUP = {
       "ma60": 147.6,
       "high52": 185.0,
       "low52": 89.8,
-      "volume": 39766498,
+      "volume": 39363279,
       "market": "上櫃"
     },
     {
@@ -8912,7 +8912,7 @@ var LOOKUP = {
       "ma60": 56.7,
       "high52": 62.9,
       "low52": 51.5,
-      "volume": 292874,
+      "volume": 286001,
       "market": "上市"
     },
     {
@@ -8928,7 +8928,7 @@ var LOOKUP = {
       "ma60": 128.8,
       "high52": 131.0,
       "low52": 127.1,
-      "volume": 38787,
+      "volume": 35030,
       "market": "上櫃"
     },
     {
@@ -8944,7 +8944,7 @@ var LOOKUP = {
       "ma60": 19.9,
       "high52": 21.6,
       "low52": 18.7,
-      "volume": 1465577,
+      "volume": 1460285,
       "market": "上市"
     },
     {
@@ -8960,7 +8960,7 @@ var LOOKUP = {
       "ma60": 206.7,
       "high52": 237.0,
       "low52": 183.0,
-      "volume": 3806688,
+      "volume": 3672691,
       "market": "上市"
     },
     {
@@ -8976,7 +8976,7 @@ var LOOKUP = {
       "ma60": 36.4,
       "high52": 41.1,
       "low52": 31.9,
-      "volume": 16066,
+      "volume": 16000,
       "market": "上櫃"
     },
     {
@@ -8992,7 +8992,7 @@ var LOOKUP = {
       "ma60": 35.4,
       "high52": 43.5,
       "low52": 30.2,
-      "volume": 189072,
+      "volume": 188000,
       "market": "上櫃"
     },
     {
@@ -9008,7 +9008,7 @@ var LOOKUP = {
       "ma60": 68.4,
       "high52": 76.6,
       "low52": 53.7,
-      "volume": 37996296,
+      "volume": 37650537,
       "market": "上市"
     },
     {
@@ -9024,7 +9024,7 @@ var LOOKUP = {
       "ma60": 10.5,
       "high52": 12.1,
       "low52": 10.0,
-      "volume": 100306,
+      "volume": 101625,
       "market": "上市"
     },
     {
@@ -9040,7 +9040,7 @@ var LOOKUP = {
       "ma60": 8.2,
       "high52": 8.9,
       "low52": 7.9,
-      "volume": 1953306,
+      "volume": 1939529,
       "market": "上市"
     },
     {
@@ -9056,7 +9056,7 @@ var LOOKUP = {
       "ma60": 30.0,
       "high52": 32.6,
       "low52": 28.1,
-      "volume": 932555,
+      "volume": 920952,
       "market": "上市"
     },
     {
@@ -9072,7 +9072,7 @@ var LOOKUP = {
       "ma60": 41.3,
       "high52": 59.6,
       "low52": 24.7,
-      "volume": 4114570,
+      "volume": 4093366,
       "market": "上市"
     },
     {
@@ -9088,7 +9088,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 23.2,
       "low52": 16.8,
-      "volume": 20369219,
+      "volume": 20344060,
       "market": "上市"
     },
     {
@@ -9104,7 +9104,7 @@ var LOOKUP = {
       "ma60": 12.3,
       "high52": 13.6,
       "low52": 11.7,
-      "volume": 26856,
+      "volume": 18141,
       "market": "上櫃"
     },
     {
@@ -9120,7 +9120,7 @@ var LOOKUP = {
       "ma60": 106.3,
       "high52": 127.0,
       "low52": 90.1,
-      "volume": 12388862,
+      "volume": 12255262,
       "market": "上櫃"
     },
     {
@@ -9136,7 +9136,7 @@ var LOOKUP = {
       "ma60": 37.2,
       "high52": 38.9,
       "low52": 36.4,
-      "volume": 55824,
+      "volume": 55000,
       "market": "上市"
     },
     {
@@ -9152,7 +9152,7 @@ var LOOKUP = {
       "ma60": 48.7,
       "high52": 50.3,
       "low52": 46.5,
-      "volume": 301352,
+      "volume": 299000,
       "market": "上市"
     },
     {
@@ -9168,7 +9168,7 @@ var LOOKUP = {
       "ma60": 19.6,
       "high52": 23.2,
       "low52": 17.1,
-      "volume": 6011731,
+      "volume": 5959287,
       "market": "上市"
     },
     {
@@ -9184,7 +9184,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 18.5,
       "low52": 11.8,
-      "volume": 6964171,
+      "volume": 6930559,
       "market": "上市"
     },
     {
@@ -9200,7 +9200,7 @@ var LOOKUP = {
       "ma60": 11.2,
       "high52": 12.6,
       "low52": 10.1,
-      "volume": 180589,
+      "volume": 177319,
       "market": "上市"
     },
     {
@@ -9216,7 +9216,7 @@ var LOOKUP = {
       "ma60": 25.4,
       "high52": 28.2,
       "low52": 23.5,
-      "volume": 2066659,
+      "volume": 2047203,
       "market": "上市"
     },
     {
@@ -9232,7 +9232,7 @@ var LOOKUP = {
       "ma60": 9.4,
       "high52": 10.3,
       "low52": 8.9,
-      "volume": 10804779,
+      "volume": 10816673,
       "market": "上市"
     },
     {
@@ -9248,7 +9248,7 @@ var LOOKUP = {
       "ma60": 19.0,
       "high52": 20.5,
       "low52": 18.1,
-      "volume": 41019714,
+      "volume": 40978182,
       "market": "上市"
     },
     {
@@ -9264,7 +9264,7 @@ var LOOKUP = {
       "ma60": 67.9,
       "high52": 71.8,
       "low52": 64.8,
-      "volume": 2069317,
+      "volume": 2048551,
       "market": "上市"
     },
     {
@@ -9280,7 +9280,7 @@ var LOOKUP = {
       "ma60": 7.5,
       "high52": 8.1,
       "low52": 6.9,
-      "volume": 562657,
+      "volume": 559100,
       "market": "上市"
     },
     {
@@ -9296,7 +9296,7 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 31.5,
       "low52": 27.0,
-      "volume": 19542,
+      "volume": 19000,
       "market": "上市"
     },
     {
@@ -9312,7 +9312,7 @@ var LOOKUP = {
       "ma60": 39.6,
       "high52": 45.2,
       "low52": 37.5,
-      "volume": 2529831,
+      "volume": 2508001,
       "market": "上市"
     },
     {
@@ -9328,7 +9328,7 @@ var LOOKUP = {
       "ma60": 22.0,
       "high52": 23.3,
       "low52": 20.3,
-      "volume": 1869903,
+      "volume": 1860580,
       "market": "上市"
     },
     {
@@ -9344,7 +9344,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 16.9,
       "low52": 14.1,
-      "volume": 171644,
+      "volume": 170170,
       "market": "上市"
     },
     {
@@ -9360,7 +9360,7 @@ var LOOKUP = {
       "ma60": 40.7,
       "high52": 42.1,
       "low52": 39.5,
-      "volume": 363823,
+      "volume": 348241,
       "market": "上市"
     },
     {
@@ -9376,7 +9376,7 @@ var LOOKUP = {
       "ma60": 17.9,
       "high52": 18.9,
       "low52": 17.0,
-      "volume": 5793706,
+      "volume": 5773399,
       "market": "上市"
     },
     {
@@ -9392,7 +9392,7 @@ var LOOKUP = {
       "ma60": 62.2,
       "high52": 64.3,
       "low52": 60.2,
-      "volume": 304820,
+      "volume": 303079,
       "market": "上市"
     },
     {
@@ -9408,7 +9408,7 @@ var LOOKUP = {
       "ma60": 9.1,
       "high52": 9.9,
       "low52": 8.5,
-      "volume": 812015,
+      "volume": 805019,
       "market": "上市"
     },
     {
@@ -9424,7 +9424,7 @@ var LOOKUP = {
       "ma60": 21.9,
       "high52": 23.7,
       "low52": 21.0,
-      "volume": 362254,
+      "volume": 359000,
       "market": "上市"
     },
     {
@@ -9440,7 +9440,7 @@ var LOOKUP = {
       "ma60": 8.0,
       "high52": 9.2,
       "low52": 7.5,
-      "volume": 1253389,
+      "volume": 1231844,
       "market": "上市"
     },
     {
@@ -9456,7 +9456,7 @@ var LOOKUP = {
       "ma60": 13.9,
       "high52": 14.4,
       "low52": 13.4,
-      "volume": 2740928,
+      "volume": 2734681,
       "market": "上市"
     },
     {
@@ -9472,7 +9472,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 14.9,
       "low52": 13.1,
-      "volume": 15109,
+      "volume": 15002,
       "market": "上市"
     },
     {
@@ -9488,7 +9488,7 @@ var LOOKUP = {
       "ma60": 12.5,
       "high52": 15.3,
       "low52": 10.9,
-      "volume": 804260,
+      "volume": 800571,
       "market": "上市"
     },
     {
@@ -9504,7 +9504,7 @@ var LOOKUP = {
       "ma60": 40.2,
       "high52": 44.1,
       "low52": 36.2,
-      "volume": 7391946,
+      "volume": 7361013,
       "market": "上市"
     },
     {
@@ -9520,7 +9520,7 @@ var LOOKUP = {
       "ma60": 17.2,
       "high52": 19.5,
       "low52": 16.0,
-      "volume": 173909,
+      "volume": 172039,
       "market": "上市"
     },
     {
@@ -9536,7 +9536,7 @@ var LOOKUP = {
       "ma60": 20.5,
       "high52": 21.2,
       "low52": 20.0,
-      "volume": 179037,
+      "volume": 178000,
       "market": "上市"
     },
     {
@@ -9552,7 +9552,7 @@ var LOOKUP = {
       "ma60": 17.2,
       "high52": 20.1,
       "low52": 15.1,
-      "volume": 1581640,
+      "volume": 1575300,
       "market": "上市"
     },
     {
@@ -9568,7 +9568,7 @@ var LOOKUP = {
       "ma60": 37.9,
       "high52": 40.8,
       "low52": 35.8,
-      "volume": 1008063,
+      "volume": 1001001,
       "market": "上市"
     },
     {
@@ -9584,7 +9584,7 @@ var LOOKUP = {
       "ma60": 16.9,
       "high52": 18.6,
       "low52": 15.2,
-      "volume": 654546,
+      "volume": 653463,
       "market": "上市"
     },
     {
@@ -9600,7 +9600,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 16.9,
       "low52": 14.9,
-      "volume": 116231,
+      "volume": 116000,
       "market": "上市"
     },
     {
@@ -9616,7 +9616,7 @@ var LOOKUP = {
       "ma60": 20.5,
       "high52": 22.0,
       "low52": 19.6,
-      "volume": 2089361,
+      "volume": 2078491,
       "market": "上市"
     },
     {
@@ -9632,7 +9632,7 @@ var LOOKUP = {
       "ma60": 28.0,
       "high52": 28.6,
       "low52": 27.4,
-      "volume": 9113,
+      "volume": 9001,
       "market": "上櫃"
     },
     {
@@ -9648,7 +9648,7 @@ var LOOKUP = {
       "ma60": 14.0,
       "high52": 15.5,
       "low52": 13.1,
-      "volume": 795924,
+      "volume": 792583,
       "market": "上市"
     },
     {
@@ -9664,7 +9664,7 @@ var LOOKUP = {
       "ma60": 333.5,
       "high52": 409.5,
       "low52": 234.0,
-      "volume": 3046635,
+      "volume": 2942856,
       "market": "上市"
     },
     {
@@ -9680,7 +9680,7 @@ var LOOKUP = {
       "ma60": 5288.3,
       "high52": 8000.0,
       "low52": 3175.0,
-      "volume": 393130,
+      "volume": 370162,
       "market": "上市"
     },
     {
@@ -9696,7 +9696,7 @@ var LOOKUP = {
       "ma60": 32.9,
       "high52": 74.2,
       "low52": 15.4,
-      "volume": 778854,
+      "volume": 769796,
       "market": "上櫃"
     },
     {
@@ -9712,7 +9712,7 @@ var LOOKUP = {
       "ma60": 19.9,
       "high52": 22.7,
       "low52": 18.2,
-      "volume": 337461,
+      "volume": 336300,
       "market": "上市"
     },
     {
@@ -9728,7 +9728,7 @@ var LOOKUP = {
       "ma60": 25.5,
       "high52": 27.4,
       "low52": 23.9,
-      "volume": 24253,
+      "volume": 24026,
       "market": "上櫃"
     },
     {
@@ -9744,7 +9744,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 15.4,
       "low52": 11.5,
-      "volume": 11055,
+      "volume": 11000,
       "market": "上櫃"
     },
     {
@@ -9760,7 +9760,7 @@ var LOOKUP = {
       "ma60": 32.5,
       "high52": 36.2,
       "low52": 28.5,
-      "volume": 93138,
+      "volume": 92571,
       "market": "上櫃"
     },
     {
@@ -9776,7 +9776,7 @@ var LOOKUP = {
       "ma60": 55.8,
       "high52": 73.0,
       "low52": 44.1,
-      "volume": 96066,
+      "volume": 95000,
       "market": "上櫃"
     },
     {
@@ -9792,7 +9792,7 @@ var LOOKUP = {
       "ma60": 6.8,
       "high52": 8.0,
       "low52": 6.2,
-      "volume": 31331,
+      "volume": 31000,
       "market": "上櫃"
     },
     {
@@ -9808,7 +9808,7 @@ var LOOKUP = {
       "ma60": 18.4,
       "high52": 19.4,
       "low52": 17.5,
-      "volume": 165616,
+      "volume": 165000,
       "market": "上市"
     },
     {
@@ -9824,23 +9824,23 @@ var LOOKUP = {
       "ma60": 61.9,
       "high52": 82.4,
       "low52": 37.0,
-      "volume": 244442,
+      "volume": 242040,
       "market": "上櫃"
     },
     {
       "code": "2071",
       "name": "震南鐵",
       "industry": "鋼鐵",
-      "close": 25.1,
-      "change_amount": 1.4,
-      "change_pct": 5.91,
+      "close": 25.0,
+      "change_amount": 1.3,
+      "change_pct": 5.49,
       "ma5": 24.7,
       "ma10": 25.1,
       "ma20": 23.1,
       "ma60": 22.1,
       "high52": 26.1,
       "low52": 20.0,
-      "volume": 1751500,
+      "volume": 2039500,
       "market": "興櫃"
     },
     {
@@ -9856,7 +9856,7 @@ var LOOKUP = {
       "ma60": 175.0,
       "high52": 199.0,
       "low52": 147.0,
-      "volume": 755201,
+      "volume": 748162,
       "market": "上市"
     },
     {
@@ -9872,7 +9872,7 @@ var LOOKUP = {
       "ma60": 26.2,
       "high52": 27.5,
       "low52": 25.1,
-      "volume": 2001,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -9888,7 +9888,7 @@ var LOOKUP = {
       "ma60": 32.9,
       "high52": 37.1,
       "low52": 29.8,
-      "volume": 3849716,
+      "volume": 3809918,
       "market": "上市"
     },
     {
@@ -9904,7 +9904,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 20.1,
       "low52": 17.8,
-      "volume": 600684,
+      "volume": 595865,
       "market": "上市"
     },
     {
@@ -9920,7 +9920,7 @@ var LOOKUP = {
       "ma60": 20.2,
       "high52": 23.5,
       "low52": 18.3,
-      "volume": 20830671,
+      "volume": 20757931,
       "market": "上市"
     },
     {
@@ -9936,7 +9936,7 @@ var LOOKUP = {
       "ma60": 10.6,
       "high52": 12.2,
       "low52": 9.7,
-      "volume": 10698695,
+      "volume": 10682702,
       "market": "上市"
     },
     {
@@ -9952,7 +9952,7 @@ var LOOKUP = {
       "ma60": 30.7,
       "high52": 33.1,
       "low52": 29.2,
-      "volume": 28034282,
+      "volume": 27970642,
       "market": "上市"
     },
     {
@@ -9968,7 +9968,7 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 18.0,
       "low52": 16.0,
-      "volume": 1667252,
+      "volume": 1659442,
       "market": "上市"
     },
     {
@@ -9984,7 +9984,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 25.9,
       "low52": 23.4,
-      "volume": 579425,
+      "volume": 578571,
       "market": "上市"
     },
     {
@@ -10000,7 +10000,7 @@ var LOOKUP = {
       "ma60": 27.7,
       "high52": 32.2,
       "low52": 25.1,
-      "volume": 3226621,
+      "volume": 3211450,
       "market": "上市"
     },
     {
@@ -10016,7 +10016,7 @@ var LOOKUP = {
       "ma60": 14.4,
       "high52": 14.9,
       "low52": 13.9,
-      "volume": 618170,
+      "volume": 614831,
       "market": "上市"
     },
     {
@@ -10032,7 +10032,7 @@ var LOOKUP = {
       "ma60": 86.1,
       "high52": 90.5,
       "low52": 82.6,
-      "volume": 164281,
+      "volume": 162464,
       "market": "上市"
     },
     {
@@ -10048,7 +10048,7 @@ var LOOKUP = {
       "ma60": 20.1,
       "high52": 21.2,
       "low52": 18.6,
-      "volume": 63540,
+      "volume": 63000,
       "market": "上市"
     },
     {
@@ -10064,7 +10064,7 @@ var LOOKUP = {
       "ma60": 27.4,
       "high52": 29.1,
       "low52": 26.4,
-      "volume": 7687489,
+      "volume": 7647678,
       "market": "上市"
     },
     {
@@ -10080,7 +10080,7 @@ var LOOKUP = {
       "ma60": 54.4,
       "high52": 57.1,
       "low52": 51.9,
-      "volume": 1373671,
+      "volume": 1363215,
       "market": "上市"
     },
     {
@@ -10096,7 +10096,7 @@ var LOOKUP = {
       "ma60": 59.7,
       "high52": 64.0,
       "low52": 55.5,
-      "volume": 2730765,
+      "volume": 2708045,
       "market": "上市"
     },
     {
@@ -10112,7 +10112,7 @@ var LOOKUP = {
       "ma60": 466.2,
       "high52": 497.8,
       "low52": 437.4,
-      "volume": 326497,
+      "volume": 319176,
       "market": "上市"
     },
     {
@@ -10128,7 +10128,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 21.7,
       "low52": 17.2,
-      "volume": 19240905,
+      "volume": 19135137,
       "market": "上市"
     },
     {
@@ -10144,7 +10144,7 @@ var LOOKUP = {
       "ma60": 95.9,
       "high52": 101.0,
       "low52": 91.4,
-      "volume": 831528,
+      "volume": 828010,
       "market": "上市"
     },
     {
@@ -10160,7 +10160,7 @@ var LOOKUP = {
       "ma60": 41.4,
       "high52": 52.8,
       "low52": 30.9,
-      "volume": 283301,
+      "volume": 281200,
       "market": "上櫃"
     },
     {
@@ -10176,7 +10176,7 @@ var LOOKUP = {
       "ma60": 51.0,
       "high52": 55.8,
       "low52": 48.4,
-      "volume": 53742,
+      "volume": 52006,
       "market": "上市"
     },
     {
@@ -10192,7 +10192,7 @@ var LOOKUP = {
       "ma60": 86.8,
       "high52": 91.6,
       "low52": 80.4,
-      "volume": 174775,
+      "volume": 173017,
       "market": "上市"
     },
     {
@@ -10208,7 +10208,7 @@ var LOOKUP = {
       "ma60": 27.8,
       "high52": 34.2,
       "low52": 24.4,
-      "volume": 133358,
+      "volume": 131186,
       "market": "上櫃"
     },
     {
@@ -10224,7 +10224,7 @@ var LOOKUP = {
       "ma60": 109.5,
       "high52": 142.5,
       "low52": 88.2,
-      "volume": 5810697,
+      "volume": 5768906,
       "market": "上市"
     },
     {
@@ -10240,7 +10240,7 @@ var LOOKUP = {
       "ma60": 286.1,
       "high52": 381.5,
       "low52": 193.0,
-      "volume": 2104240,
+      "volume": 2039232,
       "market": "上市"
     },
     {
@@ -10256,7 +10256,7 @@ var LOOKUP = {
       "ma60": 31.0,
       "high52": 34.3,
       "low52": 29.4,
-      "volume": 11001,
+      "volume": 11000,
       "market": "上櫃"
     },
     {
@@ -10272,7 +10272,7 @@ var LOOKUP = {
       "ma60": 136.7,
       "high52": 184.0,
       "low52": 112.5,
-      "volume": 2152685,
+      "volume": 2139522,
       "market": "上市"
     },
     {
@@ -10288,7 +10288,7 @@ var LOOKUP = {
       "ma60": 36.1,
       "high52": 40.2,
       "low52": 30.5,
-      "volume": 162404,
+      "volume": 170404,
       "market": "興櫃"
     },
     {
@@ -10304,7 +10304,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 25.0,
       "low52": 21.4,
-      "volume": 245526,
+      "volume": 245000,
       "market": "上市"
     },
     {
@@ -10320,7 +10320,7 @@ var LOOKUP = {
       "ma60": 36.2,
       "high52": 51.6,
       "low52": 27.1,
-      "volume": 1780730,
+      "volume": 1775026,
       "market": "上市"
     },
     {
@@ -10336,7 +10336,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 65.9,
       "low52": 20.6,
-      "volume": 398788,
+      "volume": 397831,
       "market": "上市"
     },
     {
@@ -10368,7 +10368,7 @@ var LOOKUP = {
       "ma60": 223.7,
       "high52": 244.0,
       "low52": 204.0,
-      "volume": 43266,
+      "volume": 41150,
       "market": "上市"
     },
     {
@@ -10384,23 +10384,23 @@ var LOOKUP = {
       "ma60": 55.4,
       "high52": 59.9,
       "low52": 48.5,
-      "volume": 100550,
+      "volume": 102000,
       "market": "上市"
     },
     {
       "code": "2249",
       "name": "湧盛",
       "industry": "電機機械",
-      "close": 115.5,
-      "change_amount": 3.5,
-      "change_pct": 3.12,
-      "ma5": 112.0,
+      "close": 115.0,
+      "change_amount": 3.0,
+      "change_pct": 2.68,
+      "ma5": 111.9,
       "ma10": 111.8,
-      "ma20": 113.9,
+      "ma20": 113.8,
       "ma60": 119.1,
       "high52": 130.0,
       "low52": 109.0,
-      "volume": 46149,
+      "volume": 47320,
       "market": "興櫃"
     },
     {
@@ -10416,23 +10416,23 @@ var LOOKUP = {
       "ma60": 63.1,
       "high52": 75.4,
       "low52": 60.5,
-      "volume": 1837313,
+      "volume": 1836057,
       "market": "上市"
     },
     {
       "code": "2252",
       "name": "為昇科",
       "industry": "文化創意",
-      "close": 19.6,
-      "change_amount": 1.0,
-      "change_pct": 5.38,
+      "close": 19.7,
+      "change_amount": 1.1,
+      "change_pct": 5.91,
       "ma5": 18.2,
       "ma10": 18.0,
       "ma20": 17.1,
       "ma60": 18.4,
       "high52": 23.0,
       "low52": 15.3,
-      "volume": 373420,
+      "volume": 380420,
       "market": "興櫃"
     },
     {
@@ -10455,32 +10455,32 @@ var LOOKUP = {
       "code": "2255",
       "name": "凱銳光電",
       "industry": "文化創意",
-      "close": 17.5,
-      "change_amount": -0.4,
-      "change_pct": -1.96,
+      "close": 17.6,
+      "change_amount": -0.3,
+      "change_pct": -1.68,
       "ma5": 18.0,
       "ma10": 18.0,
       "ma20": 18.0,
-      "ma60": 19.3,
+      "ma60": 19.4,
       "high52": 26.0,
       "low52": 17.4,
-      "volume": 102858,
+      "volume": 104858,
       "market": "興櫃"
     },
     {
       "code": "2256",
       "name": "歐特明",
       "industry": "文化創意",
-      "close": 70.2,
-      "change_amount": 2.2,
-      "change_pct": 3.24,
-      "ma5": 68.9,
+      "close": 69.9,
+      "change_amount": 1.9,
+      "change_pct": 2.79,
+      "ma5": 68.8,
       "ma10": 69.0,
       "ma20": 72.7,
-      "ma60": 76.3,
+      "ma60": 76.2,
       "high52": 98.2,
       "low52": 54.2,
-      "volume": 79363,
+      "volume": 84413,
       "market": "興櫃"
     },
     {
@@ -10496,7 +10496,7 @@ var LOOKUP = {
       "ma60": 29.9,
       "high52": 34.7,
       "low52": 26.1,
-      "volume": 553515,
+      "volume": 552048,
       "market": "上市"
     },
     {
@@ -10512,7 +10512,7 @@ var LOOKUP = {
       "ma60": 202.5,
       "high52": 250.0,
       "low52": 142.5,
-      "volume": 16944709,
+      "volume": 16656824,
       "market": "上市"
     },
     {
@@ -10528,7 +10528,7 @@ var LOOKUP = {
       "ma60": 30.2,
       "high52": 55.4,
       "low52": 17.6,
-      "volume": 17489099,
+      "volume": 17479500,
       "market": "上市"
     },
     {
@@ -10544,7 +10544,7 @@ var LOOKUP = {
       "ma60": 114.7,
       "high52": 178.5,
       "low52": 58.3,
-      "volume": 75693779,
+      "volume": 75047290,
       "market": "上市"
     },
     {
@@ -10560,7 +10560,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 38.9,
       "low52": 15.7,
-      "volume": 1189323,
+      "volume": 1180357,
       "market": "上市"
     },
     {
@@ -10576,7 +10576,7 @@ var LOOKUP = {
       "ma60": 2100.1,
       "high52": 2506.9,
       "low52": 1507.1,
-      "volume": 15169564,
+      "volume": 14301078,
       "market": "上市"
     },
     {
@@ -10592,7 +10592,7 @@ var LOOKUP = {
       "ma60": 31.4,
       "high52": 42.7,
       "low52": 21.3,
-      "volume": 15712342,
+      "volume": 15631532,
       "market": "上市"
     },
     {
@@ -10608,7 +10608,7 @@ var LOOKUP = {
       "ma60": 253.1,
       "high52": 295.6,
       "low52": 212.4,
-      "volume": 31660096,
+      "volume": 31266464,
       "market": "上市"
     },
     {
@@ -10624,7 +10624,7 @@ var LOOKUP = {
       "ma60": 14.7,
       "high52": 17.0,
       "low52": 12.1,
-      "volume": 109747,
+      "volume": 108514,
       "market": "上市"
     },
     {
@@ -10640,7 +10640,7 @@ var LOOKUP = {
       "ma60": 153.2,
       "high52": 234.5,
       "low52": 92.6,
-      "volume": 1048498,
+      "volume": 1019921,
       "market": "上市"
     },
     {
@@ -10656,7 +10656,7 @@ var LOOKUP = {
       "ma60": 240.6,
       "high52": 300.1,
       "low52": 186.4,
-      "volume": 50441014,
+      "volume": 49052306,
       "market": "上市"
     },
     {
@@ -10688,7 +10688,7 @@ var LOOKUP = {
       "ma60": 10.8,
       "high52": 12.8,
       "low52": 9.4,
-      "volume": 18143596,
+      "volume": 18151351,
       "market": "上市"
     },
     {
@@ -10704,7 +10704,7 @@ var LOOKUP = {
       "ma60": 33.4,
       "high52": 47.0,
       "low52": 26.9,
-      "volume": 38803193,
+      "volume": 38664739,
       "market": "上市"
     },
     {
@@ -10720,7 +10720,7 @@ var LOOKUP = {
       "ma60": 628.4,
       "high52": 1140.0,
       "low52": 254.2,
-      "volume": 38460267,
+      "volume": 36974803,
       "market": "上市"
     },
     {
@@ -10736,7 +10736,7 @@ var LOOKUP = {
       "ma60": 50.3,
       "high52": 60.6,
       "low52": 42.8,
-      "volume": 4490164,
+      "volume": 4458369,
       "market": "上市"
     },
     {
@@ -10752,7 +10752,7 @@ var LOOKUP = {
       "ma60": 56.0,
       "high52": 61.2,
       "low52": 48.5,
-      "volume": 3467765,
+      "volume": 3447563,
       "market": "上市"
     },
     {
@@ -10768,7 +10768,7 @@ var LOOKUP = {
       "ma60": 2259.9,
       "high52": 2510.0,
       "low52": 1855.1,
-      "volume": 29404970,
+      "volume": 26489446,
       "market": "上市"
     },
     {
@@ -10784,7 +10784,7 @@ var LOOKUP = {
       "ma60": 21.3,
       "high52": 25.6,
       "low52": 18.6,
-      "volume": 2550004,
+      "volume": 2542123,
       "market": "上市"
     },
     {
@@ -10800,7 +10800,7 @@ var LOOKUP = {
       "ma60": 15.7,
       "high52": 20.0,
       "low52": 13.6,
-      "volume": 30071076,
+      "volume": 29993900,
       "market": "上市"
     },
     {
@@ -10816,7 +10816,7 @@ var LOOKUP = {
       "ma60": 153.3,
       "high52": 185.5,
       "low52": 120.5,
-      "volume": 52613751,
+      "volume": 51366602,
       "market": "上市"
     },
     {
@@ -10832,7 +10832,7 @@ var LOOKUP = {
       "ma60": 50.4,
       "high52": 57.9,
       "low52": 43.6,
-      "volume": 2390627,
+      "volume": 2368834,
       "market": "上市"
     },
     {
@@ -10848,7 +10848,7 @@ var LOOKUP = {
       "ma60": 36.7,
       "high52": 43.5,
       "low52": 27.5,
-      "volume": 11926856,
+      "volume": 11882019,
       "market": "上市"
     },
     {
@@ -10864,7 +10864,7 @@ var LOOKUP = {
       "ma60": 41.5,
       "high52": 58.6,
       "low52": 28.7,
-      "volume": 3533962,
+      "volume": 3499647,
       "market": "上市"
     },
     {
@@ -10880,7 +10880,7 @@ var LOOKUP = {
       "ma60": 140.5,
       "high52": 222.0,
       "low52": 85.7,
-      "volume": 141735235,
+      "volume": 139567309,
       "market": "上市"
     },
     {
@@ -10896,7 +10896,7 @@ var LOOKUP = {
       "ma60": 2371.4,
       "high52": 2750.0,
       "low52": 1615.0,
-      "volume": 3014841,
+      "volume": 2924605,
       "market": "上市"
     },
     {
@@ -10912,7 +10912,7 @@ var LOOKUP = {
       "ma60": 86.5,
       "high52": 95.0,
       "low52": 78.8,
-      "volume": 9297118,
+      "volume": 9239802,
       "market": "上市"
     },
     {
@@ -10928,7 +10928,7 @@ var LOOKUP = {
       "ma60": 72.6,
       "high52": 80.4,
       "low52": 67.6,
-      "volume": 1603541,
+      "volume": 1572784,
       "market": "上市"
     },
     {
@@ -10944,7 +10944,7 @@ var LOOKUP = {
       "ma60": 13.3,
       "high52": 16.1,
       "low52": 12.1,
-      "volume": 3113733,
+      "volume": 3102116,
       "market": "上市"
     },
     {
@@ -10960,7 +10960,7 @@ var LOOKUP = {
       "ma60": 177.9,
       "high52": 229.0,
       "low52": 109.0,
-      "volume": 4011323,
+      "volume": 3923519,
       "market": "上市"
     },
     {
@@ -10976,7 +10976,7 @@ var LOOKUP = {
       "ma60": 27.9,
       "high52": 34.7,
       "low52": 23.2,
-      "volume": 22915727,
+      "volume": 22854478,
       "market": "上市"
     },
     {
@@ -10992,7 +10992,7 @@ var LOOKUP = {
       "ma60": 30.6,
       "high52": 41.9,
       "low52": 26.1,
-      "volume": 29625951,
+      "volume": 29559429,
       "market": "上市"
     },
     {
@@ -11008,7 +11008,7 @@ var LOOKUP = {
       "ma60": 55.4,
       "high52": 63.3,
       "low52": 48.6,
-      "volume": 3142958,
+      "volume": 3117075,
       "market": "上市"
     },
     {
@@ -11024,7 +11024,7 @@ var LOOKUP = {
       "ma60": 55.7,
       "high52": 67.0,
       "low52": 50.4,
-      "volume": 3258693,
+      "volume": 3223275,
       "market": "上市"
     },
     {
@@ -11040,7 +11040,7 @@ var LOOKUP = {
       "ma60": 58.2,
       "high52": 85.4,
       "low52": 40.8,
-      "volume": 23231651,
+      "volume": 23041933,
       "market": "上市"
     },
     {
@@ -11056,7 +11056,7 @@ var LOOKUP = {
       "ma60": 653.5,
       "high52": 875.1,
       "low52": 517.0,
-      "volume": 3314071,
+      "volume": 3208420,
       "market": "上市"
     },
     {
@@ -11072,7 +11072,7 @@ var LOOKUP = {
       "ma60": 129.1,
       "high52": 150.5,
       "low52": 108.5,
-      "volume": 13475272,
+      "volume": 13365464,
       "market": "上市"
     },
     {
@@ -11088,7 +11088,7 @@ var LOOKUP = {
       "ma60": 2215.1,
       "high52": 2603.0,
       "low52": 1556.8,
-      "volume": 1657840,
+      "volume": 1615368,
       "market": "上市"
     },
     {
@@ -11104,7 +11104,7 @@ var LOOKUP = {
       "ma60": 40.4,
       "high52": 49.6,
       "low52": 35.8,
-      "volume": 1061058,
+      "volume": 1053488,
       "market": "上市"
     },
     {
@@ -11120,7 +11120,7 @@ var LOOKUP = {
       "ma60": 60.5,
       "high52": 76.1,
       "low52": 46.8,
-      "volume": 12935562,
+      "volume": 12918194,
       "market": "上市"
     },
     {
@@ -11136,7 +11136,7 @@ var LOOKUP = {
       "ma60": 67.2,
       "high52": 80.6,
       "low52": 62.8,
-      "volume": 138482,
+      "volume": 135434,
       "market": "上市"
     },
     {
@@ -11152,7 +11152,7 @@ var LOOKUP = {
       "ma60": 35.3,
       "high52": 39.7,
       "low52": 31.2,
-      "volume": 4891842,
+      "volume": 4886219,
       "market": "上市"
     },
     {
@@ -11168,7 +11168,7 @@ var LOOKUP = {
       "ma60": 63.2,
       "high52": 77.5,
       "low52": 52.8,
-      "volume": 8305536,
+      "volume": 8218114,
       "market": "上市"
     },
     {
@@ -11184,7 +11184,7 @@ var LOOKUP = {
       "ma60": 1300.4,
       "high52": 1484.5,
       "low52": 920.5,
-      "volume": 5689608,
+      "volume": 5398538,
       "market": "上市"
     },
     {
@@ -11200,7 +11200,7 @@ var LOOKUP = {
       "ma60": 34.0,
       "high52": 44.5,
       "low52": 28.2,
-      "volume": 8163172,
+      "volume": 8142016,
       "market": "上市"
     },
     {
@@ -11216,7 +11216,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 33.1,
       "low52": 26.2,
-      "volume": 14369460,
+      "volume": 14295460,
       "market": "上市"
     },
     {
@@ -11232,7 +11232,7 @@ var LOOKUP = {
       "ma60": 57.4,
       "high52": 58.8,
       "low52": 55.7,
-      "volume": 294848,
+      "volume": 292423,
       "market": "上市"
     },
     {
@@ -11248,7 +11248,7 @@ var LOOKUP = {
       "ma60": 76.8,
       "high52": 84.7,
       "low52": 67.0,
-      "volume": 4133270,
+      "volume": 4093457,
       "market": "上市"
     },
     {
@@ -11264,7 +11264,7 @@ var LOOKUP = {
       "ma60": 134.9,
       "high52": 232.5,
       "low52": 74.2,
-      "volume": 30819021,
+      "volume": 30517777,
       "market": "上市"
     },
     {
@@ -11280,7 +11280,7 @@ var LOOKUP = {
       "ma60": 319.5,
       "high52": 399.0,
       "low52": 222.5,
-      "volume": 3828262,
+      "volume": 3762157,
       "market": "上市"
     },
     {
@@ -11296,7 +11296,7 @@ var LOOKUP = {
       "ma60": 118.0,
       "high52": 149.0,
       "low52": 88.7,
-      "volume": 9380324,
+      "volume": 9285008,
       "market": "上市"
     },
     {
@@ -11312,7 +11312,7 @@ var LOOKUP = {
       "ma60": 621.3,
       "high52": 900.0,
       "low52": 499.0,
-      "volume": 4441246,
+      "volume": 4209852,
       "market": "上市"
     },
     {
@@ -11328,7 +11328,7 @@ var LOOKUP = {
       "ma60": 20.9,
       "high52": 23.9,
       "low52": 18.1,
-      "volume": 179858,
+      "volume": 170398,
       "market": "上市"
     },
     {
@@ -11344,7 +11344,7 @@ var LOOKUP = {
       "ma60": 343.9,
       "high52": 417.0,
       "low52": 289.0,
-      "volume": 13098566,
+      "volume": 12753585,
       "market": "上市"
     },
     {
@@ -11360,7 +11360,7 @@ var LOOKUP = {
       "ma60": 4792.8,
       "high52": 6080.0,
       "low52": 2885.0,
-      "volume": 3085063,
+      "volume": 2789165,
       "market": "上市"
     },
     {
@@ -11376,7 +11376,7 @@ var LOOKUP = {
       "ma60": 120.6,
       "high52": 139.0,
       "low52": 101.0,
-      "volume": 6183317,
+      "volume": 6147511,
       "market": "上市"
     },
     {
@@ -11392,7 +11392,7 @@ var LOOKUP = {
       "ma60": 40.3,
       "high52": 43.5,
       "low52": 38.2,
-      "volume": 834745,
+      "volume": 830243,
       "market": "上市"
     },
     {
@@ -11408,7 +11408,7 @@ var LOOKUP = {
       "ma60": 73.0,
       "high52": 87.9,
       "low52": 49.7,
-      "volume": 2540574,
+      "volume": 2520382,
       "market": "上市"
     },
     {
@@ -11424,7 +11424,7 @@ var LOOKUP = {
       "ma60": 10.9,
       "high52": 13.2,
       "low52": 9.4,
-      "volume": 3885300,
+      "volume": 3838833,
       "market": "上市"
     },
     {
@@ -11440,7 +11440,7 @@ var LOOKUP = {
       "ma60": 38.1,
       "high52": 44.2,
       "low52": 33.2,
-      "volume": 2774587,
+      "volume": 2748051,
       "market": "上市"
     },
     {
@@ -11456,7 +11456,7 @@ var LOOKUP = {
       "ma60": 68.8,
       "high52": 73.8,
       "low52": 61.7,
-      "volume": 1643607,
+      "volume": 1633067,
       "market": "上市"
     },
     {
@@ -11472,7 +11472,7 @@ var LOOKUP = {
       "ma60": 446.3,
       "high52": 522.0,
       "low52": 322.5,
-      "volume": 2054383,
+      "volume": 1954527,
       "market": "上市"
     },
     {
@@ -11488,7 +11488,7 @@ var LOOKUP = {
       "ma60": 57.9,
       "high52": 64.2,
       "low52": 52.4,
-      "volume": 804431,
+      "volume": 796040,
       "market": "上市"
     },
     {
@@ -11504,7 +11504,7 @@ var LOOKUP = {
       "ma60": 45.2,
       "high52": 54.3,
       "low52": 33.0,
-      "volume": 6193059,
+      "volume": 6168033,
       "market": "上市"
     },
     {
@@ -11520,7 +11520,7 @@ var LOOKUP = {
       "ma60": 27.4,
       "high52": 34.9,
       "low52": 19.4,
-      "volume": 24669566,
+      "volume": 24580254,
       "market": "上市"
     },
     {
@@ -11536,7 +11536,7 @@ var LOOKUP = {
       "ma60": 68.1,
       "high52": 77.7,
       "low52": 51.8,
-      "volume": 2375087,
+      "volume": 2356774,
       "market": "上市"
     },
     {
@@ -11552,7 +11552,7 @@ var LOOKUP = {
       "ma60": 1117.7,
       "high52": 1385.0,
       "low52": 855.0,
-      "volume": 1750196,
+      "volume": 1670773,
       "market": "上市"
     },
     {
@@ -11568,7 +11568,7 @@ var LOOKUP = {
       "ma60": 16.9,
       "high52": 21.7,
       "low52": 14.9,
-      "volume": 2195204,
+      "volume": 2196500,
       "market": "上市"
     },
     {
@@ -11584,7 +11584,7 @@ var LOOKUP = {
       "ma60": 34.2,
       "high52": 41.8,
       "low52": 28.7,
-      "volume": 26754970,
+      "volume": 26676328,
       "market": "上市"
     },
     {
@@ -11600,7 +11600,7 @@ var LOOKUP = {
       "ma60": 322.4,
       "high52": 505.0,
       "low52": 205.0,
-      "volume": 61646202,
+      "volume": 60517156,
       "market": "上市"
     },
     {
@@ -11616,7 +11616,7 @@ var LOOKUP = {
       "ma60": 22.6,
       "high52": 32.7,
       "low52": 16.2,
-      "volume": 230264943,
+      "volume": 230249332,
       "market": "上市"
     },
     {
@@ -11632,7 +11632,7 @@ var LOOKUP = {
       "ma60": 139.1,
       "high52": 146.5,
       "low52": 134.0,
-      "volume": 17624233,
+      "volume": 17551367,
       "market": "上市"
     },
     {
@@ -11648,7 +11648,7 @@ var LOOKUP = {
       "ma60": 50.3,
       "high52": 62.5,
       "low52": 43.2,
-      "volume": 1468012,
+      "volume": 1457000,
       "market": "上市"
     },
     {
@@ -11664,7 +11664,7 @@ var LOOKUP = {
       "ma60": 51.7,
       "high52": 63.3,
       "low52": 42.7,
-      "volume": 251756,
+      "volume": 248033,
       "market": "上市"
     },
     {
@@ -11680,7 +11680,7 @@ var LOOKUP = {
       "ma60": 28.9,
       "high52": 37.9,
       "low52": 26.3,
-      "volume": 1098092,
+      "volume": 1099175,
       "market": "上市"
     },
     {
@@ -11696,7 +11696,7 @@ var LOOKUP = {
       "ma60": 46.4,
       "high52": 56.9,
       "low52": 37.6,
-      "volume": 5594099,
+      "volume": 5579874,
       "market": "上市"
     },
     {
@@ -11712,7 +11712,7 @@ var LOOKUP = {
       "ma60": 31.0,
       "high52": 37.8,
       "low52": 26.9,
-      "volume": 4601091,
+      "volume": 4599062,
       "market": "上市"
     },
     {
@@ -11728,7 +11728,7 @@ var LOOKUP = {
       "ma60": 59.1,
       "high52": 65.3,
       "low52": 50.8,
-      "volume": 332924,
+      "volume": 327223,
       "market": "上市"
     },
     {
@@ -11744,7 +11744,7 @@ var LOOKUP = {
       "ma60": 145.1,
       "high52": 163.0,
       "low52": 120.9,
-      "volume": 1418000,
+      "volume": 1392025,
       "market": "上市"
     },
     {
@@ -11760,7 +11760,7 @@ var LOOKUP = {
       "ma60": 67.1,
       "high52": 82.2,
       "low52": 45.8,
-      "volume": 107003,
+      "volume": 106250,
       "market": "上市"
     },
     {
@@ -11776,7 +11776,7 @@ var LOOKUP = {
       "ma60": 16.8,
       "high52": 25.9,
       "low52": 9.8,
-      "volume": 40011,
+      "volume": 40000,
       "market": "上市"
     },
     {
@@ -11792,7 +11792,7 @@ var LOOKUP = {
       "ma60": 34.5,
       "high52": 45.1,
       "low52": 26.1,
-      "volume": 1794232,
+      "volume": 1781302,
       "market": "上市"
     },
     {
@@ -11808,7 +11808,7 @@ var LOOKUP = {
       "ma60": 67.9,
       "high52": 94.7,
       "low52": 35.5,
-      "volume": 20260255,
+      "volume": 20191841,
       "market": "上市"
     },
     {
@@ -11824,7 +11824,7 @@ var LOOKUP = {
       "ma60": 22.0,
       "high52": 26.6,
       "low52": 20.2,
-      "volume": 15235411,
+      "volume": 15108741,
       "market": "上市"
     },
     {
@@ -11840,7 +11840,7 @@ var LOOKUP = {
       "ma60": 239.2,
       "high52": 342.0,
       "low52": 148.0,
-      "volume": 4561404,
+      "volume": 4415011,
       "market": "上市"
     },
     {
@@ -11856,7 +11856,7 @@ var LOOKUP = {
       "ma60": 46.0,
       "high52": 60.9,
       "low52": 37.9,
-      "volume": 1749864,
+      "volume": 1729130,
       "market": "上市"
     },
     {
@@ -11872,7 +11872,7 @@ var LOOKUP = {
       "ma60": 19.4,
       "high52": 22.0,
       "low52": 18.0,
-      "volume": 257826,
+      "volume": 256453,
       "market": "上市"
     },
     {
@@ -11888,7 +11888,7 @@ var LOOKUP = {
       "ma60": 11.0,
       "high52": 12.1,
       "low52": 10.1,
-      "volume": 788709,
+      "volume": 786001,
       "market": "上市"
     },
     {
@@ -11904,7 +11904,7 @@ var LOOKUP = {
       "ma60": 26.5,
       "high52": 30.3,
       "low52": 24.4,
-      "volume": 85060,
+      "volume": 85000,
       "market": "上市"
     },
     {
@@ -11920,7 +11920,7 @@ var LOOKUP = {
       "ma60": 42.1,
       "high52": 43.3,
       "low52": 40.4,
-      "volume": 44403,
+      "volume": 42008,
       "market": "上市"
     },
     {
@@ -11936,7 +11936,7 @@ var LOOKUP = {
       "ma60": 34.4,
       "high52": 57.7,
       "low52": 29.1,
-      "volume": 2149550,
+      "volume": 2139571,
       "market": "上市"
     },
     {
@@ -11952,7 +11952,7 @@ var LOOKUP = {
       "ma60": 70.1,
       "high52": 78.3,
       "low52": 56.3,
-      "volume": 4211226,
+      "volume": 4174805,
       "market": "上市"
     },
     {
@@ -11968,7 +11968,7 @@ var LOOKUP = {
       "ma60": 22.7,
       "high52": 28.2,
       "low52": 20.6,
-      "volume": 239650,
+      "volume": 239021,
       "market": "上市"
     },
     {
@@ -11984,7 +11984,7 @@ var LOOKUP = {
       "ma60": 89.0,
       "high52": 94.0,
       "low52": 83.7,
-      "volume": 2676728,
+      "volume": 2647625,
       "market": "上市"
     },
     {
@@ -12000,7 +12000,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 20.5,
       "low52": 14.1,
-      "volume": 644873,
+      "volume": 640000,
       "market": "上市"
     },
     {
@@ -12016,7 +12016,7 @@ var LOOKUP = {
       "ma60": 113.4,
       "high52": 142.5,
       "low52": 84.0,
-      "volume": 4996817,
+      "volume": 4942155,
       "market": "上市"
     },
     {
@@ -12032,7 +12032,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 20.6,
       "low52": 18.2,
-      "volume": 1901543,
+      "volume": 1897299,
       "market": "上市"
     },
     {
@@ -12048,7 +12048,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 14.1,
       "low52": 12.1,
-      "volume": 333841,
+      "volume": 586102,
       "market": "上市"
     },
     {
@@ -12064,7 +12064,7 @@ var LOOKUP = {
       "ma60": 303.6,
       "high52": 354.0,
       "low52": 268.0,
-      "volume": 31526191,
+      "volume": 30837435,
       "market": "上市"
     },
     {
@@ -12080,7 +12080,7 @@ var LOOKUP = {
       "ma60": 28.6,
       "high52": 29.9,
       "low52": 27.6,
-      "volume": 149404,
+      "volume": 147000,
       "market": "上市"
     },
     {
@@ -12096,7 +12096,7 @@ var LOOKUP = {
       "ma60": 284.0,
       "high52": 348.9,
       "low52": 223.7,
-      "volume": 2958997,
+      "volume": 2890509,
       "market": "上市"
     },
     {
@@ -12112,7 +12112,7 @@ var LOOKUP = {
       "ma60": 56.3,
       "high52": 63.9,
       "low52": 52.1,
-      "volume": 318015,
+      "volume": 315000,
       "market": "上市"
     },
     {
@@ -12128,7 +12128,7 @@ var LOOKUP = {
       "ma60": 3504.8,
       "high52": 4640.0,
       "low52": 1470.0,
-      "volume": 12491354,
+      "volume": 11145005,
       "market": "上市"
     },
     {
@@ -12144,7 +12144,7 @@ var LOOKUP = {
       "ma60": 362.0,
       "high52": 441.0,
       "low52": 273.1,
-      "volume": 1967056,
+      "volume": 1894138,
       "market": "上市"
     },
     {
@@ -12160,7 +12160,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 32.0,
       "low52": 23.8,
-      "volume": 2570503,
+      "volume": 2556610,
       "market": "上市"
     },
     {
@@ -12176,7 +12176,7 @@ var LOOKUP = {
       "ma60": 153.2,
       "high52": 189.0,
       "low52": 125.0,
-      "volume": 5933811,
+      "volume": 5893877,
       "market": "上市"
     },
     {
@@ -12192,7 +12192,7 @@ var LOOKUP = {
       "ma60": 63.3,
       "high52": 66.6,
       "low52": 60.9,
-      "volume": 44400,
+      "volume": 43000,
       "market": "上市"
     },
     {
@@ -12208,7 +12208,7 @@ var LOOKUP = {
       "ma60": 34.4,
       "high52": 40.5,
       "low52": 26.5,
-      "volume": 1399519,
+      "volume": 1406223,
       "market": "上市"
     },
     {
@@ -12224,7 +12224,7 @@ var LOOKUP = {
       "ma60": 17.3,
       "high52": 20.1,
       "low52": 15.5,
-      "volume": 1030298,
+      "volume": 1030251,
       "market": "上市"
     },
     {
@@ -12240,7 +12240,7 @@ var LOOKUP = {
       "ma60": 22.4,
       "high52": 25.7,
       "low52": 19.6,
-      "volume": 606546,
+      "volume": 601010,
       "market": "上市"
     },
     {
@@ -12256,7 +12256,7 @@ var LOOKUP = {
       "ma60": 135.4,
       "high52": 199.0,
       "low52": 65.8,
-      "volume": 20069283,
+      "volume": 19774820,
       "market": "上市"
     },
     {
@@ -12272,7 +12272,7 @@ var LOOKUP = {
       "ma60": 76.4,
       "high52": 89.5,
       "low52": 54.3,
-      "volume": 514497,
+      "volume": 508220,
       "market": "上市"
     },
     {
@@ -12288,7 +12288,7 @@ var LOOKUP = {
       "ma60": 54.1,
       "high52": 86.2,
       "low52": 44.0,
-      "volume": 4572102,
+      "volume": 4533013,
       "market": "上市"
     },
     {
@@ -12304,7 +12304,7 @@ var LOOKUP = {
       "ma60": 577.5,
       "high52": 661.7,
       "low52": 404.7,
-      "volume": 2251273,
+      "volume": 2126427,
       "market": "上市"
     },
     {
@@ -12320,7 +12320,7 @@ var LOOKUP = {
       "ma60": 35.8,
       "high52": 45.0,
       "low52": 32.3,
-      "volume": 4363201,
+      "volume": 4313031,
       "market": "上市"
     },
     {
@@ -12336,7 +12336,7 @@ var LOOKUP = {
       "ma60": 52.4,
       "high52": 54.8,
       "low52": 49.6,
-      "volume": 114904,
+      "volume": 112077,
       "market": "上市"
     },
     {
@@ -12352,7 +12352,7 @@ var LOOKUP = {
       "ma60": 282.5,
       "high52": 453.5,
       "low52": 128.0,
-      "volume": 12756488,
+      "volume": 12567950,
       "market": "上市"
     },
     {
@@ -12368,7 +12368,7 @@ var LOOKUP = {
       "ma60": 207.1,
       "high52": 257.0,
       "low52": 183.0,
-      "volume": 11435618,
+      "volume": 11316786,
       "market": "上市"
     },
     {
@@ -12384,7 +12384,7 @@ var LOOKUP = {
       "ma60": 119.8,
       "high52": 134.0,
       "low52": 86.3,
-      "volume": 4924018,
+      "volume": 4872025,
       "market": "上市"
     },
     {
@@ -12400,7 +12400,7 @@ var LOOKUP = {
       "ma60": 21.8,
       "high52": 23.8,
       "low52": 20.4,
-      "volume": 215242,
+      "volume": 212000,
       "market": "上市"
     },
     {
@@ -12416,7 +12416,7 @@ var LOOKUP = {
       "ma60": 129.1,
       "high52": 242.0,
       "low52": 58.5,
-      "volume": 1305602,
+      "volume": 1276594,
       "market": "上市"
     },
     {
@@ -12432,7 +12432,7 @@ var LOOKUP = {
       "ma60": 143.2,
       "high52": 161.0,
       "low52": 131.1,
-      "volume": 304368,
+      "volume": 297100,
       "market": "上市"
     },
     {
@@ -12448,7 +12448,7 @@ var LOOKUP = {
       "ma60": 135.2,
       "high52": 213.5,
       "low52": 97.2,
-      "volume": 7734573,
+      "volume": 7408266,
       "market": "上市"
     },
     {
@@ -12464,7 +12464,7 @@ var LOOKUP = {
       "ma60": 16.9,
       "high52": 18.0,
       "low52": 16.1,
-      "volume": 117642,
+      "volume": 115909,
       "market": "上市"
     },
     {
@@ -12480,7 +12480,7 @@ var LOOKUP = {
       "ma60": 30.6,
       "high52": 67.1,
       "low52": 20.6,
-      "volume": 2288454,
+      "volume": 2268648,
       "market": "上市"
     },
     {
@@ -12496,7 +12496,7 @@ var LOOKUP = {
       "ma60": 52.2,
       "high52": 96.4,
       "low52": 29.1,
-      "volume": 117697529,
+      "volume": 117386757,
       "market": "上市"
     },
     {
@@ -12512,7 +12512,7 @@ var LOOKUP = {
       "ma60": 66.7,
       "high52": 80.8,
       "low52": 52.2,
-      "volume": 5380920,
+      "volume": 5328343,
       "market": "上市"
     },
     {
@@ -12528,7 +12528,7 @@ var LOOKUP = {
       "ma60": 248.0,
       "high52": 306.4,
       "low52": 144.2,
-      "volume": 10717092,
+      "volume": 10315929,
       "market": "上市"
     },
     {
@@ -12544,7 +12544,7 @@ var LOOKUP = {
       "ma60": 52.6,
       "high52": 54.9,
       "low52": 49.5,
-      "volume": 163766,
+      "volume": 162308,
       "market": "上市"
     },
     {
@@ -12560,7 +12560,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 55.1,
       "low52": 34.4,
-      "volume": 6699274,
+      "volume": 6641336,
       "market": "上市"
     },
     {
@@ -12576,7 +12576,7 @@ var LOOKUP = {
       "ma60": 25.4,
       "high52": 44.0,
       "low52": 14.6,
-      "volume": 501659,
+      "volume": 501078,
       "market": "上市"
     },
     {
@@ -12592,7 +12592,7 @@ var LOOKUP = {
       "ma60": 315.5,
       "high52": 617.0,
       "low52": 114.0,
-      "volume": 2123633,
+      "volume": 2027862,
       "market": "上市"
     },
     {
@@ -12608,7 +12608,7 @@ var LOOKUP = {
       "ma60": 174.6,
       "high52": 324.5,
       "low52": 105.0,
-      "volume": 9520873,
+      "volume": 9394631,
       "market": "上市"
     },
     {
@@ -12624,7 +12624,7 @@ var LOOKUP = {
       "ma60": 45.0,
       "high52": 53.8,
       "low52": 32.1,
-      "volume": 7706497,
+      "volume": 7694271,
       "market": "上市"
     },
     {
@@ -12640,7 +12640,7 @@ var LOOKUP = {
       "ma60": 64.9,
       "high52": 66.6,
       "low52": 63.4,
-      "volume": 5027,
+      "volume": 5314,
       "market": "上市"
     },
     {
@@ -12656,7 +12656,7 @@ var LOOKUP = {
       "ma60": 58.4,
       "high52": 65.8,
       "low52": 50.5,
-      "volume": 644825,
+      "volume": 637376,
       "market": "上市"
     },
     {
@@ -12672,7 +12672,7 @@ var LOOKUP = {
       "ma60": 42.9,
       "high52": 50.4,
       "low52": 38.8,
-      "volume": 5060494,
+      "volume": 5046049,
       "market": "上市"
     },
     {
@@ -12688,7 +12688,7 @@ var LOOKUP = {
       "ma60": 23.9,
       "high52": 27.0,
       "low52": 21.7,
-      "volume": 1648257,
+      "volume": 1642700,
       "market": "上市"
     },
     {
@@ -12704,7 +12704,7 @@ var LOOKUP = {
       "ma60": 33.0,
       "high52": 34.5,
       "low52": 31.7,
-      "volume": 5431623,
+      "volume": 5430417,
       "market": "上市"
     },
     {
@@ -12720,7 +12720,7 @@ var LOOKUP = {
       "ma60": 18.3,
       "high52": 19.5,
       "low52": 17.4,
-      "volume": 181607,
+      "volume": 179090,
       "market": "上市"
     },
     {
@@ -12736,7 +12736,7 @@ var LOOKUP = {
       "ma60": 8.8,
       "high52": 9.1,
       "low52": 8.6,
-      "volume": 276212,
+      "volume": 273520,
       "market": "上市"
     },
     {
@@ -12752,7 +12752,7 @@ var LOOKUP = {
       "ma60": 13.4,
       "high52": 14.6,
       "low52": 12.3,
-      "volume": 106629,
+      "volume": 102235,
       "market": "上市"
     },
     {
@@ -12768,7 +12768,7 @@ var LOOKUP = {
       "ma60": 8.0,
       "high52": 8.4,
       "low52": 7.6,
-      "volume": 3882025,
+      "volume": 3969541,
       "market": "上市"
     },
     {
@@ -12784,7 +12784,7 @@ var LOOKUP = {
       "ma60": 13.3,
       "high52": 13.9,
       "low52": 12.8,
-      "volume": 622084,
+      "volume": 614513,
       "market": "上市"
     },
     {
@@ -12800,7 +12800,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 14.3,
       "low52": 12.1,
-      "volume": 20421322,
+      "volume": 20440205,
       "market": "上市"
     },
     {
@@ -12816,7 +12816,7 @@ var LOOKUP = {
       "ma60": 13.2,
       "high52": 14.1,
       "low52": 12.1,
-      "volume": 213505,
+      "volume": 213315,
       "market": "上市"
     },
     {
@@ -12832,7 +12832,7 @@ var LOOKUP = {
       "ma60": 31.8,
       "high52": 36.4,
       "low52": 28.8,
-      "volume": 1266692,
+      "volume": 1257350,
       "market": "上市"
     },
     {
@@ -12848,7 +12848,7 @@ var LOOKUP = {
       "ma60": 36.4,
       "high52": 39.8,
       "low52": 32.7,
-      "volume": 120203,
+      "volume": 118060,
       "market": "上市"
     },
     {
@@ -12864,7 +12864,7 @@ var LOOKUP = {
       "ma60": 36.2,
       "high52": 41.2,
       "low52": 30.5,
-      "volume": 600040,
+      "volume": 594430,
       "market": "上市"
     },
     {
@@ -12880,7 +12880,7 @@ var LOOKUP = {
       "ma60": 22.3,
       "high52": 24.6,
       "low52": 20.1,
-      "volume": 647914,
+      "volume": 643067,
       "market": "上市"
     },
     {
@@ -12896,7 +12896,7 @@ var LOOKUP = {
       "ma60": 20.5,
       "high52": 24.0,
       "low52": 18.0,
-      "volume": 829334,
+      "volume": 828993,
       "market": "上市"
     },
     {
@@ -12912,7 +12912,7 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 18.3,
       "low52": 15.7,
-      "volume": 2697709,
+      "volume": 2685594,
       "market": "上市"
     },
     {
@@ -12928,7 +12928,7 @@ var LOOKUP = {
       "ma60": 80.4,
       "high52": 96.7,
       "low52": 66.0,
-      "volume": 263079,
+      "volume": 257876,
       "market": "上市"
     },
     {
@@ -12944,7 +12944,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 22.7,
       "low52": 19.2,
-      "volume": 1615317,
+      "volume": 1618000,
       "market": "上市"
     },
     {
@@ -12960,7 +12960,7 @@ var LOOKUP = {
       "ma60": 10.4,
       "high52": 12.1,
       "low52": 9.4,
-      "volume": 2872638,
+      "volume": 2880000,
       "market": "上市"
     },
     {
@@ -12976,7 +12976,7 @@ var LOOKUP = {
       "ma60": 9.8,
       "high52": 10.1,
       "low52": 9.3,
-      "volume": 412536,
+      "volume": 412020,
       "market": "上市"
     },
     {
@@ -12992,7 +12992,7 @@ var LOOKUP = {
       "ma60": 40.0,
       "high52": 48.0,
       "low52": 33.2,
-      "volume": 688708,
+      "volume": 679524,
       "market": "上市"
     },
     {
@@ -13008,7 +13008,7 @@ var LOOKUP = {
       "ma60": 53.9,
       "high52": 58.7,
       "low52": 47.5,
-      "volume": 561361,
+      "volume": 556013,
       "market": "上市"
     },
     {
@@ -13024,7 +13024,7 @@ var LOOKUP = {
       "ma60": 41.3,
       "high52": 45.5,
       "low52": 33.9,
-      "volume": 7814932,
+      "volume": 7769203,
       "market": "上市"
     },
     {
@@ -13040,7 +13040,7 @@ var LOOKUP = {
       "ma60": 45.7,
       "high52": 58.5,
       "low52": 37.5,
-      "volume": 846655,
+      "volume": 836010,
       "market": "上市"
     },
     {
@@ -13056,7 +13056,7 @@ var LOOKUP = {
       "ma60": 37.7,
       "high52": 39.2,
       "low52": 35.8,
-      "volume": 306019,
+      "volume": 304307,
       "market": "上市"
     },
     {
@@ -13072,7 +13072,7 @@ var LOOKUP = {
       "ma60": 88.1,
       "high52": 98.3,
       "low52": 79.3,
-      "volume": 138109,
+      "volume": 134415,
       "market": "上市"
     },
     {
@@ -13088,7 +13088,7 @@ var LOOKUP = {
       "ma60": 10.5,
       "high52": 11.6,
       "low52": 9.9,
-      "volume": 8487886,
+      "volume": 8478702,
       "market": "上市"
     },
     {
@@ -13104,7 +13104,7 @@ var LOOKUP = {
       "ma60": 112.0,
       "high52": 123.4,
       "low52": 99.8,
-      "volume": 1241482,
+      "volume": 1223921,
       "market": "上市"
     },
     {
@@ -13120,7 +13120,7 @@ var LOOKUP = {
       "ma60": 29.8,
       "high52": 32.5,
       "low52": 26.5,
-      "volume": 92057,
+      "volume": 90000,
       "market": "上櫃"
     },
     {
@@ -13136,7 +13136,7 @@ var LOOKUP = {
       "ma60": 158.5,
       "high52": 193.2,
       "low52": 142.6,
-      "volume": 247640,
+      "volume": 237111,
       "market": "上市"
     },
     {
@@ -13152,7 +13152,7 @@ var LOOKUP = {
       "ma60": 5.4,
       "high52": 6.4,
       "low52": 4.8,
-      "volume": 5251139,
+      "volume": 5220937,
       "market": "上市"
     },
     {
@@ -13168,7 +13168,7 @@ var LOOKUP = {
       "ma60": 194.4,
       "high52": 219.8,
       "low52": 181.0,
-      "volume": 24989671,
+      "volume": 24531600,
       "market": "上市"
     },
     {
@@ -13184,7 +13184,7 @@ var LOOKUP = {
       "ma60": 31.5,
       "high52": 40.2,
       "low52": 28.3,
-      "volume": 8398988,
+      "volume": 8392437,
       "market": "上市"
     },
     {
@@ -13200,7 +13200,7 @@ var LOOKUP = {
       "ma60": 62.2,
       "high52": 69.5,
       "low52": 57.1,
-      "volume": 4712262,
+      "volume": 4685760,
       "market": "上市"
     },
     {
@@ -13216,7 +13216,7 @@ var LOOKUP = {
       "ma60": 46.0,
       "high52": 48.9,
       "low52": 43.9,
-      "volume": 506797,
+      "volume": 494520,
       "market": "上市"
     },
     {
@@ -13232,7 +13232,7 @@ var LOOKUP = {
       "ma60": 28.5,
       "high52": 29.4,
       "low52": 27.0,
-      "volume": 383406,
+      "volume": 379410,
       "market": "上市"
     },
     {
@@ -13248,7 +13248,7 @@ var LOOKUP = {
       "ma60": 51.1,
       "high52": 54.9,
       "low52": 48.0,
-      "volume": 43341385,
+      "volume": 43146460,
       "market": "上市"
     },
     {
@@ -13264,7 +13264,7 @@ var LOOKUP = {
       "ma60": 19.6,
       "high52": 24.2,
       "low52": 17.8,
-      "volume": 40620697,
+      "volume": 40580357,
       "market": "上市"
     },
     {
@@ -13280,7 +13280,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 15.1,
       "low52": 12.7,
-      "volume": 916360,
+      "volume": 903550,
       "market": "上市"
     },
     {
@@ -13296,7 +13296,7 @@ var LOOKUP = {
       "ma60": 54.4,
       "high52": 57.7,
       "low52": 51.4,
-      "volume": 861848,
+      "volume": 850621,
       "market": "上市"
     },
     {
@@ -13312,7 +13312,7 @@ var LOOKUP = {
       "ma60": 22.2,
       "high52": 23.5,
       "low52": 21.1,
-      "volume": 656868,
+      "volume": 654000,
       "market": "上市"
     },
     {
@@ -13328,7 +13328,7 @@ var LOOKUP = {
       "ma60": 19.2,
       "high52": 20.9,
       "low52": 18.0,
-      "volume": 527335,
+      "volume": 519399,
       "market": "上市"
     },
     {
@@ -13344,7 +13344,7 @@ var LOOKUP = {
       "ma60": 79.1,
       "high52": 86.1,
       "low52": 73.7,
-      "volume": 25020090,
+      "volume": 24886868,
       "market": "上市"
     },
     {
@@ -13360,7 +13360,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 16.4,
       "low52": 13.3,
-      "volume": 346392,
+      "volume": 336016,
       "market": "上市"
     },
     {
@@ -13376,7 +13376,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 31.2,
       "low52": 28.6,
-      "volume": 1278580,
+      "volume": 1274024,
       "market": "上市"
     },
     {
@@ -13392,7 +13392,7 @@ var LOOKUP = {
       "ma60": 37.1,
       "high52": 44.9,
       "low52": 33.3,
-      "volume": 38969426,
+      "volume": 38926428,
       "market": "上市"
     },
     {
@@ -13408,7 +13408,7 @@ var LOOKUP = {
       "ma60": 45.0,
       "high52": 55.8,
       "low52": 38.7,
-      "volume": 17345492,
+      "volume": 17261720,
       "market": "上市"
     },
     {
@@ -13424,7 +13424,7 @@ var LOOKUP = {
       "ma60": 26.1,
       "high52": 27.0,
       "low52": 24.8,
-      "volume": 8088774,
+      "volume": 8090126,
       "market": "上市"
     },
     {
@@ -13440,7 +13440,7 @@ var LOOKUP = {
       "ma60": 48.3,
       "high52": 60.0,
       "low52": 45.0,
-      "volume": 45963989,
+      "volume": 45567438,
       "market": "上市"
     },
     {
@@ -13456,7 +13456,7 @@ var LOOKUP = {
       "ma60": 68.4,
       "high52": 71.3,
       "low52": 64.3,
-      "volume": 750470,
+      "volume": 741113,
       "market": "上市"
     },
     {
@@ -13472,7 +13472,7 @@ var LOOKUP = {
       "ma60": 72.3,
       "high52": 79.2,
       "low52": 65.1,
-      "volume": 2184950,
+      "volume": 2172390,
       "market": "上市"
     },
     {
@@ -13488,7 +13488,7 @@ var LOOKUP = {
       "ma60": 165.0,
       "high52": 188.0,
       "low52": 149.5,
-      "volume": 66576,
+      "volume": 62040,
       "market": "上櫃"
     },
     {
@@ -13504,7 +13504,7 @@ var LOOKUP = {
       "ma60": 17.7,
       "high52": 19.4,
       "low52": 16.4,
-      "volume": 2541405,
+      "volume": 2534885,
       "market": "上櫃"
     },
     {
@@ -13520,7 +13520,7 @@ var LOOKUP = {
       "ma60": 21.1,
       "high52": 23.0,
       "low52": 19.6,
-      "volume": 103049,
+      "volume": 99400,
       "market": "上市"
     },
     {
@@ -13536,7 +13536,7 @@ var LOOKUP = {
       "ma60": 62.6,
       "high52": 66.1,
       "low52": 61.2,
-      "volume": 47576,
+      "volume": 46000,
       "market": "上櫃"
     },
     {
@@ -13552,7 +13552,7 @@ var LOOKUP = {
       "ma60": 81.8,
       "high52": 86.8,
       "low52": 75.8,
-      "volume": 198748,
+      "volume": 200200,
       "market": "興櫃"
     },
     {
@@ -13568,7 +13568,7 @@ var LOOKUP = {
       "ma60": 164.7,
       "high52": 216.5,
       "low52": 146.0,
-      "volume": 7040548,
+      "volume": 6901945,
       "market": "上市"
     },
     {
@@ -13584,7 +13584,7 @@ var LOOKUP = {
       "ma60": 20.7,
       "high52": 22.0,
       "low52": 20.0,
-      "volume": 5624376,
+      "volume": 5576941,
       "market": "上市"
     },
     {
@@ -13600,7 +13600,7 @@ var LOOKUP = {
       "ma60": 10.6,
       "high52": 10.9,
       "low52": 10.2,
-      "volume": 160114,
+      "volume": 158757,
       "market": "上市"
     },
     {
@@ -13616,7 +13616,7 @@ var LOOKUP = {
       "ma60": 13.9,
       "high52": 17.8,
       "low52": 12.3,
-      "volume": 132646,
+      "volume": 127688,
       "market": "上市"
     },
     {
@@ -13632,7 +13632,7 @@ var LOOKUP = {
       "ma60": 43.0,
       "high52": 46.1,
       "low52": 41.6,
-      "volume": 77322,
+      "volume": 75224,
       "market": "上市"
     },
     {
@@ -13648,7 +13648,7 @@ var LOOKUP = {
       "ma60": 16.1,
       "high52": 17.7,
       "low52": 15.0,
-      "volume": 454384,
+      "volume": 447439,
       "market": "上市"
     },
     {
@@ -13664,7 +13664,7 @@ var LOOKUP = {
       "ma60": 12.3,
       "high52": 12.8,
       "low52": 11.9,
-      "volume": 260823,
+      "volume": 258300,
       "market": "上市"
     },
     {
@@ -13680,7 +13680,7 @@ var LOOKUP = {
       "ma60": 176.1,
       "high52": 182.6,
       "low52": 168.5,
-      "volume": 346319,
+      "volume": 342125,
       "market": "上市"
     },
     {
@@ -13696,7 +13696,7 @@ var LOOKUP = {
       "ma60": 15.9,
       "high52": 17.9,
       "low52": 14.5,
-      "volume": 20245,
+      "volume": 20000,
       "market": "上市"
     },
     {
@@ -13712,7 +13712,7 @@ var LOOKUP = {
       "ma60": 46.8,
       "high52": 52.4,
       "low52": 41.2,
-      "volume": 32693,
+      "volume": 31000,
       "market": "上櫃"
     },
     {
@@ -13728,7 +13728,7 @@ var LOOKUP = {
       "ma60": 26.2,
       "high52": 30.2,
       "low52": 24.0,
-      "volume": 56389,
+      "volume": 56029,
       "market": "上櫃"
     },
     {
@@ -13744,7 +13744,7 @@ var LOOKUP = {
       "ma60": 23.3,
       "high52": 25.5,
       "low52": 22.3,
-      "volume": 43675,
+      "volume": 43061,
       "market": "上市"
     },
     {
@@ -13760,7 +13760,7 @@ var LOOKUP = {
       "ma60": 65.3,
       "high52": 69.5,
       "low52": 60.2,
-      "volume": 125538,
+      "volume": 123144,
       "market": "上市"
     },
     {
@@ -13776,7 +13776,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 18.7,
       "low52": 11.5,
-      "volume": 22011,
+      "volume": 22500,
       "market": "上櫃"
     },
     {
@@ -13792,7 +13792,7 @@ var LOOKUP = {
       "ma60": 9.9,
       "high52": 10.7,
       "low52": 9.3,
-      "volume": 279249,
+      "volume": 277000,
       "market": "上櫃"
     },
     {
@@ -13808,7 +13808,7 @@ var LOOKUP = {
       "ma60": 236.0,
       "high52": 249.0,
       "low52": 223.5,
-      "volume": 614149,
+      "volume": 591199,
       "market": "上市"
     },
     {
@@ -13824,7 +13824,7 @@ var LOOKUP = {
       "ma60": 163.9,
       "high52": 174.0,
       "low52": 154.5,
-      "volume": 82651,
+      "volume": 81120,
       "market": "上櫃"
     },
     {
@@ -13840,7 +13840,7 @@ var LOOKUP = {
       "ma60": 150.6,
       "high52": 162.0,
       "low52": 145.8,
-      "volume": 874088,
+      "volume": 856099,
       "market": "上市"
     },
     {
@@ -13856,7 +13856,7 @@ var LOOKUP = {
       "ma60": 65.3,
       "high52": 68.3,
       "low52": 63.0,
-      "volume": 37502,
+      "volume": 37021,
       "market": "上櫃"
     },
     {
@@ -13888,7 +13888,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 17.8,
       "low52": 14.9,
-      "volume": 85744,
+      "volume": 85500,
       "market": "上櫃"
     },
     {
@@ -13904,7 +13904,7 @@ var LOOKUP = {
       "ma60": 12.5,
       "high52": 14.6,
       "low52": 11.8,
-      "volume": 137731,
+      "volume": 137040,
       "market": "上櫃"
     },
     {
@@ -13920,7 +13920,7 @@ var LOOKUP = {
       "ma60": 35.6,
       "high52": 38.4,
       "low52": 33.7,
-      "volume": 79785,
+      "volume": 77000,
       "market": "上市"
     },
     {
@@ -13936,23 +13936,23 @@ var LOOKUP = {
       "ma60": 34.8,
       "high52": 43.5,
       "low52": 25.6,
-      "volume": 4031,
+      "volume": 4016,
       "market": "上櫃"
     },
     {
       "code": "2741",
       "name": "老四川",
       "industry": "觀光餐旅",
-      "close": 20.2,
-      "change_amount": -0.7,
-      "change_pct": -3.35,
-      "ma5": 20.7,
-      "ma10": 20.7,
+      "close": 20.8,
+      "change_amount": -0.1,
+      "change_pct": -0.48,
+      "ma5": 20.8,
+      "ma10": 20.8,
       "ma20": 20.8,
       "ma60": 22.1,
       "high52": 27.1,
       "low52": 20.1,
-      "volume": 37140,
+      "volume": 37227,
       "market": "興櫃"
     },
     {
@@ -13968,7 +13968,7 @@ var LOOKUP = {
       "ma60": 69.1,
       "high52": 79.3,
       "low52": 65.4,
-      "volume": 80817,
+      "volume": 77800,
       "market": "上櫃"
     },
     {
@@ -13984,7 +13984,7 @@ var LOOKUP = {
       "ma60": 104.0,
       "high52": 108.5,
       "low52": 100.5,
-      "volume": 110042,
+      "volume": 108000,
       "market": "上櫃"
     },
     {
@@ -14000,7 +14000,7 @@ var LOOKUP = {
       "ma60": 40.1,
       "high52": 45.3,
       "low52": 38.8,
-      "volume": 165930,
+      "volume": 163665,
       "market": "上市"
     },
     {
@@ -14016,7 +14016,7 @@ var LOOKUP = {
       "ma60": 53.8,
       "high52": 59.0,
       "low52": 51.0,
-      "volume": 11197,
+      "volume": 11000,
       "market": "上櫃"
     },
     {
@@ -14032,7 +14032,7 @@ var LOOKUP = {
       "ma60": 181.5,
       "high52": 198.5,
       "low52": 171.0,
-      "volume": 14605,
+      "volume": 14004,
       "market": "上櫃"
     },
     {
@@ -14048,7 +14048,7 @@ var LOOKUP = {
       "ma60": 174.2,
       "high52": 182.9,
       "low52": 165.2,
-      "volume": 338329,
+      "volume": 328002,
       "market": "上市"
     },
     {
@@ -14064,7 +14064,7 @@ var LOOKUP = {
       "ma60": 69.0,
       "high52": 77.0,
       "low52": 65.9,
-      "volume": 18040,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
@@ -14080,7 +14080,7 @@ var LOOKUP = {
       "ma60": 136.3,
       "high52": 145.5,
       "low52": 131.0,
-      "volume": 67645,
+      "volume": 65684,
       "market": "上櫃"
     },
     {
@@ -14096,7 +14096,7 @@ var LOOKUP = {
       "ma60": 63.0,
       "high52": 70.4,
       "low52": 57.7,
-      "volume": 11021,
+      "volume": 11000,
       "market": "上櫃"
     },
     {
@@ -14112,7 +14112,7 @@ var LOOKUP = {
       "ma60": 72.6,
       "high52": 88.6,
       "low52": 63.8,
-      "volume": 1392,
+      "volume": 1418,
       "market": "興櫃"
     },
     {
@@ -14144,7 +14144,7 @@ var LOOKUP = {
       "ma60": 15.4,
       "high52": 16.5,
       "low52": 14.7,
-      "volume": 50,
+      "volume": 4050,
       "market": "興櫃"
     },
     {
@@ -14160,7 +14160,7 @@ var LOOKUP = {
       "ma60": 80.1,
       "high52": 89.9,
       "low52": 72.2,
-      "volume": 114140,
+      "volume": 113000,
       "market": "上市"
     },
     {
@@ -14176,7 +14176,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 24.0,
       "low52": 20.0,
-      "volume": 12962579,
+      "volume": 12920794,
       "market": "上市"
     },
     {
@@ -14192,7 +14192,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 21.1,
       "low52": 18.4,
-      "volume": 18805809,
+      "volume": 18732717,
       "market": "上市"
     },
     {
@@ -14208,7 +14208,7 @@ var LOOKUP = {
       "ma60": 30.9,
       "high52": 34.8,
       "low52": 28.7,
-      "volume": 534523,
+      "volume": 522773,
       "market": "上市"
     },
     {
@@ -14224,7 +14224,7 @@ var LOOKUP = {
       "ma60": 16.3,
       "high52": 16.9,
       "low52": 15.9,
-      "volume": 2656533,
+      "volume": 2649180,
       "market": "上市"
     },
     {
@@ -14240,7 +14240,7 @@ var LOOKUP = {
       "ma60": 50.6,
       "high52": 57.2,
       "low52": 44.1,
-      "volume": 307172,
+      "volume": 305126,
       "market": "上市"
     },
     {
@@ -14256,7 +14256,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 18.0,
       "low52": 15.2,
-      "volume": 31841904,
+      "volume": 31803715,
       "market": "上市"
     },
     {
@@ -14272,7 +14272,7 @@ var LOOKUP = {
       "ma60": 12.0,
       "high52": 12.4,
       "low52": 11.6,
-      "volume": 5291815,
+      "volume": 5279382,
       "market": "上市"
     },
     {
@@ -14288,7 +14288,7 @@ var LOOKUP = {
       "ma60": 21.1,
       "high52": 22.9,
       "low52": 20.0,
-      "volume": 2257723,
+      "volume": 2243398,
       "market": "上市"
     },
     {
@@ -14304,7 +14304,7 @@ var LOOKUP = {
       "ma60": 12.5,
       "high52": 13.3,
       "low52": 11.9,
-      "volume": 11644583,
+      "volume": 11628180,
       "market": "上市"
     },
     {
@@ -14320,7 +14320,7 @@ var LOOKUP = {
       "ma60": 13.9,
       "high52": 14.8,
       "low52": 13.1,
-      "volume": 230593,
+      "volume": 227046,
       "market": "上市"
     },
     {
@@ -14336,7 +14336,7 @@ var LOOKUP = {
       "ma60": 130.8,
       "high52": 144.5,
       "low52": 111.3,
-      "volume": 108394,
+      "volume": 105464,
       "market": "上市"
     },
     {
@@ -14352,7 +14352,7 @@ var LOOKUP = {
       "ma60": 32.4,
       "high52": 38.5,
       "low52": 27.8,
-      "volume": 2516956,
+      "volume": 2499866,
       "market": "上市"
     },
     {
@@ -14368,7 +14368,7 @@ var LOOKUP = {
       "ma60": 25.4,
       "high52": 26.9,
       "low52": 24.3,
-      "volume": 502328,
+      "volume": 506141,
       "market": "上市"
     },
     {
@@ -14384,7 +14384,7 @@ var LOOKUP = {
       "ma60": 41.9,
       "high52": 56.7,
       "low52": 29.7,
-      "volume": 7353636,
+      "volume": 7297833,
       "market": "上市"
     },
     {
@@ -14400,7 +14400,7 @@ var LOOKUP = {
       "ma60": 8.0,
       "high52": 8.7,
       "low52": 7.4,
-      "volume": 11185350,
+      "volume": 11165098,
       "market": "上市"
     },
     {
@@ -14416,7 +14416,7 @@ var LOOKUP = {
       "ma60": 34.5,
       "high52": 38.3,
       "low52": 29.6,
-      "volume": 16389858,
+      "volume": 16315065,
       "market": "上市"
     },
     {
@@ -14432,7 +14432,7 @@ var LOOKUP = {
       "ma60": 103.0,
       "high52": 134.0,
       "low52": 83.9,
-      "volume": 29895874,
+      "volume": 29634110,
       "market": "上市"
     },
     {
@@ -14448,7 +14448,7 @@ var LOOKUP = {
       "ma60": 84.3,
       "high52": 111.5,
       "low52": 69.4,
-      "volume": 37708056,
+      "volume": 37623259,
       "market": "上市"
     },
     {
@@ -14464,7 +14464,7 @@ var LOOKUP = {
       "ma60": 23.5,
       "high52": 29.7,
       "low52": 19.5,
-      "volume": 57687798,
+      "volume": 57672226,
       "market": "上市"
     },
     {
@@ -14480,7 +14480,7 @@ var LOOKUP = {
       "ma60": 31.6,
       "high52": 34.3,
       "low52": 29.5,
-      "volume": 47664950,
+      "volume": 47473805,
       "market": "上市"
     },
     {
@@ -14496,7 +14496,7 @@ var LOOKUP = {
       "ma60": 58.0,
       "high52": 68.8,
       "low52": 46.5,
-      "volume": 18147292,
+      "volume": 18131536,
       "market": "上市"
     },
     {
@@ -14512,7 +14512,7 @@ var LOOKUP = {
       "ma60": 41.5,
       "high52": 46.7,
       "low52": 39.0,
-      "volume": 21789920,
+      "volume": 21668041,
       "market": "上市"
     },
     {
@@ -14528,7 +14528,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 34.2,
       "low52": 23.0,
-      "volume": 108720032,
+      "volume": 108368661,
       "market": "上市"
     },
     {
@@ -14544,7 +14544,7 @@ var LOOKUP = {
       "ma60": 14.9,
       "high52": 15.4,
       "low52": 14.4,
-      "volume": 5479149,
+      "volume": 5466132,
       "market": "上市"
     },
     {
@@ -14560,7 +14560,7 @@ var LOOKUP = {
       "ma60": 33.2,
       "high52": 40.0,
       "low52": 29.0,
-      "volume": 22801583,
+      "volume": 22764606,
       "market": "上市"
     },
     {
@@ -14576,7 +14576,7 @@ var LOOKUP = {
       "ma60": 60.6,
       "high52": 72.4,
       "low52": 52.3,
-      "volume": 35385587,
+      "volume": 35317083,
       "market": "上市"
     },
     {
@@ -14592,7 +14592,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 33.2,
       "low52": 27.2,
-      "volume": 25635512,
+      "volume": 25576238,
       "market": "上市"
     },
     {
@@ -14608,7 +14608,7 @@ var LOOKUP = {
       "ma60": 10.2,
       "high52": 10.6,
       "low52": 9.9,
-      "volume": 4887260,
+      "volume": 4884506,
       "market": "上市"
     },
     {
@@ -14624,7 +14624,7 @@ var LOOKUP = {
       "ma60": 23.5,
       "high52": 25.0,
       "low52": 22.5,
-      "volume": 21024,
+      "volume": 18100,
       "market": "上市"
     },
     {
@@ -14640,7 +14640,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 22.9,
       "low52": 20.6,
-      "volume": 3372544,
+      "volume": 3363185,
       "market": "上市"
     },
     {
@@ -14656,7 +14656,7 @@ var LOOKUP = {
       "ma60": 15.1,
       "high52": 16.8,
       "low52": 13.9,
-      "volume": 113719,
+      "volume": 112188,
       "market": "上市"
     },
     {
@@ -14672,7 +14672,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 15.4,
       "low52": 13.1,
-      "volume": 941916,
+      "volume": 933294,
       "market": "上市"
     },
     {
@@ -14688,7 +14688,7 @@ var LOOKUP = {
       "ma60": 12.9,
       "high52": 15.6,
       "low52": 12.2,
-      "volume": 1711438,
+      "volume": 1703492,
       "market": "上市"
     },
     {
@@ -14704,7 +14704,7 @@ var LOOKUP = {
       "ma60": 20.5,
       "high52": 21.5,
       "low52": 19.5,
-      "volume": 427182,
+      "volume": 426414,
       "market": "上市"
     },
     {
@@ -14720,7 +14720,7 @@ var LOOKUP = {
       "ma60": 22.1,
       "high52": 23.6,
       "low52": 20.9,
-      "volume": 20800,
+      "volume": 20000,
       "market": "上市"
     },
     {
@@ -14736,7 +14736,7 @@ var LOOKUP = {
       "ma60": 6.7,
       "high52": 9.6,
       "low52": 4.9,
-      "volume": 650702,
+      "volume": 640229,
       "market": "上市"
     },
     {
@@ -14752,7 +14752,7 @@ var LOOKUP = {
       "ma60": 226.6,
       "high52": 246.0,
       "low52": 206.5,
-      "volume": 3615811,
+      "volume": 3524745,
       "market": "上市"
     },
     {
@@ -14768,7 +14768,7 @@ var LOOKUP = {
       "ma60": 11.2,
       "high52": 12.4,
       "low52": 10.6,
-      "volume": 5543791,
+      "volume": 5538831,
       "market": "上市"
     },
     {
@@ -14784,7 +14784,7 @@ var LOOKUP = {
       "ma60": 46.9,
       "high52": 53.4,
       "low52": 42.6,
-      "volume": 2259460,
+      "volume": 2249209,
       "market": "上市"
     },
     {
@@ -14800,7 +14800,7 @@ var LOOKUP = {
       "ma60": 42.5,
       "high52": 44.2,
       "low52": 40.8,
-      "volume": 53660,
+      "volume": 53107,
       "market": "上櫃"
     },
     {
@@ -14816,7 +14816,7 @@ var LOOKUP = {
       "ma60": 24.2,
       "high52": 28.3,
       "low52": 18.0,
-      "volume": 131392,
+      "volume": 130062,
       "market": "上市"
     },
     {
@@ -14832,7 +14832,7 @@ var LOOKUP = {
       "ma60": 18.4,
       "high52": 22.5,
       "low52": 15.2,
-      "volume": 1079,
+      "volume": 1000,
       "market": "上櫃"
     },
     {
@@ -14848,7 +14848,7 @@ var LOOKUP = {
       "ma60": 35.5,
       "high52": 37.7,
       "low52": 33.3,
-      "volume": 30479,
+      "volume": 30000,
       "market": "上櫃"
     },
     {
@@ -14864,7 +14864,7 @@ var LOOKUP = {
       "ma60": 5.8,
       "high52": 6.7,
       "low52": 5.2,
-      "volume": 218294,
+      "volume": 217000,
       "market": "上市"
     },
     {
@@ -14880,7 +14880,7 @@ var LOOKUP = {
       "ma60": 46.6,
       "high52": 50.0,
       "low52": 43.0,
-      "volume": 9051,
+      "volume": 9000,
       "market": "上櫃"
     },
     {
@@ -14912,7 +14912,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 26.6,
       "low52": 19.0,
-      "volume": 22001,
+      "volume": 22000,
       "market": "上市"
     },
     {
@@ -14944,7 +14944,7 @@ var LOOKUP = {
       "ma60": 32.7,
       "high52": 38.1,
       "low52": 29.6,
-      "volume": 4001,
+      "volume": 4000,
       "market": "上櫃"
     },
     {
@@ -14976,23 +14976,23 @@ var LOOKUP = {
       "ma60": 40.2,
       "high52": 41.9,
       "low52": 38.7,
-      "volume": 22052,
+      "volume": 21000,
       "market": "上市"
     },
     {
       "code": "2947",
       "name": "振宇五金",
       "industry": "存託憑證",
-      "close": 79.5,
+      "close": 72.3,
       "change_amount": 0.5,
       "change_pct": 0.63,
-      "ma5": 79.0,
-      "ma10": 78.7,
-      "ma20": 77.8,
-      "ma60": 77.9,
+      "ma5": 71.8,
+      "ma10": 75.1,
+      "ma20": 76.0,
+      "ma60": 77.3,
       "high52": 79.6,
-      "low52": 76.2,
-      "volume": 31881,
+      "low52": 71.4,
+      "volume": 34493,
       "market": "上櫃"
     },
     {
@@ -15008,7 +15008,7 @@ var LOOKUP = {
       "ma60": 37.9,
       "high52": 40.5,
       "low52": 35.3,
-      "volume": 4002,
+      "volume": 4000,
       "market": "上櫃"
     },
     {
@@ -15024,7 +15024,7 @@ var LOOKUP = {
       "ma60": 61.5,
       "high52": 70.9,
       "low52": 52.4,
-      "volume": 11744,
+      "volume": 11050,
       "market": "上櫃"
     },
     {
@@ -15040,7 +15040,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 23.0,
       "low52": 16.4,
-      "volume": 332960,
+      "volume": 332000,
       "market": "上市"
     },
     {
@@ -15056,7 +15056,7 @@ var LOOKUP = {
       "ma60": 60.3,
       "high52": 70.2,
       "low52": 49.0,
-      "volume": 764973,
+      "volume": 759247,
       "market": "上市"
     },
     {
@@ -15072,7 +15072,7 @@ var LOOKUP = {
       "ma60": 124.7,
       "high52": 150.0,
       "low52": 109.5,
-      "volume": 2883752,
+      "volume": 2828130,
       "market": "上市"
     },
     {
@@ -15088,7 +15088,7 @@ var LOOKUP = {
       "ma60": 101.3,
       "high52": 110.5,
       "low52": 96.0,
-      "volume": 7368729,
+      "volume": 7297092,
       "market": "上市"
     },
     {
@@ -15104,7 +15104,7 @@ var LOOKUP = {
       "ma60": 208.2,
       "high52": 266.2,
       "low52": 149.8,
-      "volume": 12651078,
+      "volume": 12386849,
       "market": "上市"
     },
     {
@@ -15120,7 +15120,7 @@ var LOOKUP = {
       "ma60": 3476.2,
       "high52": 5195.0,
       "low52": 2170.0,
-      "volume": 1515806,
+      "volume": 1344479,
       "market": "上市"
     },
     {
@@ -15136,7 +15136,7 @@ var LOOKUP = {
       "ma60": 128.3,
       "high52": 136.3,
       "low52": 118.0,
-      "volume": 610195,
+      "volume": 602116,
       "market": "上市"
     },
     {
@@ -15152,7 +15152,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 15.2,
       "low52": 12.0,
-      "volume": 929852,
+      "volume": 928577,
       "market": "上市"
     },
     {
@@ -15168,7 +15168,7 @@ var LOOKUP = {
       "ma60": 110.9,
       "high52": 133.5,
       "low52": 97.5,
-      "volume": 1695481,
+      "volume": 1661562,
       "market": "上市"
     },
     {
@@ -15184,7 +15184,7 @@ var LOOKUP = {
       "ma60": 141.0,
       "high52": 168.5,
       "low52": 116.0,
-      "volume": 1950460,
+      "volume": 1934747,
       "market": "上市"
     },
     {
@@ -15200,7 +15200,7 @@ var LOOKUP = {
       "ma60": 53.5,
       "high52": 68.0,
       "low52": 47.1,
-      "volume": 4612233,
+      "volume": 4589367,
       "market": "上市"
     },
     {
@@ -15216,7 +15216,7 @@ var LOOKUP = {
       "ma60": 106.2,
       "high52": 151.9,
       "low52": 51.3,
-      "volume": 24018712,
+      "volume": 23864555,
       "market": "上市"
     },
     {
@@ -15232,7 +15232,7 @@ var LOOKUP = {
       "ma60": 2538.4,
       "high52": 2945.0,
       "low52": 2030.0,
-      "volume": 4649082,
+      "volume": 4297038,
       "market": "上市"
     },
     {
@@ -15248,7 +15248,7 @@ var LOOKUP = {
       "ma60": 10.8,
       "high52": 12.4,
       "low52": 9.3,
-      "volume": 6319,
+      "volume": 5391,
       "market": "上市"
     },
     {
@@ -15264,7 +15264,7 @@ var LOOKUP = {
       "ma60": 141.3,
       "high52": 159.2,
       "low52": 117.5,
-      "volume": 8320219,
+      "volume": 8241622,
       "market": "上市"
     },
     {
@@ -15280,7 +15280,7 @@ var LOOKUP = {
       "ma60": 22.9,
       "high52": 40.0,
       "low52": 15.2,
-      "volume": 476838,
+      "volume": 474000,
       "market": "上市"
     },
     {
@@ -15296,7 +15296,7 @@ var LOOKUP = {
       "ma60": 75.0,
       "high52": 87.1,
       "low52": 60.8,
-      "volume": 2689562,
+      "volume": 2662759,
       "market": "上市"
     },
     {
@@ -15312,7 +15312,7 @@ var LOOKUP = {
       "ma60": 303.4,
       "high52": 336.5,
       "low52": 266.5,
-      "volume": 4026548,
+      "volume": 3980999,
       "market": "上市"
     },
     {
@@ -15328,7 +15328,7 @@ var LOOKUP = {
       "ma60": 13.5,
       "high52": 17.8,
       "low52": 10.1,
-      "volume": 1153740,
+      "volume": 1148001,
       "market": "上市"
     },
     {
@@ -15344,7 +15344,7 @@ var LOOKUP = {
       "ma60": 66.8,
       "high52": 78.8,
       "low52": 58.5,
-      "volume": 368465,
+      "volume": 365000,
       "market": "上市"
     },
     {
@@ -15360,7 +15360,7 @@ var LOOKUP = {
       "ma60": 498.3,
       "high52": 988.0,
       "low52": 151.0,
-      "volume": 15319214,
+      "volume": 14930355,
       "market": "上市"
     },
     {
@@ -15376,7 +15376,7 @@ var LOOKUP = {
       "ma60": 19.7,
       "high52": 24.2,
       "low52": 17.2,
-      "volume": 650501,
+      "volume": 649300,
       "market": "上市"
     },
     {
@@ -15392,7 +15392,7 @@ var LOOKUP = {
       "ma60": 72.5,
       "high52": 83.1,
       "low52": 50.7,
-      "volume": 2993542,
+      "volume": 2964576,
       "market": "上市"
     },
     {
@@ -15408,7 +15408,7 @@ var LOOKUP = {
       "ma60": 99.7,
       "high52": 114.5,
       "low52": 93.0,
-      "volume": 1661445,
+      "volume": 1639190,
       "market": "上市"
     },
     {
@@ -15424,7 +15424,7 @@ var LOOKUP = {
       "ma60": 349.2,
       "high52": 410.4,
       "low52": 248.5,
-      "volume": 2677199,
+      "volume": 2595631,
       "market": "上市"
     },
     {
@@ -15440,7 +15440,7 @@ var LOOKUP = {
       "ma60": 30.8,
       "high52": 34.5,
       "low52": 22.9,
-      "volume": 4492432,
+      "volume": 4478434,
       "market": "上市"
     },
     {
@@ -15456,7 +15456,7 @@ var LOOKUP = {
       "ma60": 76.8,
       "high52": 92.1,
       "low52": 60.4,
-      "volume": 237266,
+      "volume": 233260,
       "market": "上市"
     },
     {
@@ -15472,7 +15472,7 @@ var LOOKUP = {
       "ma60": 44.8,
       "high52": 53.9,
       "low52": 32.5,
-      "volume": 3426649,
+      "volume": 3407002,
       "market": "上市"
     },
     {
@@ -15488,7 +15488,7 @@ var LOOKUP = {
       "ma60": 472.3,
       "high52": 567.0,
       "low52": 384.5,
-      "volume": 2519772,
+      "volume": 2456624,
       "market": "上市"
     },
     {
@@ -15504,7 +15504,7 @@ var LOOKUP = {
       "ma60": 190.2,
       "high52": 233.0,
       "low52": 138.8,
-      "volume": 6596818,
+      "volume": 6457844,
       "market": "上市"
     },
     {
@@ -15520,7 +15520,7 @@ var LOOKUP = {
       "ma60": 236.6,
       "high52": 293.1,
       "low52": 193.5,
-      "volume": 7702538,
+      "volume": 7540157,
       "market": "上市"
     },
     {
@@ -15536,7 +15536,7 @@ var LOOKUP = {
       "ma60": 882.2,
       "high52": 1085.0,
       "low52": 564.0,
-      "volume": 18997866,
+      "volume": 17574418,
       "market": "上市"
     },
     {
@@ -15552,7 +15552,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 25.2,
       "low52": 20.2,
-      "volume": 196846,
+      "volume": 195201,
       "market": "上市"
     },
     {
@@ -15568,7 +15568,7 @@ var LOOKUP = {
       "ma60": 41.0,
       "high52": 50.0,
       "low52": 36.5,
-      "volume": 86078,
+      "volume": 84283,
       "market": "上市"
     },
     {
@@ -15584,7 +15584,7 @@ var LOOKUP = {
       "ma60": 25.2,
       "high52": 31.2,
       "low52": 21.4,
-      "volume": 2303919,
+      "volume": 2294732,
       "market": "上市"
     },
     {
@@ -15600,7 +15600,7 @@ var LOOKUP = {
       "ma60": 176.5,
       "high52": 249.0,
       "low52": 92.1,
-      "volume": 93043603,
+      "volume": 91814567,
       "market": "上市"
     },
     {
@@ -15616,7 +15616,7 @@ var LOOKUP = {
       "ma60": 21.4,
       "high52": 24.2,
       "low52": 19.3,
-      "volume": 247591,
+      "volume": 248701,
       "market": "上市"
     },
     {
@@ -15632,7 +15632,7 @@ var LOOKUP = {
       "ma60": 484.4,
       "high52": 573.0,
       "low52": 357.0,
-      "volume": 1628249,
+      "volume": 1578258,
       "market": "上市"
     },
     {
@@ -15648,7 +15648,7 @@ var LOOKUP = {
       "ma60": 114.2,
       "high52": 120.5,
       "low52": 109.5,
-      "volume": 18177852,
+      "volume": 18155595,
       "market": "上市"
     },
     {
@@ -15664,7 +15664,7 @@ var LOOKUP = {
       "ma60": 50.2,
       "high52": 60.6,
       "low52": 43.9,
-      "volume": 251078,
+      "volume": 250534,
       "market": "上市"
     },
     {
@@ -15680,7 +15680,7 @@ var LOOKUP = {
       "ma60": 15.4,
       "high52": 17.0,
       "low52": 14.1,
-      "volume": 1680163,
+      "volume": 1682385,
       "market": "上市"
     },
     {
@@ -15696,7 +15696,7 @@ var LOOKUP = {
       "ma60": 56.7,
       "high52": 75.2,
       "low52": 34.0,
-      "volume": 2018573,
+      "volume": 2003890,
       "market": "上市"
     },
     {
@@ -15712,7 +15712,7 @@ var LOOKUP = {
       "ma60": 13.3,
       "high52": 17.3,
       "low52": 10.9,
-      "volume": 3506608,
+      "volume": 3495020,
       "market": "上市"
     },
     {
@@ -15728,7 +15728,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 14.1,
       "low52": 11.8,
-      "volume": 1099457,
+      "volume": 1096003,
       "market": "上市"
     },
     {
@@ -15744,7 +15744,7 @@ var LOOKUP = {
       "ma60": 26.2,
       "high52": 30.8,
       "low52": 19.8,
-      "volume": 784418,
+      "volume": 787024,
       "market": "上市"
     },
     {
@@ -15760,7 +15760,7 @@ var LOOKUP = {
       "ma60": 10.7,
       "high52": 11.1,
       "low52": 10.3,
-      "volume": 712119,
+      "volume": 707224,
       "market": "上市"
     },
     {
@@ -15776,7 +15776,7 @@ var LOOKUP = {
       "ma60": 68.4,
       "high52": 82.8,
       "low52": 60.0,
-      "volume": 56533,
+      "volume": 56000,
       "market": "上市"
     },
     {
@@ -15792,7 +15792,7 @@ var LOOKUP = {
       "ma60": 94.1,
       "high52": 152.5,
       "low52": 56.5,
-      "volume": 17823116,
+      "volume": 17490112,
       "market": "上市"
     },
     {
@@ -15808,7 +15808,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 15.4,
       "low52": 13.2,
-      "volume": 1611590,
+      "volume": 1599920,
       "market": "上市"
     },
     {
@@ -15824,7 +15824,7 @@ var LOOKUP = {
       "ma60": 19.8,
       "high52": 23.5,
       "low52": 15.6,
-      "volume": 122769,
+      "volume": 118735,
       "market": "上市"
     },
     {
@@ -15840,7 +15840,7 @@ var LOOKUP = {
       "ma60": 9.0,
       "high52": 10.5,
       "low52": 8.1,
-      "volume": 1540384,
+      "volume": 1533570,
       "market": "上市"
     },
     {
@@ -15856,7 +15856,7 @@ var LOOKUP = {
       "ma60": 43.2,
       "high52": 51.0,
       "low52": 36.0,
-      "volume": 10216123,
+      "volume": 10165711,
       "market": "上市"
     },
     {
@@ -15872,7 +15872,7 @@ var LOOKUP = {
       "ma60": 30.9,
       "high52": 41.7,
       "low52": 26.6,
-      "volume": 3214846,
+      "volume": 3194802,
       "market": "上市"
     },
     {
@@ -15888,7 +15888,7 @@ var LOOKUP = {
       "ma60": 27.6,
       "high52": 31.9,
       "low52": 24.0,
-      "volume": 1780024,
+      "volume": 1774952,
       "market": "上市"
     },
     {
@@ -15904,7 +15904,7 @@ var LOOKUP = {
       "ma60": 19.5,
       "high52": 22.9,
       "low52": 18.0,
-      "volume": 1026,
+      "volume": 1000,
       "market": "上櫃"
     },
     {
@@ -15920,7 +15920,7 @@ var LOOKUP = {
       "ma60": 20.7,
       "high52": 26.5,
       "low52": 17.2,
-      "volume": 1285484,
+      "volume": 1280000,
       "market": "上櫃"
     },
     {
@@ -15936,7 +15936,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 20.0,
       "low52": 17.2,
-      "volume": 2001,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -15952,7 +15952,7 @@ var LOOKUP = {
       "ma60": 31.4,
       "high52": 34.4,
       "low52": 26.9,
-      "volume": 434797,
+      "volume": 434133,
       "market": "上櫃"
     },
     {
@@ -15968,7 +15968,7 @@ var LOOKUP = {
       "ma60": 22.4,
       "high52": 27.0,
       "low52": 20.0,
-      "volume": 64619,
+      "volume": 63000,
       "market": "上櫃"
     },
     {
@@ -15984,7 +15984,7 @@ var LOOKUP = {
       "ma60": 55.8,
       "high52": 59.0,
       "low52": 51.9,
-      "volume": 1719974,
+      "volume": 1709700,
       "market": "上櫃"
     },
     {
@@ -16000,7 +16000,7 @@ var LOOKUP = {
       "ma60": 2521.2,
       "high52": 3160.0,
       "low52": 1940.0,
-      "volume": 2483911,
+      "volume": 2386547,
       "market": "上櫃"
     },
     {
@@ -16016,7 +16016,7 @@ var LOOKUP = {
       "ma60": 27.7,
       "high52": 30.5,
       "low52": 26.1,
-      "volume": 175261,
+      "volume": 174000,
       "market": "上櫃"
     },
     {
@@ -16032,7 +16032,7 @@ var LOOKUP = {
       "ma60": 12.3,
       "high52": 14.2,
       "low52": 11.3,
-      "volume": 1011,
+      "volume": 1100,
       "market": "上櫃"
     },
     {
@@ -16048,7 +16048,7 @@ var LOOKUP = {
       "ma60": 36.4,
       "high52": 43.5,
       "low52": 30.5,
-      "volume": 202804,
+      "volume": 202259,
       "market": "上櫃"
     },
     {
@@ -16064,7 +16064,7 @@ var LOOKUP = {
       "ma60": 126.0,
       "high52": 146.5,
       "low52": 81.9,
-      "volume": 1423218,
+      "volume": 1397749,
       "market": "上櫃"
     },
     {
@@ -16080,7 +16080,7 @@ var LOOKUP = {
       "ma60": 188.0,
       "high52": 330.4,
       "low52": 89.6,
-      "volume": 807334,
+      "volume": 768666,
       "market": "上市"
     },
     {
@@ -16096,7 +16096,7 @@ var LOOKUP = {
       "ma60": 31.0,
       "high52": 36.3,
       "low52": 28.0,
-      "volume": 1454794,
+      "volume": 1455743,
       "market": "上市"
     },
     {
@@ -16112,7 +16112,7 @@ var LOOKUP = {
       "ma60": 61.0,
       "high52": 74.4,
       "low52": 47.1,
-      "volume": 1968714,
+      "volume": 1955470,
       "market": "上櫃"
     },
     {
@@ -16128,7 +16128,7 @@ var LOOKUP = {
       "ma60": 32.1,
       "high52": 45.2,
       "low52": 22.6,
-      "volume": 1638632,
+      "volume": 1629102,
       "market": "上市"
     },
     {
@@ -16144,7 +16144,7 @@ var LOOKUP = {
       "ma60": 40.8,
       "high52": 47.8,
       "low52": 31.1,
-      "volume": 9775,
+      "volume": 9274,
       "market": "上櫃"
     },
     {
@@ -16160,7 +16160,7 @@ var LOOKUP = {
       "ma60": 25.3,
       "high52": 30.4,
       "low52": 23.1,
-      "volume": 7006,
+      "volume": 7008,
       "market": "興櫃"
     },
     {
@@ -16176,7 +16176,7 @@ var LOOKUP = {
       "ma60": 496.4,
       "high52": 614.4,
       "low52": 405.3,
-      "volume": 17383530,
+      "volume": 17061869,
       "market": "上櫃"
     },
     {
@@ -16192,7 +16192,7 @@ var LOOKUP = {
       "ma60": 34.0,
       "high52": 57.7,
       "low52": 25.6,
-      "volume": 1112299,
+      "volume": 1106545,
       "market": "上櫃"
     },
     {
@@ -16208,23 +16208,23 @@ var LOOKUP = {
       "ma60": 9.3,
       "high52": 11.0,
       "low52": 7.8,
-      "volume": 28350,
+      "volume": 29000,
       "market": "上櫃"
     },
     {
       "code": "3117",
       "name": "年程",
       "industry": "電子零組件",
-      "close": 30.4,
-      "change_amount": 2.9,
-      "change_pct": 10.55,
-      "ma5": 27.2,
-      "ma10": 26.6,
+      "close": 30.0,
+      "change_amount": 2.5,
+      "change_pct": 9.09,
+      "ma5": 27.1,
+      "ma10": 26.5,
       "ma20": 27.5,
       "ma60": 27.5,
       "high52": 51.0,
       "low52": 7.1,
-      "volume": 563675,
+      "volume": 580675,
       "market": "興櫃"
     },
     {
@@ -16240,7 +16240,7 @@ var LOOKUP = {
       "ma60": 31.4,
       "high52": 32.0,
       "low52": 31.0,
-      "volume": 18237,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
@@ -16256,7 +16256,7 @@ var LOOKUP = {
       "ma60": 32.0,
       "high52": 40.2,
       "low52": 24.6,
-      "volume": 362877,
+      "volume": 363040,
       "market": "上櫃"
     },
     {
@@ -16272,7 +16272,7 @@ var LOOKUP = {
       "ma60": 24.1,
       "high52": 25.8,
       "low52": 21.3,
-      "volume": 606529,
+      "volume": 599097,
       "market": "上櫃"
     },
     {
@@ -16288,7 +16288,7 @@ var LOOKUP = {
       "ma60": 221.9,
       "high52": 227.0,
       "low52": 219.0,
-      "volume": 63176,
+      "volume": 56207,
       "market": "上市"
     },
     {
@@ -16304,7 +16304,7 @@ var LOOKUP = {
       "ma60": 3201.4,
       "high52": 3905.0,
       "low52": 2580.0,
-      "volume": 331175,
+      "volume": 310546,
       "market": "上櫃"
     },
     {
@@ -16320,7 +16320,7 @@ var LOOKUP = {
       "ma60": 182.8,
       "high52": 260.5,
       "low52": 104.0,
-      "volume": 2692091,
+      "volume": 2649510,
       "market": "上市"
     },
     {
@@ -16336,7 +16336,7 @@ var LOOKUP = {
       "ma60": 155.5,
       "high52": 198.0,
       "low52": 116.0,
-      "volume": 458170,
+      "volume": 444368,
       "market": "上市"
     },
     {
@@ -16352,7 +16352,7 @@ var LOOKUP = {
       "ma60": 64.0,
       "high52": 82.7,
       "low52": 42.2,
-      "volume": 7577291,
+      "volume": 7505344,
       "market": "上櫃"
     },
     {
@@ -16368,7 +16368,7 @@ var LOOKUP = {
       "ma60": 221.5,
       "high52": 350.0,
       "low52": 156.5,
-      "volume": 1700023,
+      "volume": 1698480,
       "market": "上櫃"
     },
     {
@@ -16384,7 +16384,7 @@ var LOOKUP = {
       "ma60": 67.1,
       "high52": 104.5,
       "low52": 40.8,
-      "volume": 17184035,
+      "volume": 16957266,
       "market": "上市"
     },
     {
@@ -16400,7 +16400,7 @@ var LOOKUP = {
       "ma60": 19.2,
       "high52": 22.1,
       "low52": 17.8,
-      "volume": 82005,
+      "volume": 82001,
       "market": "上市"
     },
     {
@@ -16416,7 +16416,7 @@ var LOOKUP = {
       "ma60": 318.2,
       "high52": 388.9,
       "low52": 270.9,
-      "volume": 381106,
+      "volume": 345658,
       "market": "上櫃"
     },
     {
@@ -16432,7 +16432,7 @@ var LOOKUP = {
       "ma60": 86.8,
       "high52": 92.2,
       "low52": 83.1,
-      "volume": 8165,
+      "volume": 8016,
       "market": "上櫃"
     },
     {
@@ -16448,7 +16448,7 @@ var LOOKUP = {
       "ma60": 81.4,
       "high52": 95.9,
       "low52": 61.0,
-      "volume": 1492650,
+      "volume": 1476052,
       "market": "上櫃"
     },
     {
@@ -16464,7 +16464,7 @@ var LOOKUP = {
       "ma60": 1022.0,
       "high52": 1295.0,
       "low52": 720.0,
-      "volume": 951049,
+      "volume": 875846,
       "market": "上櫃"
     },
     {
@@ -16480,7 +16480,7 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 18.0,
       "low52": 15.9,
-      "volume": 23132,
+      "volume": 19081,
       "market": "上市"
     },
     {
@@ -16496,7 +16496,7 @@ var LOOKUP = {
       "ma60": 776.6,
       "high52": 951.0,
       "low52": 490.0,
-      "volume": 3804397,
+      "volume": 3647778,
       "market": "上市"
     },
     {
@@ -16512,7 +16512,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 48.9,
       "low52": 38.8,
-      "volume": 53187,
+      "volume": 53000,
       "market": "上市"
     },
     {
@@ -16528,7 +16528,7 @@ var LOOKUP = {
       "ma60": 106.1,
       "high52": 119.6,
       "low52": 86.4,
-      "volume": 86310,
+      "volume": 84045,
       "market": "上櫃"
     },
     {
@@ -16544,7 +16544,7 @@ var LOOKUP = {
       "ma60": 69.5,
       "high52": 79.4,
       "low52": 64.0,
-      "volume": 36979,
+      "volume": 35000,
       "market": "上櫃"
     },
     {
@@ -16560,7 +16560,7 @@ var LOOKUP = {
       "ma60": 33.2,
       "high52": 39.7,
       "low52": 29.9,
-      "volume": 1240901,
+      "volume": 1237035,
       "market": "上櫃"
     },
     {
@@ -16576,23 +16576,23 @@ var LOOKUP = {
       "ma60": 68.3,
       "high52": 74.3,
       "low52": 62.3,
-      "volume": 51471,
+      "volume": 48000,
       "market": "上櫃"
     },
     {
       "code": "3184",
       "name": "微邦",
       "industry": "生技醫療",
-      "close": 17.4,
-      "change_amount": 0.6,
-      "change_pct": 3.89,
-      "ma5": 16.9,
+      "close": 17.0,
+      "change_amount": 0.3,
+      "change_pct": 1.8,
+      "ma5": 16.8,
       "ma10": 17.1,
       "ma20": 18.2,
-      "ma60": 21.7,
+      "ma60": 21.6,
       "high52": 35.0,
       "low52": 16.3,
-      "volume": 165592,
+      "volume": 199648,
       "market": "興櫃"
     },
     {
@@ -16608,7 +16608,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 28.0,
       "low52": 22.5,
-      "volume": 282916,
+      "volume": 282000,
       "market": "上櫃"
     },
     {
@@ -16624,7 +16624,7 @@ var LOOKUP = {
       "ma60": 600.8,
       "high52": 889.5,
       "low52": 357.9,
-      "volume": 3309164,
+      "volume": 3221991,
       "market": "上市"
     },
     {
@@ -16640,7 +16640,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 26.5,
       "low52": 13.5,
-      "volume": 42601,
+      "volume": 42000,
       "market": "上櫃"
     },
     {
@@ -16656,7 +16656,7 @@ var LOOKUP = {
       "ma60": 55.3,
       "high52": 62.1,
       "low52": 51.7,
-      "volume": 227422,
+      "volume": 226030,
       "market": "上櫃"
     },
     {
@@ -16672,7 +16672,7 @@ var LOOKUP = {
       "ma60": 37.5,
       "high52": 42.0,
       "low52": 33.9,
-      "volume": 86030,
+      "volume": 84001,
       "market": "上櫃"
     },
     {
@@ -16688,7 +16688,7 @@ var LOOKUP = {
       "ma60": 64.6,
       "high52": 71.7,
       "low52": 56.6,
-      "volume": 291983,
+      "volume": 291000,
       "market": "上櫃"
     },
     {
@@ -16704,7 +16704,7 @@ var LOOKUP = {
       "ma60": 61.7,
       "high52": 81.4,
       "low52": 41.0,
-      "volume": 1405147,
+      "volume": 1394555,
       "market": "上市"
     },
     {
@@ -16720,7 +16720,7 @@ var LOOKUP = {
       "ma60": 386.8,
       "high52": 455.8,
       "low52": 337.2,
-      "volume": 1612268,
+      "volume": 1550124,
       "market": "上櫃"
     },
     {
@@ -16736,7 +16736,7 @@ var LOOKUP = {
       "ma60": 112.5,
       "high52": 142.5,
       "low52": 96.1,
-      "volume": 3976893,
+      "volume": 3923563,
       "market": "上櫃"
     },
     {
@@ -16752,7 +16752,7 @@ var LOOKUP = {
       "ma60": 177.8,
       "high52": 207.0,
       "low52": 153.0,
-      "volume": 524139,
+      "volume": 514201,
       "market": "上櫃"
     },
     {
@@ -16768,7 +16768,7 @@ var LOOKUP = {
       "ma60": 132.7,
       "high52": 141.5,
       "low52": 123.5,
-      "volume": 725133,
+      "volume": 698304,
       "market": "上櫃"
     },
     {
@@ -16784,7 +16784,7 @@ var LOOKUP = {
       "ma60": 74.2,
       "high52": 92.9,
       "low52": 61.3,
-      "volume": 200648,
+      "volume": 199000,
       "market": "上櫃"
     },
     {
@@ -16800,7 +16800,7 @@ var LOOKUP = {
       "ma60": 51.6,
       "high52": 66.3,
       "low52": 34.7,
-      "volume": 31307264,
+      "volume": 31223542,
       "market": "上櫃"
     },
     {
@@ -16816,7 +16816,7 @@ var LOOKUP = {
       "ma60": 41.0,
       "high52": 52.5,
       "low52": 36.9,
-      "volume": 54640,
+      "volume": 53000,
       "market": "上櫃"
     },
     {
@@ -16832,7 +16832,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 49.2,
       "low52": 39.5,
-      "volume": 15598,
+      "volume": 15006,
       "market": "上櫃"
     },
     {
@@ -16848,7 +16848,7 @@ var LOOKUP = {
       "ma60": 218.3,
       "high52": 238.0,
       "low52": 182.5,
-      "volume": 3590618,
+      "volume": 3522532,
       "market": "上櫃"
     },
     {
@@ -16864,7 +16864,7 @@ var LOOKUP = {
       "ma60": 188.7,
       "high52": 257.5,
       "low52": 128.0,
-      "volume": 329728,
+      "volume": 322130,
       "market": "上櫃"
     },
     {
@@ -16880,7 +16880,7 @@ var LOOKUP = {
       "ma60": 40.6,
       "high52": 54.4,
       "low52": 18.8,
-      "volume": 190594,
+      "volume": 188186,
       "market": "上市"
     },
     {
@@ -16896,7 +16896,7 @@ var LOOKUP = {
       "ma60": 35.1,
       "high52": 51.6,
       "low52": 28.8,
-      "volume": 2559270,
+      "volume": 2547237,
       "market": "上櫃"
     },
     {
@@ -16912,7 +16912,7 @@ var LOOKUP = {
       "ma60": 149.7,
       "high52": 194.0,
       "low52": 123.5,
-      "volume": 24709723,
+      "volume": 24456191,
       "market": "上市"
     },
     {
@@ -16928,7 +16928,7 @@ var LOOKUP = {
       "ma60": 22.1,
       "high52": 23.8,
       "low52": 20.5,
-      "volume": 57363,
+      "volume": 57000,
       "market": "上櫃"
     },
     {
@@ -16944,7 +16944,7 @@ var LOOKUP = {
       "ma60": 115.1,
       "high52": 145.5,
       "low52": 87.1,
-      "volume": 997593,
+      "volume": 967790,
       "market": "上櫃"
     },
     {
@@ -16960,7 +16960,7 @@ var LOOKUP = {
       "ma60": 47.9,
       "high52": 73.0,
       "low52": 29.5,
-      "volume": 17885050,
+      "volume": 17856911,
       "market": "上櫃"
     },
     {
@@ -16976,7 +16976,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 20.4,
       "low52": 17.4,
-      "volume": 22051,
+      "volume": 22000,
       "market": "上櫃"
     },
     {
@@ -16992,7 +16992,7 @@ var LOOKUP = {
       "ma60": 56.8,
       "high52": 73.9,
       "low52": 49.6,
-      "volume": 2698156,
+      "volume": 2708372,
       "market": "上市"
     },
     {
@@ -17008,7 +17008,7 @@ var LOOKUP = {
       "ma60": 16.9,
       "high52": 18.8,
       "low52": 15.7,
-      "volume": 30010,
+      "volume": 30000,
       "market": "上櫃"
     },
     {
@@ -17024,7 +17024,7 @@ var LOOKUP = {
       "ma60": 415.8,
       "high52": 484.0,
       "low52": 358.0,
-      "volume": 5981716,
+      "volume": 5858537,
       "market": "上櫃"
     },
     {
@@ -17040,7 +17040,7 @@ var LOOKUP = {
       "ma60": 213.5,
       "high52": 249.0,
       "low52": 153.0,
-      "volume": 10559403,
+      "volume": 10431816,
       "market": "上櫃"
     },
     {
@@ -17056,7 +17056,7 @@ var LOOKUP = {
       "ma60": 174.9,
       "high52": 189.3,
       "low52": 140.9,
-      "volume": 751027,
+      "volume": 744820,
       "market": "上櫃"
     },
     {
@@ -17072,7 +17072,7 @@ var LOOKUP = {
       "ma60": 13.3,
       "high52": 14.1,
       "low52": 12.1,
-      "volume": 76678,
+      "volume": 76452,
       "market": "上市"
     },
     {
@@ -17088,7 +17088,7 @@ var LOOKUP = {
       "ma60": 18.8,
       "high52": 23.8,
       "low52": 14.2,
-      "volume": 251046,
+      "volume": 250105,
       "market": "上櫃"
     },
     {
@@ -17104,7 +17104,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 21.1,
       "low52": 14.5,
-      "volume": 79100,
+      "volume": 78000,
       "market": "上櫃"
     },
     {
@@ -17120,7 +17120,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 17.0,
       "low52": 13.6,
-      "volume": 412353,
+      "volume": 411240,
       "market": "上櫃"
     },
     {
@@ -17136,7 +17136,7 @@ var LOOKUP = {
       "ma60": 19.4,
       "high52": 30.3,
       "low52": 15.4,
-      "volume": 1659435,
+      "volume": 1648846,
       "market": "上櫃"
     },
     {
@@ -17152,7 +17152,7 @@ var LOOKUP = {
       "ma60": 33.8,
       "high52": 51.2,
       "low52": 28.0,
-      "volume": 457823,
+      "volume": 453660,
       "market": "上櫃"
     },
     {
@@ -17168,7 +17168,7 @@ var LOOKUP = {
       "ma60": 31.9,
       "high52": 38.5,
       "low52": 27.9,
-      "volume": 56891,
+      "volume": 56000,
       "market": "上櫃"
     },
     {
@@ -17184,7 +17184,7 @@ var LOOKUP = {
       "ma60": 17.9,
       "high52": 25.5,
       "low52": 14.6,
-      "volume": 34428,
+      "volume": 34000,
       "market": "上櫃"
     },
     {
@@ -17200,7 +17200,7 @@ var LOOKUP = {
       "ma60": 175.0,
       "high52": 210.5,
       "low52": 127.0,
-      "volume": 7911235,
+      "volume": 7776668,
       "market": "上櫃"
     },
     {
@@ -17216,7 +17216,7 @@ var LOOKUP = {
       "ma60": 53.4,
       "high52": 71.3,
       "low52": 44.8,
-      "volume": 1242659,
+      "volume": 1226502,
       "market": "上櫃"
     },
     {
@@ -17232,7 +17232,7 @@ var LOOKUP = {
       "ma60": 760.5,
       "high52": 819.0,
       "low52": 717.0,
-      "volume": 1224587,
+      "volume": 1151766,
       "market": "上櫃"
     },
     {
@@ -17248,7 +17248,7 @@ var LOOKUP = {
       "ma60": 35.9,
       "high52": 42.3,
       "low52": 30.2,
-      "volume": 2925286,
+      "volume": 2907555,
       "market": "上櫃"
     },
     {
@@ -17264,7 +17264,7 @@ var LOOKUP = {
       "ma60": 22.7,
       "high52": 30.7,
       "low52": 19.0,
-      "volume": 72705,
+      "volume": 72000,
       "market": "上市"
     },
     {
@@ -17280,7 +17280,7 @@ var LOOKUP = {
       "ma60": 32.3,
       "high52": 37.1,
       "low52": 29.4,
-      "volume": 127296,
+      "volume": 126000,
       "market": "上櫃"
     },
     {
@@ -17296,7 +17296,7 @@ var LOOKUP = {
       "ma60": 51.6,
       "high52": 62.9,
       "low52": 45.0,
-      "volume": 388963,
+      "volume": 386000,
       "market": "上櫃"
     },
     {
@@ -17312,7 +17312,7 @@ var LOOKUP = {
       "ma60": 132.8,
       "high52": 167.5,
       "low52": 102.0,
-      "volume": 1327226,
+      "volume": 1312185,
       "market": "上市"
     },
     {
@@ -17328,7 +17328,7 @@ var LOOKUP = {
       "ma60": 47.4,
       "high52": 51.5,
       "low52": 44.5,
-      "volume": 1217964,
+      "volume": 1207671,
       "market": "上櫃"
     },
     {
@@ -17344,7 +17344,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 24.0,
       "low52": 19.4,
-      "volume": 111400,
+      "volume": 107218,
       "market": "上市"
     },
     {
@@ -17360,7 +17360,7 @@ var LOOKUP = {
       "ma60": 67.0,
       "high52": 73.2,
       "low52": 64.2,
-      "volume": 13410,
+      "volume": 13000,
       "market": "上櫃"
     },
     {
@@ -17376,7 +17376,7 @@ var LOOKUP = {
       "ma60": 34.3,
       "high52": 40.6,
       "low52": 30.0,
-      "volume": 484704,
+      "volume": 482458,
       "market": "上市"
     },
     {
@@ -17392,7 +17392,7 @@ var LOOKUP = {
       "ma60": 50.9,
       "high52": 73.2,
       "low52": 35.0,
-      "volume": 1996583,
+      "volume": 1993301,
       "market": "上市"
     },
     {
@@ -17408,7 +17408,7 @@ var LOOKUP = {
       "ma60": 11.8,
       "high52": 13.1,
       "low52": 11.0,
-      "volume": 810235,
+      "volume": 796542,
       "market": "上櫃"
     },
     {
@@ -17424,7 +17424,7 @@ var LOOKUP = {
       "ma60": 72.6,
       "high52": 97.3,
       "low52": 50.1,
-      "volume": 16524192,
+      "volume": 16393468,
       "market": "上櫃"
     },
     {
@@ -17440,7 +17440,7 @@ var LOOKUP = {
       "ma60": 18.9,
       "high52": 26.9,
       "low52": 15.1,
-      "volume": 815728,
+      "volume": 810200,
       "market": "上市"
     },
     {
@@ -17456,7 +17456,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 15.6,
       "low52": 12.2,
-      "volume": 835290,
+      "volume": 831117,
       "market": "上櫃"
     },
     {
@@ -17472,7 +17472,7 @@ var LOOKUP = {
       "ma60": 35.1,
       "high52": 39.6,
       "low52": 32.1,
-      "volume": 608090,
+      "volume": 604050,
       "market": "上櫃"
     },
     {
@@ -17488,7 +17488,7 @@ var LOOKUP = {
       "ma60": 1049.8,
       "high52": 1265.5,
       "low52": 907.6,
-      "volume": 1389603,
+      "volume": 1324625,
       "market": "上櫃"
     },
     {
@@ -17504,7 +17504,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 14.6,
       "low52": 11.8,
-      "volume": 330550,
+      "volume": 328001,
       "market": "上櫃"
     },
     {
@@ -17520,7 +17520,7 @@ var LOOKUP = {
       "ma60": 64.2,
       "high52": 72.6,
       "low52": 55.7,
-      "volume": 9029,
+      "volume": 9000,
       "market": "上櫃"
     },
     {
@@ -17536,7 +17536,7 @@ var LOOKUP = {
       "ma60": 72.3,
       "high52": 87.2,
       "low52": 57.5,
-      "volume": 354440,
+      "volume": 349030,
       "market": "上市"
     },
     {
@@ -17552,7 +17552,7 @@ var LOOKUP = {
       "ma60": 50.8,
       "high52": 71.4,
       "low52": 41.3,
-      "volume": 800388,
+      "volume": 798227,
       "market": "上櫃"
     },
     {
@@ -17568,7 +17568,7 @@ var LOOKUP = {
       "ma60": 20.4,
       "high52": 29.3,
       "low52": 15.3,
-      "volume": 6484318,
+      "volume": 6475912,
       "market": "上市"
     },
     {
@@ -17584,7 +17584,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 28.4,
       "low52": 17.7,
-      "volume": 480781,
+      "volume": 479500,
       "market": "上櫃"
     },
     {
@@ -17600,7 +17600,7 @@ var LOOKUP = {
       "ma60": 29.7,
       "high52": 35.4,
       "low52": 24.0,
-      "volume": 94424,
+      "volume": 92246,
       "market": "上櫃"
     },
     {
@@ -17616,7 +17616,7 @@ var LOOKUP = {
       "ma60": 55.9,
       "high52": 62.7,
       "low52": 45.2,
-      "volume": 498532,
+      "volume": 495650,
       "market": "上市"
     },
     {
@@ -17632,7 +17632,7 @@ var LOOKUP = {
       "ma60": 238.0,
       "high52": 342.1,
       "low52": 140.6,
-      "volume": 5296812,
+      "volume": 5145184,
       "market": "上櫃"
     },
     {
@@ -17648,7 +17648,7 @@ var LOOKUP = {
       "ma60": 15.4,
       "high52": 22.7,
       "low52": 13.2,
-      "volume": 3708488,
+      "volume": 3689350,
       "market": "上櫃"
     },
     {
@@ -17664,7 +17664,7 @@ var LOOKUP = {
       "ma60": 135.6,
       "high52": 211.0,
       "low52": 94.2,
-      "volume": 2307551,
+      "volume": 2288450,
       "market": "上櫃"
     },
     {
@@ -17680,7 +17680,7 @@ var LOOKUP = {
       "ma60": 783.2,
       "high52": 990.0,
       "low52": 529.0,
-      "volume": 4563606,
+      "volume": 4457910,
       "market": "上櫃"
     },
     {
@@ -17696,7 +17696,7 @@ var LOOKUP = {
       "ma60": 20.1,
       "high52": 22.9,
       "low52": 18.2,
-      "volume": 634065,
+      "volume": 630965,
       "market": "上櫃"
     },
     {
@@ -17712,7 +17712,7 @@ var LOOKUP = {
       "ma60": 16.8,
       "high52": 17.3,
       "low52": 16.4,
-      "volume": 84878,
+      "volume": 84100,
       "market": "上櫃"
     },
     {
@@ -17728,7 +17728,7 @@ var LOOKUP = {
       "ma60": 235.4,
       "high52": 316.0,
       "low52": 155.2,
-      "volume": 13075975,
+      "volume": 12901078,
       "market": "上櫃"
     },
     {
@@ -17744,7 +17744,7 @@ var LOOKUP = {
       "ma60": 206.9,
       "high52": 237.0,
       "low52": 192.0,
-      "volume": 12235171,
+      "volume": 12118015,
       "market": "上市"
     },
     {
@@ -17760,7 +17760,7 @@ var LOOKUP = {
       "ma60": 37.3,
       "high52": 42.8,
       "low52": 32.0,
-      "volume": 1926261,
+      "volume": 1861000,
       "market": "上櫃"
     },
     {
@@ -17776,7 +17776,7 @@ var LOOKUP = {
       "ma60": 35.4,
       "high52": 41.5,
       "low52": 31.0,
-      "volume": 6367019,
+      "volume": 6346728,
       "market": "上市"
     },
     {
@@ -17792,7 +17792,7 @@ var LOOKUP = {
       "ma60": 95.2,
       "high52": 116.6,
       "low52": 63.4,
-      "volume": 299270,
+      "volume": 293002,
       "market": "上櫃"
     },
     {
@@ -17808,7 +17808,7 @@ var LOOKUP = {
       "ma60": 27.1,
       "high52": 30.0,
       "low52": 21.0,
-      "volume": 440969,
+      "volume": 438000,
       "market": "上櫃"
     },
     {
@@ -17824,7 +17824,7 @@ var LOOKUP = {
       "ma60": 138.9,
       "high52": 155.0,
       "low52": 119.0,
-      "volume": 1431755,
+      "volume": 1407500,
       "market": "上櫃"
     },
     {
@@ -17840,7 +17840,7 @@ var LOOKUP = {
       "ma60": 583.9,
       "high52": 774.0,
       "low52": 432.4,
-      "volume": 986116,
+      "volume": 924140,
       "market": "上市"
     },
     {
@@ -17856,7 +17856,7 @@ var LOOKUP = {
       "ma60": 312.1,
       "high52": 337.9,
       "low52": 283.7,
-      "volume": 1658225,
+      "volume": 1588845,
       "market": "上市"
     },
     {
@@ -17872,7 +17872,7 @@ var LOOKUP = {
       "ma60": 164.7,
       "high52": 187.0,
       "low52": 140.1,
-      "volume": 968169,
+      "volume": 940434,
       "market": "上市"
     },
     {
@@ -17888,7 +17888,7 @@ var LOOKUP = {
       "ma60": 14.5,
       "high52": 18.0,
       "low52": 13.6,
-      "volume": 256342,
+      "volume": 256000,
       "market": "上市"
     },
     {
@@ -17904,7 +17904,7 @@ var LOOKUP = {
       "ma60": 137.6,
       "high52": 183.5,
       "low52": 68.2,
-      "volume": 292412,
+      "volume": 284302,
       "market": "上櫃"
     },
     {
@@ -17920,7 +17920,7 @@ var LOOKUP = {
       "ma60": 18.7,
       "high52": 22.6,
       "low52": 16.1,
-      "volume": 66918,
+      "volume": 66000,
       "market": "上市"
     },
     {
@@ -17936,7 +17936,7 @@ var LOOKUP = {
       "ma60": 30.0,
       "high52": 35.9,
       "low52": 28.0,
-      "volume": 130097,
+      "volume": 129168,
       "market": "上櫃"
     },
     {
@@ -17952,7 +17952,7 @@ var LOOKUP = {
       "ma60": 23.9,
       "high52": 29.9,
       "low52": 20.1,
-      "volume": 581770,
+      "volume": 579146,
       "market": "上市"
     },
     {
@@ -17968,7 +17968,7 @@ var LOOKUP = {
       "ma60": 63.8,
       "high52": 79.0,
       "low52": 43.8,
-      "volume": 139803,
+      "volume": 138622,
       "market": "上櫃"
     },
     {
@@ -17984,7 +17984,7 @@ var LOOKUP = {
       "ma60": 52.9,
       "high52": 92.8,
       "low52": 29.4,
-      "volume": 866984,
+      "volume": 854064,
       "market": "上櫃"
     },
     {
@@ -18000,7 +18000,7 @@ var LOOKUP = {
       "ma60": 4462.9,
       "high52": 5704.0,
       "low52": 2354.3,
-      "volume": 1904055,
+      "volume": 1774905,
       "market": "上市"
     },
     {
@@ -18016,7 +18016,7 @@ var LOOKUP = {
       "ma60": 92.5,
       "high52": 117.5,
       "low52": 65.4,
-      "volume": 134623,
+      "volume": 132068,
       "market": "上櫃"
     },
     {
@@ -18032,7 +18032,7 @@ var LOOKUP = {
       "ma60": 37.5,
       "high52": 41.5,
       "low52": 34.3,
-      "volume": 146317,
+      "volume": 144030,
       "market": "上市"
     },
     {
@@ -18048,7 +18048,7 @@ var LOOKUP = {
       "ma60": 439.4,
       "high52": 612.0,
       "low52": 257.5,
-      "volume": 1627286,
+      "volume": 1565527,
       "market": "上市"
     },
     {
@@ -18064,7 +18064,7 @@ var LOOKUP = {
       "ma60": 240.8,
       "high52": 310.0,
       "low52": 152.5,
-      "volume": 3647529,
+      "volume": 3589749,
       "market": "上櫃"
     },
     {
@@ -18080,7 +18080,7 @@ var LOOKUP = {
       "ma60": 32.0,
       "high52": 40.0,
       "low52": 26.6,
-      "volume": 18099,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
@@ -18096,7 +18096,7 @@ var LOOKUP = {
       "ma60": 35.6,
       "high52": 43.8,
       "low52": 29.5,
-      "volume": 378521,
+      "volume": 345999,
       "market": "上櫃"
     },
     {
@@ -18112,7 +18112,7 @@ var LOOKUP = {
       "ma60": 63.6,
       "high52": 77.5,
       "low52": 40.5,
-      "volume": 96327,
+      "volume": 94000,
       "market": "上櫃"
     },
     {
@@ -18144,7 +18144,7 @@ var LOOKUP = {
       "ma60": 111.3,
       "high52": 143.0,
       "low52": 82.8,
-      "volume": 1434112,
+      "volume": 1422727,
       "market": "上櫃"
     },
     {
@@ -18160,7 +18160,7 @@ var LOOKUP = {
       "ma60": 42.5,
       "high52": 70.9,
       "low52": 22.9,
-      "volume": 300187247,
+      "volume": 298187140,
       "market": "上市"
     },
     {
@@ -18176,7 +18176,7 @@ var LOOKUP = {
       "ma60": 92.6,
       "high52": 110.5,
       "low52": 76.0,
-      "volume": 479390,
+      "volume": 468303,
       "market": "上櫃"
     },
     {
@@ -18192,7 +18192,7 @@ var LOOKUP = {
       "ma60": 46.2,
       "high52": 55.1,
       "low52": 42.3,
-      "volume": 891015,
+      "volume": 879230,
       "market": "上櫃"
     },
     {
@@ -18208,7 +18208,7 @@ var LOOKUP = {
       "ma60": 309.5,
       "high52": 386.5,
       "low52": 211.0,
-      "volume": 1711561,
+      "volume": 1676325,
       "market": "上櫃"
     },
     {
@@ -18224,7 +18224,7 @@ var LOOKUP = {
       "ma60": 22.5,
       "high52": 24.5,
       "low52": 21.5,
-      "volume": 290841,
+      "volume": 287000,
       "market": "上櫃"
     },
     {
@@ -18240,7 +18240,7 @@ var LOOKUP = {
       "ma60": 33.2,
       "high52": 43.5,
       "low52": 26.8,
-      "volume": 1347410,
+      "volume": 1322350,
       "market": "上櫃"
     },
     {
@@ -18256,7 +18256,7 @@ var LOOKUP = {
       "ma60": 1695.2,
       "high52": 2200.0,
       "low52": 1230.0,
-      "volume": 861084,
+      "volume": 794883,
       "market": "上櫃"
     },
     {
@@ -18272,7 +18272,7 @@ var LOOKUP = {
       "ma60": 22.9,
       "high52": 24.4,
       "low52": 22.0,
-      "volume": 137051,
+      "volume": 137000,
       "market": "上櫃"
     },
     {
@@ -18288,7 +18288,7 @@ var LOOKUP = {
       "ma60": 8.0,
       "high52": 8.4,
       "low52": 7.4,
-      "volume": 70199,
+      "volume": 69000,
       "market": "上市"
     },
     {
@@ -18304,7 +18304,7 @@ var LOOKUP = {
       "ma60": 115.4,
       "high52": 160.0,
       "low52": 72.1,
-      "volume": 978522,
+      "volume": 967750,
       "market": "上櫃"
     },
     {
@@ -18320,7 +18320,7 @@ var LOOKUP = {
       "ma60": 15.3,
       "high52": 18.0,
       "low52": 14.3,
-      "volume": 77841,
+      "volume": 77599,
       "market": "上櫃"
     },
     {
@@ -18336,7 +18336,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 48.5,
       "low52": 38.8,
-      "volume": 326532,
+      "volume": 324000,
       "market": "上市"
     },
     {
@@ -18352,7 +18352,7 @@ var LOOKUP = {
       "ma60": 74.2,
       "high52": 91.5,
       "low52": 50.7,
-      "volume": 529744,
+      "volume": 526137,
       "market": "上市"
     },
     {
@@ -18368,7 +18368,7 @@ var LOOKUP = {
       "ma60": 21.1,
       "high52": 32.5,
       "low52": 17.9,
-      "volume": 198698,
+      "volume": 198063,
       "market": "上櫃"
     },
     {
@@ -18384,7 +18384,7 @@ var LOOKUP = {
       "ma60": 22.3,
       "high52": 27.0,
       "low52": 19.0,
-      "volume": 1601986,
+      "volume": 1592260,
       "market": "上櫃"
     },
     {
@@ -18400,7 +18400,7 @@ var LOOKUP = {
       "ma60": 20.8,
       "high52": 22.0,
       "low52": 20.1,
-      "volume": 123505,
+      "volume": 122131,
       "market": "上櫃"
     },
     {
@@ -18416,7 +18416,7 @@ var LOOKUP = {
       "ma60": 224.7,
       "high52": 260.6,
       "low52": 195.8,
-      "volume": 832795,
+      "volume": 816040,
       "market": "上市"
     },
     {
@@ -18432,7 +18432,7 @@ var LOOKUP = {
       "ma60": 23.3,
       "high52": 29.3,
       "low52": 18.6,
-      "volume": 113259,
+      "volume": 112054,
       "market": "上櫃"
     },
     {
@@ -18448,7 +18448,7 @@ var LOOKUP = {
       "ma60": 31.3,
       "high52": 38.9,
       "low52": 20.0,
-      "volume": 4652146,
+      "volume": 4635215,
       "market": "上市"
     },
     {
@@ -18464,7 +18464,7 @@ var LOOKUP = {
       "ma60": 15.6,
       "high52": 19.1,
       "low52": 13.9,
-      "volume": 3564967,
+      "volume": 3559810,
       "market": "上櫃"
     },
     {
@@ -18480,7 +18480,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 14.9,
       "low52": 11.8,
-      "volume": 145207,
+      "volume": 145001,
       "market": "上櫃"
     },
     {
@@ -18496,7 +18496,7 @@ var LOOKUP = {
       "ma60": 12.6,
       "high52": 14.9,
       "low52": 11.4,
-      "volume": 109704,
+      "volume": 108000,
       "market": "上櫃"
     },
     {
@@ -18512,7 +18512,7 @@ var LOOKUP = {
       "ma60": 14.7,
       "high52": 23.2,
       "low52": 9.9,
-      "volume": 26152,
+      "volume": 26000,
       "market": "上櫃"
     },
     {
@@ -18528,7 +18528,7 @@ var LOOKUP = {
       "ma60": 333.5,
       "high52": 395.0,
       "low52": 266.5,
-      "volume": 645592,
+      "volume": 618128,
       "market": "上櫃"
     },
     {
@@ -18544,7 +18544,7 @@ var LOOKUP = {
       "ma60": 60.7,
       "high52": 70.7,
       "low52": 51.6,
-      "volume": 156940,
+      "volume": 157000,
       "market": "上櫃"
     },
     {
@@ -18560,7 +18560,7 @@ var LOOKUP = {
       "ma60": 95.9,
       "high52": 140.0,
       "low52": 64.6,
-      "volume": 291694,
+      "volume": 289020,
       "market": "上市"
     },
     {
@@ -18576,7 +18576,7 @@ var LOOKUP = {
       "ma60": 3527.1,
       "high52": 4674.6,
       "low52": 2770.0,
-      "volume": 1119686,
+      "volume": 1019347,
       "market": "上櫃"
     },
     {
@@ -18592,7 +18592,7 @@ var LOOKUP = {
       "ma60": 65.8,
       "high52": 73.2,
       "low52": 59.1,
-      "volume": 330762,
+      "volume": 328150,
       "market": "上市"
     },
     {
@@ -18608,7 +18608,7 @@ var LOOKUP = {
       "ma60": 22.6,
       "high52": 23.5,
       "low52": 20.6,
-      "volume": 14001,
+      "volume": 14080,
       "market": "上櫃"
     },
     {
@@ -18624,7 +18624,7 @@ var LOOKUP = {
       "ma60": 270.3,
       "high52": 440.0,
       "low52": 130.5,
-      "volume": 979564,
+      "volume": 944037,
       "market": "上市"
     },
     {
@@ -18640,7 +18640,7 @@ var LOOKUP = {
       "ma60": 2438.5,
       "high52": 2850.0,
       "low52": 2030.0,
-      "volume": 983026,
+      "volume": 968162,
       "market": "上市"
     },
     {
@@ -18656,7 +18656,7 @@ var LOOKUP = {
       "ma60": 126.2,
       "high52": 145.5,
       "low52": 112.0,
-      "volume": 690732,
+      "volume": 685229,
       "market": "上市"
     },
     {
@@ -18672,7 +18672,7 @@ var LOOKUP = {
       "ma60": 62.5,
       "high52": 89.6,
       "low52": 42.2,
-      "volume": 1918753,
+      "volume": 1909282,
       "market": "上櫃"
     },
     {
@@ -18688,7 +18688,7 @@ var LOOKUP = {
       "ma60": 26.5,
       "high52": 29.8,
       "low52": 23.7,
-      "volume": 159190,
+      "volume": 157000,
       "market": "上櫃"
     },
     {
@@ -18704,7 +18704,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 24.2,
       "low52": 21.3,
-      "volume": 91956,
+      "volume": 91000,
       "market": "上櫃"
     },
     {
@@ -18720,7 +18720,7 @@ var LOOKUP = {
       "ma60": 35.9,
       "high52": 45.6,
       "low52": 28.4,
-      "volume": 922835,
+      "volume": 921000,
       "market": "上市"
     },
     {
@@ -18736,7 +18736,7 @@ var LOOKUP = {
       "ma60": 55.2,
       "high52": 61.6,
       "low52": 48.0,
-      "volume": 1384981,
+      "volume": 1384040,
       "market": "上市"
     },
     {
@@ -18752,7 +18752,7 @@ var LOOKUP = {
       "ma60": 77.2,
       "high52": 86.6,
       "low52": 67.6,
-      "volume": 226905,
+      "volume": 221342,
       "market": "上櫃"
     },
     {
@@ -18768,7 +18768,7 @@ var LOOKUP = {
       "ma60": 96.3,
       "high52": 116.0,
       "low52": 80.0,
-      "volume": 327324,
+      "volume": 319033,
       "market": "上櫃"
     },
     {
@@ -18784,7 +18784,7 @@ var LOOKUP = {
       "ma60": 24.2,
       "high52": 37.2,
       "low52": 17.8,
-      "volume": 13919753,
+      "volume": 13904518,
       "market": "上市"
     },
     {
@@ -18800,7 +18800,7 @@ var LOOKUP = {
       "ma60": 202.0,
       "high52": 225.0,
       "low52": 171.5,
-      "volume": 511818,
+      "volume": 498385,
       "market": "上櫃"
     },
     {
@@ -18816,7 +18816,7 @@ var LOOKUP = {
       "ma60": 53.3,
       "high52": 63.0,
       "low52": 47.6,
-      "volume": 289167,
+      "volume": 286329,
       "market": "上櫃"
     },
     {
@@ -18832,7 +18832,7 @@ var LOOKUP = {
       "ma60": 217.0,
       "high52": 276.0,
       "low52": 165.0,
-      "volume": 46095,
+      "volume": 45041,
       "market": "上櫃"
     },
     {
@@ -18848,7 +18848,7 @@ var LOOKUP = {
       "ma60": 59.4,
       "high52": 78.1,
       "low52": 43.5,
-      "volume": 547561,
+      "volume": 538165,
       "market": "上櫃"
     },
     {
@@ -18864,7 +18864,7 @@ var LOOKUP = {
       "ma60": 27.4,
       "high52": 31.8,
       "low52": 23.1,
-      "volume": 165789,
+      "volume": 164103,
       "market": "上市"
     },
     {
@@ -18880,7 +18880,7 @@ var LOOKUP = {
       "ma60": 124.0,
       "high52": 144.0,
       "low52": 107.5,
-      "volume": 151397,
+      "volume": 147012,
       "market": "上櫃"
     },
     {
@@ -18896,7 +18896,7 @@ var LOOKUP = {
       "ma60": 808.7,
       "high52": 940.0,
       "low52": 660.0,
-      "volume": 1309995,
+      "volume": 1241230,
       "market": "上市"
     },
     {
@@ -18912,7 +18912,7 @@ var LOOKUP = {
       "ma60": 44.6,
       "high52": 57.9,
       "low52": 39.8,
-      "volume": 238435,
+      "volume": 235033,
       "market": "上櫃"
     },
     {
@@ -18928,7 +18928,7 @@ var LOOKUP = {
       "ma60": 28.3,
       "high52": 30.9,
       "low52": 25.8,
-      "volume": 112964,
+      "volume": 112004,
       "market": "上櫃"
     },
     {
@@ -18944,7 +18944,7 @@ var LOOKUP = {
       "ma60": 163.0,
       "high52": 180.9,
       "low52": 152.1,
-      "volume": 37348,
+      "volume": 35000,
       "market": "上櫃"
     },
     {
@@ -18960,7 +18960,7 @@ var LOOKUP = {
       "ma60": 17.5,
       "high52": 21.3,
       "low52": 14.8,
-      "volume": 7861450,
+      "volume": 7829357,
       "market": "上市"
     },
     {
@@ -18976,7 +18976,7 @@ var LOOKUP = {
       "ma60": 112.8,
       "high52": 161.0,
       "low52": 75.8,
-      "volume": 2071970,
+      "volume": 1919493,
       "market": "上櫃"
     },
     {
@@ -18992,7 +18992,7 @@ var LOOKUP = {
       "ma60": 94.1,
       "high52": 111.5,
       "low52": 70.9,
-      "volume": 1094133,
+      "volume": 1083230,
       "market": "上櫃"
     },
     {
@@ -19008,7 +19008,7 @@ var LOOKUP = {
       "ma60": 176.0,
       "high52": 280.0,
       "low52": 64.6,
-      "volume": 296731,
+      "volume": 292105,
       "market": "上櫃"
     },
     {
@@ -19024,23 +19024,23 @@ var LOOKUP = {
       "ma60": 829.1,
       "high52": 966.0,
       "low52": 507.0,
-      "volume": 2307765,
+      "volume": 2140932,
       "market": "上市"
     },
     {
       "code": "3585",
       "name": "聯致",
       "industry": "電子零組件",
-      "close": 73.5,
-      "change_amount": 1.5,
-      "change_pct": 2.08,
-      "ma5": 72.9,
+      "close": 73.6,
+      "change_amount": 1.6,
+      "change_pct": 2.22,
+      "ma5": 73.0,
       "ma10": 76.4,
       "ma20": 74.2,
       "ma60": 83.8,
       "high52": 165.0,
       "low52": 23.0,
-      "volume": 656247,
+      "volume": 695011,
       "market": "興櫃"
     },
     {
@@ -19056,7 +19056,7 @@ var LOOKUP = {
       "ma60": 321.1,
       "high52": 396.0,
       "low52": 236.5,
-      "volume": 722357,
+      "volume": 688242,
       "market": "上櫃"
     },
     {
@@ -19072,7 +19072,7 @@ var LOOKUP = {
       "ma60": 61.6,
       "high52": 75.9,
       "low52": 46.5,
-      "volume": 2040729,
+      "volume": 2018765,
       "market": "上市"
     },
     {
@@ -19088,7 +19088,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 28.2,
       "low52": 21.5,
-      "volume": 10656075,
+      "volume": 10660603,
       "market": "上市"
     },
     {
@@ -19104,7 +19104,7 @@ var LOOKUP = {
       "ma60": 246.1,
       "high52": 274.5,
       "low52": 209.1,
-      "volume": 1357161,
+      "volume": 1318425,
       "market": "上市"
     },
     {
@@ -19120,7 +19120,7 @@ var LOOKUP = {
       "ma60": 17.4,
       "high52": 20.0,
       "low52": 12.9,
-      "volume": 44858,
+      "volume": 44160,
       "market": "上市"
     },
     {
@@ -19136,23 +19136,23 @@ var LOOKUP = {
       "ma60": 50.2,
       "high52": 58.7,
       "low52": 38.8,
-      "volume": 3924182,
+      "volume": 3904834,
       "market": "上櫃"
     },
     {
       "code": "3595",
       "name": "山太士",
       "industry": "光電",
-      "close": 2510.0,
-      "change_amount": 225.0,
-      "change_pct": 9.85,
-      "ma5": 2337.0,
-      "ma10": 2389.0,
-      "ma20": 2409.5,
-      "ma60": 2484.1,
+      "close": 2545.0,
+      "change_amount": 260.0,
+      "change_pct": 11.38,
+      "ma5": 2344.0,
+      "ma10": 2392.5,
+      "ma20": 2411.2,
+      "ma60": 2484.7,
       "high52": 2940.0,
       "low52": 1690.0,
-      "volume": 285786,
+      "volume": 328304,
       "market": "興櫃"
     },
     {
@@ -19168,7 +19168,7 @@ var LOOKUP = {
       "ma60": 181.0,
       "high52": 197.5,
       "low52": 159.0,
-      "volume": 1822918,
+      "volume": 1783930,
       "market": "上市"
     },
     {
@@ -19184,7 +19184,7 @@ var LOOKUP = {
       "ma60": 26.0,
       "high52": 29.0,
       "low52": 23.2,
-      "volume": 62057,
+      "volume": 62050,
       "market": "上櫃"
     },
     {
@@ -19216,7 +19216,7 @@ var LOOKUP = {
       "ma60": 77.2,
       "high52": 91.2,
       "low52": 62.7,
-      "volume": 7940835,
+      "volume": 7865729,
       "market": "上市"
     },
     {
@@ -19232,7 +19232,7 @@ var LOOKUP = {
       "ma60": 14.8,
       "high52": 17.4,
       "low52": 13.3,
-      "volume": 1638753,
+      "volume": 1636000,
       "market": "上市"
     },
     {
@@ -19248,7 +19248,7 @@ var LOOKUP = {
       "ma60": 26.3,
       "high52": 29.6,
       "low52": 21.2,
-      "volume": 262978,
+      "volume": 262000,
       "market": "上櫃"
     },
     {
@@ -19264,7 +19264,7 @@ var LOOKUP = {
       "ma60": 191.0,
       "high52": 202.5,
       "low52": 184.5,
-      "volume": 33171,
+      "volume": 58020,
       "market": "上櫃"
     },
     {
@@ -19280,7 +19280,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 60.9,
       "low52": 29.9,
-      "volume": 1426072,
+      "volume": 1414606,
       "market": "上櫃"
     },
     {
@@ -19296,7 +19296,7 @@ var LOOKUP = {
       "ma60": 201.7,
       "high52": 225.5,
       "low52": 166.5,
-      "volume": 622808,
+      "volume": 615111,
       "market": "上市"
     },
     {
@@ -19312,7 +19312,7 @@ var LOOKUP = {
       "ma60": 56.2,
       "high52": 61.3,
       "low52": 53.3,
-      "volume": 220244,
+      "volume": 217000,
       "market": "上市"
     },
     {
@@ -19328,7 +19328,7 @@ var LOOKUP = {
       "ma60": 23.4,
       "high52": 25.9,
       "low52": 21.1,
-      "volume": 348181,
+      "volume": 347020,
       "market": "上櫃"
     },
     {
@@ -19344,7 +19344,7 @@ var LOOKUP = {
       "ma60": 94.0,
       "high52": 176.5,
       "low52": 45.5,
-      "volume": 773398,
+      "volume": 747887,
       "market": "上櫃"
     },
     {
@@ -19360,7 +19360,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 19.4,
       "low52": 13.9,
-      "volume": 671937,
+      "volume": 669150,
       "market": "上櫃"
     },
     {
@@ -19376,7 +19376,7 @@ var LOOKUP = {
       "ma60": 69.3,
       "high52": 80.0,
       "low52": 61.9,
-      "volume": 1299949,
+      "volume": 1292022,
       "market": "上櫃"
     },
     {
@@ -19386,10 +19386,10 @@ var LOOKUP = {
       "close": 14.9,
       "change_amount": 0.0,
       "change_pct": 0.0,
-      "ma5": 15.0,
+      "ma5": 14.9,
       "ma10": 15.6,
       "ma20": 15.6,
-      "ma60": 16.5,
+      "ma60": 16.4,
       "high52": 19.9,
       "low52": 14.9,
       "volume": 0,
@@ -19408,7 +19408,7 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 35.3,
       "low52": 25.1,
-      "volume": 1115844,
+      "volume": 1112305,
       "market": "上櫃"
     },
     {
@@ -19424,7 +19424,7 @@ var LOOKUP = {
       "ma60": 35.3,
       "high52": 41.5,
       "low52": 26.5,
-      "volume": 73590,
+      "volume": 73000,
       "market": "上櫃"
     },
     {
@@ -19440,7 +19440,7 @@ var LOOKUP = {
       "ma60": 8.4,
       "high52": 9.4,
       "low52": 7.3,
-      "volume": 17274,
+      "volume": 15100,
       "market": "上櫃"
     },
     {
@@ -19472,7 +19472,7 @@ var LOOKUP = {
       "ma60": 99.5,
       "high52": 117.5,
       "low52": 69.5,
-      "volume": 1850786,
+      "volume": 1823632,
       "market": "上市"
     },
     {
@@ -19488,7 +19488,7 @@ var LOOKUP = {
       "ma60": 23.5,
       "high52": 24.2,
       "low52": 23.0,
-      "volume": 29009,
+      "volume": 29001,
       "market": "上櫃"
     },
     {
@@ -19504,7 +19504,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 42.7,
       "low52": 26.7,
-      "volume": 134243,
+      "volume": 134100,
       "market": "上市"
     },
     {
@@ -19520,7 +19520,7 @@ var LOOKUP = {
       "ma60": 4002.5,
       "high52": 5445.0,
       "low52": 3030.0,
-      "volume": 1137184,
+      "volume": 1085639,
       "market": "上市"
     },
     {
@@ -19552,7 +19552,7 @@ var LOOKUP = {
       "ma60": 4268.9,
       "high52": 5375.0,
       "low52": 2705.0,
-      "volume": 2904513,
+      "volume": 2700234,
       "market": "上市"
     },
     {
@@ -19568,7 +19568,7 @@ var LOOKUP = {
       "ma60": 76.2,
       "high52": 91.7,
       "low52": 66.2,
-      "volume": 10963349,
+      "volume": 10865686,
       "market": "上櫃"
     },
     {
@@ -19600,7 +19600,7 @@ var LOOKUP = {
       "ma60": 2295.1,
       "high52": 2940.0,
       "low52": 1855.0,
-      "volume": 2170869,
+      "volume": 2046639,
       "market": "上市"
     },
     {
@@ -19616,7 +19616,7 @@ var LOOKUP = {
       "ma60": 26.3,
       "high52": 29.0,
       "low52": 24.5,
-      "volume": 81127,
+      "volume": 81001,
       "market": "上櫃"
     },
     {
@@ -19632,7 +19632,7 @@ var LOOKUP = {
       "ma60": 36.9,
       "high52": 41.9,
       "low52": 33.5,
-      "volume": 193905,
+      "volume": 192320,
       "market": "上市"
     },
     {
@@ -19648,7 +19648,7 @@ var LOOKUP = {
       "ma60": 11.6,
       "high52": 13.2,
       "low52": 10.6,
-      "volume": 38892,
+      "volume": 37001,
       "market": "上櫃"
     },
     {
@@ -19664,7 +19664,7 @@ var LOOKUP = {
       "ma60": 73.3,
       "high52": 94.0,
       "low52": 48.7,
-      "volume": 32775322,
+      "volume": 32671471,
       "market": "上市"
     },
     {
@@ -19680,7 +19680,7 @@ var LOOKUP = {
       "ma60": 296.0,
       "high52": 445.5,
       "low52": 190.0,
-      "volume": 240695,
+      "volume": 219900,
       "market": "上櫃"
     },
     {
@@ -19712,7 +19712,7 @@ var LOOKUP = {
       "ma60": 111.7,
       "high52": 120.5,
       "low52": 107.5,
-      "volume": 25582,
+      "volume": 23002,
       "market": "上市"
     },
     {
@@ -19728,7 +19728,7 @@ var LOOKUP = {
       "ma60": 514.4,
       "high52": 610.8,
       "low52": 373.8,
-      "volume": 2142587,
+      "volume": 2078286,
       "market": "上櫃"
     },
     {
@@ -19744,7 +19744,7 @@ var LOOKUP = {
       "ma60": 56.1,
       "high52": 59.5,
       "low52": 52.0,
-      "volume": 6274,
+      "volume": 6000,
       "market": "上櫃"
     },
     {
@@ -19760,7 +19760,7 @@ var LOOKUP = {
       "ma60": 29.7,
       "high52": 35.0,
       "low52": 26.1,
-      "volume": 850769,
+      "volume": 850000,
       "market": "上櫃"
     },
     {
@@ -19776,7 +19776,7 @@ var LOOKUP = {
       "ma60": 17.4,
       "high52": 18.3,
       "low52": 16.5,
-      "volume": 215076,
+      "volume": 212164,
       "market": "上市"
     },
     {
@@ -19792,7 +19792,7 @@ var LOOKUP = {
       "ma60": 71.1,
       "high52": 80.8,
       "low52": 62.5,
-      "volume": 107148,
+      "volume": 106009,
       "market": "上櫃"
     },
     {
@@ -19808,7 +19808,7 @@ var LOOKUP = {
       "ma60": 127.3,
       "high52": 142.0,
       "low52": 112.5,
-      "volume": 1068124,
+      "volume": 1059288,
       "market": "上櫃"
     },
     {
@@ -19824,7 +19824,7 @@ var LOOKUP = {
       "ma60": 142.4,
       "high52": 169.5,
       "low52": 105.5,
-      "volume": 1911171,
+      "volume": 1896220,
       "market": "上櫃"
     },
     {
@@ -19840,7 +19840,7 @@ var LOOKUP = {
       "ma60": 574.9,
       "high52": 728.0,
       "low52": 474.0,
-      "volume": 995691,
+      "volume": 947599,
       "market": "上櫃"
     },
     {
@@ -19856,7 +19856,7 @@ var LOOKUP = {
       "ma60": 62.5,
       "high52": 71.8,
       "low52": 53.3,
-      "volume": 4332423,
+      "volume": 4316200,
       "market": "上市"
     },
     {
@@ -19872,7 +19872,7 @@ var LOOKUP = {
       "ma60": 56.5,
       "high52": 78.6,
       "low52": 43.0,
-      "volume": 1529675,
+      "volume": 1522380,
       "market": "上市"
     },
     {
@@ -19888,7 +19888,7 @@ var LOOKUP = {
       "ma60": 108.0,
       "high52": 123.5,
       "low52": 89.1,
-      "volume": 7292427,
+      "volume": 7316671,
       "market": "上市"
     },
     {
@@ -19904,7 +19904,7 @@ var LOOKUP = {
       "ma60": 20.1,
       "high52": 21.2,
       "low52": 19.1,
-      "volume": 1357447,
+      "volume": 1349111,
       "market": "上市"
     },
     {
@@ -19920,7 +19920,7 @@ var LOOKUP = {
       "ma60": 41.5,
       "high52": 49.7,
       "low52": 32.5,
-      "volume": 4761736,
+      "volume": 4735709,
       "market": "上市"
     },
     {
@@ -19936,7 +19936,7 @@ var LOOKUP = {
       "ma60": 53.1,
       "high52": 54.4,
       "low52": 51.9,
-      "volume": 117071,
+      "volume": 115050,
       "market": "上市"
     },
     {
@@ -19952,7 +19952,7 @@ var LOOKUP = {
       "ma60": 85.7,
       "high52": 100.0,
       "low52": 74.9,
-      "volume": 24617998,
+      "volume": 24592439,
       "market": "上市"
     },
     {
@@ -19968,7 +19968,7 @@ var LOOKUP = {
       "ma60": 74.3,
       "high52": 100.5,
       "low52": 49.0,
-      "volume": 33946039,
+      "volume": 33714288,
       "market": "上櫃"
     },
     {
@@ -19984,7 +19984,7 @@ var LOOKUP = {
       "ma60": 112.6,
       "high52": 124.1,
       "low52": 105.5,
-      "volume": 637219,
+      "volume": 632146,
       "market": "上市"
     },
     {
@@ -20000,7 +20000,7 @@ var LOOKUP = {
       "ma60": 79.2,
       "high52": 92.9,
       "low52": 65.2,
-      "volume": 503878,
+      "volume": 497043,
       "market": "上櫃"
     },
     {
@@ -20016,7 +20016,7 @@ var LOOKUP = {
       "ma60": 6.4,
       "high52": 8.4,
       "low52": 5.7,
-      "volume": 238903,
+      "volume": 238858,
       "market": "上櫃"
     },
     {
@@ -20032,7 +20032,7 @@ var LOOKUP = {
       "ma60": 547.0,
       "high52": 720.4,
       "low52": 348.8,
-      "volume": 38554558,
+      "volume": 36071197,
       "market": "上市"
     },
     {
@@ -20048,7 +20048,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 23.3,
       "low52": 14.9,
-      "volume": 838794,
+      "volume": 835570,
       "market": "上市"
     },
     {
@@ -20064,7 +20064,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 17.5,
       "low52": 12.9,
-      "volume": 88003,
+      "volume": 88064,
       "market": "上櫃"
     },
     {
@@ -20080,7 +20080,7 @@ var LOOKUP = {
       "ma60": 68.1,
       "high52": 80.2,
       "low52": 48.9,
-      "volume": 4956016,
+      "volume": 4913063,
       "market": "上市"
     },
     {
@@ -20096,7 +20096,7 @@ var LOOKUP = {
       "ma60": 176.7,
       "high52": 196.8,
       "low52": 160.0,
-      "volume": 3808991,
+      "volume": 3764548,
       "market": "上市"
     },
     {
@@ -20112,7 +20112,7 @@ var LOOKUP = {
       "ma60": 34.0,
       "high52": 35.6,
       "low52": 31.6,
-      "volume": 374424,
+      "volume": 370999,
       "market": "上市"
     },
     {
@@ -20128,7 +20128,7 @@ var LOOKUP = {
       "ma60": 22.5,
       "high52": 29.0,
       "low52": 19.5,
-      "volume": 7883802,
+      "volume": 7868505,
       "market": "上市"
     },
     {
@@ -20144,7 +20144,7 @@ var LOOKUP = {
       "ma60": 18.3,
       "high52": 19.9,
       "low52": 16.8,
-      "volume": 154759,
+      "volume": 154000,
       "market": "上櫃"
     },
     {
@@ -20160,7 +20160,7 @@ var LOOKUP = {
       "ma60": 70.8,
       "high52": 75.1,
       "low52": 68.1,
-      "volume": 336896,
+      "volume": 329425,
       "market": "上市"
     },
     {
@@ -20176,7 +20176,7 @@ var LOOKUP = {
       "ma60": 74.3,
       "high52": 77.9,
       "low52": 72.1,
-      "volume": 1222656,
+      "volume": 1208214,
       "market": "上櫃"
     },
     {
@@ -20192,7 +20192,7 @@ var LOOKUP = {
       "ma60": 23.0,
       "high52": 24.4,
       "low52": 22.0,
-      "volume": 92127,
+      "volume": 90031,
       "market": "上市"
     },
     {
@@ -20208,7 +20208,7 @@ var LOOKUP = {
       "ma60": 116.9,
       "high52": 122.5,
       "low52": 113.5,
-      "volume": 116111,
+      "volume": 115000,
       "market": "上櫃"
     },
     {
@@ -20224,7 +20224,7 @@ var LOOKUP = {
       "ma60": 12.2,
       "high52": 13.1,
       "low52": 11.6,
-      "volume": 560538,
+      "volume": 559748,
       "market": "上市"
     },
     {
@@ -20240,7 +20240,7 @@ var LOOKUP = {
       "ma60": 11.8,
       "high52": 13.1,
       "low52": 11.1,
-      "volume": 1020175,
+      "volume": 1012001,
       "market": "上櫃"
     },
     {
@@ -20256,7 +20256,7 @@ var LOOKUP = {
       "ma60": 29.8,
       "high52": 30.4,
       "low52": 29.1,
-      "volume": 200860,
+      "volume": 195025,
       "market": "上櫃"
     },
     {
@@ -20272,7 +20272,7 @@ var LOOKUP = {
       "ma60": 15.4,
       "high52": 17.4,
       "low52": 14.2,
-      "volume": 149801,
+      "volume": 148200,
       "market": "上櫃"
     },
     {
@@ -20288,7 +20288,7 @@ var LOOKUP = {
       "ma60": 30.9,
       "high52": 32.0,
       "low52": 30.0,
-      "volume": 2777815,
+      "volume": 2761816,
       "market": "上櫃"
     },
     {
@@ -20320,7 +20320,7 @@ var LOOKUP = {
       "ma60": 36.6,
       "high52": 39.2,
       "low52": 35.1,
-      "volume": 25650,
+      "volume": 25000,
       "market": "上櫃"
     },
     {
@@ -20329,14 +20329,14 @@ var LOOKUP = {
       "industry": "生技醫療",
       "close": 10.1,
       "change_amount": -0.1,
-      "change_pct": -1.47,
+      "change_pct": -0.98,
       "ma5": 10.6,
-      "ma10": 11.1,
+      "ma10": 11.2,
       "ma20": 9.9,
       "ma60": 6.2,
       "high52": 14.3,
       "low52": 4.2,
-      "volume": 140815,
+      "volume": 156818,
       "market": "興櫃"
     },
     {
@@ -20352,7 +20352,7 @@ var LOOKUP = {
       "ma60": 43.9,
       "high52": 51.4,
       "low52": 39.7,
-      "volume": 223684,
+      "volume": 218355,
       "market": "上市"
     },
     {
@@ -20368,7 +20368,7 @@ var LOOKUP = {
       "ma60": 46.1,
       "high52": 48.2,
       "low52": 44.1,
-      "volume": 25480,
+      "volume": 25000,
       "market": "上櫃"
     },
     {
@@ -20384,7 +20384,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 15.6,
       "low52": 13.2,
-      "volume": 153857,
+      "volume": 154000,
       "market": "上櫃"
     },
     {
@@ -20400,7 +20400,7 @@ var LOOKUP = {
       "ma60": 38.5,
       "high52": 41.7,
       "low52": 37.0,
-      "volume": 8209519,
+      "volume": 8173648,
       "market": "上櫃"
     },
     {
@@ -20416,7 +20416,7 @@ var LOOKUP = {
       "ma60": 79.8,
       "high52": 81.0,
       "low52": 78.4,
-      "volume": 25325,
+      "volume": 25007,
       "market": "上櫃"
     },
     {
@@ -20432,7 +20432,7 @@ var LOOKUP = {
       "ma60": 53.9,
       "high52": 71.2,
       "low52": 35.2,
-      "volume": 232162,
+      "volume": 230000,
       "market": "上櫃"
     },
     {
@@ -20448,7 +20448,7 @@ var LOOKUP = {
       "ma60": 15.5,
       "high52": 17.8,
       "low52": 14.3,
-      "volume": 8208230,
+      "volume": 8173738,
       "market": "上櫃"
     },
     {
@@ -20464,7 +20464,7 @@ var LOOKUP = {
       "ma60": 94.8,
       "high52": 107.0,
       "low52": 88.0,
-      "volume": 300033,
+      "volume": 294091,
       "market": "上櫃"
     },
     {
@@ -20480,7 +20480,7 @@ var LOOKUP = {
       "ma60": 27.8,
       "high52": 34.7,
       "low52": 24.9,
-      "volume": 134311,
+      "volume": 137386,
       "market": "上櫃"
     },
     {
@@ -20496,7 +20496,7 @@ var LOOKUP = {
       "ma60": 35.0,
       "high52": 37.9,
       "low52": 32.9,
-      "volume": 23312,
+      "volume": 23000,
       "market": "上櫃"
     },
     {
@@ -20512,7 +20512,7 @@ var LOOKUP = {
       "ma60": 21.2,
       "high52": 22.7,
       "low52": 20.2,
-      "volume": 139130,
+      "volume": 136333,
       "market": "上市"
     },
     {
@@ -20528,7 +20528,7 @@ var LOOKUP = {
       "ma60": 97.7,
       "high52": 105.0,
       "low52": 92.8,
-      "volume": 480859,
+      "volume": 471290,
       "market": "上市"
     },
     {
@@ -20544,7 +20544,7 @@ var LOOKUP = {
       "ma60": 53.6,
       "high52": 61.3,
       "low52": 50.6,
-      "volume": 18810,
+      "volume": 16017,
       "market": "上櫃"
     },
     {
@@ -20560,7 +20560,7 @@ var LOOKUP = {
       "ma60": 24.0,
       "high52": 25.1,
       "low52": 21.9,
-      "volume": 21002,
+      "volume": 21000,
       "market": "上櫃"
     },
     {
@@ -20576,7 +20576,7 @@ var LOOKUP = {
       "ma60": 17.7,
       "high52": 18.7,
       "low52": 16.8,
-      "volume": 1970897,
+      "volume": 1961117,
       "market": "上市"
     },
     {
@@ -20592,7 +20592,7 @@ var LOOKUP = {
       "ma60": 53.9,
       "high52": 70.0,
       "low52": 47.1,
-      "volume": 4815501,
+      "volume": 4778001,
       "market": "上櫃"
     },
     {
@@ -20608,23 +20608,23 @@ var LOOKUP = {
       "ma60": 34.1,
       "high52": 43.3,
       "low52": 29.5,
-      "volume": 40352,
+      "volume": 40000,
       "market": "上市"
     },
     {
       "code": "4150",
       "name": "優你康",
       "industry": "生技醫療",
-      "close": 4.8,
+      "close": 4.9,
       "change_amount": 0.0,
-      "change_pct": 0.0,
+      "change_pct": 0.83,
       "ma5": 4.8,
       "ma10": 4.9,
       "ma20": 5.0,
       "ma60": 5.6,
       "high52": 7.0,
       "low52": 4.6,
-      "volume": 246652,
+      "volume": 253402,
       "market": "興櫃"
     },
     {
@@ -20640,7 +20640,7 @@ var LOOKUP = {
       "ma60": 29.5,
       "high52": 30.9,
       "low52": 28.1,
-      "volume": 22510,
+      "volume": 22179,
       "market": "上櫃"
     },
     {
@@ -20656,7 +20656,7 @@ var LOOKUP = {
       "ma60": 13.4,
       "high52": 15.5,
       "low52": 11.2,
-      "volume": 21800,
+      "volume": 21213,
       "market": "上櫃"
     },
     {
@@ -20672,7 +20672,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 15.6,
       "low52": 12.9,
-      "volume": 437768,
+      "volume": 433123,
       "market": "上市"
     },
     {
@@ -20688,7 +20688,7 @@ var LOOKUP = {
       "ma60": 9.4,
       "high52": 11.2,
       "low52": 8.2,
-      "volume": 2032311,
+      "volume": 2027678,
       "market": "上櫃"
     },
     {
@@ -20704,7 +20704,7 @@ var LOOKUP = {
       "ma60": 41.9,
       "high52": 45.7,
       "low52": 39.2,
-      "volume": 80185,
+      "volume": 77597,
       "market": "上櫃"
     },
     {
@@ -20720,7 +20720,7 @@ var LOOKUP = {
       "ma60": 23.3,
       "high52": 24.7,
       "low52": 22.6,
-      "volume": 72443,
+      "volume": 72040,
       "market": "上櫃"
     },
     {
@@ -20736,7 +20736,7 @@ var LOOKUP = {
       "ma60": 56.8,
       "high52": 63.7,
       "low52": 53.0,
-      "volume": 2244969,
+      "volume": 2227116,
       "market": "上櫃"
     },
     {
@@ -20752,7 +20752,7 @@ var LOOKUP = {
       "ma60": 112.4,
       "high52": 136.0,
       "low52": 94.7,
-      "volume": 100957,
+      "volume": 98035,
       "market": "上櫃"
     },
     {
@@ -20768,7 +20768,7 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 31.5,
       "low52": 26.9,
-      "volume": 885158,
+      "volume": 876088,
       "market": "上市"
     },
     {
@@ -20784,7 +20784,7 @@ var LOOKUP = {
       "ma60": 25.2,
       "high52": 27.1,
       "low52": 23.3,
-      "volume": 112437,
+      "volume": 112000,
       "market": "上櫃"
     },
     {
@@ -20800,7 +20800,7 @@ var LOOKUP = {
       "ma60": 19.6,
       "high52": 21.0,
       "low52": 18.7,
-      "volume": 2797138,
+      "volume": 2791797,
       "market": "上櫃"
     },
     {
@@ -20816,7 +20816,7 @@ var LOOKUP = {
       "ma60": 24.8,
       "high52": 28.3,
       "low52": 22.4,
-      "volume": 260220,
+      "volume": 259648,
       "market": "上櫃"
     },
     {
@@ -20832,7 +20832,7 @@ var LOOKUP = {
       "ma60": 164.4,
       "high52": 222.0,
       "low52": 145.0,
-      "volume": 286731,
+      "volume": 278000,
       "market": "上市"
     },
     {
@@ -20864,23 +20864,23 @@ var LOOKUP = {
       "ma60": 18.2,
       "high52": 20.9,
       "low52": 16.7,
-      "volume": 91866,
+      "volume": 91220,
       "market": "上櫃"
     },
     {
       "code": "4172",
       "name": "因華",
       "industry": "生技醫療",
-      "close": 12.2,
-      "change_amount": 0.6,
-      "change_pct": 4.72,
+      "close": 12.1,
+      "change_amount": 0.5,
+      "change_pct": 3.86,
       "ma5": 11.5,
       "ma10": 11.3,
       "ma20": 11.3,
       "ma60": 13.1,
       "high52": 18.5,
       "low52": 10.2,
-      "volume": 500807,
+      "volume": 514811,
       "market": "興櫃"
     },
     {
@@ -20896,7 +20896,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 19.8,
       "low52": 17.8,
-      "volume": 145734,
+      "volume": 144000,
       "market": "上櫃"
     },
     {
@@ -20912,7 +20912,7 @@ var LOOKUP = {
       "ma60": 31.6,
       "high52": 39.0,
       "low52": 26.5,
-      "volume": 1354221,
+      "volume": 1346712,
       "market": "上櫃"
     },
     {
@@ -20928,7 +20928,7 @@ var LOOKUP = {
       "ma60": 53.9,
       "high52": 56.2,
       "low52": 52.4,
-      "volume": 48443,
+      "volume": 47108,
       "market": "上櫃"
     },
     {
@@ -20944,7 +20944,7 @@ var LOOKUP = {
       "ma60": 20.1,
       "high52": 26.5,
       "low52": 16.8,
-      "volume": 415401,
+      "volume": 411000,
       "market": "上市"
     },
     {
@@ -20960,7 +20960,7 @@ var LOOKUP = {
       "ma60": 14.0,
       "high52": 16.0,
       "low52": 12.4,
-      "volume": 1000,
+      "volume": 1040,
       "market": "上櫃"
     },
     {
@@ -20976,7 +20976,7 @@ var LOOKUP = {
       "ma60": 10.5,
       "high52": 12.5,
       "low52": 9.8,
-      "volume": 254103,
+      "volume": 254121,
       "market": "興櫃"
     },
     {
@@ -20992,7 +20992,7 @@ var LOOKUP = {
       "ma60": 11.3,
       "high52": 12.4,
       "low52": 10.3,
-      "volume": 59856,
+      "volume": 59000,
       "market": "上櫃"
     },
     {
@@ -21008,7 +21008,7 @@ var LOOKUP = {
       "ma60": 25.1,
       "high52": 27.3,
       "low52": 24.0,
-      "volume": 37034,
+      "volume": 36002,
       "market": "上市"
     },
     {
@@ -21024,23 +21024,23 @@ var LOOKUP = {
       "ma60": 20.3,
       "high52": 21.1,
       "low52": 19.5,
-      "volume": 8431,
+      "volume": 8677,
       "market": "上櫃"
     },
     {
       "code": "4194",
       "name": "禾生技",
       "industry": "生技醫療",
-      "close": 7.3,
-      "change_amount": 0.2,
-      "change_pct": 3.24,
+      "close": 7.5,
+      "change_amount": 0.4,
+      "change_pct": 5.63,
       "ma5": 7.2,
       "ma10": 7.2,
       "ma20": 7.1,
       "ma60": 7.4,
       "high52": 8.6,
       "low52": 6.7,
-      "volume": 140634,
+      "volume": 198373,
       "market": "興櫃"
     },
     {
@@ -21056,7 +21056,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 35.4,
       "low52": 15.2,
-      "volume": 645338,
+      "volume": 643518,
       "market": "上市"
     },
     {
@@ -21088,7 +21088,7 @@ var LOOKUP = {
       "ma60": 38.6,
       "high52": 41.0,
       "low52": 36.2,
-      "volume": 8191,
+      "volume": 8114,
       "market": "上櫃"
     },
     {
@@ -21104,7 +21104,7 @@ var LOOKUP = {
       "ma60": 73.9,
       "high52": 77.8,
       "low52": 72.2,
-      "volume": 21085,
+      "volume": 19141,
       "market": "上櫃"
     },
     {
@@ -21120,7 +21120,7 @@ var LOOKUP = {
       "ma60": 18.8,
       "high52": 20.0,
       "low52": 17.5,
-      "volume": 566157,
+      "volume": 563328,
       "market": "上櫃"
     },
     {
@@ -21136,7 +21136,7 @@ var LOOKUP = {
       "ma60": 49.7,
       "high52": 55.4,
       "low52": 44.8,
-      "volume": 2096945,
+      "volume": 2084596,
       "market": "上櫃"
     },
     {
@@ -21152,7 +21152,7 @@ var LOOKUP = {
       "ma60": 26.8,
       "high52": 31.4,
       "low52": 18.6,
-      "volume": 32350,
+      "volume": 32000,
       "market": "上櫃"
     },
     {
@@ -21168,7 +21168,7 @@ var LOOKUP = {
       "ma60": 41.1,
       "high52": 42.8,
       "low52": 40.4,
-      "volume": 3119,
+      "volume": 3000,
       "market": "上櫃"
     },
     {
@@ -21184,7 +21184,7 @@ var LOOKUP = {
       "ma60": 14.4,
       "high52": 16.5,
       "low52": 13.1,
-      "volume": 3147149,
+      "volume": 3131708,
       "market": "上市"
     },
     {
@@ -21200,7 +21200,7 @@ var LOOKUP = {
       "ma60": 14.2,
       "high52": 15.2,
       "low52": 13.6,
-      "volume": 506064,
+      "volume": 499337,
       "market": "上櫃"
     },
     {
@@ -21216,7 +21216,7 @@ var LOOKUP = {
       "ma60": 14.7,
       "high52": 18.1,
       "low52": 11.4,
-      "volume": 20079,
+      "volume": 20000,
       "market": "上櫃"
     },
     {
@@ -21248,7 +21248,7 @@ var LOOKUP = {
       "ma60": 17.3,
       "high52": 19.4,
       "low52": 14.3,
-      "volume": 20086,
+      "volume": 18045,
       "market": "上櫃"
     },
     {
@@ -21264,7 +21264,7 @@ var LOOKUP = {
       "ma60": 9.3,
       "high52": 11.8,
       "low52": 7.6,
-      "volume": 787917,
+      "volume": 781200,
       "market": "上市"
     },
     {
@@ -21280,7 +21280,7 @@ var LOOKUP = {
       "ma60": 12.0,
       "high52": 15.7,
       "low52": 9.3,
-      "volume": 457107,
+      "volume": 456000,
       "market": "上櫃"
     },
     {
@@ -21296,7 +21296,7 @@ var LOOKUP = {
       "ma60": 46.7,
       "high52": 50.6,
       "low52": 44.3,
-      "volume": 89110,
+      "volume": 88210,
       "market": "上櫃"
     },
     {
@@ -21312,7 +21312,7 @@ var LOOKUP = {
       "ma60": 46.2,
       "high52": 53.5,
       "low52": 44.6,
-      "volume": 13211,
+      "volume": 13000,
       "market": "上櫃"
     },
     {
@@ -21328,7 +21328,7 @@ var LOOKUP = {
       "ma60": 39.9,
       "high52": 45.8,
       "low52": 35.2,
-      "volume": 27826,
+      "volume": 25176,
       "market": "上櫃"
     },
     {
@@ -21344,7 +21344,7 @@ var LOOKUP = {
       "ma60": 8.2,
       "high52": 9.4,
       "low52": 7.5,
-      "volume": 2312350,
+      "volume": 2322800,
       "market": "上市"
     },
     {
@@ -21360,7 +21360,7 @@ var LOOKUP = {
       "ma60": 17.3,
       "high52": 18.3,
       "low52": 16.6,
-      "volume": 25033,
+      "volume": 24100,
       "market": "上櫃"
     },
     {
@@ -21376,7 +21376,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 19.4,
       "low52": 16.0,
-      "volume": 40125,
+      "volume": 43125,
       "market": "興櫃"
     },
     {
@@ -21392,7 +21392,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 17.4,
       "low52": 14.1,
-      "volume": 63508,
+      "volume": 63000,
       "market": "上櫃"
     },
     {
@@ -21408,7 +21408,7 @@ var LOOKUP = {
       "ma60": 20.6,
       "high52": 21.6,
       "low52": 19.8,
-      "volume": 99104,
+      "volume": 98517,
       "market": "上櫃"
     },
     {
@@ -21424,7 +21424,7 @@ var LOOKUP = {
       "ma60": 59.0,
       "high52": 63.0,
       "low52": 55.3,
-      "volume": 73678,
+      "volume": 73028,
       "market": "上市"
     },
     {
@@ -21440,7 +21440,7 @@ var LOOKUP = {
       "ma60": 94.3,
       "high52": 104.0,
       "low52": 86.0,
-      "volume": 12315,
+      "volume": 12007,
       "market": "上市"
     },
     {
@@ -21456,7 +21456,7 @@ var LOOKUP = {
       "ma60": 17.7,
       "high52": 19.2,
       "low52": 17.0,
-      "volume": 130558,
+      "volume": 130000,
       "market": "上市"
     },
     {
@@ -21472,7 +21472,7 @@ var LOOKUP = {
       "ma60": 197.9,
       "high52": 216.0,
       "low52": 183.5,
-      "volume": 36418,
+      "volume": 36000,
       "market": "上市"
     },
     {
@@ -21488,7 +21488,7 @@ var LOOKUP = {
       "ma60": 51.0,
       "high52": 58.7,
       "low52": 47.1,
-      "volume": 44694,
+      "volume": 44000,
       "market": "上櫃"
     },
     {
@@ -21504,7 +21504,7 @@ var LOOKUP = {
       "ma60": 15.8,
       "high52": 16.5,
       "low52": 15.6,
-      "volume": 8573,
+      "volume": 8000,
       "market": "上櫃"
     },
     {
@@ -21520,7 +21520,7 @@ var LOOKUP = {
       "ma60": 41.3,
       "high52": 47.0,
       "low52": 36.8,
-      "volume": 890869,
+      "volume": 880005,
       "market": "上櫃"
     },
     {
@@ -21536,7 +21536,7 @@ var LOOKUP = {
       "ma60": 118.7,
       "high52": 123.5,
       "low52": 117.0,
-      "volume": 139989,
+      "volume": 131397,
       "market": "上櫃"
     },
     {
@@ -21552,7 +21552,7 @@ var LOOKUP = {
       "ma60": 46.5,
       "high52": 54.3,
       "low52": 41.0,
-      "volume": 2869699,
+      "volume": 2858046,
       "market": "上櫃"
     },
     {
@@ -21568,7 +21568,7 @@ var LOOKUP = {
       "ma60": 15.5,
       "high52": 17.5,
       "low52": 13.9,
-      "volume": 284909,
+      "volume": 283070,
       "market": "上櫃"
     },
     {
@@ -21584,7 +21584,7 @@ var LOOKUP = {
       "ma60": 27.2,
       "high52": 28.4,
       "low52": 25.4,
-      "volume": 98115,
+      "volume": 99001,
       "market": "上櫃"
     },
     {
@@ -21600,7 +21600,7 @@ var LOOKUP = {
       "ma60": 38.1,
       "high52": 44.7,
       "low52": 32.0,
-      "volume": 3624921,
+      "volume": 3618905,
       "market": "上市"
     },
     {
@@ -21632,7 +21632,7 @@ var LOOKUP = {
       "ma60": 15.9,
       "high52": 17.4,
       "low52": 15.2,
-      "volume": 56023,
+      "volume": 52848,
       "market": "上櫃"
     },
     {
@@ -21664,7 +21664,7 @@ var LOOKUP = {
       "ma60": 26.1,
       "high52": 29.2,
       "low52": 24.0,
-      "volume": 16001,
+      "volume": 16000,
       "market": "上櫃"
     },
     {
@@ -21680,7 +21680,7 @@ var LOOKUP = {
       "ma60": 24.2,
       "high52": 29.1,
       "low52": 22.9,
-      "volume": 6389708,
+      "volume": 6366218,
       "market": "上市"
     },
     {
@@ -21696,7 +21696,7 @@ var LOOKUP = {
       "ma60": 30.9,
       "high52": 34.2,
       "low52": 27.3,
-      "volume": 6752434,
+      "volume": 6742028,
       "market": "上櫃"
     },
     {
@@ -21712,7 +21712,7 @@ var LOOKUP = {
       "ma60": 27.6,
       "high52": 35.6,
       "low52": 21.8,
-      "volume": 2435445,
+      "volume": 2422289,
       "market": "上櫃"
     },
     {
@@ -21728,7 +21728,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 27.8,
       "low52": 26.2,
-      "volume": 15003,
+      "volume": 15000,
       "market": "上櫃"
     },
     {
@@ -21744,7 +21744,7 @@ var LOOKUP = {
       "ma60": 158.5,
       "high52": 172.5,
       "low52": 149.0,
-      "volume": 857457,
+      "volume": 840000,
       "market": "上市"
     },
     {
@@ -21760,7 +21760,7 @@ var LOOKUP = {
       "ma60": 170.3,
       "high52": 200.0,
       "low52": 98.9,
-      "volume": 36609,
+      "volume": 38189,
       "market": "興櫃"
     },
     {
@@ -21776,7 +21776,7 @@ var LOOKUP = {
       "ma60": 18.0,
       "high52": 19.0,
       "low52": 17.3,
-      "volume": 21022,
+      "volume": 21000,
       "market": "上櫃"
     },
     {
@@ -21792,7 +21792,7 @@ var LOOKUP = {
       "ma60": 63.1,
       "high52": 77.3,
       "low52": 42.0,
-      "volume": 14048211,
+      "volume": 13979548,
       "market": "上市"
     },
     {
@@ -21808,7 +21808,7 @@ var LOOKUP = {
       "ma60": 46.2,
       "high52": 60.7,
       "low52": 39.6,
-      "volume": 6380517,
+      "volume": 6334189,
       "market": "上櫃"
     },
     {
@@ -21824,7 +21824,7 @@ var LOOKUP = {
       "ma60": 269.8,
       "high52": 494.0,
       "low52": 155.6,
-      "volume": 1469157,
+      "volume": 1437334,
       "market": "上櫃"
     },
     {
@@ -21840,23 +21840,23 @@ var LOOKUP = {
       "ma60": 38.2,
       "high52": 46.3,
       "low52": 30.6,
-      "volume": 112476,
+      "volume": 110050,
       "market": "上櫃"
     },
     {
       "code": "4544",
       "name": "春日",
       "industry": "電機機械",
-      "close": 13.9,
-      "change_amount": 0.1,
-      "change_pct": 0.72,
-      "ma5": 13.4,
+      "close": 14.5,
+      "change_amount": 0.7,
+      "change_pct": 5.07,
+      "ma5": 13.5,
       "ma10": 13.6,
       "ma20": 13.8,
       "ma60": 14.5,
       "high52": 16.6,
       "low52": 13.1,
-      "volume": 10002,
+      "volume": 10105,
       "market": "興櫃"
     },
     {
@@ -21872,23 +21872,23 @@ var LOOKUP = {
       "ma60": 34.0,
       "high52": 42.4,
       "low52": 29.0,
-      "volume": 139928,
+      "volume": 139000,
       "market": "上市"
     },
     {
       "code": "4546",
       "name": "長亨",
       "industry": "電機機械",
-      "close": 121.5,
-      "change_amount": 9.5,
-      "change_pct": 8.48,
-      "ma5": 111.9,
+      "close": 121.0,
+      "change_amount": 9.0,
+      "change_pct": 8.04,
+      "ma5": 111.8,
       "ma10": 107.0,
       "ma20": 106.9,
       "ma60": 116.5,
       "high52": 148.0,
       "low52": 98.9,
-      "volume": 135627,
+      "volume": 140638,
       "market": "興櫃"
     },
     {
@@ -21904,7 +21904,7 @@ var LOOKUP = {
       "ma60": 104.7,
       "high52": 136.5,
       "low52": 94.2,
-      "volume": 166809,
+      "volume": 165200,
       "market": "上櫃"
     },
     {
@@ -21920,7 +21920,7 @@ var LOOKUP = {
       "ma60": 23.8,
       "high52": 25.0,
       "low52": 22.9,
-      "volume": 43196,
+      "volume": 43100,
       "market": "上櫃"
     },
     {
@@ -21936,7 +21936,7 @@ var LOOKUP = {
       "ma60": 162.7,
       "high52": 265.0,
       "low52": 128.5,
-      "volume": 954643,
+      "volume": 934008,
       "market": "上市"
     },
     {
@@ -21952,7 +21952,7 @@ var LOOKUP = {
       "ma60": 20.5,
       "high52": 21.7,
       "low52": 19.6,
-      "volume": 87757,
+      "volume": 87120,
       "market": "上市"
     },
     {
@@ -21984,7 +21984,7 @@ var LOOKUP = {
       "ma60": 30.5,
       "high52": 34.2,
       "low52": 28.8,
-      "volume": 63381,
+      "volume": 62000,
       "market": "上櫃"
     },
     {
@@ -22000,7 +22000,7 @@ var LOOKUP = {
       "ma60": 45.2,
       "high52": 57.6,
       "low52": 35.0,
-      "volume": 315339,
+      "volume": 312102,
       "market": "上市"
     },
     {
@@ -22016,7 +22016,7 @@ var LOOKUP = {
       "ma60": 47.6,
       "high52": 88.6,
       "low52": 26.9,
-      "volume": 505761,
+      "volume": 649103,
       "market": "上櫃"
     },
     {
@@ -22032,7 +22032,7 @@ var LOOKUP = {
       "ma60": 47.4,
       "high52": 55.0,
       "low52": 40.9,
-      "volume": 82167,
+      "volume": 80000,
       "market": "上市"
     },
     {
@@ -22055,16 +22055,16 @@ var LOOKUP = {
       "code": "4559",
       "name": "久裕興",
       "industry": "家居生活",
-      "close": 9.4,
-      "change_amount": 1.4,
-      "change_pct": 18.03,
+      "close": 9.6,
+      "change_amount": 1.6,
+      "change_pct": 20.43,
       "ma5": 8.3,
       "ma10": 8.2,
       "ma20": 8.2,
       "ma60": 8.9,
       "high52": 15.2,
       "low52": 7.7,
-      "volume": 203378,
+      "volume": 223115,
       "market": "興櫃"
     },
     {
@@ -22080,7 +22080,7 @@ var LOOKUP = {
       "ma60": 33.5,
       "high52": 37.2,
       "low52": 31.6,
-      "volume": 135260,
+      "volume": 135000,
       "market": "上市"
     },
     {
@@ -22096,7 +22096,7 @@ var LOOKUP = {
       "ma60": 42.9,
       "high52": 56.8,
       "low52": 31.6,
-      "volume": 847153,
+      "volume": 846000,
       "market": "上櫃"
     },
     {
@@ -22112,7 +22112,7 @@ var LOOKUP = {
       "ma60": 37.0,
       "high52": 45.5,
       "low52": 29.8,
-      "volume": 3563283,
+      "volume": 3490142,
       "market": "上市"
     },
     {
@@ -22128,7 +22128,7 @@ var LOOKUP = {
       "ma60": 45.4,
       "high52": 53.1,
       "low52": 39.5,
-      "volume": 150427,
+      "volume": 149200,
       "market": "上櫃"
     },
     {
@@ -22144,23 +22144,23 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 20.0,
       "low52": 15.1,
-      "volume": 6158289,
+      "volume": 6139693,
       "market": "上市"
     },
     {
       "code": "4565",
       "name": "宏偉",
       "industry": "電機機械",
-      "close": 122.0,
-      "change_amount": 1.0,
-      "change_pct": 0.83,
-      "ma5": 121.3,
+      "close": 121.0,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 121.1,
       "ma10": 123.0,
       "ma20": 120.5,
       "ma60": 114.3,
       "high52": 127.5,
       "low52": 93.3,
-      "volume": 2330,
+      "volume": 8330,
       "market": "興櫃"
     },
     {
@@ -22176,7 +22176,7 @@ var LOOKUP = {
       "ma60": 65.7,
       "high52": 74.0,
       "low52": 54.7,
-      "volume": 2272589,
+      "volume": 2254152,
       "market": "上市"
     },
     {
@@ -22208,7 +22208,7 @@ var LOOKUP = {
       "ma60": 178.4,
       "high52": 205.0,
       "low52": 129.0,
-      "volume": 115339,
+      "volume": 114000,
       "market": "上市"
     },
     {
@@ -22240,7 +22240,7 @@ var LOOKUP = {
       "ma60": 181.1,
       "high52": 225.2,
       "low52": 144.1,
-      "volume": 246302,
+      "volume": 242166,
       "market": "上市"
     },
     {
@@ -22256,23 +22256,23 @@ var LOOKUP = {
       "ma60": 145.5,
       "high52": 151.0,
       "low52": 139.5,
-      "volume": 311348,
+      "volume": 308050,
       "market": "上市"
     },
     {
       "code": "4573",
       "name": "高明鐵",
       "industry": "電機機械",
-      "close": 409.5,
-      "change_amount": -6.5,
-      "change_pct": -1.56,
-      "ma5": 408.2,
-      "ma10": 427.0,
-      "ma20": 408.1,
-      "ma60": 441.9,
+      "close": 404.5,
+      "change_amount": -11.5,
+      "change_pct": -2.76,
+      "ma5": 407.2,
+      "ma10": 426.5,
+      "ma20": 407.8,
+      "ma60": 441.8,
       "high52": 604.0,
       "low52": 268.5,
-      "volume": 282543,
+      "volume": 302764,
       "market": "興櫃"
     },
     {
@@ -22304,7 +22304,7 @@ var LOOKUP = {
       "ma60": 222.3,
       "high52": 284.5,
       "low52": 135.5,
-      "volume": 4193021,
+      "volume": 4085345,
       "market": "上市"
     },
     {
@@ -22320,7 +22320,7 @@ var LOOKUP = {
       "ma60": 124.2,
       "high52": 181.0,
       "low52": 85.7,
-      "volume": 616353,
+      "volume": 608002,
       "market": "上櫃"
     },
     {
@@ -22336,7 +22336,7 @@ var LOOKUP = {
       "ma60": 81.5,
       "high52": 83.8,
       "low52": 79.3,
-      "volume": 60368,
+      "volume": 60000,
       "market": "上櫃"
     },
     {
@@ -22352,7 +22352,7 @@ var LOOKUP = {
       "ma60": 50.0,
       "high52": 51.0,
       "low52": 48.9,
-      "volume": 6006,
+      "volume": 6000,
       "market": "上市"
     },
     {
@@ -22368,7 +22368,7 @@ var LOOKUP = {
       "ma60": 29.7,
       "high52": 43.2,
       "low52": 22.5,
-      "volume": 297494,
+      "volume": 298000,
       "market": "上市"
     },
     {
@@ -22384,7 +22384,7 @@ var LOOKUP = {
       "ma60": 692.0,
       "high52": 783.0,
       "low52": 576.0,
-      "volume": 61389,
+      "volume": 58119,
       "market": "上市"
     },
     {
@@ -22400,7 +22400,7 @@ var LOOKUP = {
       "ma60": 41.6,
       "high52": 46.8,
       "low52": 39.9,
-      "volume": 12320,
+      "volume": 12160,
       "market": "上櫃"
     },
     {
@@ -22416,7 +22416,7 @@ var LOOKUP = {
       "ma60": 324.3,
       "high52": 371.5,
       "low52": 289.7,
-      "volume": 2045401,
+      "volume": 1890355,
       "market": "上市"
     },
     {
@@ -22432,7 +22432,7 @@ var LOOKUP = {
       "ma60": 57.7,
       "high52": 74.7,
       "low52": 34.8,
-      "volume": 2001,
+      "volume": 2014,
       "market": "興櫃"
     },
     {
@@ -22448,7 +22448,7 @@ var LOOKUP = {
       "ma60": 58.6,
       "high52": 63.6,
       "low52": 53.3,
-      "volume": 113347,
+      "volume": 112000,
       "market": "上市"
     },
     {
@@ -22480,7 +22480,7 @@ var LOOKUP = {
       "ma60": 76.0,
       "high52": 96.0,
       "low52": 71.6,
-      "volume": 2118716,
+      "volume": 2096432,
       "market": "上市"
     },
     {
@@ -22512,7 +22512,7 @@ var LOOKUP = {
       "ma60": 9.9,
       "high52": 10.2,
       "low52": 9.6,
-      "volume": 311118,
+      "volume": 308030,
       "market": "上櫃"
     },
     {
@@ -22528,7 +22528,7 @@ var LOOKUP = {
       "ma60": 31.9,
       "high52": 33.5,
       "low52": 30.6,
-      "volume": 50256,
+      "volume": 50000,
       "market": "上櫃"
     },
     {
@@ -22544,7 +22544,7 @@ var LOOKUP = {
       "ma60": 18.2,
       "high52": 33.8,
       "low52": 11.4,
-      "volume": 16994227,
+      "volume": 16946786,
       "market": "上櫃"
     },
     {
@@ -22560,7 +22560,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 18.5,
       "low52": 15.2,
-      "volume": 291485,
+      "volume": 290000,
       "market": "上櫃"
     },
     {
@@ -22576,7 +22576,7 @@ var LOOKUP = {
       "ma60": 13.9,
       "high52": 16.7,
       "low52": 11.8,
-      "volume": 3827858,
+      "volume": 3826974,
       "market": "上櫃"
     },
     {
@@ -22592,7 +22592,7 @@ var LOOKUP = {
       "ma60": 16.8,
       "high52": 24.2,
       "low52": 14.1,
-      "volume": 2690214,
+      "volume": 2677496,
       "market": "上櫃"
     },
     {
@@ -22608,7 +22608,7 @@ var LOOKUP = {
       "ma60": 25.0,
       "high52": 29.7,
       "low52": 18.0,
-      "volume": 8593996,
+      "volume": 8573099,
       "market": "上市"
     },
     {
@@ -22624,7 +22624,7 @@ var LOOKUP = {
       "ma60": 90.1,
       "high52": 101.0,
       "low52": 71.4,
-      "volume": 687653,
+      "volume": 678005,
       "market": "上櫃"
     },
     {
@@ -22640,7 +22640,7 @@ var LOOKUP = {
       "ma60": 237.6,
       "high52": 305.3,
       "low52": 167.4,
-      "volume": 701395,
+      "volume": 689308,
       "market": "上市"
     },
     {
@@ -22656,7 +22656,7 @@ var LOOKUP = {
       "ma60": 12.1,
       "high52": 14.6,
       "low52": 9.1,
-      "volume": 38059,
+      "volume": 47060,
       "market": "興櫃"
     },
     {
@@ -22672,7 +22672,7 @@ var LOOKUP = {
       "ma60": 27.7,
       "high52": 30.8,
       "low52": 24.0,
-      "volume": 390415,
+      "volume": 389000,
       "market": "上櫃"
     },
     {
@@ -22688,7 +22688,7 @@ var LOOKUP = {
       "ma60": 383.7,
       "high52": 404.0,
       "low52": 373.0,
-      "volume": 1004,
+      "volume": 1010,
       "market": "上櫃"
     },
     {
@@ -22704,7 +22704,7 @@ var LOOKUP = {
       "ma60": 22.0,
       "high52": 27.2,
       "low52": 19.1,
-      "volume": 488226,
+      "volume": 485047,
       "market": "上櫃"
     },
     {
@@ -22736,7 +22736,7 @@ var LOOKUP = {
       "ma60": 30.2,
       "high52": 32.0,
       "low52": 29.1,
-      "volume": 40337,
+      "volume": 40001,
       "market": "上櫃"
     },
     {
@@ -22752,7 +22752,7 @@ var LOOKUP = {
       "ma60": 124.7,
       "high52": 129.0,
       "low52": 121.0,
-      "volume": 187527,
+      "volume": 183408,
       "market": "上市"
     },
     {
@@ -22768,23 +22768,23 @@ var LOOKUP = {
       "ma60": 59.1,
       "high52": 71.0,
       "low52": 53.7,
-      "volume": 113158,
+      "volume": 112001,
       "market": "上市"
     },
     {
       "code": "4738",
       "name": "大同精化",
       "industry": "化學",
-      "close": 7.1,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
+      "close": 7.0,
+      "change_amount": -0.1,
+      "change_pct": -1.96,
       "ma5": 6.9,
-      "ma10": 7.3,
+      "ma10": 7.2,
       "ma20": 7.5,
       "ma60": 8.6,
       "high52": 18.5,
       "low52": 5.4,
-      "volume": 66896,
+      "volume": 81996,
       "market": "興櫃"
     },
     {
@@ -22800,7 +22800,7 @@ var LOOKUP = {
       "ma60": 102.3,
       "high52": 128.9,
       "low52": 74.4,
-      "volume": 1541658,
+      "volume": 1524260,
       "market": "上市"
     },
     {
@@ -22816,7 +22816,7 @@ var LOOKUP = {
       "ma60": 60.6,
       "high52": 80.6,
       "low52": 44.5,
-      "volume": 1075545,
+      "volume": 1070330,
       "market": "上櫃"
     },
     {
@@ -22832,7 +22832,7 @@ var LOOKUP = {
       "ma60": 51.3,
       "high52": 57.3,
       "low52": 47.5,
-      "volume": 11329958,
+      "volume": 11232501,
       "market": "上櫃"
     },
     {
@@ -22848,7 +22848,7 @@ var LOOKUP = {
       "ma60": 31.7,
       "high52": 37.8,
       "low52": 24.8,
-      "volume": 73650,
+      "volume": 73000,
       "market": "上櫃"
     },
     {
@@ -22864,7 +22864,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 20.2,
       "low52": 13.7,
-      "volume": 49710,
+      "volume": 49000,
       "market": "上櫃"
     },
     {
@@ -22880,7 +22880,7 @@ var LOOKUP = {
       "ma60": 52.8,
       "high52": 56.1,
       "low52": 50.3,
-      "volume": 1172454,
+      "volume": 1159002,
       "market": "上市"
     },
     {
@@ -22896,7 +22896,7 @@ var LOOKUP = {
       "ma60": 54.1,
       "high52": 58.1,
       "low52": 48.5,
-      "volume": 44228,
+      "volume": 44000,
       "market": "上櫃"
     },
     {
@@ -22912,7 +22912,7 @@ var LOOKUP = {
       "ma60": 987.3,
       "high52": 1164.8,
       "low52": 804.0,
-      "volume": 570364,
+      "volume": 513349,
       "market": "上櫃"
     },
     {
@@ -22928,7 +22928,7 @@ var LOOKUP = {
       "ma60": 35.9,
       "high52": 37.5,
       "low52": 34.8,
-      "volume": 20548,
+      "volume": 18608,
       "market": "上櫃"
     },
     {
@@ -22944,7 +22944,7 @@ var LOOKUP = {
       "ma60": 141.6,
       "high52": 162.1,
       "low52": 128.5,
-      "volume": 238854,
+      "volume": 234080,
       "market": "上市"
     },
     {
@@ -22960,7 +22960,7 @@ var LOOKUP = {
       "ma60": 322.3,
       "high52": 468.0,
       "low52": 207.0,
-      "volume": 1151142,
+      "volume": 1132023,
       "market": "上櫃"
     },
     {
@@ -22976,7 +22976,7 @@ var LOOKUP = {
       "ma60": 43.8,
       "high52": 51.3,
       "low52": 40.3,
-      "volume": 23150854,
+      "volume": 23023849,
       "market": "上市"
     },
     {
@@ -22992,7 +22992,7 @@ var LOOKUP = {
       "ma60": 279.9,
       "high52": 352.0,
       "low52": 123.4,
-      "volume": 284310,
+      "volume": 275178,
       "market": "上市"
     },
     {
@@ -23024,7 +23024,7 @@ var LOOKUP = {
       "ma60": 347.0,
       "high52": 373.0,
       "low52": 303.6,
-      "volume": 1037658,
+      "volume": 996173,
       "market": "上市"
     },
     {
@@ -23056,7 +23056,7 @@ var LOOKUP = {
       "ma60": 449.2,
       "high52": 538.0,
       "low52": 354.5,
-      "volume": 312129,
+      "volume": 289171,
       "market": "上櫃"
     },
     {
@@ -23072,7 +23072,7 @@ var LOOKUP = {
       "ma60": 228.9,
       "high52": 266.0,
       "low52": 210.0,
-      "volume": 383380,
+      "volume": 364700,
       "market": "上市"
     },
     {
@@ -23088,7 +23088,7 @@ var LOOKUP = {
       "ma60": 192.3,
       "high52": 215.0,
       "low52": 183.0,
-      "volume": 972548,
+      "volume": 953267,
       "market": "上市"
     },
     {
@@ -23104,7 +23104,7 @@ var LOOKUP = {
       "ma60": 296.1,
       "high52": 327.0,
       "low52": 260.5,
-      "volume": 1025947,
+      "volume": 983375,
       "market": "上櫃"
     },
     {
@@ -23120,7 +23120,7 @@ var LOOKUP = {
       "ma60": 10.3,
       "high52": 11.1,
       "low52": 9.8,
-      "volume": 19919,
+      "volume": 19000,
       "market": "上櫃"
     },
     {
@@ -23136,7 +23136,7 @@ var LOOKUP = {
       "ma60": 27.4,
       "high52": 45.0,
       "low52": 14.2,
-      "volume": 140609,
+      "volume": 139050,
       "market": "上市"
     },
     {
@@ -23152,7 +23152,7 @@ var LOOKUP = {
       "ma60": 44.4,
       "high52": 53.2,
       "low52": 38.5,
-      "volume": 2753867,
+      "volume": 2740500,
       "market": "上櫃"
     },
     {
@@ -23168,7 +23168,7 @@ var LOOKUP = {
       "ma60": 99.6,
       "high52": 112.5,
       "low52": 92.9,
-      "volume": 16644883,
+      "volume": 16647642,
       "market": "上市"
     },
     {
@@ -23184,7 +23184,7 @@ var LOOKUP = {
       "ma60": 78.5,
       "high52": 96.3,
       "low52": 68.0,
-      "volume": 17309,
+      "volume": 17000,
       "market": "上櫃"
     },
     {
@@ -23200,7 +23200,7 @@ var LOOKUP = {
       "ma60": 41.0,
       "high52": 52.8,
       "low52": 33.9,
-      "volume": 9225237,
+      "volume": 9190002,
       "market": "上市"
     },
     {
@@ -23216,7 +23216,7 @@ var LOOKUP = {
       "ma60": 39.1,
       "high52": 42.5,
       "low52": 35.6,
-      "volume": 105416,
+      "volume": 105100,
       "market": "上櫃"
     },
     {
@@ -23232,7 +23232,7 @@ var LOOKUP = {
       "ma60": 208.1,
       "high52": 293.5,
       "low52": 103.5,
-      "volume": 2653990,
+      "volume": 2628470,
       "market": "上櫃"
     },
     {
@@ -23248,7 +23248,7 @@ var LOOKUP = {
       "ma60": 53.3,
       "high52": 66.1,
       "low52": 44.2,
-      "volume": 600659,
+      "volume": 594486,
       "market": "上櫃"
     },
     {
@@ -23264,7 +23264,7 @@ var LOOKUP = {
       "ma60": 33.2,
       "high52": 40.5,
       "low52": 31.0,
-      "volume": 188179,
+      "volume": 184031,
       "market": "上櫃"
     },
     {
@@ -23280,7 +23280,7 @@ var LOOKUP = {
       "ma60": 92.5,
       "high52": 114.0,
       "low52": 79.4,
-      "volume": 215243,
+      "volume": 214390,
       "market": "上市"
     },
     {
@@ -23296,7 +23296,7 @@ var LOOKUP = {
       "ma60": 69.1,
       "high52": 73.2,
       "low52": 65.0,
-      "volume": 8926255,
+      "volume": 8898300,
       "market": "上市"
     },
     {
@@ -23312,7 +23312,7 @@ var LOOKUP = {
       "ma60": 87.2,
       "high52": 124.5,
       "low52": 54.3,
-      "volume": 14747622,
+      "volume": 14644916,
       "market": "上市"
     },
     {
@@ -23328,7 +23328,7 @@ var LOOKUP = {
       "ma60": 166.8,
       "high52": 219.0,
       "low52": 87.8,
-      "volume": 32875001,
+      "volume": 32528065,
       "market": "上市"
     },
     {
@@ -23344,7 +23344,7 @@ var LOOKUP = {
       "ma60": 43.4,
       "high52": 63.4,
       "low52": 33.0,
-      "volume": 374170,
+      "volume": 368118,
       "market": "上櫃"
     },
     {
@@ -23360,7 +23360,7 @@ var LOOKUP = {
       "ma60": 11.6,
       "high52": 14.4,
       "low52": 9.8,
-      "volume": 266852,
+      "volume": 266101,
       "market": "上櫃"
     },
     {
@@ -23376,7 +23376,7 @@ var LOOKUP = {
       "ma60": 151.5,
       "high52": 208.0,
       "low52": 98.5,
-      "volume": 142388,
+      "volume": 145531,
       "market": "興櫃"
     },
     {
@@ -23392,7 +23392,7 @@ var LOOKUP = {
       "ma60": 51.8,
       "high52": 61.9,
       "low52": 41.3,
-      "volume": 2850156,
+      "volume": 2839266,
       "market": "上市"
     },
     {
@@ -23408,7 +23408,7 @@ var LOOKUP = {
       "ma60": 17.8,
       "high52": 19.5,
       "low52": 16.5,
-      "volume": 50275,
+      "volume": 46893,
       "market": "上市"
     },
     {
@@ -23424,7 +23424,7 @@ var LOOKUP = {
       "ma60": 201.1,
       "high52": 276.5,
       "low52": 129.6,
-      "volume": 1390647,
+      "volume": 1347708,
       "market": "上櫃"
     },
     {
@@ -23440,7 +23440,7 @@ var LOOKUP = {
       "ma60": 68.7,
       "high52": 77.9,
       "low52": 57.0,
-      "volume": 214752,
+      "volume": 213000,
       "market": "上櫃"
     },
     {
@@ -23456,7 +23456,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 19.0,
       "low52": 15.2,
-      "volume": 1357874,
+      "volume": 1356365,
       "market": "上市"
     },
     {
@@ -23472,7 +23472,7 @@ var LOOKUP = {
       "ma60": 37.1,
       "high52": 41.3,
       "low52": 34.4,
-      "volume": 82334,
+      "volume": 82100,
       "market": "上市"
     },
     {
@@ -23488,7 +23488,7 @@ var LOOKUP = {
       "ma60": 81.3,
       "high52": 94.3,
       "low52": 73.2,
-      "volume": 8973220,
+      "volume": 8948782,
       "market": "上市"
     },
     {
@@ -23504,7 +23504,7 @@ var LOOKUP = {
       "ma60": 48.7,
       "high52": 70.5,
       "low52": 27.9,
-      "volume": 5392698,
+      "volume": 5360231,
       "market": "上櫃"
     },
     {
@@ -23520,7 +23520,7 @@ var LOOKUP = {
       "ma60": 37.8,
       "high52": 38.8,
       "low52": 36.8,
-      "volume": 112488,
+      "volume": 112100,
       "market": "上市"
     },
     {
@@ -23536,7 +23536,7 @@ var LOOKUP = {
       "ma60": 9.4,
       "high52": 11.2,
       "low52": 8.6,
-      "volume": 26001,
+      "volume": 26655,
       "market": "上市"
     },
     {
@@ -23552,7 +23552,7 @@ var LOOKUP = {
       "ma60": 107.7,
       "high52": 122.0,
       "low52": 101.0,
-      "volume": 42923,
+      "volume": 42096,
       "market": "上櫃"
     },
     {
@@ -23568,7 +23568,7 @@ var LOOKUP = {
       "ma60": 91.5,
       "high52": 108.0,
       "low52": 65.3,
-      "volume": 486601,
+      "volume": 473005,
       "market": "上市"
     },
     {
@@ -23584,7 +23584,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 18.6,
       "low52": 15.8,
-      "volume": 19916,
+      "volume": 19000,
       "market": "上櫃"
     },
     {
@@ -23600,7 +23600,7 @@ var LOOKUP = {
       "ma60": 102.8,
       "high52": 134.7,
       "low52": 67.5,
-      "volume": 269211,
+      "volume": 264100,
       "market": "上櫃"
     },
     {
@@ -23616,7 +23616,7 @@ var LOOKUP = {
       "ma60": 50.2,
       "high52": 60.1,
       "low52": 38.0,
-      "volume": 6357460,
+      "volume": 6328172,
       "market": "上市"
     },
     {
@@ -23632,7 +23632,7 @@ var LOOKUP = {
       "ma60": 120.2,
       "high52": 137.1,
       "low52": 110.3,
-      "volume": 414584,
+      "volume": 406689,
       "market": "上櫃"
     },
     {
@@ -23648,7 +23648,7 @@ var LOOKUP = {
       "ma60": 43.8,
       "high52": 54.7,
       "low52": 35.4,
-      "volume": 1471521,
+      "volume": 1469011,
       "market": "上市"
     },
     {
@@ -23664,7 +23664,7 @@ var LOOKUP = {
       "ma60": 460.2,
       "high52": 642.0,
       "low52": 223.5,
-      "volume": 22458960,
+      "volume": 21768843,
       "market": "上市"
     },
     {
@@ -23680,7 +23680,7 @@ var LOOKUP = {
       "ma60": 32.9,
       "high52": 45.0,
       "low52": 19.8,
-      "volume": 10216064,
+      "volume": 10205503,
       "market": "上市"
     },
     {
@@ -23696,7 +23696,7 @@ var LOOKUP = {
       "ma60": 158.5,
       "high52": 173.0,
       "low52": 141.6,
-      "volume": 1264436,
+      "volume": 1244154,
       "market": "上市"
     },
     {
@@ -23712,7 +23712,7 @@ var LOOKUP = {
       "ma60": 673.4,
       "high52": 870.0,
       "low52": 475.0,
-      "volume": 846816,
+      "volume": 818721,
       "market": "上櫃"
     },
     {
@@ -23728,7 +23728,7 @@ var LOOKUP = {
       "ma60": 268.5,
       "high52": 304.5,
       "low52": 212.5,
-      "volume": 2182491,
+      "volume": 2137394,
       "market": "上市"
     },
     {
@@ -23744,7 +23744,7 @@ var LOOKUP = {
       "ma60": 114.8,
       "high52": 130.0,
       "low52": 104.0,
-      "volume": 513310,
+      "volume": 504474,
       "market": "上市"
     },
     {
@@ -23760,7 +23760,7 @@ var LOOKUP = {
       "ma60": 673.9,
       "high52": 872.0,
       "low52": 472.5,
-      "volume": 1251615,
+      "volume": 1216493,
       "market": "上櫃"
     },
     {
@@ -23776,7 +23776,7 @@ var LOOKUP = {
       "ma60": 16.7,
       "high52": 17.5,
       "low52": 16.4,
-      "volume": 87371,
+      "volume": 84028,
       "market": "上櫃"
     },
     {
@@ -23792,7 +23792,7 @@ var LOOKUP = {
       "ma60": 131.6,
       "high52": 210.0,
       "low52": 68.4,
-      "volume": 2920903,
+      "volume": 2884747,
       "market": "上櫃"
     },
     {
@@ -23808,7 +23808,7 @@ var LOOKUP = {
       "ma60": 70.4,
       "high52": 75.0,
       "low52": 66.2,
-      "volume": 125625,
+      "volume": 125032,
       "market": "上櫃"
     },
     {
@@ -23824,7 +23824,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 43.9,
       "low52": 27.4,
-      "volume": 7370964,
+      "volume": 7345715,
       "market": "上市"
     },
     {
@@ -23840,7 +23840,7 @@ var LOOKUP = {
       "ma60": 205.7,
       "high52": 270.5,
       "low52": 157.0,
-      "volume": 2099459,
+      "volume": 2071173,
       "market": "上市"
     },
     {
@@ -23856,7 +23856,7 @@ var LOOKUP = {
       "ma60": 571.6,
       "high52": 718.0,
       "low52": 404.5,
-      "volume": 10432394,
+      "volume": 10253620,
       "market": "上櫃"
     },
     {
@@ -23888,7 +23888,7 @@ var LOOKUP = {
       "ma60": 94.8,
       "high52": 116.5,
       "low52": 63.0,
-      "volume": 44970081,
+      "volume": 44541443,
       "market": "上市"
     },
     {
@@ -23904,7 +23904,7 @@ var LOOKUP = {
       "ma60": 641.5,
       "high52": 870.0,
       "low52": 470.5,
-      "volume": 4301410,
+      "volume": 4186607,
       "market": "上櫃"
     },
     {
@@ -23920,7 +23920,7 @@ var LOOKUP = {
       "ma60": 91.2,
       "high52": 97.6,
       "low52": 83.9,
-      "volume": 13343,
+      "volume": 13000,
       "market": "上市"
     },
     {
@@ -23936,7 +23936,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 48.1,
       "low52": 38.9,
-      "volume": 18299,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
@@ -23952,7 +23952,7 @@ var LOOKUP = {
       "ma60": 20.9,
       "high52": 24.0,
       "low52": 19.5,
-      "volume": 79324,
+      "volume": 76061,
       "market": "上市"
     },
     {
@@ -23968,7 +23968,7 @@ var LOOKUP = {
       "ma60": 57.1,
       "high52": 58.5,
       "low52": 55.3,
-      "volume": 54409,
+      "volume": 54030,
       "market": "上市"
     },
     {
@@ -23984,7 +23984,7 @@ var LOOKUP = {
       "ma60": 33.5,
       "high52": 38.7,
       "low52": 29.7,
-      "volume": 6015808,
+      "volume": 5995657,
       "market": "上櫃"
     },
     {
@@ -24000,7 +24000,7 @@ var LOOKUP = {
       "ma60": 17.6,
       "high52": 26.7,
       "low52": 12.9,
-      "volume": 796491,
+      "volume": 794013,
       "market": "上櫃"
     },
     {
@@ -24016,7 +24016,7 @@ var LOOKUP = {
       "ma60": 28.2,
       "high52": 31.4,
       "low52": 26.5,
-      "volume": 19303,
+      "volume": 19000,
       "market": "上櫃"
     },
     {
@@ -24032,7 +24032,7 @@ var LOOKUP = {
       "ma60": 10.5,
       "high52": 11.4,
       "low52": 9.4,
-      "volume": 266796,
+      "volume": 263474,
       "market": "上櫃"
     },
     {
@@ -24048,7 +24048,7 @@ var LOOKUP = {
       "ma60": 23.6,
       "high52": 25.8,
       "low52": 21.9,
-      "volume": 22132,
+      "volume": 22001,
       "market": "上櫃"
     },
     {
@@ -24064,7 +24064,7 @@ var LOOKUP = {
       "ma60": 25.2,
       "high52": 31.0,
       "low52": 23.8,
-      "volume": 42124,
+      "volume": 42000,
       "market": "上櫃"
     },
     {
@@ -24080,7 +24080,7 @@ var LOOKUP = {
       "ma60": 29.9,
       "high52": 38.7,
       "low52": 26.6,
-      "volume": 62142,
+      "volume": 62000,
       "market": "上櫃"
     },
     {
@@ -24096,7 +24096,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 17.3,
       "low52": 11.4,
-      "volume": 1093822,
+      "volume": 1094000,
       "market": "上櫃"
     },
     {
@@ -24112,7 +24112,7 @@ var LOOKUP = {
       "ma60": 66.2,
       "high52": 72.0,
       "low52": 61.8,
-      "volume": 269890,
+      "volume": 265007,
       "market": "上市"
     },
     {
@@ -24128,7 +24128,7 @@ var LOOKUP = {
       "ma60": 24.0,
       "high52": 30.4,
       "low52": 20.9,
-      "volume": 13001,
+      "volume": 13000,
       "market": "上櫃"
     },
     {
@@ -24144,7 +24144,7 @@ var LOOKUP = {
       "ma60": 23.6,
       "high52": 29.0,
       "low52": 21.6,
-      "volume": 359126,
+      "volume": 358214,
       "market": "上櫃"
     },
     {
@@ -24160,7 +24160,7 @@ var LOOKUP = {
       "ma60": 155.9,
       "high52": 162.3,
       "low52": 150.7,
-      "volume": 106043,
+      "volume": 102080,
       "market": "上櫃"
     },
     {
@@ -24176,7 +24176,7 @@ var LOOKUP = {
       "ma60": 27.1,
       "high52": 33.2,
       "low52": 21.8,
-      "volume": 320446,
+      "volume": 319000,
       "market": "上櫃"
     },
     {
@@ -24192,7 +24192,7 @@ var LOOKUP = {
       "ma60": 20.2,
       "high52": 24.2,
       "low52": 17.6,
-      "volume": 714092,
+      "volume": 705149,
       "market": "上櫃"
     },
     {
@@ -24208,7 +24208,7 @@ var LOOKUP = {
       "ma60": 47.2,
       "high52": 53.5,
       "low52": 45.7,
-      "volume": 45253,
+      "volume": 44000,
       "market": "上櫃"
     },
     {
@@ -24224,7 +24224,7 @@ var LOOKUP = {
       "ma60": 23.3,
       "high52": 24.3,
       "low52": 22.1,
-      "volume": 273105,
+      "volume": 264986,
       "market": "上櫃"
     },
     {
@@ -24240,7 +24240,7 @@ var LOOKUP = {
       "ma60": 42.6,
       "high52": 50.3,
       "low52": 36.5,
-      "volume": 124476,
+      "volume": 124000,
       "market": "上市"
     },
     {
@@ -24256,7 +24256,7 @@ var LOOKUP = {
       "ma60": 21.1,
       "high52": 24.4,
       "low52": 18.7,
-      "volume": 16782,
+      "volume": 16000,
       "market": "上櫃"
     },
     {
@@ -24272,7 +24272,7 @@ var LOOKUP = {
       "ma60": 126.2,
       "high52": 144.5,
       "low52": 112.0,
-      "volume": 1273225,
+      "volume": 1243391,
       "market": "上市"
     },
     {
@@ -24288,7 +24288,7 @@ var LOOKUP = {
       "ma60": 25.3,
       "high52": 26.8,
       "low52": 24.0,
-      "volume": 48629,
+      "volume": 48000,
       "market": "上櫃"
     },
     {
@@ -24304,7 +24304,7 @@ var LOOKUP = {
       "ma60": 74.1,
       "high52": 80.1,
       "low52": 70.2,
-      "volume": 587791,
+      "volume": 579019,
       "market": "上市"
     },
     {
@@ -24320,7 +24320,7 @@ var LOOKUP = {
       "ma60": 26.2,
       "high52": 39.5,
       "low52": 20.4,
-      "volume": 311970,
+      "volume": 303001,
       "market": "上櫃"
     },
     {
@@ -24336,7 +24336,7 @@ var LOOKUP = {
       "ma60": 51.9,
       "high52": 76.2,
       "low52": 22.9,
-      "volume": 1294140,
+      "volume": 1286500,
       "market": "上櫃"
     },
     {
@@ -24352,7 +24352,7 @@ var LOOKUP = {
       "ma60": 17.8,
       "high52": 24.0,
       "low52": 15.6,
-      "volume": 760171,
+      "volume": 764110,
       "market": "上櫃"
     },
     {
@@ -24368,7 +24368,7 @@ var LOOKUP = {
       "ma60": 411.0,
       "high52": 462.0,
       "low52": 356.5,
-      "volume": 377360,
+      "volume": 356248,
       "market": "上市"
     },
     {
@@ -24384,23 +24384,23 @@ var LOOKUP = {
       "ma60": 159.6,
       "high52": 179.5,
       "low52": 122.1,
-      "volume": 157752,
+      "volume": 154632,
       "market": "上櫃"
     },
     {
       "code": "5240",
       "name": "建騰",
       "industry": "光電",
-      "close": 21.1,
-      "change_amount": 0.5,
-      "change_pct": 2.18,
+      "close": 21.0,
+      "change_amount": 0.4,
+      "change_pct": 1.69,
       "ma5": 20.7,
       "ma10": 21.2,
       "ma20": 22.5,
       "ma60": 25.5,
       "high52": 32.2,
       "low52": 20.1,
-      "volume": 8002,
+      "volume": 8052,
       "market": "興櫃"
     },
     {
@@ -24416,7 +24416,7 @@ var LOOKUP = {
       "ma60": 112.3,
       "high52": 135.0,
       "low52": 94.1,
-      "volume": 831287,
+      "volume": 812105,
       "market": "上市"
     },
     {
@@ -24432,7 +24432,7 @@ var LOOKUP = {
       "ma60": 39.1,
       "high52": 50.3,
       "low52": 35.3,
-      "volume": 183905,
+      "volume": 182000,
       "market": "上市"
     },
     {
@@ -24448,39 +24448,39 @@ var LOOKUP = {
       "ma60": 25.9,
       "high52": 29.1,
       "low52": 23.0,
-      "volume": 29674,
+      "volume": 29000,
       "market": "上櫃"
     },
     {
       "code": "5246",
       "name": "勵威",
       "industry": "半導體",
-      "close": 149.0,
-      "change_amount": -4.5,
-      "change_pct": -2.93,
-      "ma5": 155.4,
+      "close": 148.5,
+      "change_amount": -5.0,
+      "change_pct": -3.26,
+      "ma5": 155.3,
       "ma10": 170.8,
       "ma20": 178.2,
       "ma60": 201.0,
       "high52": 342.5,
       "low52": 132.5,
-      "volume": 522112,
+      "volume": 613225,
       "market": "興櫃"
     },
     {
       "code": "5248",
       "name": "景傳",
       "industry": "光電",
-      "close": 29.9,
-      "change_amount": 1.1,
-      "change_pct": 3.83,
-      "ma5": 29.3,
+      "close": 29.2,
+      "change_amount": 0.5,
+      "change_pct": 1.57,
+      "ma5": 29.1,
       "ma10": 30.6,
       "ma20": 33.2,
       "ma60": 43.8,
       "high52": 100.0,
       "low52": 20.0,
-      "volume": 93755,
+      "volume": 131011,
       "market": "興櫃"
     },
     {
@@ -24496,7 +24496,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 34.5,
       "low52": 26.5,
-      "volume": 193655,
+      "volume": 190090,
       "market": "上櫃"
     },
     {
@@ -24528,23 +24528,23 @@ var LOOKUP = {
       "ma60": 51.0,
       "high52": 60.0,
       "low52": 45.1,
-      "volume": 563658,
+      "volume": 558061,
       "market": "上市"
     },
     {
       "code": "5262",
       "name": "立達",
       "industry": "半導體",
-      "close": 44.5,
-      "change_amount": -0.5,
-      "change_pct": -1.0,
-      "ma5": 45.2,
+      "close": 45.0,
+      "change_amount": 0.0,
+      "change_pct": 0.11,
+      "ma5": 45.3,
       "ma10": 44.9,
       "ma20": 45.7,
       "ma60": 50.7,
       "high52": 61.2,
       "low52": 43.5,
-      "volume": 38471,
+      "volume": 44471,
       "market": "興櫃"
     },
     {
@@ -24560,7 +24560,7 @@ var LOOKUP = {
       "ma60": 101.0,
       "high52": 113.5,
       "low52": 90.0,
-      "volume": 38583,
+      "volume": 37051,
       "market": "上櫃"
     },
     {
@@ -24576,7 +24576,7 @@ var LOOKUP = {
       "ma60": 56.3,
       "high52": 97.3,
       "low52": 28.0,
-      "volume": 55551,
+      "volume": 59551,
       "market": "興櫃"
     },
     {
@@ -24592,23 +24592,23 @@ var LOOKUP = {
       "ma60": 1390.9,
       "high52": 1590.0,
       "low52": 1065.0,
-      "volume": 1796547,
+      "volume": 1694584,
       "market": "上市"
     },
     {
       "code": "5271",
       "name": "紘通",
       "industry": "電子零組件",
-      "close": 15.2,
-      "change_amount": 0.1,
-      "change_pct": 0.66,
+      "close": 15.1,
+      "change_amount": 0.0,
+      "change_pct": 0.33,
       "ma5": 15.2,
       "ma10": 16.0,
       "ma20": 15.8,
       "ma60": 20.8,
       "high52": 50.7,
       "low52": 14.1,
-      "volume": 185257,
+      "volume": 188257,
       "market": "興櫃"
     },
     {
@@ -24624,7 +24624,7 @@ var LOOKUP = {
       "ma60": 22.7,
       "high52": 27.0,
       "low52": 20.2,
-      "volume": 155235,
+      "volume": 155000,
       "market": "上櫃"
     },
     {
@@ -24640,7 +24640,7 @@ var LOOKUP = {
       "ma60": 16760.5,
       "high52": 19186.5,
       "low52": 11417.3,
-      "volume": 146810,
+      "volume": 129147,
       "market": "上櫃"
     },
     {
@@ -24656,7 +24656,7 @@ var LOOKUP = {
       "ma60": 18.7,
       "high52": 22.2,
       "low52": 15.1,
-      "volume": 24069,
+      "volume": 24000,
       "market": "上櫃"
     },
     {
@@ -24672,7 +24672,7 @@ var LOOKUP = {
       "ma60": 23.2,
       "high52": 24.9,
       "low52": 21.4,
-      "volume": 262745,
+      "volume": 262402,
       "market": "上櫃"
     },
     {
@@ -24688,7 +24688,7 @@ var LOOKUP = {
       "ma60": 53.3,
       "high52": 57.5,
       "low52": 51.3,
-      "volume": 64217,
+      "volume": 63003,
       "market": "上市"
     },
     {
@@ -24704,7 +24704,7 @@ var LOOKUP = {
       "ma60": 373.1,
       "high52": 460.0,
       "low52": 282.5,
-      "volume": 467319,
+      "volume": 442053,
       "market": "上市"
     },
     {
@@ -24720,7 +24720,7 @@ var LOOKUP = {
       "ma60": 75.8,
       "high52": 108.5,
       "low52": 49.1,
-      "volume": 2562404,
+      "volume": 2541550,
       "market": "上市"
     },
     {
@@ -24736,7 +24736,7 @@ var LOOKUP = {
       "ma60": 151.8,
       "high52": 163.2,
       "low52": 145.0,
-      "volume": 56640,
+      "volume": 54093,
       "market": "上櫃"
     },
     {
@@ -24752,7 +24752,7 @@ var LOOKUP = {
       "ma60": 166.8,
       "high52": 191.0,
       "low52": 140.0,
-      "volume": 84518,
+      "volume": 81172,
       "market": "上市"
     },
     {
@@ -24768,7 +24768,7 @@ var LOOKUP = {
       "ma60": 1586.4,
       "high52": 1990.0,
       "low52": 978.0,
-      "volume": 3338746,
+      "volume": 3115408,
       "market": "上櫃"
     },
     {
@@ -24784,7 +24784,7 @@ var LOOKUP = {
       "ma60": 67.1,
       "high52": 78.8,
       "low52": 54.0,
-      "volume": 394640,
+      "volume": 392512,
       "market": "上櫃"
     },
     {
@@ -24800,23 +24800,23 @@ var LOOKUP = {
       "ma60": 226.9,
       "high52": 265.0,
       "low52": 202.5,
-      "volume": 153479,
+      "volume": 148310,
       "market": "上市"
     },
     {
       "code": "5297",
       "name": "廣化",
       "industry": "半導體",
-      "close": 91.1,
-      "change_amount": 3.4,
-      "change_pct": 3.88,
-      "ma5": 89.4,
-      "ma10": 98.8,
-      "ma20": 88.5,
+      "close": 89.9,
+      "change_amount": 2.2,
+      "change_pct": 2.51,
+      "ma5": 89.2,
+      "ma10": 98.7,
+      "ma20": 88.4,
       "ma60": 124.2,
       "high52": 262.0,
       "low52": 60.2,
-      "volume": 451517,
+      "volume": 495575,
       "market": "興櫃"
     },
     {
@@ -24832,7 +24832,7 @@ var LOOKUP = {
       "ma60": 103.1,
       "high52": 136.0,
       "low52": 78.8,
-      "volume": 3070887,
+      "volume": 3041480,
       "market": "上櫃"
     },
     {
@@ -24848,7 +24848,7 @@ var LOOKUP = {
       "ma60": 7.6,
       "high52": 9.5,
       "low52": 6.0,
-      "volume": 29199,
+      "volume": 29031,
       "market": "上櫃"
     },
     {
@@ -24864,7 +24864,7 @@ var LOOKUP = {
       "ma60": 11.4,
       "high52": 14.4,
       "low52": 9.8,
-      "volume": 3256359,
+      "volume": 3249141,
       "market": "上櫃"
     },
     {
@@ -24880,7 +24880,7 @@ var LOOKUP = {
       "ma60": 83.2,
       "high52": 87.6,
       "low52": 79.5,
-      "volume": 76477,
+      "volume": 74000,
       "market": "上市"
     },
     {
@@ -24896,7 +24896,7 @@ var LOOKUP = {
       "ma60": 65.4,
       "high52": 81.8,
       "low52": 55.2,
-      "volume": 3663916,
+      "volume": 3645338,
       "market": "上櫃"
     },
     {
@@ -24912,7 +24912,7 @@ var LOOKUP = {
       "ma60": 24.3,
       "high52": 26.6,
       "low52": 22.0,
-      "volume": 6167,
+      "volume": 6000,
       "market": "上櫃"
     },
     {
@@ -24928,7 +24928,7 @@ var LOOKUP = {
       "ma60": 89.8,
       "high52": 92.9,
       "low52": 87.0,
-      "volume": 51779,
+      "volume": 51101,
       "market": "上櫃"
     },
     {
@@ -24944,7 +24944,7 @@ var LOOKUP = {
       "ma60": 67.8,
       "high52": 81.0,
       "low52": 55.3,
-      "volume": 29359121,
+      "volume": 28768521,
       "market": "上櫃"
     },
     {
@@ -24960,7 +24960,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 21.9,
       "low52": 20.1,
-      "volume": 1126812,
+      "volume": 1123499,
       "market": "上櫃"
     },
     {
@@ -24976,7 +24976,7 @@ var LOOKUP = {
       "ma60": 36.7,
       "high52": 69.8,
       "low52": 21.6,
-      "volume": 213587,
+      "volume": 210170,
       "market": "上櫃"
     },
     {
@@ -24992,7 +24992,7 @@ var LOOKUP = {
       "ma60": 11.7,
       "high52": 12.2,
       "low52": 10.5,
-      "volume": 272706,
+      "volume": 277320,
       "market": "上櫃"
     },
     {
@@ -25008,7 +25008,7 @@ var LOOKUP = {
       "ma60": 38.7,
       "high52": 82.4,
       "low52": 22.7,
-      "volume": 57852287,
+      "volume": 57589709,
       "market": "上櫃"
     },
     {
@@ -25024,7 +25024,7 @@ var LOOKUP = {
       "ma60": 103.7,
       "high52": 133.1,
       "low52": 85.7,
-      "volume": 905174,
+      "volume": 884500,
       "market": "上櫃"
     },
     {
@@ -25040,7 +25040,7 @@ var LOOKUP = {
       "ma60": 16.0,
       "high52": 18.9,
       "low52": 13.6,
-      "volume": 70113,
+      "volume": 70000,
       "market": "上櫃"
     },
     {
@@ -25056,7 +25056,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 35.3,
       "low52": 18.6,
-      "volume": 48522,
+      "volume": 48079,
       "market": "上櫃"
     },
     {
@@ -25072,7 +25072,7 @@ var LOOKUP = {
       "ma60": 164.1,
       "high52": 220.0,
       "low52": 121.0,
-      "volume": 17518227,
+      "volume": 17247936,
       "market": "上櫃"
     },
     {
@@ -25088,7 +25088,7 @@ var LOOKUP = {
       "ma60": 16.2,
       "high52": 18.5,
       "low52": 14.5,
-      "volume": 27213,
+      "volume": 26000,
       "market": "上櫃"
     },
     {
@@ -25104,7 +25104,7 @@ var LOOKUP = {
       "ma60": 80.6,
       "high52": 99.8,
       "low52": 61.1,
-      "volume": 8916761,
+      "volume": 8828112,
       "market": "上櫃"
     },
     {
@@ -25120,7 +25120,7 @@ var LOOKUP = {
       "ma60": 27.7,
       "high52": 33.0,
       "low52": 23.9,
-      "volume": 109058,
+      "volume": 108150,
       "market": "上櫃"
     },
     {
@@ -25136,7 +25136,7 @@ var LOOKUP = {
       "ma60": 6.6,
       "high52": 7.1,
       "low52": 6.0,
-      "volume": 53312,
+      "volume": 53000,
       "market": "上櫃"
     },
     {
@@ -25152,7 +25152,7 @@ var LOOKUP = {
       "ma60": 27.0,
       "high52": 28.3,
       "low52": 25.1,
-      "volume": 160518,
+      "volume": 159553,
       "market": "上櫃"
     },
     {
@@ -25168,7 +25168,7 @@ var LOOKUP = {
       "ma60": 9.5,
       "high52": 12.1,
       "low52": 8.5,
-      "volume": 240061,
+      "volume": 238018,
       "market": "上櫃"
     },
     {
@@ -25184,7 +25184,7 @@ var LOOKUP = {
       "ma60": 73.3,
       "high52": 93.1,
       "low52": 65.6,
-      "volume": 40226022,
+      "volume": 39900885,
       "market": "上櫃"
     },
     {
@@ -25200,7 +25200,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 34.0,
       "low52": 22.7,
-      "volume": 1950620,
+      "volume": 1935191,
       "market": "上櫃"
     },
     {
@@ -25216,7 +25216,7 @@ var LOOKUP = {
       "ma60": 455.9,
       "high52": 593.0,
       "low52": 303.5,
-      "volume": 2757931,
+      "volume": 2678466,
       "market": "上櫃"
     },
     {
@@ -25232,7 +25232,7 @@ var LOOKUP = {
       "ma60": 82.8,
       "high52": 93.3,
       "low52": 76.5,
-      "volume": 1942670,
+      "volume": 1927150,
       "market": "上市"
     },
     {
@@ -25248,7 +25248,7 @@ var LOOKUP = {
       "ma60": 42.3,
       "high52": 48.9,
       "low52": 35.5,
-      "volume": 11170140,
+      "volume": 11130090,
       "market": "上櫃"
     },
     {
@@ -25264,7 +25264,7 @@ var LOOKUP = {
       "ma60": 18.8,
       "high52": 21.9,
       "low52": 16.4,
-      "volume": 31769,
+      "volume": 31020,
       "market": "上櫃"
     },
     {
@@ -25280,7 +25280,7 @@ var LOOKUP = {
       "ma60": 91.8,
       "high52": 99.7,
       "low52": 84.5,
-      "volume": 80994,
+      "volume": 77465,
       "market": "上櫃"
     },
     {
@@ -25296,7 +25296,7 @@ var LOOKUP = {
       "ma60": 38.3,
       "high52": 48.0,
       "low52": 30.0,
-      "volume": 1215101,
+      "volume": 1204240,
       "market": "上櫃"
     },
     {
@@ -25312,7 +25312,7 @@ var LOOKUP = {
       "ma60": 88.4,
       "high52": 134.0,
       "low52": 56.4,
-      "volume": 6184216,
+      "volume": 6004218,
       "market": "上櫃"
     },
     {
@@ -25328,7 +25328,7 @@ var LOOKUP = {
       "ma60": 24.1,
       "high52": 39.7,
       "low52": 17.7,
-      "volume": 1520229,
+      "volume": 1508680,
       "market": "上櫃"
     },
     {
@@ -25344,7 +25344,7 @@ var LOOKUP = {
       "ma60": 142.7,
       "high52": 166.5,
       "low52": 126.0,
-      "volume": 104432,
+      "volume": 103004,
       "market": "上櫃"
     },
     {
@@ -25360,7 +25360,7 @@ var LOOKUP = {
       "ma60": 446.5,
       "high52": 549.0,
       "low52": 360.0,
-      "volume": 1605664,
+      "volume": 1586521,
       "market": "上市"
     },
     {
@@ -25376,7 +25376,7 @@ var LOOKUP = {
       "ma60": 18.4,
       "high52": 19.5,
       "low52": 17.8,
-      "volume": 384695,
+      "volume": 382029,
       "market": "上櫃"
     },
     {
@@ -25392,7 +25392,7 @@ var LOOKUP = {
       "ma60": 367.6,
       "high52": 441.5,
       "low52": 278.5,
-      "volume": 8595274,
+      "volume": 8473081,
       "market": "上櫃"
     },
     {
@@ -25408,7 +25408,7 @@ var LOOKUP = {
       "ma60": 115.4,
       "high52": 134.6,
       "low52": 98.4,
-      "volume": 2578950,
+      "volume": 2549108,
       "market": "上櫃"
     },
     {
@@ -25424,7 +25424,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 15.6,
       "low52": 12.5,
-      "volume": 270631,
+      "volume": 270000,
       "market": "上櫃"
     },
     {
@@ -25440,7 +25440,7 @@ var LOOKUP = {
       "ma60": 33.4,
       "high52": 36.2,
       "low52": 30.8,
-      "volume": 1853200,
+      "volume": 1846324,
       "market": "上櫃"
     },
     {
@@ -25456,7 +25456,7 @@ var LOOKUP = {
       "ma60": 25.3,
       "high52": 27.5,
       "low52": 22.5,
-      "volume": 4160,
+      "volume": 4100,
       "market": "上櫃"
     },
     {
@@ -25472,7 +25472,7 @@ var LOOKUP = {
       "ma60": 34.6,
       "high52": 40.0,
       "low52": 27.8,
-      "volume": 515427,
+      "volume": 514422,
       "market": "上櫃"
     },
     {
@@ -25488,7 +25488,7 @@ var LOOKUP = {
       "ma60": 15.3,
       "high52": 19.3,
       "low52": 14.4,
-      "volume": 3307627,
+      "volume": 4366612,
       "market": "上櫃"
     },
     {
@@ -25504,7 +25504,7 @@ var LOOKUP = {
       "ma60": 61.4,
       "high52": 107.5,
       "low52": 28.2,
-      "volume": 321834,
+      "volume": 316125,
       "market": "上櫃"
     },
     {
@@ -25520,7 +25520,7 @@ var LOOKUP = {
       "ma60": 25.6,
       "high52": 28.3,
       "low52": 24.1,
-      "volume": 73851,
+      "volume": 73000,
       "market": "上櫃"
     },
     {
@@ -25536,7 +25536,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 36.3,
       "low52": 17.0,
-      "volume": 268951,
+      "volume": 265000,
       "market": "上櫃"
     },
     {
@@ -25552,7 +25552,7 @@ var LOOKUP = {
       "ma60": 86.1,
       "high52": 96.3,
       "low52": 78.6,
-      "volume": 5409534,
+      "volume": 5385783,
       "market": "上市"
     },
     {
@@ -25568,7 +25568,7 @@ var LOOKUP = {
       "ma60": 50.7,
       "high52": 63.6,
       "low52": 37.3,
-      "volume": 5892679,
+      "volume": 5877803,
       "market": "上市"
     },
     {
@@ -25584,7 +25584,7 @@ var LOOKUP = {
       "ma60": 160.0,
       "high52": 193.3,
       "low52": 131.3,
-      "volume": 437650,
+      "volume": 428000,
       "market": "上櫃"
     },
     {
@@ -25600,7 +25600,7 @@ var LOOKUP = {
       "ma60": 298.0,
       "high52": 400.0,
       "low52": 224.5,
-      "volume": 914339,
+      "volume": 878869,
       "market": "上櫃"
     },
     {
@@ -25616,7 +25616,7 @@ var LOOKUP = {
       "ma60": 100.5,
       "high52": 106.5,
       "low52": 96.0,
-      "volume": 71742,
+      "volume": 69075,
       "market": "上櫃"
     },
     {
@@ -25632,7 +25632,7 @@ var LOOKUP = {
       "ma60": 20.6,
       "high52": 22.8,
       "low52": 17.8,
-      "volume": 350760,
+      "volume": 349075,
       "market": "上櫃"
     },
     {
@@ -25648,7 +25648,7 @@ var LOOKUP = {
       "ma60": 152.2,
       "high52": 210.5,
       "low52": 106.0,
-      "volume": 32437339,
+      "volume": 32098101,
       "market": "上櫃"
     },
     {
@@ -25664,7 +25664,7 @@ var LOOKUP = {
       "ma60": 44.1,
       "high52": 57.9,
       "low52": 36.8,
-      "volume": 891075,
+      "volume": 883120,
       "market": "上市"
     },
     {
@@ -25680,7 +25680,7 @@ var LOOKUP = {
       "ma60": 28.2,
       "high52": 29.5,
       "low52": 26.8,
-      "volume": 81001,
+      "volume": 81000,
       "market": "上櫃"
     },
     {
@@ -25696,7 +25696,7 @@ var LOOKUP = {
       "ma60": 11.5,
       "high52": 15.4,
       "low52": 9.6,
-      "volume": 7035403,
+      "volume": 7019269,
       "market": "上櫃"
     },
     {
@@ -25712,7 +25712,7 @@ var LOOKUP = {
       "ma60": 43.8,
       "high52": 67.8,
       "low52": 38.8,
-      "volume": 171896,
+      "volume": 172150,
       "market": "上櫃"
     },
     {
@@ -25728,7 +25728,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 30.5,
       "low52": 24.6,
-      "volume": 3002081,
+      "volume": 2977758,
       "market": "上櫃"
     },
     {
@@ -25744,7 +25744,7 @@ var LOOKUP = {
       "ma60": 89.9,
       "high52": 100.5,
       "low52": 77.0,
-      "volume": 160682,
+      "volume": 160055,
       "market": "上櫃"
     },
     {
@@ -25760,7 +25760,7 @@ var LOOKUP = {
       "ma60": 67.4,
       "high52": 83.1,
       "low52": 54.5,
-      "volume": 1405869,
+      "volume": 1389205,
       "market": "上櫃"
     },
     {
@@ -25776,7 +25776,7 @@ var LOOKUP = {
       "ma60": 51.5,
       "high52": 61.7,
       "low52": 46.0,
-      "volume": 1004886,
+      "volume": 987738,
       "market": "上櫃"
     },
     {
@@ -25792,7 +25792,7 @@ var LOOKUP = {
       "ma60": 73.1,
       "high52": 80.4,
       "low52": 69.8,
-      "volume": 346681,
+      "volume": 342125,
       "market": "上櫃"
     },
     {
@@ -25808,7 +25808,7 @@ var LOOKUP = {
       "ma60": 7.5,
       "high52": 8.3,
       "low52": 6.8,
-      "volume": 2578948,
+      "volume": 2582309,
       "market": "上櫃"
     },
     {
@@ -25824,7 +25824,7 @@ var LOOKUP = {
       "ma60": 14.9,
       "high52": 16.5,
       "low52": 13.6,
-      "volume": 300853,
+      "volume": 299000,
       "market": "上櫃"
     },
     {
@@ -25840,7 +25840,7 @@ var LOOKUP = {
       "ma60": 38.0,
       "high52": 41.2,
       "low52": 34.4,
-      "volume": 271489,
+      "volume": 267200,
       "market": "上市"
     },
     {
@@ -25856,7 +25856,7 @@ var LOOKUP = {
       "ma60": 11.1,
       "high52": 12.9,
       "low52": 10.0,
-      "volume": 120232,
+      "volume": 120115,
       "market": "上櫃"
     },
     {
@@ -25872,7 +25872,7 @@ var LOOKUP = {
       "ma60": 33.1,
       "high52": 34.8,
       "low52": 31.8,
-      "volume": 836596,
+      "volume": 831000,
       "market": "上市"
     },
     {
@@ -25888,7 +25888,7 @@ var LOOKUP = {
       "ma60": 81.6,
       "high52": 83.5,
       "low52": 78.5,
-      "volume": 5010,
+      "volume": 5022,
       "market": "上櫃"
     },
     {
@@ -25904,7 +25904,7 @@ var LOOKUP = {
       "ma60": 10.9,
       "high52": 12.5,
       "low52": 10.0,
-      "volume": 5341627,
+      "volume": 5329958,
       "market": "上市"
     },
     {
@@ -25920,7 +25920,7 @@ var LOOKUP = {
       "ma60": 66.3,
       "high52": 75.9,
       "low52": 63.1,
-      "volume": 1231251,
+      "volume": 1226200,
       "market": "上市"
     },
     {
@@ -25936,7 +25936,7 @@ var LOOKUP = {
       "ma60": 30.4,
       "high52": 30.6,
       "low52": 29.4,
-      "volume": 23055,
+      "volume": 23277,
       "market": "上櫃"
     },
     {
@@ -25952,7 +25952,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 25.4,
       "low52": 21.0,
-      "volume": 72412,
+      "volume": 72010,
       "market": "上市"
     },
     {
@@ -25968,7 +25968,7 @@ var LOOKUP = {
       "ma60": 22.2,
       "high52": 25.2,
       "low52": 20.4,
-      "volume": 45656,
+      "volume": 44009,
       "market": "上櫃"
     },
     {
@@ -25984,7 +25984,7 @@ var LOOKUP = {
       "ma60": 47.3,
       "high52": 54.8,
       "low52": 44.0,
-      "volume": 390899,
+      "volume": 385050,
       "market": "上櫃"
     },
     {
@@ -26000,7 +26000,7 @@ var LOOKUP = {
       "ma60": 8.2,
       "high52": 8.9,
       "low52": 7.6,
-      "volume": 786317,
+      "volume": 784000,
       "market": "上市"
     },
     {
@@ -26016,7 +26016,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 14.8,
       "low52": 13.8,
-      "volume": 143170,
+      "volume": 143051,
       "market": "上市"
     },
     {
@@ -26032,7 +26032,7 @@ var LOOKUP = {
       "ma60": 78.3,
       "high52": 85.2,
       "low52": 73.6,
-      "volume": 1135185,
+      "volume": 1120094,
       "market": "上市"
     },
     {
@@ -26048,7 +26048,7 @@ var LOOKUP = {
       "ma60": 1021.5,
       "high52": 1430.0,
       "low52": 688.0,
-      "volume": 699240,
+      "volume": 668399,
       "market": "上櫃"
     },
     {
@@ -26064,7 +26064,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 36.2,
       "low52": 29.6,
-      "volume": 32277,
+      "volume": 31000,
       "market": "上市"
     },
     {
@@ -26080,7 +26080,7 @@ var LOOKUP = {
       "ma60": 29.1,
       "high52": 30.5,
       "low52": 26.1,
-      "volume": 2061,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -26096,7 +26096,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 17.2,
       "low52": 15.4,
-      "volume": 12157,
+      "volume": 12000,
       "market": "上市"
     },
     {
@@ -26112,7 +26112,7 @@ var LOOKUP = {
       "ma60": 21.9,
       "high52": 23.1,
       "low52": 20.9,
-      "volume": 147134,
+      "volume": 153001,
       "market": "上櫃"
     },
     {
@@ -26128,7 +26128,7 @@ var LOOKUP = {
       "ma60": 23.7,
       "high52": 25.0,
       "low52": 23.2,
-      "volume": 74696,
+      "volume": 74734,
       "market": "上櫃"
     },
     {
@@ -26144,7 +26144,7 @@ var LOOKUP = {
       "ma60": 33.8,
       "high52": 36.6,
       "low52": 30.9,
-      "volume": 36170,
+      "volume": 36000,
       "market": "上櫃"
     },
     {
@@ -26160,7 +26160,7 @@ var LOOKUP = {
       "ma60": 15.7,
       "high52": 16.9,
       "low52": 14.6,
-      "volume": 332625,
+      "volume": 327068,
       "market": "上櫃"
     },
     {
@@ -26176,7 +26176,7 @@ var LOOKUP = {
       "ma60": 32.0,
       "high52": 35.0,
       "low52": 30.7,
-      "volume": 8388,
+      "volume": 8194,
       "market": "上櫃"
     },
     {
@@ -26192,7 +26192,7 @@ var LOOKUP = {
       "ma60": 49.8,
       "high52": 53.5,
       "low52": 45.5,
-      "volume": 612626,
+      "volume": 602082,
       "market": "上市"
     },
     {
@@ -26208,7 +26208,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 16.6,
       "low52": 14.1,
-      "volume": 2663944,
+      "volume": 2649191,
       "market": "上市"
     },
     {
@@ -26224,7 +26224,7 @@ var LOOKUP = {
       "ma60": 75.1,
       "high52": 78.3,
       "low52": 72.4,
-      "volume": 281611,
+      "volume": 275902,
       "market": "上櫃"
     },
     {
@@ -26240,7 +26240,7 @@ var LOOKUP = {
       "ma60": 4.2,
       "high52": 6.4,
       "low52": 3.2,
-      "volume": 172359,
+      "volume": 169159,
       "market": "上櫃"
     },
     {
@@ -26256,7 +26256,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 15.4,
       "low52": 13.5,
-      "volume": 1003,
+      "volume": 1000,
       "market": "上櫃"
     },
     {
@@ -26272,7 +26272,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 22.9,
       "low52": 21.0,
-      "volume": 16675,
+      "volume": 16153,
       "market": "上櫃"
     },
     {
@@ -26288,23 +26288,23 @@ var LOOKUP = {
       "ma60": 47.2,
       "high52": 52.2,
       "low52": 45.2,
-      "volume": 289629,
+      "volume": 284736,
       "market": "上市"
     },
     {
       "code": "5859",
       "name": "遠壽",
       "industry": "金融保險",
-      "close": 13.8,
-      "change_amount": 0.2,
-      "change_pct": 1.48,
+      "close": 13.9,
+      "change_amount": 0.3,
+      "change_pct": 2.21,
       "ma5": 13.6,
       "ma10": 13.7,
       "ma20": 13.8,
       "ma60": 14.5,
       "high52": 16.0,
       "low52": 13.2,
-      "volume": 85213,
+      "volume": 85413,
       "market": "興櫃"
     },
     {
@@ -26336,7 +26336,7 @@ var LOOKUP = {
       "ma60": 33.0,
       "high52": 47.7,
       "low52": 20.8,
-      "volume": 10079364,
+      "volume": 10045802,
       "market": "上櫃"
     },
     {
@@ -26352,7 +26352,7 @@ var LOOKUP = {
       "ma60": 114.3,
       "high52": 123.0,
       "low52": 106.0,
-      "volume": 5742656,
+      "volume": 5732993,
       "market": "上市"
     },
     {
@@ -26368,7 +26368,7 @@ var LOOKUP = {
       "ma60": 40.5,
       "high52": 42.9,
       "low52": 38.4,
-      "volume": 6598096,
+      "volume": 6586600,
       "market": "上市"
     },
     {
@@ -26384,7 +26384,7 @@ var LOOKUP = {
       "ma60": 40.2,
       "high52": 41.5,
       "low52": 38.8,
-      "volume": 5052,
+      "volume": 5000,
       "market": "上櫃"
     },
     {
@@ -26400,7 +26400,7 @@ var LOOKUP = {
       "ma60": 23.5,
       "high52": 25.1,
       "low52": 22.6,
-      "volume": 10967517,
+      "volume": 10986207,
       "market": "上市"
     },
     {
@@ -26416,7 +26416,7 @@ var LOOKUP = {
       "ma60": 35.3,
       "high52": 37.2,
       "low52": 32.7,
-      "volume": 18101,
+      "volume": 17200,
       "market": "上櫃"
     },
     {
@@ -26432,7 +26432,7 @@ var LOOKUP = {
       "ma60": 189.0,
       "high52": 191.0,
       "low52": 186.5,
-      "volume": 27904,
+      "volume": 25100,
       "market": "上櫃"
     },
     {
@@ -26448,7 +26448,7 @@ var LOOKUP = {
       "ma60": 580.2,
       "high52": 721.0,
       "low52": 501.0,
-      "volume": 884505,
+      "volume": 795622,
       "market": "上櫃"
     },
     {
@@ -26464,7 +26464,7 @@ var LOOKUP = {
       "ma60": 8.2,
       "high52": 8.9,
       "low52": 7.6,
-      "volume": 1384577,
+      "volume": 1378000,
       "market": "上櫃"
     },
     {
@@ -26475,12 +26475,12 @@ var LOOKUP = {
       "change_amount": 0.0,
       "change_pct": 0.0,
       "ma5": 38.0,
-      "ma10": 38.4,
-      "ma20": 42.4,
-      "ma60": 46.2,
+      "ma10": 38.1,
+      "ma20": 42.0,
+      "ma60": 46.1,
       "high52": 50.6,
       "low52": 38.0,
-      "volume": 7000,
+      "volume": 0,
       "market": "上市"
     },
     {
@@ -26496,7 +26496,7 @@ var LOOKUP = {
       "ma60": 5.2,
       "high52": 5.9,
       "low52": 4.7,
-      "volume": 914144,
+      "volume": 913000,
       "market": "上市"
     },
     {
@@ -26512,7 +26512,7 @@ var LOOKUP = {
       "ma60": 34.0,
       "high52": 45.0,
       "low52": 27.6,
-      "volume": 8464828,
+      "volume": 8434437,
       "market": "上市"
     },
     {
@@ -26528,7 +26528,7 @@ var LOOKUP = {
       "ma60": 16.4,
       "high52": 22.9,
       "low52": 12.7,
-      "volume": 1995568,
+      "volume": 1991443,
       "market": "上櫃"
     },
     {
@@ -26544,7 +26544,7 @@ var LOOKUP = {
       "ma60": 24.4,
       "high52": 36.0,
       "low52": 16.6,
-      "volume": 6567819,
+      "volume": 6560636,
       "market": "上櫃"
     },
     {
@@ -26560,7 +26560,7 @@ var LOOKUP = {
       "ma60": 21.5,
       "high52": 25.7,
       "low52": 19.1,
-      "volume": 91055,
+      "volume": 91090,
       "market": "上櫃"
     },
     {
@@ -26576,7 +26576,7 @@ var LOOKUP = {
       "ma60": 35.4,
       "high52": 44.3,
       "low52": 27.8,
-      "volume": 173065,
+      "volume": 172000,
       "market": "上櫃"
     },
     {
@@ -26592,7 +26592,7 @@ var LOOKUP = {
       "ma60": 99.4,
       "high52": 102.0,
       "low52": 97.5,
-      "volume": 238706,
+      "volume": 236032,
       "market": "上櫃"
     },
     {
@@ -26608,7 +26608,7 @@ var LOOKUP = {
       "ma60": 58.3,
       "high52": 62.3,
       "low52": 55.1,
-      "volume": 209401,
+      "volume": 203228,
       "market": "上市"
     },
     {
@@ -26624,7 +26624,7 @@ var LOOKUP = {
       "ma60": 14.9,
       "high52": 17.7,
       "low52": 13.4,
-      "volume": 2105616,
+      "volume": 2099300,
       "market": "上櫃"
     },
     {
@@ -26633,14 +26633,14 @@ var LOOKUP = {
       "industry": "金融保險",
       "close": 11.6,
       "change_amount": 0.5,
-      "change_pct": 4.04,
+      "change_pct": 4.48,
       "ma5": 11.4,
       "ma10": 11.6,
       "ma20": 11.9,
       "ma60": 12.2,
       "high52": 14.1,
       "low52": 10.6,
-      "volume": 300,
+      "volume": 8557,
       "market": "興櫃"
     },
     {
@@ -26656,7 +26656,7 @@ var LOOKUP = {
       "ma60": 79.8,
       "high52": 84.5,
       "low52": 78.4,
-      "volume": 56221,
+      "volume": 56004,
       "market": "上櫃"
     },
     {
@@ -26672,7 +26672,7 @@ var LOOKUP = {
       "ma60": 52.5,
       "high52": 54.4,
       "low52": 50.6,
-      "volume": 1512,
+      "volume": 1548,
       "market": "興櫃"
     },
     {
@@ -26688,7 +26688,7 @@ var LOOKUP = {
       "ma60": 40.7,
       "high52": 47.8,
       "low52": 38.0,
-      "volume": 696846,
+      "volume": 693253,
       "market": "上櫃"
     },
     {
@@ -26699,9 +26699,9 @@ var LOOKUP = {
       "change_amount": 0.0,
       "change_pct": 0.0,
       "ma5": 31.1,
-      "ma10": 31.8,
-      "ma20": 34.2,
-      "ma60": 37.6,
+      "ma10": 31.5,
+      "ma20": 33.8,
+      "ma60": 37.5,
       "high52": 44.0,
       "low52": 31.0,
       "volume": 0,
@@ -26720,7 +26720,7 @@ var LOOKUP = {
       "ma60": 99.1,
       "high52": 108.5,
       "low52": 86.4,
-      "volume": 1906201,
+      "volume": 1882790,
       "market": "上櫃"
     },
     {
@@ -26736,7 +26736,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 24.2,
       "low52": 15.9,
-      "volume": 1017060,
+      "volume": 1423012,
       "market": "上市"
     },
     {
@@ -26752,7 +26752,7 @@ var LOOKUP = {
       "ma60": 11.8,
       "high52": 14.0,
       "low52": 10.6,
-      "volume": 1367233,
+      "volume": 1357210,
       "market": "上櫃"
     },
     {
@@ -26768,7 +26768,7 @@ var LOOKUP = {
       "ma60": 45.6,
       "high52": 49.4,
       "low52": 41.8,
-      "volume": 220593,
+      "volume": 216392,
       "market": "上櫃"
     },
     {
@@ -26784,7 +26784,7 @@ var LOOKUP = {
       "ma60": 45.3,
       "high52": 51.2,
       "low52": 41.8,
-      "volume": 394312,
+      "volume": 389811,
       "market": "上市"
     },
     {
@@ -26800,7 +26800,7 @@ var LOOKUP = {
       "ma60": 25.2,
       "high52": 29.9,
       "low52": 19.7,
-      "volume": 137860,
+      "volume": 135000,
       "market": "上櫃"
     },
     {
@@ -26816,7 +26816,7 @@ var LOOKUP = {
       "ma60": 30.3,
       "high52": 32.9,
       "low52": 28.9,
-      "volume": 293696,
+      "volume": 293035,
       "market": "上櫃"
     },
     {
@@ -26832,7 +26832,7 @@ var LOOKUP = {
       "ma60": 47.9,
       "high52": 49.9,
       "low52": 46.7,
-      "volume": 208484,
+      "volume": 207000,
       "market": "上市"
     },
     {
@@ -26848,7 +26848,7 @@ var LOOKUP = {
       "ma60": 13.3,
       "high52": 22.7,
       "low52": 8.1,
-      "volume": 39759904,
+      "volume": 39631269,
       "market": "上市"
     },
     {
@@ -26864,7 +26864,7 @@ var LOOKUP = {
       "ma60": 81.2,
       "high52": 95.0,
       "low52": 69.7,
-      "volume": 255856,
+      "volume": 253360,
       "market": "上市"
     },
     {
@@ -26880,7 +26880,7 @@ var LOOKUP = {
       "ma60": 17.5,
       "high52": 19.3,
       "low52": 16.5,
-      "volume": 183527,
+      "volume": 182177,
       "market": "上櫃"
     },
     {
@@ -26896,7 +26896,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 15.8,
       "low52": 12.4,
-      "volume": 1611838,
+      "volume": 1607700,
       "market": "上市"
     },
     {
@@ -26912,7 +26912,7 @@ var LOOKUP = {
       "ma60": 387.0,
       "high52": 425.0,
       "low52": 342.0,
-      "volume": 1116783,
+      "volume": 1098314,
       "market": "上櫃"
     },
     {
@@ -26928,7 +26928,7 @@ var LOOKUP = {
       "ma60": 48.5,
       "high52": 52.0,
       "low52": 46.2,
-      "volume": 954705,
+      "volume": 945141,
       "market": "上櫃"
     },
     {
@@ -26944,7 +26944,7 @@ var LOOKUP = {
       "ma60": 41.8,
       "high52": 44.6,
       "low52": 39.6,
-      "volume": 96126,
+      "volume": 96055,
       "market": "上櫃"
     },
     {
@@ -26960,7 +26960,7 @@ var LOOKUP = {
       "ma60": 30.6,
       "high52": 37.0,
       "low52": 28.6,
-      "volume": 42684,
+      "volume": 41083,
       "market": "上櫃"
     },
     {
@@ -26976,7 +26976,7 @@ var LOOKUP = {
       "ma60": 59.7,
       "high52": 73.3,
       "low52": 51.8,
-      "volume": 1042659,
+      "volume": 1033152,
       "market": "上櫃"
     },
     {
@@ -26992,7 +26992,7 @@ var LOOKUP = {
       "ma60": 35.5,
       "high52": 43.0,
       "low52": 29.1,
-      "volume": 780864,
+      "volume": 771000,
       "market": "上櫃"
     },
     {
@@ -27008,7 +27008,7 @@ var LOOKUP = {
       "ma60": 62.5,
       "high52": 96.9,
       "low52": 38.9,
-      "volume": 20889209,
+      "volume": 20712626,
       "market": "上櫃"
     },
     {
@@ -27024,7 +27024,7 @@ var LOOKUP = {
       "ma60": 20.3,
       "high52": 21.5,
       "low52": 18.7,
-      "volume": 61493,
+      "volume": 61463,
       "market": "上市"
     },
     {
@@ -27040,7 +27040,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 20.0,
       "low52": 14.4,
-      "volume": 3104785,
+      "volume": 3096761,
       "market": "上櫃"
     },
     {
@@ -27056,7 +27056,7 @@ var LOOKUP = {
       "ma60": 24.0,
       "high52": 28.9,
       "low52": 21.8,
-      "volume": 264230,
+      "volume": 264000,
       "market": "上櫃"
     },
     {
@@ -27072,7 +27072,7 @@ var LOOKUP = {
       "ma60": 23.0,
       "high52": 26.2,
       "low52": 20.5,
-      "volume": 22119802,
+      "volume": 22121097,
       "market": "上市"
     },
     {
@@ -27088,7 +27088,7 @@ var LOOKUP = {
       "ma60": 33.2,
       "high52": 39.8,
       "low52": 27.8,
-      "volume": 638785,
+      "volume": 635062,
       "market": "上櫃"
     },
     {
@@ -27104,7 +27104,7 @@ var LOOKUP = {
       "ma60": 24.2,
       "high52": 26.7,
       "low52": 22.9,
-      "volume": 113871,
+      "volume": 111000,
       "market": "上市"
     },
     {
@@ -27120,7 +27120,7 @@ var LOOKUP = {
       "ma60": 299.4,
       "high52": 418.5,
       "low52": 211.0,
-      "volume": 8717140,
+      "volume": 8522248,
       "market": "上櫃"
     },
     {
@@ -27136,7 +27136,7 @@ var LOOKUP = {
       "ma60": 757.0,
       "high52": 955.0,
       "low52": 517.0,
-      "volume": 6400934,
+      "volume": 6213422,
       "market": "上市"
     },
     {
@@ -27152,7 +27152,7 @@ var LOOKUP = {
       "ma60": 20.3,
       "high52": 25.4,
       "low52": 17.1,
-      "volume": 148381,
+      "volume": 146467,
       "market": "上櫃"
     },
     {
@@ -27168,7 +27168,7 @@ var LOOKUP = {
       "ma60": 34.2,
       "high52": 46.0,
       "low52": 20.0,
-      "volume": 424021,
+      "volume": 420200,
       "market": "上市"
     },
     {
@@ -27184,7 +27184,7 @@ var LOOKUP = {
       "ma60": 8.8,
       "high52": 10.0,
       "low52": 7.8,
-      "volume": 2409662,
+      "volume": 2404179,
       "market": "上市"
     },
     {
@@ -27200,7 +27200,7 @@ var LOOKUP = {
       "ma60": 93.7,
       "high52": 106.5,
       "low52": 87.1,
-      "volume": 5153480,
+      "volume": 5063406,
       "market": "上櫃"
     },
     {
@@ -27232,7 +27232,7 @@ var LOOKUP = {
       "ma60": 202.8,
       "high52": 225.1,
       "low52": 181.7,
-      "volume": 471440,
+      "volume": 464198,
       "market": "上櫃"
     },
     {
@@ -27248,7 +27248,7 @@ var LOOKUP = {
       "ma60": 200.7,
       "high52": 301.7,
       "low52": 88.7,
-      "volume": 29079781,
+      "volume": 28712090,
       "market": "上櫃"
     },
     {
@@ -27264,7 +27264,7 @@ var LOOKUP = {
       "ma60": 31.9,
       "high52": 38.5,
       "low52": 28.1,
-      "volume": 2327231,
+      "volume": 2319127,
       "market": "上櫃"
     },
     {
@@ -27280,7 +27280,7 @@ var LOOKUP = {
       "ma60": 63.3,
       "high52": 76.0,
       "low52": 53.4,
-      "volume": 197132,
+      "volume": 197000,
       "market": "上櫃"
     },
     {
@@ -27296,7 +27296,7 @@ var LOOKUP = {
       "ma60": 40.0,
       "high52": 49.8,
       "low52": 32.5,
-      "volume": 183962,
+      "volume": 183000,
       "market": "上櫃"
     },
     {
@@ -27312,7 +27312,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 18.2,
       "low52": 13.1,
-      "volume": 735853,
+      "volume": 734100,
       "market": "上市"
     },
     {
@@ -27328,7 +27328,7 @@ var LOOKUP = {
       "ma60": 19.5,
       "high52": 24.5,
       "low52": 15.8,
-      "volume": 4868356,
+      "volume": 4849284,
       "market": "上市"
     },
     {
@@ -27344,7 +27344,7 @@ var LOOKUP = {
       "ma60": 13.1,
       "high52": 14.0,
       "low52": 12.3,
-      "volume": 46674,
+      "volume": 45000,
       "market": "上櫃"
     },
     {
@@ -27360,7 +27360,7 @@ var LOOKUP = {
       "ma60": 64.5,
       "high52": 98.5,
       "low52": 41.3,
-      "volume": 5538824,
+      "volume": 5514035,
       "market": "上市"
     },
     {
@@ -27376,7 +27376,7 @@ var LOOKUP = {
       "ma60": 21.2,
       "high52": 32.0,
       "low52": 18.2,
-      "volume": 9854890,
+      "volume": 9809213,
       "market": "上櫃"
     },
     {
@@ -27392,7 +27392,7 @@ var LOOKUP = {
       "ma60": 18.2,
       "high52": 20.5,
       "low52": 17.1,
-      "volume": 835368,
+      "volume": 827780,
       "market": "上櫃"
     },
     {
@@ -27408,7 +27408,7 @@ var LOOKUP = {
       "ma60": 16.4,
       "high52": 17.9,
       "low52": 15.3,
-      "volume": 70464,
+      "volume": 70476,
       "market": "上櫃"
     },
     {
@@ -27424,7 +27424,7 @@ var LOOKUP = {
       "ma60": 49.1,
       "high52": 65.0,
       "low52": 39.5,
-      "volume": 197182,
+      "volume": 194308,
       "market": "上櫃"
     },
     {
@@ -27440,7 +27440,7 @@ var LOOKUP = {
       "ma60": 55.6,
       "high52": 74.1,
       "low52": 47.4,
-      "volume": 1926482,
+      "volume": 1917201,
       "market": "上櫃"
     },
     {
@@ -27456,7 +27456,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 17.4,
       "low52": 11.6,
-      "volume": 3876436,
+      "volume": 3845182,
       "market": "上市"
     },
     {
@@ -27472,7 +27472,7 @@ var LOOKUP = {
       "ma60": 48.7,
       "high52": 53.1,
       "low52": 44.7,
-      "volume": 395293,
+      "volume": 392048,
       "market": "上市"
     },
     {
@@ -27488,7 +27488,7 @@ var LOOKUP = {
       "ma60": 111.1,
       "high52": 158.0,
       "low52": 57.6,
-      "volume": 953912,
+      "volume": 940360,
       "market": "上市"
     },
     {
@@ -27504,7 +27504,7 @@ var LOOKUP = {
       "ma60": 12.3,
       "high52": 14.6,
       "low52": 11.2,
-      "volume": 1399185,
+      "volume": 1387904,
       "market": "上櫃"
     },
     {
@@ -27520,7 +27520,7 @@ var LOOKUP = {
       "ma60": 27.7,
       "high52": 35.5,
       "low52": 23.9,
-      "volume": 2174881,
+      "volume": 2164298,
       "market": "上市"
     },
     {
@@ -27536,7 +27536,7 @@ var LOOKUP = {
       "ma60": 15.5,
       "high52": 17.2,
       "low52": 13.7,
-      "volume": 16665,
+      "volume": 16100,
       "market": "上櫃"
     },
     {
@@ -27552,7 +27552,7 @@ var LOOKUP = {
       "ma60": 51.6,
       "high52": 53.2,
       "low52": 50.0,
-      "volume": 315448,
+      "volume": 314302,
       "market": "上櫃"
     },
     {
@@ -27568,7 +27568,7 @@ var LOOKUP = {
       "ma60": 24.5,
       "high52": 26.6,
       "low52": 23.1,
-      "volume": 36237,
+      "volume": 36000,
       "market": "上櫃"
     },
     {
@@ -27584,7 +27584,7 @@ var LOOKUP = {
       "ma60": 186.0,
       "high52": 350.5,
       "low52": 57.6,
-      "volume": 24605954,
+      "volume": 24184243,
       "market": "上櫃"
     },
     {
@@ -27600,7 +27600,7 @@ var LOOKUP = {
       "ma60": 41.4,
       "high52": 61.8,
       "low52": 21.9,
-      "volume": 8909393,
+      "volume": 8871219,
       "market": "上櫃"
     },
     {
@@ -27616,7 +27616,7 @@ var LOOKUP = {
       "ma60": 84.6,
       "high52": 116.5,
       "low52": 45.8,
-      "volume": 9294539,
+      "volume": 9242193,
       "market": "上櫃"
     },
     {
@@ -27632,7 +27632,7 @@ var LOOKUP = {
       "ma60": 94.7,
       "high52": 106.4,
       "low52": 85.6,
-      "volume": 7969481,
+      "volume": 7927192,
       "market": "上市"
     },
     {
@@ -27648,7 +27648,7 @@ var LOOKUP = {
       "ma60": 45.5,
       "high52": 50.4,
       "low52": 41.8,
-      "volume": 737540,
+      "volume": 729312,
       "market": "上市"
     },
     {
@@ -27664,7 +27664,7 @@ var LOOKUP = {
       "ma60": 24.7,
       "high52": 27.5,
       "low52": 22.8,
-      "volume": 817813,
+      "volume": 813648,
       "market": "上櫃"
     },
     {
@@ -27680,7 +27680,7 @@ var LOOKUP = {
       "ma60": 42.8,
       "high52": 51.4,
       "low52": 38.0,
-      "volume": 1135190,
+      "volume": 1127300,
       "market": "上櫃"
     },
     {
@@ -27696,7 +27696,7 @@ var LOOKUP = {
       "ma60": 74.8,
       "high52": 163.0,
       "low52": 30.7,
-      "volume": 197701112,
+      "volume": 196305866,
       "market": "上櫃"
     },
     {
@@ -27712,7 +27712,7 @@ var LOOKUP = {
       "ma60": 91.6,
       "high52": 96.0,
       "low52": 88.6,
-      "volume": 24726,
+      "volume": 23003,
       "market": "上市"
     },
     {
@@ -27728,7 +27728,7 @@ var LOOKUP = {
       "ma60": 43.7,
       "high52": 44.7,
       "low52": 42.9,
-      "volume": 56791,
+      "volume": 56000,
       "market": "上市"
     },
     {
@@ -27744,7 +27744,7 @@ var LOOKUP = {
       "ma60": 13.7,
       "high52": 14.6,
       "low52": 13.3,
-      "volume": 353139,
+      "volume": 349440,
       "market": "上櫃"
     },
     {
@@ -27760,7 +27760,7 @@ var LOOKUP = {
       "ma60": 40.6,
       "high52": 43.2,
       "low52": 38.2,
-      "volume": 804566,
+      "volume": 793010,
       "market": "上櫃"
     },
     {
@@ -27776,7 +27776,7 @@ var LOOKUP = {
       "ma60": 1129.5,
       "high52": 1390.0,
       "low52": 886.0,
-      "volume": 2118318,
+      "volume": 2049558,
       "market": "上櫃"
     },
     {
@@ -27792,7 +27792,7 @@ var LOOKUP = {
       "ma60": 83.1,
       "high52": 89.4,
       "low52": 73.4,
-      "volume": 2207006,
+      "volume": 2193214,
       "market": "上櫃"
     },
     {
@@ -27808,7 +27808,7 @@ var LOOKUP = {
       "ma60": 48.1,
       "high52": 53.7,
       "low52": 42.5,
-      "volume": 791131,
+      "volume": 779016,
       "market": "上市"
     },
     {
@@ -27824,7 +27824,7 @@ var LOOKUP = {
       "ma60": 76.9,
       "high52": 92.0,
       "low52": 55.5,
-      "volume": 3822070,
+      "volume": 3772880,
       "market": "上櫃"
     },
     {
@@ -27840,7 +27840,7 @@ var LOOKUP = {
       "ma60": 99.9,
       "high52": 114.5,
       "low52": 89.1,
-      "volume": 16778055,
+      "volume": 16699611,
       "market": "上市"
     },
     {
@@ -27856,7 +27856,7 @@ var LOOKUP = {
       "ma60": 122.3,
       "high52": 133.5,
       "low52": 111.2,
-      "volume": 405812,
+      "volume": 401000,
       "market": "上市"
     },
     {
@@ -27872,7 +27872,7 @@ var LOOKUP = {
       "ma60": 32.9,
       "high52": 35.3,
       "low52": 31.9,
-      "volume": 85149,
+      "volume": 84000,
       "market": "上櫃"
     },
     {
@@ -27888,7 +27888,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 27.2,
       "low52": 22.5,
-      "volume": 27274,
+      "volume": 23048,
       "market": "上櫃"
     },
     {
@@ -27904,7 +27904,7 @@ var LOOKUP = {
       "ma60": 451.3,
       "high52": 588.0,
       "low52": 288.5,
-      "volume": 1668417,
+      "volume": 1599990,
       "market": "上市"
     },
     {
@@ -27920,7 +27920,7 @@ var LOOKUP = {
       "ma60": 261.1,
       "high52": 372.5,
       "low52": 169.6,
-      "volume": 2974383,
+      "volume": 2888904,
       "market": "上市"
     },
     {
@@ -27952,7 +27952,7 @@ var LOOKUP = {
       "ma60": 98.7,
       "high52": 116.0,
       "low52": 87.1,
-      "volume": 739966,
+      "volume": 739169,
       "market": "上櫃"
     },
     {
@@ -27968,7 +27968,7 @@ var LOOKUP = {
       "ma60": 49.1,
       "high52": 52.1,
       "low52": 46.7,
-      "volume": 64103,
+      "volume": 64000,
       "market": "上市"
     },
     {
@@ -27984,7 +27984,7 @@ var LOOKUP = {
       "ma60": 58.3,
       "high52": 73.7,
       "low52": 45.4,
-      "volume": 8297175,
+      "volume": 8241346,
       "market": "上市"
     },
     {
@@ -28000,7 +28000,7 @@ var LOOKUP = {
       "ma60": 68.3,
       "high52": 76.2,
       "low52": 63.6,
-      "volume": 138646,
+      "volume": 137021,
       "market": "上櫃"
     },
     {
@@ -28016,7 +28016,7 @@ var LOOKUP = {
       "ma60": 89.9,
       "high52": 125.0,
       "low52": 58.1,
-      "volume": 853557,
+      "volume": 849073,
       "market": "上櫃"
     },
     {
@@ -28032,7 +28032,7 @@ var LOOKUP = {
       "ma60": 78.7,
       "high52": 96.4,
       "low52": 50.8,
-      "volume": 1070869,
+      "volume": 1058000,
       "market": "上市"
     },
     {
@@ -28048,7 +28048,7 @@ var LOOKUP = {
       "ma60": 124.9,
       "high52": 144.0,
       "low52": 98.0,
-      "volume": 1015414,
+      "volume": 996689,
       "market": "上市"
     },
     {
@@ -28064,7 +28064,7 @@ var LOOKUP = {
       "ma60": 100.3,
       "high52": 165.5,
       "low52": 49.5,
-      "volume": 9230933,
+      "volume": 9118987,
       "market": "上櫃"
     },
     {
@@ -28080,7 +28080,7 @@ var LOOKUP = {
       "ma60": 85.5,
       "high52": 105.0,
       "low52": 53.8,
-      "volume": 1180892,
+      "volume": 1173416,
       "market": "上櫃"
     },
     {
@@ -28096,7 +28096,7 @@ var LOOKUP = {
       "ma60": 75.2,
       "high52": 97.2,
       "low52": 49.5,
-      "volume": 3082056,
+      "volume": 3040640,
       "market": "上市"
     },
     {
@@ -28112,7 +28112,7 @@ var LOOKUP = {
       "ma60": 20.7,
       "high52": 22.4,
       "low52": 19.7,
-      "volume": 28428,
+      "volume": 28000,
       "market": "上櫃"
     },
     {
@@ -28128,7 +28128,7 @@ var LOOKUP = {
       "ma60": 28.3,
       "high52": 30.0,
       "low52": 27.0,
-      "volume": 2655,
+      "volume": 2010,
       "market": "上櫃"
     },
     {
@@ -28144,7 +28144,7 @@ var LOOKUP = {
       "ma60": 273.8,
       "high52": 394.0,
       "low52": 185.4,
-      "volume": 30530115,
+      "volume": 30001776,
       "market": "上市"
     },
     {
@@ -28160,7 +28160,7 @@ var LOOKUP = {
       "ma60": 125.4,
       "high52": 151.3,
       "low52": 105.3,
-      "volume": 1453116,
+      "volume": 1438000,
       "market": "上市"
     },
     {
@@ -28176,7 +28176,7 @@ var LOOKUP = {
       "ma60": 113.2,
       "high52": 135.0,
       "low52": 93.5,
-      "volume": 3987957,
+      "volume": 3940570,
       "market": "上市"
     },
     {
@@ -28192,7 +28192,7 @@ var LOOKUP = {
       "ma60": 23.5,
       "high52": 25.9,
       "low52": 22.0,
-      "volume": 222484,
+      "volume": 221000,
       "market": "上市"
     },
     {
@@ -28208,7 +28208,7 @@ var LOOKUP = {
       "ma60": 266.4,
       "high52": 341.0,
       "low52": 195.5,
-      "volume": 6315017,
+      "volume": 6148981,
       "market": "上櫃"
     },
     {
@@ -28224,7 +28224,7 @@ var LOOKUP = {
       "ma60": 37.4,
       "high52": 45.1,
       "low52": 28.6,
-      "volume": 283901,
+      "volume": 281004,
       "market": "上櫃"
     },
     {
@@ -28240,7 +28240,7 @@ var LOOKUP = {
       "ma60": 12.9,
       "high52": 14.6,
       "low52": 11.7,
-      "volume": 373525,
+      "volume": 370500,
       "market": "上櫃"
     },
     {
@@ -28256,7 +28256,7 @@ var LOOKUP = {
       "ma60": 33.0,
       "high52": 39.8,
       "low52": 29.5,
-      "volume": 618341,
+      "volume": 614176,
       "market": "上櫃"
     },
     {
@@ -28272,7 +28272,7 @@ var LOOKUP = {
       "ma60": 24.5,
       "high52": 28.1,
       "low52": 22.1,
-      "volume": 217279,
+      "volume": 215000,
       "market": "上櫃"
     },
     {
@@ -28288,7 +28288,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 23.1,
       "low52": 20.2,
-      "volume": 14953,
+      "volume": 14000,
       "market": "上櫃"
     },
     {
@@ -28304,7 +28304,7 @@ var LOOKUP = {
       "ma60": 5698.5,
       "high52": 7380.0,
       "low52": 3920.0,
-      "volume": 630545,
+      "volume": 582850,
       "market": "上櫃"
     },
     {
@@ -28320,7 +28320,7 @@ var LOOKUP = {
       "ma60": 74.2,
       "high52": 95.0,
       "low52": 38.8,
-      "volume": 4325757,
+      "volume": 4285268,
       "market": "上市"
     },
     {
@@ -28336,7 +28336,7 @@ var LOOKUP = {
       "ma60": 22.9,
       "high52": 35.0,
       "low52": 17.3,
-      "volume": 6020,
+      "volume": 6786,
       "market": "上市"
     },
     {
@@ -28352,7 +28352,7 @@ var LOOKUP = {
       "ma60": 14.0,
       "high52": 26.6,
       "low52": 11.2,
-      "volume": 7268089,
+      "volume": 7194675,
       "market": "上市"
     },
     {
@@ -28368,7 +28368,7 @@ var LOOKUP = {
       "ma60": 112.9,
       "high52": 135.5,
       "low52": 89.5,
-      "volume": 265107,
+      "volume": 260004,
       "market": "上櫃"
     },
     {
@@ -28384,7 +28384,7 @@ var LOOKUP = {
       "ma60": 22.1,
       "high52": 25.4,
       "low52": 19.1,
-      "volume": 8071,
+      "volume": 8030,
       "market": "上櫃"
     },
     {
@@ -28400,7 +28400,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 31.1,
       "low52": 20.0,
-      "volume": 124384,
+      "volume": 124006,
       "market": "上櫃"
     },
     {
@@ -28416,7 +28416,7 @@ var LOOKUP = {
       "ma60": 142.7,
       "high52": 168.0,
       "low52": 121.0,
-      "volume": 41333,
+      "volume": 38001,
       "market": "上市"
     },
     {
@@ -28432,7 +28432,7 @@ var LOOKUP = {
       "ma60": 294.6,
       "high52": 348.5,
       "low52": 253.5,
-      "volume": 239751,
+      "volume": 231507,
       "market": "上櫃"
     },
     {
@@ -28448,7 +28448,7 @@ var LOOKUP = {
       "ma60": 25.9,
       "high52": 29.4,
       "low52": 23.1,
-      "volume": 556728,
+      "volume": 556569,
       "market": "上櫃"
     },
     {
@@ -28464,7 +28464,7 @@ var LOOKUP = {
       "ma60": 46.4,
       "high52": 62.0,
       "low52": 28.0,
-      "volume": 2503105,
+      "volume": 2489313,
       "market": "上櫃"
     },
     {
@@ -28480,7 +28480,7 @@ var LOOKUP = {
       "ma60": 42.7,
       "high52": 47.3,
       "low52": 39.0,
-      "volume": 3583071,
+      "volume": 3572122,
       "market": "上市"
     },
     {
@@ -28490,10 +28490,10 @@ var LOOKUP = {
       "close": 17.0,
       "change_amount": 0.0,
       "change_pct": 0.0,
-      "ma5": 18.2,
-      "ma10": 18.6,
-      "ma20": 18.7,
-      "ma60": 19.1,
+      "ma5": 17.8,
+      "ma10": 18.4,
+      "ma20": 18.6,
+      "ma60": 19.0,
       "high52": 21.6,
       "low52": 17.0,
       "volume": 0,
@@ -28512,7 +28512,7 @@ var LOOKUP = {
       "ma60": 44.7,
       "high52": 56.1,
       "low52": 34.8,
-      "volume": 858865,
+      "volume": 849033,
       "market": "上櫃"
     },
     {
@@ -28528,7 +28528,7 @@ var LOOKUP = {
       "ma60": 279.3,
       "high52": 379.0,
       "low52": 192.0,
-      "volume": 18245655,
+      "volume": 17918835,
       "market": "上市"
     },
     {
@@ -28544,7 +28544,7 @@ var LOOKUP = {
       "ma60": 18.3,
       "high52": 19.1,
       "low52": 17.5,
-      "volume": 15001,
+      "volume": 15000,
       "market": "上櫃"
     },
     {
@@ -28560,7 +28560,7 @@ var LOOKUP = {
       "ma60": 11.4,
       "high52": 16.1,
       "low52": 8.7,
-      "volume": 567240,
+      "volume": 566100,
       "market": "上櫃"
     },
     {
@@ -28576,7 +28576,7 @@ var LOOKUP = {
       "ma60": 36.1,
       "high52": 36.8,
       "low52": 35.2,
-      "volume": 12296,
+      "volume": 12000,
       "market": "上櫃"
     },
     {
@@ -28592,7 +28592,7 @@ var LOOKUP = {
       "ma60": 34.4,
       "high52": 45.7,
       "low52": 28.8,
-      "volume": 241965,
+      "volume": 239300,
       "market": "上市"
     },
     {
@@ -28608,7 +28608,7 @@ var LOOKUP = {
       "ma60": 28.5,
       "high52": 31.9,
       "low52": 25.5,
-      "volume": 2516728,
+      "volume": 2510454,
       "market": "上櫃"
     },
     {
@@ -28624,7 +28624,7 @@ var LOOKUP = {
       "ma60": 82.5,
       "high52": 91.4,
       "low52": 70.5,
-      "volume": 580265,
+      "volume": 576080,
       "market": "上櫃"
     },
     {
@@ -28640,7 +28640,7 @@ var LOOKUP = {
       "ma60": 15.9,
       "high52": 18.0,
       "low52": 14.4,
-      "volume": 85162,
+      "volume": 84000,
       "market": "上櫃"
     },
     {
@@ -28656,7 +28656,7 @@ var LOOKUP = {
       "ma60": 18.9,
       "high52": 20.1,
       "low52": 18.0,
-      "volume": 184352,
+      "volume": 183150,
       "market": "上櫃"
     },
     {
@@ -28672,7 +28672,7 @@ var LOOKUP = {
       "ma60": 210.4,
       "high52": 254.5,
       "low52": 155.0,
-      "volume": 8473285,
+      "volume": 8312633,
       "market": "上市"
     },
     {
@@ -28688,7 +28688,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 42.0,
       "low52": 17.0,
-      "volume": 4308607,
+      "volume": 4297148,
       "market": "上櫃"
     },
     {
@@ -28704,7 +28704,7 @@ var LOOKUP = {
       "ma60": 102.2,
       "high52": 133.5,
       "low52": 78.3,
-      "volume": 680136,
+      "volume": 669082,
       "market": "上櫃"
     },
     {
@@ -28720,7 +28720,7 @@ var LOOKUP = {
       "ma60": 154.3,
       "high52": 180.4,
       "low52": 117.7,
-      "volume": 426621,
+      "volume": 420271,
       "market": "上櫃"
     },
     {
@@ -28736,7 +28736,7 @@ var LOOKUP = {
       "ma60": 6.1,
       "high52": 6.6,
       "low52": 6.0,
-      "volume": 216251,
+      "volume": 216050,
       "market": "上櫃"
     },
     {
@@ -28752,7 +28752,7 @@ var LOOKUP = {
       "ma60": 48.5,
       "high52": 63.9,
       "low52": 35.8,
-      "volume": 1581659,
+      "volume": 1567106,
       "market": "上櫃"
     },
     {
@@ -28768,7 +28768,7 @@ var LOOKUP = {
       "ma60": 25.8,
       "high52": 26.7,
       "low52": 24.6,
-      "volume": 264597,
+      "volume": 259409,
       "market": "上櫃"
     },
     {
@@ -28784,7 +28784,7 @@ var LOOKUP = {
       "ma60": 66.8,
       "high52": 87.5,
       "low52": 56.0,
-      "volume": 3490732,
+      "volume": 3450583,
       "market": "上市"
     },
     {
@@ -28800,7 +28800,7 @@ var LOOKUP = {
       "ma60": 29.7,
       "high52": 41.7,
       "low52": 23.5,
-      "volume": 846308,
+      "volume": 838280,
       "market": "上櫃"
     },
     {
@@ -28816,7 +28816,7 @@ var LOOKUP = {
       "ma60": 212.0,
       "high52": 287.5,
       "low52": 152.1,
-      "volume": 27833463,
+      "volume": 27512907,
       "market": "上市"
     },
     {
@@ -28832,7 +28832,7 @@ var LOOKUP = {
       "ma60": 31.4,
       "high52": 38.0,
       "low52": 28.4,
-      "volume": 233363,
+      "volume": 232000,
       "market": "上市"
     },
     {
@@ -28848,7 +28848,7 @@ var LOOKUP = {
       "ma60": 1376.8,
       "high52": 1900.0,
       "low52": 677.6,
-      "volume": 7978253,
+      "volume": 7646593,
       "market": "上櫃"
     },
     {
@@ -28864,7 +28864,7 @@ var LOOKUP = {
       "ma60": 50.1,
       "high52": 58.8,
       "low52": 46.3,
-      "volume": 461987,
+      "volume": 459000,
       "market": "上櫃"
     },
     {
@@ -28880,7 +28880,7 @@ var LOOKUP = {
       "ma60": 28.0,
       "high52": 33.3,
       "low52": 20.6,
-      "volume": 70642,
+      "volume": 71020,
       "market": "上櫃"
     },
     {
@@ -28896,7 +28896,7 @@ var LOOKUP = {
       "ma60": 72.5,
       "high52": 81.0,
       "low52": 68.0,
-      "volume": 108528,
+      "volume": 108056,
       "market": "上市"
     },
     {
@@ -28912,7 +28912,7 @@ var LOOKUP = {
       "ma60": 191.0,
       "high52": 246.5,
       "low52": 93.4,
-      "volume": 7627612,
+      "volume": 7510950,
       "market": "上市"
     },
     {
@@ -28928,7 +28928,7 @@ var LOOKUP = {
       "ma60": 115.3,
       "high52": 124.0,
       "low52": 103.0,
-      "volume": 1849585,
+      "volume": 1818964,
       "market": "上櫃"
     },
     {
@@ -28944,7 +28944,7 @@ var LOOKUP = {
       "ma60": 51.2,
       "high52": 55.0,
       "low52": 48.8,
-      "volume": 169922,
+      "volume": 165200,
       "market": "上市"
     },
     {
@@ -28960,7 +28960,7 @@ var LOOKUP = {
       "ma60": 55.0,
       "high52": 70.8,
       "low52": 42.7,
-      "volume": 11804805,
+      "volume": 11743147,
       "market": "上市"
     },
     {
@@ -28976,7 +28976,7 @@ var LOOKUP = {
       "ma60": 23.7,
       "high52": 26.5,
       "low52": 20.0,
-      "volume": 81770,
+      "volume": 81000,
       "market": "上市"
     },
     {
@@ -28992,7 +28992,7 @@ var LOOKUP = {
       "ma60": 94.5,
       "high52": 124.0,
       "low52": 75.4,
-      "volume": 7694288,
+      "volume": 7615097,
       "market": "上櫃"
     },
     {
@@ -29008,7 +29008,7 @@ var LOOKUP = {
       "ma60": 258.0,
       "high52": 313.7,
       "low52": 193.7,
-      "volume": 5937995,
+      "volume": 5788574,
       "market": "上市"
     },
     {
@@ -29024,7 +29024,7 @@ var LOOKUP = {
       "ma60": 292.3,
       "high52": 367.0,
       "low52": 204.0,
-      "volume": 2772868,
+      "volume": 2707859,
       "market": "上櫃"
     },
     {
@@ -29040,7 +29040,7 @@ var LOOKUP = {
       "ma60": 512.5,
       "high52": 679.0,
       "low52": 361.5,
-      "volume": 677053,
+      "volume": 651303,
       "market": "上櫃"
     },
     {
@@ -29056,7 +29056,7 @@ var LOOKUP = {
       "ma60": 54.5,
       "high52": 68.0,
       "low52": 43.1,
-      "volume": 341751,
+      "volume": 339000,
       "market": "上櫃"
     },
     {
@@ -29072,7 +29072,7 @@ var LOOKUP = {
       "ma60": 30.9,
       "high52": 39.7,
       "low52": 27.0,
-      "volume": 539552,
+      "volume": 538075,
       "market": "上櫃"
     },
     {
@@ -29088,23 +29088,23 @@ var LOOKUP = {
       "ma60": 58.4,
       "high52": 81.0,
       "low52": 34.6,
-      "volume": 1153715,
+      "volume": 1146031,
       "market": "上市"
     },
     {
       "code": "6407",
       "name": "相互",
       "industry": "電子零組件",
-      "close": 30.4,
-      "change_amount": 1.1,
-      "change_pct": 3.58,
-      "ma5": 29.6,
-      "ma10": 29.9,
+      "close": 31.0,
+      "change_amount": 1.7,
+      "change_pct": 5.8,
+      "ma5": 29.7,
+      "ma10": 30.0,
       "ma20": 30.1,
       "ma60": 35.8,
       "high52": 59.2,
       "low52": 26.3,
-      "volume": 490985,
+      "volume": 522372,
       "market": "興櫃"
     },
     {
@@ -29120,7 +29120,7 @@ var LOOKUP = {
       "ma60": 823.1,
       "high52": 1255.0,
       "low52": 663.0,
-      "volume": 2260749,
+      "volume": 2170570,
       "market": "上市"
     },
     {
@@ -29136,7 +29136,7 @@ var LOOKUP = {
       "ma60": 90.2,
       "high52": 114.0,
       "low52": 74.6,
-      "volume": 843308,
+      "volume": 826095,
       "market": "上櫃"
     },
     {
@@ -29152,7 +29152,7 @@ var LOOKUP = {
       "ma60": 87.9,
       "high52": 101.8,
       "low52": 71.0,
-      "volume": 3114199,
+      "volume": 3059575,
       "market": "上市"
     },
     {
@@ -29168,7 +29168,7 @@ var LOOKUP = {
       "ma60": 338.5,
       "high52": 386.5,
       "low52": 266.0,
-      "volume": 563457,
+      "volume": 547750,
       "market": "上市"
     },
     {
@@ -29184,7 +29184,7 @@ var LOOKUP = {
       "ma60": 497.6,
       "high52": 673.0,
       "low52": 269.5,
-      "volume": 1346365,
+      "volume": 1286006,
       "market": "上市"
     },
     {
@@ -29200,7 +29200,7 @@ var LOOKUP = {
       "ma60": 84.3,
       "high52": 92.5,
       "low52": 78.2,
-      "volume": 142971,
+      "volume": 141098,
       "market": "上市"
     },
     {
@@ -29216,7 +29216,7 @@ var LOOKUP = {
       "ma60": 128.7,
       "high52": 146.5,
       "low52": 102.5,
-      "volume": 83623,
+      "volume": 83000,
       "market": "上櫃"
     },
     {
@@ -29232,7 +29232,7 @@ var LOOKUP = {
       "ma60": 31.2,
       "high52": 39.1,
       "low52": 26.9,
-      "volume": 258524,
+      "volume": 257045,
       "market": "上櫃"
     },
     {
@@ -29248,7 +29248,7 @@ var LOOKUP = {
       "ma60": 143.1,
       "high52": 194.5,
       "low52": 89.8,
-      "volume": 177827,
+      "volume": 174061,
       "market": "上櫃"
     },
     {
@@ -29264,7 +29264,7 @@ var LOOKUP = {
       "ma60": 96.1,
       "high52": 125.5,
       "low52": 78.8,
-      "volume": 129837,
+      "volume": 129066,
       "market": "上櫃"
     },
     {
@@ -29280,7 +29280,7 @@ var LOOKUP = {
       "ma60": 81.7,
       "high52": 101.1,
       "low52": 63.5,
-      "volume": 385054,
+      "volume": 380120,
       "market": "上櫃"
     },
     {
@@ -29296,23 +29296,23 @@ var LOOKUP = {
       "ma60": 229.9,
       "high52": 288.5,
       "low52": 173.0,
-      "volume": 824409,
+      "volume": 813314,
       "market": "上市"
     },
     {
       "code": "6428",
       "name": "台灣淘米",
       "industry": "農業科技",
-      "close": 24.8,
-      "change_amount": -1.1,
-      "change_pct": -4.26,
-      "ma5": 26.5,
-      "ma10": 26.5,
+      "close": 25.8,
+      "change_amount": -0.1,
+      "change_pct": -0.19,
+      "ma5": 26.7,
+      "ma10": 26.6,
       "ma20": 24.0,
       "ma60": 17.0,
       "high52": 48.0,
       "low52": 11.7,
-      "volume": 13676,
+      "volume": 13677,
       "market": "興櫃"
     },
     {
@@ -29328,7 +29328,7 @@ var LOOKUP = {
       "ma60": 19.8,
       "high52": 23.0,
       "low52": 17.4,
-      "volume": 34182,
+      "volume": 34000,
       "market": "上市"
     },
     {
@@ -29344,23 +29344,23 @@ var LOOKUP = {
       "ma60": 57.3,
       "high52": 86.9,
       "low52": 32.0,
-      "volume": 3781438,
+      "volume": 3769798,
       "market": "上櫃"
     },
     {
       "code": "6434",
       "name": "達輝光電",
       "industry": "光電",
-      "close": 18.3,
-      "change_amount": 0.4,
-      "change_pct": 2.23,
-      "ma5": 18.1,
+      "close": 18.8,
+      "change_amount": 0.9,
+      "change_pct": 5.03,
+      "ma5": 18.2,
       "ma10": 18.6,
       "ma20": 18.3,
       "ma60": 20.2,
       "high52": 36.5,
       "low52": 6.8,
-      "volume": 770562,
+      "volume": 794662,
       "market": "興櫃"
     },
     {
@@ -29376,7 +29376,7 @@ var LOOKUP = {
       "ma60": 252.0,
       "high52": 392.5,
       "low52": 157.0,
-      "volume": 5288469,
+      "volume": 5179941,
       "market": "上櫃"
     },
     {
@@ -29392,7 +29392,7 @@ var LOOKUP = {
       "ma60": 164.9,
       "high52": 182.5,
       "low52": 142.1,
-      "volume": 758756,
+      "volume": 728902,
       "market": "上市"
     },
     {
@@ -29408,7 +29408,7 @@ var LOOKUP = {
       "ma60": 24.0,
       "high52": 32.1,
       "low52": 17.4,
-      "volume": 89214,
+      "volume": 89000,
       "market": "上櫃"
     },
     {
@@ -29424,7 +29424,7 @@ var LOOKUP = {
       "ma60": 1953.2,
       "high52": 2370.0,
       "low52": 1575.0,
-      "volume": 1783547,
+      "volume": 1685108,
       "market": "上市"
     },
     {
@@ -29440,7 +29440,7 @@ var LOOKUP = {
       "ma60": 38.8,
       "high52": 43.2,
       "low52": 34.2,
-      "volume": 4708744,
+      "volume": 4676986,
       "market": "上市"
     },
     {
@@ -29456,7 +29456,7 @@ var LOOKUP = {
       "ma60": 861.5,
       "high52": 1395.0,
       "low52": 606.0,
-      "volume": 3198924,
+      "volume": 3089792,
       "market": "上市"
     },
     {
@@ -29472,7 +29472,7 @@ var LOOKUP = {
       "ma60": 281.6,
       "high52": 458.5,
       "low52": 147.5,
-      "volume": 2823026,
+      "volume": 2751449,
       "market": "上市"
     },
     {
@@ -29488,7 +29488,7 @@ var LOOKUP = {
       "ma60": 526.8,
       "high52": 724.0,
       "low52": 325.0,
-      "volume": 4112394,
+      "volume": 4014693,
       "market": "上市"
     },
     {
@@ -29504,7 +29504,7 @@ var LOOKUP = {
       "ma60": 73.0,
       "high52": 91.1,
       "low52": 52.8,
-      "volume": 5723921,
+      "volume": 5695363,
       "market": "上市"
     },
     {
@@ -29520,7 +29520,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 20.2,
       "low52": 14.9,
-      "volume": 309487,
+      "volume": 309200,
       "market": "上櫃"
     },
     {
@@ -29536,7 +29536,7 @@ var LOOKUP = {
       "ma60": 122.6,
       "high52": 155.0,
       "low52": 101.0,
-      "volume": 805573,
+      "volume": 795504,
       "market": "上櫃"
     },
     {
@@ -29552,7 +29552,7 @@ var LOOKUP = {
       "ma60": 77.2,
       "high52": 78.1,
       "low52": 75.6,
-      "volume": 12004,
+      "volume": 12005,
       "market": "上市"
     },
     {
@@ -29568,23 +29568,23 @@ var LOOKUP = {
       "ma60": 52.7,
       "high52": 71.2,
       "low52": 42.7,
-      "volume": 203041,
+      "volume": 201000,
       "market": "上櫃"
     },
     {
       "code": "6467",
       "name": "泰合",
       "industry": "生技醫療",
-      "close": 106.0,
-      "change_amount": -3.0,
-      "change_pct": -2.75,
-      "ma5": 109.4,
-      "ma10": 115.1,
+      "close": 105.5,
+      "change_amount": -3.5,
+      "change_pct": -3.21,
+      "ma5": 109.3,
+      "ma10": 115.0,
       "ma20": 118.8,
       "ma60": 122.5,
       "high52": 149.5,
-      "low52": 106.0,
-      "volume": 303418,
+      "low52": 105.5,
+      "volume": 307519,
       "market": "興櫃"
     },
     {
@@ -29600,7 +29600,7 @@ var LOOKUP = {
       "ma60": 75.4,
       "high52": 82.2,
       "low52": 69.6,
-      "volume": 719721,
+      "volume": 696261,
       "market": "上櫃"
     },
     {
@@ -29616,7 +29616,7 @@ var LOOKUP = {
       "ma60": 48.2,
       "high52": 50.8,
       "low52": 45.8,
-      "volume": 27310,
+      "volume": 26005,
       "market": "上櫃"
     },
     {
@@ -29632,23 +29632,23 @@ var LOOKUP = {
       "ma60": 399.3,
       "high52": 443.5,
       "low52": 336.0,
-      "volume": 2663631,
+      "volume": 2564705,
       "market": "上市"
     },
     {
       "code": "6473",
       "name": "美賣*",
       "industry": "運動休閒",
-      "close": 7.7,
+      "close": 7.6,
       "change_amount": 0.2,
-      "change_pct": 3.24,
+      "change_pct": 2.83,
       "ma5": 7.5,
       "ma10": 7.4,
       "ma20": 7.5,
       "ma60": 8.6,
       "high52": 11.5,
       "low52": 7.1,
-      "volume": 42228,
+      "volume": 53268,
       "market": "興櫃"
     },
     {
@@ -29680,7 +29680,7 @@ var LOOKUP = {
       "ma60": 33.7,
       "high52": 36.9,
       "low52": 29.6,
-      "volume": 7050776,
+      "volume": 7023814,
       "market": "上市"
     },
     {
@@ -29696,7 +29696,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 32.0,
       "low52": 27.3,
-      "volume": 122974,
+      "volume": 118500,
       "market": "上櫃"
     },
     {
@@ -29728,7 +29728,7 @@ var LOOKUP = {
       "ma60": 91.1,
       "high52": 124.0,
       "low52": 77.1,
-      "volume": 199195,
+      "volume": 192052,
       "market": "上櫃"
     },
     {
@@ -29744,7 +29744,7 @@ var LOOKUP = {
       "ma60": 83.6,
       "high52": 90.4,
       "low52": 80.8,
-      "volume": 154314,
+      "volume": 151100,
       "market": "上櫃"
     },
     {
@@ -29760,7 +29760,7 @@ var LOOKUP = {
       "ma60": 789.9,
       "high52": 1255.0,
       "low52": 412.0,
-      "volume": 3841004,
+      "volume": 3728256,
       "market": "上櫃"
     },
     {
@@ -29776,7 +29776,7 @@ var LOOKUP = {
       "ma60": 306.9,
       "high52": 372.5,
       "low52": 278.5,
-      "volume": 4284415,
+      "volume": 4170807,
       "market": "上市"
     },
     {
@@ -29792,23 +29792,23 @@ var LOOKUP = {
       "ma60": 47.3,
       "high52": 55.5,
       "low52": 42.2,
-      "volume": 185147,
+      "volume": 181201,
       "market": "上櫃"
     },
     {
       "code": "6493",
       "name": "雷虎生",
       "industry": "生技醫療",
-      "close": 36.0,
-      "change_amount": 4.0,
-      "change_pct": 12.5,
-      "ma5": 33.3,
-      "ma10": 30.2,
+      "close": 36.5,
+      "change_amount": 4.5,
+      "change_pct": 14.06,
+      "ma5": 33.4,
+      "ma10": 30.3,
       "ma20": 28.5,
       "ma60": 28.5,
-      "high52": 36.0,
+      "high52": 36.5,
       "low52": 21.3,
-      "volume": 437275,
+      "volume": 450135,
       "market": "興櫃"
     },
     {
@@ -29824,7 +29824,7 @@ var LOOKUP = {
       "ma60": 56.9,
       "high52": 69.2,
       "low52": 43.7,
-      "volume": 415273,
+      "volume": 412000,
       "market": "上櫃"
     },
     {
@@ -29840,7 +29840,7 @@ var LOOKUP = {
       "ma60": 24.7,
       "high52": 27.1,
       "low52": 22.9,
-      "volume": 30662,
+      "volume": 25040,
       "market": "上櫃"
     },
     {
@@ -29856,7 +29856,7 @@ var LOOKUP = {
       "ma60": 94.0,
       "high52": 107.2,
       "low52": 82.7,
-      "volume": 86233,
+      "volume": 85000,
       "market": "上櫃"
     },
     {
@@ -29872,7 +29872,7 @@ var LOOKUP = {
       "ma60": 81.3,
       "high52": 94.9,
       "low52": 68.0,
-      "volume": 424541,
+      "volume": 420038,
       "market": "上櫃"
     },
     {
@@ -29888,7 +29888,7 @@ var LOOKUP = {
       "ma60": 38.2,
       "high52": 43.0,
       "low52": 35.5,
-      "volume": 48241,
+      "volume": 48000,
       "market": "上市"
     },
     {
@@ -29904,7 +29904,7 @@ var LOOKUP = {
       "ma60": 52.3,
       "high52": 58.9,
       "low52": 48.2,
-      "volume": 42106809,
+      "volume": 41913497,
       "market": "上市"
     },
     {
@@ -29920,7 +29920,7 @@ var LOOKUP = {
       "ma60": 18.4,
       "high52": 20.7,
       "low52": 16.5,
-      "volume": 168441,
+      "volume": 167000,
       "market": "上櫃"
     },
     {
@@ -29936,7 +29936,7 @@ var LOOKUP = {
       "ma60": 24.6,
       "high52": 27.2,
       "low52": 23.1,
-      "volume": 57212,
+      "volume": 52000,
       "market": "上櫃"
     },
     {
@@ -29952,7 +29952,7 @@ var LOOKUP = {
       "ma60": 46.9,
       "high52": 55.6,
       "low52": 39.9,
-      "volume": 7753501,
+      "volume": 7706705,
       "market": "上櫃"
     },
     {
@@ -29968,7 +29968,7 @@ var LOOKUP = {
       "ma60": 3525.8,
       "high52": 4200.0,
       "low52": 3035.0,
-      "volume": 303722,
+      "volume": 290154,
       "market": "上櫃"
     },
     {
@@ -29984,7 +29984,7 @@ var LOOKUP = {
       "ma60": 19.5,
       "high52": 20.4,
       "low52": 18.8,
-      "volume": 3835,
+      "volume": 2113,
       "market": "上櫃"
     },
     {
@@ -30000,7 +30000,7 @@ var LOOKUP = {
       "ma60": 9376.7,
       "high52": 10795.0,
       "low52": 7100.0,
-      "volume": 591751,
+      "volume": 523265,
       "market": "上市"
     },
     {
@@ -30016,7 +30016,7 @@ var LOOKUP = {
       "ma60": 56.9,
       "high52": 60.5,
       "low52": 53.2,
-      "volume": 49098,
+      "volume": 47000,
       "market": "上櫃"
     },
     {
@@ -30032,7 +30032,7 @@ var LOOKUP = {
       "ma60": 63.2,
       "high52": 78.6,
       "low52": 55.3,
-      "volume": 1001415,
+      "volume": 993086,
       "market": "上櫃"
     },
     {
@@ -30064,7 +30064,7 @@ var LOOKUP = {
       "ma60": 98.2,
       "high52": 113.6,
       "low52": 92.6,
-      "volume": 131159,
+      "volume": 118075,
       "market": "上櫃"
     },
     {
@@ -30080,7 +30080,7 @@ var LOOKUP = {
       "ma60": 113.8,
       "high52": 183.0,
       "low52": 77.5,
-      "volume": 10742731,
+      "volume": 10658000,
       "market": "上市"
     },
     {
@@ -30096,7 +30096,7 @@ var LOOKUP = {
       "ma60": 639.6,
       "high52": 753.0,
       "low52": 474.5,
-      "volume": 730581,
+      "volume": 690405,
       "market": "上市"
     },
     {
@@ -30112,7 +30112,7 @@ var LOOKUP = {
       "ma60": 70.6,
       "high52": 73.3,
       "low52": 66.8,
-      "volume": 22001,
+      "volume": 22000,
       "market": "上櫃"
     },
     {
@@ -30128,7 +30128,7 @@ var LOOKUP = {
       "ma60": 104.0,
       "high52": 130.8,
       "low52": 84.0,
-      "volume": 587802,
+      "volume": 582100,
       "market": "上櫃"
     },
     {
@@ -30144,7 +30144,7 @@ var LOOKUP = {
       "ma60": 915.4,
       "high52": 1181.9,
       "low52": 468.3,
-      "volume": 3737885,
+      "volume": 3665763,
       "market": "上市"
     },
     {
@@ -30160,7 +30160,7 @@ var LOOKUP = {
       "ma60": 92.4,
       "high52": 110.2,
       "low52": 70.5,
-      "volume": 177254,
+      "volume": 174006,
       "market": "上櫃"
     },
     {
@@ -30176,7 +30176,7 @@ var LOOKUP = {
       "ma60": 219.1,
       "high52": 253.5,
       "low52": 175.0,
-      "volume": 324333,
+      "volume": 314002,
       "market": "上市"
     },
     {
@@ -30192,7 +30192,7 @@ var LOOKUP = {
       "ma60": 94.3,
       "high52": 102.0,
       "low52": 88.7,
-      "volume": 24400,
+      "volume": 24004,
       "market": "上市"
     },
     {
@@ -30208,7 +30208,7 @@ var LOOKUP = {
       "ma60": 121.7,
       "high52": 152.0,
       "low52": 97.0,
-      "volume": 356615,
+      "volume": 348446,
       "market": "上櫃"
     },
     {
@@ -30240,23 +30240,23 @@ var LOOKUP = {
       "ma60": 99.2,
       "high52": 142.0,
       "low52": 69.1,
-      "volume": 3185078,
+      "volume": 3161063,
       "market": "上櫃"
     },
     {
       "code": "6539",
       "name": "麗彤",
       "industry": "生技醫療",
-      "close": 41.0,
-      "change_amount": -0.8,
-      "change_pct": -1.8,
-      "ma5": 41.4,
+      "close": 41.7,
+      "change_amount": -0.1,
+      "change_pct": -0.24,
+      "ma5": 41.5,
       "ma10": 41.1,
       "ma20": 40.8,
       "ma60": 44.6,
       "high52": 51.2,
       "low52": 39.3,
-      "volume": 2712,
+      "volume": 2754,
       "market": "興櫃"
     },
     {
@@ -30272,7 +30272,7 @@ var LOOKUP = {
       "ma60": 40.2,
       "high52": 45.2,
       "low52": 37.4,
-      "volume": 593152,
+      "volume": 587000,
       "market": "上市"
     },
     {
@@ -30295,16 +30295,16 @@ var LOOKUP = {
       "code": "6543",
       "name": "普惠醫工",
       "industry": "生技醫療",
-      "close": 18.5,
-      "change_amount": 0.2,
-      "change_pct": 1.37,
-      "ma5": 18.5,
+      "close": 18.7,
+      "change_amount": 0.5,
+      "change_pct": 2.75,
+      "ma5": 18.6,
       "ma10": 18.7,
       "ma20": 19.2,
       "ma60": 21.1,
       "high52": 22.9,
       "low52": 18.2,
-      "volume": 61259,
+      "volume": 61260,
       "market": "興櫃"
     },
     {
@@ -30320,7 +30320,7 @@ var LOOKUP = {
       "ma60": 71.9,
       "high52": 85.4,
       "low52": 62.7,
-      "volume": 292472,
+      "volume": 290000,
       "market": "上櫃"
     },
     {
@@ -30336,7 +30336,7 @@ var LOOKUP = {
       "ma60": 47.9,
       "high52": 61.0,
       "low52": 44.2,
-      "volume": 3081104,
+      "volume": 3059412,
       "market": "上櫃"
     },
     {
@@ -30352,7 +30352,7 @@ var LOOKUP = {
       "ma60": 66.9,
       "high52": 97.6,
       "low52": 47.0,
-      "volume": 23221847,
+      "volume": 23121988,
       "market": "上櫃"
     },
     {
@@ -30361,14 +30361,14 @@ var LOOKUP = {
       "industry": "生技醫療",
       "close": 7.1,
       "change_amount": -0.1,
-      "change_pct": -1.25,
+      "change_pct": -0.83,
       "ma5": 7.2,
       "ma10": 7.2,
       "ma20": 7.4,
       "ma60": 7.8,
       "high52": 9.3,
       "low52": 7.1,
-      "volume": 215386,
+      "volume": 244886,
       "market": "興櫃"
     },
     {
@@ -30384,7 +30384,7 @@ var LOOKUP = {
       "ma60": 15.6,
       "high52": 19.7,
       "low52": 12.5,
-      "volume": 1720147,
+      "volume": 1715500,
       "market": "上市"
     },
     {
@@ -30400,23 +30400,23 @@ var LOOKUP = {
       "ma60": 30.6,
       "high52": 36.9,
       "low52": 25.5,
-      "volume": 226218,
+      "volume": 226024,
       "market": "上市"
     },
     {
       "code": "6555",
       "name": "榮炭",
       "industry": "電子零組件",
-      "close": 19.2,
-      "change_amount": 0.2,
-      "change_pct": 1.32,
+      "close": 19.1,
+      "change_amount": 0.1,
+      "change_pct": 0.79,
       "ma5": 19.3,
       "ma10": 19.4,
       "ma20": 19.9,
       "ma60": 22.6,
       "high52": 30.4,
       "low52": 19.0,
-      "volume": 66157,
+      "volume": 71157,
       "market": "興櫃"
     },
     {
@@ -30432,7 +30432,7 @@ var LOOKUP = {
       "ma60": 70.6,
       "high52": 73.5,
       "low52": 65.7,
-      "volume": 12000,
+      "volume": 12030,
       "market": "上櫃"
     },
     {
@@ -30448,23 +30448,23 @@ var LOOKUP = {
       "ma60": 30.6,
       "high52": 34.3,
       "low52": 27.0,
-      "volume": 529219,
+      "volume": 526000,
       "market": "上市"
     },
     {
       "code": "6559",
       "name": "研晶",
       "industry": "光電",
-      "close": 18.5,
-      "change_amount": 0.2,
-      "change_pct": 1.1,
-      "ma5": 18.0,
+      "close": 18.3,
+      "change_amount": 0.0,
+      "change_pct": 0.27,
+      "ma5": 17.9,
       "ma10": 19.0,
-      "ma20": 20.0,
+      "ma20": 19.9,
       "ma60": 26.0,
       "high52": 46.5,
       "low52": 17.0,
-      "volume": 77557,
+      "volume": 85772,
       "market": "興櫃"
     },
     {
@@ -30480,7 +30480,7 @@ var LOOKUP = {
       "ma60": 38.5,
       "high52": 40.3,
       "low52": 37.0,
-      "volume": 99483,
+      "volume": 98002,
       "market": "上櫃"
     },
     {
@@ -30496,23 +30496,23 @@ var LOOKUP = {
       "ma60": 350.5,
       "high52": 378.0,
       "low52": 330.5,
-      "volume": 84016,
+      "volume": 81020,
       "market": "上櫃"
     },
     {
       "code": "6563",
       "name": "映智",
       "industry": "半導體",
-      "close": 27.1,
-      "change_amount": 0.7,
-      "change_pct": 2.65,
+      "close": 27.0,
+      "change_amount": 0.6,
+      "change_pct": 2.27,
       "ma5": 26.9,
       "ma10": 27.4,
-      "ma20": 27.5,
+      "ma20": 27.4,
       "ma60": 29.5,
       "high52": 35.7,
       "low52": 24.0,
-      "volume": 21249,
+      "volume": 22251,
       "market": "興櫃"
     },
     {
@@ -30537,14 +30537,14 @@ var LOOKUP = {
       "industry": "運動休閒",
       "close": 19.4,
       "change_amount": -0.6,
-      "change_pct": -2.76,
+      "change_pct": -3.01,
       "ma5": 20.0,
       "ma10": 20.0,
-      "ma20": 20.5,
+      "ma20": 20.4,
       "ma60": 22.1,
       "high52": 33.6,
       "low52": 17.9,
-      "volume": 29053,
+      "volume": 46743,
       "market": "興櫃"
     },
     {
@@ -30560,7 +30560,7 @@ var LOOKUP = {
       "ma60": 210.5,
       "high52": 271.6,
       "low52": 158.5,
-      "volume": 107869,
+      "volume": 105000,
       "market": "上櫃"
     },
     {
@@ -30576,7 +30576,7 @@ var LOOKUP = {
       "ma60": 101.1,
       "high52": 119.0,
       "low52": 90.5,
-      "volume": 79132,
+      "volume": 77135,
       "market": "上櫃"
     },
     {
@@ -30592,7 +30592,7 @@ var LOOKUP = {
       "ma60": 48.1,
       "high52": 64.3,
       "low52": 37.8,
-      "volume": 227601,
+      "volume": 226000,
       "market": "上櫃"
     },
     {
@@ -30608,7 +30608,7 @@ var LOOKUP = {
       "ma60": 8.8,
       "high52": 13.0,
       "low52": 5.5,
-      "volume": 44307,
+      "volume": 44808,
       "market": "興櫃"
     },
     {
@@ -30624,7 +30624,7 @@ var LOOKUP = {
       "ma60": 15.0,
       "high52": 25.1,
       "low52": 12.1,
-      "volume": 3032382,
+      "volume": 3016139,
       "market": "上市"
     },
     {
@@ -30640,7 +30640,7 @@ var LOOKUP = {
       "ma60": 110.8,
       "high52": 129.5,
       "low52": 96.7,
-      "volume": 187233,
+      "volume": 182054,
       "market": "上櫃"
     },
     {
@@ -30656,7 +30656,7 @@ var LOOKUP = {
       "ma60": 79.1,
       "high52": 83.2,
       "low52": 75.9,
-      "volume": 350446,
+      "volume": 349000,
       "market": "上櫃"
     },
     {
@@ -30672,7 +30672,7 @@ var LOOKUP = {
       "ma60": 74.6,
       "high52": 77.2,
       "low52": 70.9,
-      "volume": 18765,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
@@ -30688,7 +30688,7 @@ var LOOKUP = {
       "ma60": 16.5,
       "high52": 18.0,
       "low52": 14.6,
-      "volume": 40171,
+      "volume": 40001,
       "market": "上櫃"
     },
     {
@@ -30704,7 +30704,7 @@ var LOOKUP = {
       "ma60": 143.4,
       "high52": 173.0,
       "low52": 110.9,
-      "volume": 420425,
+      "volume": 412215,
       "market": "上市"
     },
     {
@@ -30736,7 +30736,7 @@ var LOOKUP = {
       "ma60": 107.9,
       "high52": 113.0,
       "low52": 105.5,
-      "volume": 16085,
+      "volume": 16000,
       "market": "上市"
     },
     {
@@ -30752,7 +30752,7 @@ var LOOKUP = {
       "ma60": 31.6,
       "high52": 33.5,
       "low52": 30.4,
-      "volume": 61092,
+      "volume": 60114,
       "market": "上市"
     },
     {
@@ -30784,7 +30784,7 @@ var LOOKUP = {
       "ma60": 676.8,
       "high52": 805.0,
       "low52": 558.0,
-      "volume": 763730,
+      "volume": 714058,
       "market": "上櫃"
     },
     {
@@ -30800,23 +30800,23 @@ var LOOKUP = {
       "ma60": 102.6,
       "high52": 145.7,
       "low52": 80.4,
-      "volume": 678950,
+      "volume": 676167,
       "market": "上市"
     },
     {
       "code": "6586",
       "name": "醣基",
       "industry": "生技醫療",
-      "close": 129.0,
-      "change_amount": -5.5,
-      "change_pct": -4.09,
-      "ma5": 131.8,
-      "ma10": 124.8,
+      "close": 128.0,
+      "change_amount": -6.5,
+      "change_pct": -4.83,
+      "ma5": 131.6,
+      "ma10": 124.7,
       "ma20": 98.1,
       "ma60": 70.6,
       "high52": 135.5,
       "low52": 27.1,
-      "volume": 1338912,
+      "volume": 1536181,
       "market": "興櫃"
     },
     {
@@ -30832,7 +30832,7 @@ var LOOKUP = {
       "ma60": 123.3,
       "high52": 159.5,
       "low52": 85.0,
-      "volume": 608103,
+      "volume": 600243,
       "market": "上櫃"
     },
     {
@@ -30848,7 +30848,7 @@ var LOOKUP = {
       "ma60": 46.0,
       "high52": 55.8,
       "low52": 40.5,
-      "volume": 1610002,
+      "volume": 1600000,
       "market": "上市"
     },
     {
@@ -30864,7 +30864,7 @@ var LOOKUP = {
       "ma60": 67.9,
       "high52": 70.9,
       "low52": 65.0,
-      "volume": 10382,
+      "volume": 10105,
       "market": "上櫃"
     },
     {
@@ -30880,7 +30880,7 @@ var LOOKUP = {
       "ma60": 56.0,
       "high52": 60.9,
       "low52": 51.3,
-      "volume": 334324,
+      "volume": 330292,
       "market": "上市"
     },
     {
@@ -30896,7 +30896,7 @@ var LOOKUP = {
       "ma60": 58.2,
       "high52": 62.0,
       "low52": 55.1,
-      "volume": 982220,
+      "volume": 970145,
       "market": "上市"
     },
     {
@@ -30912,7 +30912,7 @@ var LOOKUP = {
       "ma60": 35.5,
       "high52": 38.8,
       "low52": 33.0,
-      "volume": 37855,
+      "volume": 33578,
       "market": "上櫃"
     },
     {
@@ -30944,7 +30944,7 @@ var LOOKUP = {
       "ma60": 97.6,
       "high52": 104.0,
       "low52": 92.1,
-      "volume": 181848,
+      "volume": 171011,
       "market": "上櫃"
     },
     {
@@ -30960,7 +30960,7 @@ var LOOKUP = {
       "ma60": 67.7,
       "high52": 78.1,
       "low52": 56.7,
-      "volume": 3155,
+      "volume": 3000,
       "market": "上櫃"
     },
     {
@@ -30976,7 +30976,7 @@ var LOOKUP = {
       "ma60": 23.4,
       "high52": 25.0,
       "low52": 21.5,
-      "volume": 183804,
+      "volume": 183005,
       "market": "上市"
     },
     {
@@ -30984,15 +30984,15 @@ var LOOKUP = {
       "name": "普達系統",
       "industry": "電腦及週邊",
       "close": 41.8,
-      "change_amount": -0.1,
-      "change_pct": -0.24,
+      "change_amount": -0.2,
+      "change_pct": -0.36,
       "ma5": 42.3,
       "ma10": 42.4,
       "ma20": 43.4,
       "ma60": 46.4,
       "high52": 55.9,
       "low52": 41.5,
-      "volume": 49,
+      "volume": 99,
       "market": "興櫃"
     },
     {
@@ -31008,23 +31008,23 @@ var LOOKUP = {
       "ma60": 23.8,
       "high52": 27.4,
       "low52": 20.8,
-      "volume": 2678190,
+      "volume": 2669457,
       "market": "上櫃"
     },
     {
       "code": "6604",
       "name": "儒億",
       "industry": "電機機械",
-      "close": 37.5,
-      "change_amount": -0.5,
-      "change_pct": -1.18,
-      "ma5": 36.6,
+      "close": 37.8,
+      "change_amount": -0.2,
+      "change_pct": -0.66,
+      "ma5": 36.7,
       "ma10": 36.1,
       "ma20": 35.8,
       "ma60": 32.1,
       "high52": 39.2,
       "low52": 24.5,
-      "volume": 64255,
+      "volume": 82256,
       "market": "興櫃"
     },
     {
@@ -31040,7 +31040,7 @@ var LOOKUP = {
       "ma60": 134.6,
       "high52": 147.5,
       "low52": 124.5,
-      "volume": 689949,
+      "volume": 678054,
       "market": "上市"
     },
     {
@@ -31056,7 +31056,7 @@ var LOOKUP = {
       "ma60": 24.2,
       "high52": 25.7,
       "low52": 23.0,
-      "volume": 53692,
+      "volume": 53000,
       "market": "上市"
     },
     {
@@ -31072,7 +31072,7 @@ var LOOKUP = {
       "ma60": 41.7,
       "high52": 49.4,
       "low52": 36.5,
-      "volume": 263132,
+      "volume": 259000,
       "market": "上櫃"
     },
     {
@@ -31088,7 +31088,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 32.4,
       "low52": 18.9,
-      "volume": 188543,
+      "volume": 188843,
       "market": "興櫃"
     },
     {
@@ -31104,7 +31104,7 @@ var LOOKUP = {
       "ma60": 70.7,
       "high52": 77.0,
       "low52": 66.6,
-      "volume": 56275,
+      "volume": 53100,
       "market": "上櫃"
     },
     {
@@ -31120,7 +31120,7 @@ var LOOKUP = {
       "ma60": 270.3,
       "high52": 382.1,
       "low52": 196.9,
-      "volume": 453347,
+      "volume": 426751,
       "market": "上櫃"
     },
     {
@@ -31136,7 +31136,7 @@ var LOOKUP = {
       "ma60": 40.3,
       "high52": 43.2,
       "low52": 38.3,
-      "volume": 77423,
+      "volume": 77000,
       "market": "上市"
     },
     {
@@ -31152,7 +31152,7 @@ var LOOKUP = {
       "ma60": 33.8,
       "high52": 37.7,
       "low52": 32.3,
-      "volume": 3422,
+      "volume": 2069,
       "market": "上櫃"
     },
     {
@@ -31168,7 +31168,7 @@ var LOOKUP = {
       "ma60": 9.7,
       "high52": 10.4,
       "low52": 8.9,
-      "volume": 12587,
+      "volume": 12000,
       "market": "上櫃"
     },
     {
@@ -31184,23 +31184,23 @@ var LOOKUP = {
       "ma60": 67.8,
       "high52": 92.6,
       "low52": 60.2,
-      "volume": 362759,
+      "volume": 358550,
       "market": "上櫃"
     },
     {
       "code": "6618",
       "name": "永虹先進",
       "industry": "化學",
-      "close": 22.8,
-      "change_amount": 1.0,
-      "change_pct": 4.59,
+      "close": 22.9,
+      "change_amount": 1.1,
+      "change_pct": 4.82,
       "ma5": 21.9,
       "ma10": 20.1,
       "ma20": 19.2,
       "ma60": 19.8,
       "high52": 24.1,
       "low52": 17.7,
-      "volume": 2123827,
+      "volume": 2198212,
       "market": "興櫃"
     },
     {
@@ -31216,7 +31216,7 @@ var LOOKUP = {
       "ma60": 77.1,
       "high52": 102.5,
       "low52": 68.0,
-      "volume": 636401,
+      "volume": 630620,
       "market": "上櫃"
     },
     {
@@ -31232,7 +31232,7 @@ var LOOKUP = {
       "ma60": 12.1,
       "high52": 15.2,
       "low52": 11.1,
-      "volume": 23032,
+      "volume": 40032,
       "market": "興櫃"
     },
     {
@@ -31264,7 +31264,7 @@ var LOOKUP = {
       "ma60": 47.0,
       "high52": 59.5,
       "low52": 39.1,
-      "volume": 95465,
+      "volume": 94000,
       "market": "上櫃"
     },
     {
@@ -31280,7 +31280,7 @@ var LOOKUP = {
       "ma60": 75.1,
       "high52": 79.8,
       "low52": 71.7,
-      "volume": 215033,
+      "volume": 208804,
       "market": "上市"
     },
     {
@@ -31296,23 +31296,23 @@ var LOOKUP = {
       "ma60": 113.5,
       "high52": 125.2,
       "low52": 103.1,
-      "volume": 36003,
+      "volume": 36000,
       "market": "上櫃"
     },
     {
       "code": "6634",
       "name": "欣耀",
       "industry": "生技醫療",
-      "close": 67.9,
-      "change_amount": -2.0,
-      "change_pct": -2.86,
-      "ma5": 70.7,
-      "ma10": 69.2,
+      "close": 67.8,
+      "change_amount": -2.1,
+      "change_pct": -3.0,
+      "ma5": 70.6,
+      "ma10": 69.1,
       "ma20": 64.1,
       "ma60": 56.0,
       "high52": 79.9,
       "low52": 30.1,
-      "volume": 56821,
+      "volume": 62946,
       "market": "興櫃"
     },
     {
@@ -31328,23 +31328,23 @@ var LOOKUP = {
       "ma60": 67.5,
       "high52": 72.6,
       "low52": 62.0,
-      "volume": 206490,
+      "volume": 205020,
       "market": "上櫃"
     },
     {
       "code": "6638",
       "name": "沅聖",
       "industry": "電腦及週邊",
-      "close": 46.5,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 48.0,
+      "close": 46.0,
+      "change_amount": -0.5,
+      "change_pct": -0.97,
+      "ma5": 47.9,
       "ma10": 50.1,
       "ma20": 52.8,
       "ma60": 48.4,
       "high52": 66.9,
       "low52": 32.3,
-      "volume": 30,
+      "volume": 4130,
       "market": "興櫃"
     },
     {
@@ -31376,7 +31376,7 @@ var LOOKUP = {
       "ma60": 1312.7,
       "high52": 1736.3,
       "low52": 980.0,
-      "volume": 596809,
+      "volume": 545037,
       "market": "上櫃"
     },
     {
@@ -31392,7 +31392,7 @@ var LOOKUP = {
       "ma60": 18.4,
       "high52": 20.0,
       "low52": 18.0,
-      "volume": 63320,
+      "volume": 63000,
       "market": "上市"
     },
     {
@@ -31408,7 +31408,7 @@ var LOOKUP = {
       "ma60": 73.8,
       "high52": 91.9,
       "low52": 53.6,
-      "volume": 281333,
+      "volume": 280030,
       "market": "上櫃"
     },
     {
@@ -31424,7 +31424,7 @@ var LOOKUP = {
       "ma60": 546.8,
       "high52": 697.0,
       "low52": 454.0,
-      "volume": 989803,
+      "volume": 932937,
       "market": "上櫃"
     },
     {
@@ -31440,7 +31440,7 @@ var LOOKUP = {
       "ma60": 13.4,
       "high52": 16.7,
       "low52": 11.7,
-      "volume": 21407,
+      "volume": 21000,
       "market": "上市"
     },
     {
@@ -31472,23 +31472,23 @@ var LOOKUP = {
       "ma60": 39.1,
       "high52": 43.9,
       "low52": 36.5,
-      "volume": 30147,
+      "volume": 29000,
       "market": "上櫃"
     },
     {
       "code": "6650",
       "name": "帝圖",
       "industry": "農業科技",
-      "close": 28.5,
-      "change_amount": -1.5,
-      "change_pct": -5.0,
-      "ma5": 29.1,
-      "ma10": 27.7,
+      "close": 29.0,
+      "change_amount": -1.0,
+      "change_pct": -3.33,
+      "ma5": 29.2,
+      "ma10": 27.8,
       "ma20": 27.1,
       "ma60": 29.2,
       "high52": 35.9,
       "low52": 25.6,
-      "volume": 51282,
+      "volume": 53292,
       "market": "興櫃"
     },
     {
@@ -31504,7 +31504,7 @@ var LOOKUP = {
       "ma60": 126.4,
       "high52": 163.0,
       "low52": 90.0,
-      "volume": 604092,
+      "volume": 596890,
       "market": "上櫃"
     },
     {
@@ -31520,7 +31520,7 @@ var LOOKUP = {
       "ma60": 131.9,
       "high52": 227.5,
       "low52": 85.0,
-      "volume": 138285,
+      "volume": 136000,
       "market": "上櫃"
     },
     {
@@ -31536,7 +31536,7 @@ var LOOKUP = {
       "ma60": 125.7,
       "high52": 135.0,
       "low52": 115.8,
-      "volume": 10251,
+      "volume": 10000,
       "market": "上市"
     },
     {
@@ -31552,7 +31552,7 @@ var LOOKUP = {
       "ma60": 39.4,
       "high52": 49.7,
       "low52": 33.0,
-      "volume": 250983,
+      "volume": 248040,
       "market": "上市"
     },
     {
@@ -31568,23 +31568,23 @@ var LOOKUP = {
       "ma60": 168.3,
       "high52": 257.0,
       "low52": 70.5,
-      "volume": 3086340,
+      "volume": 3024330,
       "market": "上市"
     },
     {
       "code": "6659",
       "name": "天明製藥",
       "industry": "生技醫療",
-      "close": 20.4,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
+      "close": 20.2,
+      "change_amount": -0.1,
+      "change_pct": -0.49,
       "ma5": 20.3,
       "ma10": 20.3,
       "ma20": 20.3,
-      "ma60": 20.8,
+      "ma60": 20.7,
       "high52": 25.5,
       "low52": 19.2,
-      "volume": 91011,
+      "volume": 161265,
       "market": "興櫃"
     },
     {
@@ -31600,7 +31600,7 @@ var LOOKUP = {
       "ma60": 17.5,
       "high52": 18.6,
       "low52": 15.9,
-      "volume": 2559,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -31616,7 +31616,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 31.0,
       "low52": 28.5,
-      "volume": 2001,
+      "volume": 2004,
       "market": "上櫃"
     },
     {
@@ -31632,23 +31632,23 @@ var LOOKUP = {
       "ma60": 415.1,
       "high52": 480.0,
       "low52": 351.0,
-      "volume": 452541,
+      "volume": 416606,
       "market": "上櫃"
     },
     {
       "code": "6665",
       "name": "康聯生醫",
       "industry": "生技醫療",
-      "close": 19.9,
-      "change_amount": 0.3,
-      "change_pct": 1.53,
+      "close": 19.8,
+      "change_amount": 0.2,
+      "change_pct": 1.02,
       "ma5": 19.5,
       "ma10": 19.6,
       "ma20": 19.7,
       "ma60": 21.2,
       "high52": 24.1,
       "low52": 19.0,
-      "volume": 28580,
+      "volume": 34580,
       "market": "興櫃"
     },
     {
@@ -31664,7 +31664,7 @@ var LOOKUP = {
       "ma60": 41.6,
       "high52": 43.8,
       "low52": 39.6,
-      "volume": 36072,
+      "volume": 36000,
       "market": "上市"
     },
     {
@@ -31680,7 +31680,7 @@ var LOOKUP = {
       "ma60": 258.6,
       "high52": 282.2,
       "low52": 227.0,
-      "volume": 256927,
+      "volume": 246175,
       "market": "上櫃"
     },
     {
@@ -31696,7 +31696,7 @@ var LOOKUP = {
       "ma60": 38.3,
       "high52": 47.2,
       "low52": 33.2,
-      "volume": 730703,
+      "volume": 729000,
       "market": "上市"
     },
     {
@@ -31712,7 +31712,7 @@ var LOOKUP = {
       "ma60": 4742.3,
       "high52": 5627.0,
       "low52": 3299.4,
-      "volume": 1551729,
+      "volume": 1352064,
       "market": "上市"
     },
     {
@@ -31728,7 +31728,7 @@ var LOOKUP = {
       "ma60": 251.9,
       "high52": 283.7,
       "low52": 237.0,
-      "volume": 466661,
+      "volume": 460030,
       "market": "上市"
     },
     {
@@ -31744,7 +31744,7 @@ var LOOKUP = {
       "ma60": 28.1,
       "high52": 33.0,
       "low52": 24.4,
-      "volume": 33501,
+      "volume": 33000,
       "market": "上市"
     },
     {
@@ -31760,23 +31760,23 @@ var LOOKUP = {
       "ma60": 215.4,
       "high52": 315.0,
       "low52": 126.2,
-      "volume": 5738807,
+      "volume": 5628850,
       "market": "上市"
     },
     {
       "code": "6673",
       "name": "和詮",
       "industry": "光電",
-      "close": 17.1,
-      "change_amount": -0.1,
-      "change_pct": -0.58,
-      "ma5": 17.6,
+      "close": 17.5,
+      "change_amount": 0.3,
+      "change_pct": 2.03,
+      "ma5": 17.7,
       "ma10": 18.9,
       "ma20": 17.2,
       "ma60": 20.2,
       "high52": 40.7,
       "low52": 10.4,
-      "volume": 191348,
+      "volume": 229749,
       "market": "興櫃"
     },
     {
@@ -31792,39 +31792,39 @@ var LOOKUP = {
       "ma60": 18.0,
       "high52": 19.9,
       "low52": 16.9,
-      "volume": 19015,
+      "volume": 19000,
       "market": "上市"
     },
     {
       "code": "6676",
       "name": "祥翊",
       "industry": "生技醫療",
-      "close": 12.8,
-      "change_amount": 0.1,
-      "change_pct": 1.19,
+      "close": 12.9,
+      "change_amount": 0.2,
+      "change_pct": 1.98,
       "ma5": 12.7,
       "ma10": 12.8,
       "ma20": 13.0,
       "ma60": 13.8,
       "high52": 15.4,
       "low52": 12.5,
-      "volume": 949016,
+      "volume": 992419,
       "market": "興櫃"
     },
     {
       "code": "6677",
       "name": "瑩碩生技",
       "industry": "生技醫療",
-      "close": 17.0,
-      "change_amount": 0.3,
-      "change_pct": 2.1,
-      "ma5": 16.7,
-      "ma10": 16.8,
-      "ma20": 16.9,
+      "close": 17.7,
+      "change_amount": 1.0,
+      "change_pct": 5.99,
+      "ma5": 16.9,
+      "ma10": 16.9,
+      "ma20": 17.0,
       "ma60": 18.1,
       "high52": 21.5,
       "low52": 16.5,
-      "volume": 60561,
+      "volume": 62361,
       "market": "興櫃"
     },
     {
@@ -31840,7 +31840,7 @@ var LOOKUP = {
       "ma60": 286.4,
       "high52": 339.0,
       "low52": 241.3,
-      "volume": 183922,
+      "volume": 181001,
       "market": "上櫃"
     },
     {
@@ -31856,23 +31856,23 @@ var LOOKUP = {
       "ma60": 54.1,
       "high52": 58.0,
       "low52": 48.3,
-      "volume": 2373,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
       "code": "6682",
       "name": "華旭先進",
       "industry": "光電",
-      "close": 54.4,
-      "change_amount": 4.3,
-      "change_pct": 8.58,
-      "ma5": 53.4,
-      "ma10": 58.2,
+      "close": 52.9,
+      "change_amount": 2.8,
+      "change_pct": 5.59,
+      "ma5": 53.1,
+      "ma10": 58.1,
       "ma20": 60.5,
       "ma60": 55.9,
       "high52": 70.9,
       "low52": 31.9,
-      "volume": 549157,
+      "volume": 714209,
       "market": "興櫃"
     },
     {
@@ -31888,7 +31888,7 @@ var LOOKUP = {
       "ma60": 1819.6,
       "high52": 2565.0,
       "low52": 1390.0,
-      "volume": 359705,
+      "volume": 338627,
       "market": "上櫃"
     },
     {
@@ -31904,7 +31904,7 @@ var LOOKUP = {
       "ma60": 49.3,
       "high52": 64.5,
       "low52": 41.8,
-      "volume": 1073026,
+      "volume": 1069717,
       "market": "上櫃"
     },
     {
@@ -31920,7 +31920,7 @@ var LOOKUP = {
       "ma60": 68.5,
       "high52": 74.6,
       "low52": 62.5,
-      "volume": 125664,
+      "volume": 123200,
       "market": "上市"
     },
     {
@@ -31936,7 +31936,7 @@ var LOOKUP = {
       "ma60": 163.1,
       "high52": 177.8,
       "low52": 156.0,
-      "volume": 120829,
+      "volume": 118101,
       "market": "上櫃"
     },
     {
@@ -31952,7 +31952,7 @@ var LOOKUP = {
       "ma60": 668.6,
       "high52": 797.0,
       "low52": 562.0,
-      "volume": 1005137,
+      "volume": 980562,
       "market": "上市"
     },
     {
@@ -31968,7 +31968,7 @@ var LOOKUP = {
       "ma60": 28.8,
       "high52": 32.7,
       "low52": 25.0,
-      "volume": 5021,
+      "volume": 5000,
       "market": "上櫃"
     },
     {
@@ -31984,7 +31984,7 @@ var LOOKUP = {
       "ma60": 167.1,
       "high52": 255.0,
       "low52": 118.5,
-      "volume": 614929,
+      "volume": 595133,
       "market": "上櫃"
     },
     {
@@ -32000,23 +32000,23 @@ var LOOKUP = {
       "ma60": 51.7,
       "high52": 68.9,
       "low52": 37.8,
-      "volume": 976667,
+      "volume": 968503,
       "market": "上市"
     },
     {
       "code": "6696",
       "name": "仁新",
       "industry": "生技醫療",
-      "close": 469.0,
-      "change_amount": 45.5,
-      "change_pct": 10.74,
-      "ma5": 430.4,
-      "ma10": 412.0,
-      "ma20": 403.0,
-      "ma60": 403.4,
+      "close": 471.5,
+      "change_amount": 48.0,
+      "change_pct": 11.33,
+      "ma5": 430.9,
+      "ma10": 412.2,
+      "ma20": 403.1,
+      "ma60": 403.5,
       "high52": 489.5,
       "low52": 373.0,
-      "volume": 1643859,
+      "volume": 1671693,
       "market": "興櫃"
     },
     {
@@ -32032,7 +32032,7 @@ var LOOKUP = {
       "ma60": 41.9,
       "high52": 46.3,
       "low52": 40.4,
-      "volume": 38227,
+      "volume": 38003,
       "market": "上櫃"
     },
     {
@@ -32048,7 +32048,7 @@ var LOOKUP = {
       "ma60": 35.9,
       "high52": 47.8,
       "low52": 29.9,
-      "volume": 527419,
+      "volume": 522200,
       "market": "上市"
     },
     {
@@ -32064,39 +32064,39 @@ var LOOKUP = {
       "ma60": 112.4,
       "high52": 119.5,
       "low52": 108.0,
-      "volume": 126143,
+      "volume": 119070,
       "market": "上櫃"
     },
     {
       "code": "6704",
       "name": "國璽幹細胞",
       "industry": "生技醫療",
-      "close": 20.5,
-      "change_amount": 0.5,
-      "change_pct": 2.5,
-      "ma5": 20.9,
+      "close": 20.1,
+      "change_amount": 0.1,
+      "change_pct": 0.5,
+      "ma5": 20.8,
       "ma10": 21.2,
       "ma20": 21.0,
       "ma60": 21.3,
       "high52": 24.1,
       "low52": 19.5,
-      "volume": 35838,
+      "volume": 47346,
       "market": "興櫃"
     },
     {
       "code": "6705",
       "name": "振躍精密",
       "industry": "電機機械",
-      "close": 90.7,
-      "change_amount": -0.1,
-      "change_pct": -0.11,
-      "ma5": 90.9,
-      "ma10": 91.2,
-      "ma20": 93.1,
+      "close": 93.8,
+      "change_amount": 3.0,
+      "change_pct": 3.3,
+      "ma5": 91.5,
+      "ma10": 91.5,
+      "ma20": 93.2,
       "ma60": 95.0,
       "high52": 146.5,
       "low52": 67.3,
-      "volume": 3266,
+      "volume": 6266,
       "market": "興櫃"
     },
     {
@@ -32112,7 +32112,7 @@ var LOOKUP = {
       "ma60": 164.2,
       "high52": 216.5,
       "low52": 116.0,
-      "volume": 1788281,
+      "volume": 1766304,
       "market": "上市"
     },
     {
@@ -32128,7 +32128,7 @@ var LOOKUP = {
       "ma60": 32.7,
       "high52": 39.7,
       "low52": 25.1,
-      "volume": 35416,
+      "volume": 35931,
       "market": "興櫃"
     },
     {
@@ -32144,7 +32144,7 @@ var LOOKUP = {
       "ma60": 40.5,
       "high52": 43.8,
       "low52": 38.5,
-      "volume": 25027,
+      "volume": 25000,
       "market": "上櫃"
     },
     {
@@ -32176,7 +32176,7 @@ var LOOKUP = {
       "ma60": 135.9,
       "high52": 159.5,
       "low52": 122.4,
-      "volume": 1067107,
+      "volume": 1041678,
       "market": "上櫃"
     },
     {
@@ -32192,7 +32192,7 @@ var LOOKUP = {
       "ma60": 443.3,
       "high52": 566.5,
       "low52": 341.5,
-      "volume": 195771,
+      "volume": 190111,
       "market": "上市"
     },
     {
@@ -32208,7 +32208,7 @@ var LOOKUP = {
       "ma60": 91.4,
       "high52": 115.7,
       "low52": 66.3,
-      "volume": 419327,
+      "volume": 415082,
       "market": "上櫃"
     },
     {
@@ -32224,7 +32224,7 @@ var LOOKUP = {
       "ma60": 219.1,
       "high52": 300.0,
       "low52": 157.5,
-      "volume": 5587080,
+      "volume": 5426566,
       "market": "上市"
     },
     {
@@ -32240,7 +32240,7 @@ var LOOKUP = {
       "ma60": 154.2,
       "high52": 169.0,
       "low52": 135.5,
-      "volume": 113845,
+      "volume": 112015,
       "market": "上櫃"
     },
     {
@@ -32256,7 +32256,7 @@ var LOOKUP = {
       "ma60": 55.3,
       "high52": 56.6,
       "low52": 53.9,
-      "volume": 22565,
+      "volume": 22252,
       "market": "上櫃"
     },
     {
@@ -32272,7 +32272,7 @@ var LOOKUP = {
       "ma60": 36.9,
       "high52": 38.8,
       "low52": 34.2,
-      "volume": 18275,
+      "volume": 19000,
       "market": "上市"
     },
     {
@@ -32304,7 +32304,7 @@ var LOOKUP = {
       "ma60": 330.6,
       "high52": 409.0,
       "low52": 267.0,
-      "volume": 108725,
+      "volume": 105020,
       "market": "上櫃"
     },
     {
@@ -32320,7 +32320,7 @@ var LOOKUP = {
       "ma60": 460.5,
       "high52": 660.0,
       "low52": 354.5,
-      "volume": 1012758,
+      "volume": 980318,
       "market": "上櫃"
     },
     {
@@ -32336,23 +32336,23 @@ var LOOKUP = {
       "ma60": 113.0,
       "high52": 121.5,
       "low52": 106.5,
-      "volume": 12822,
+      "volume": 12001,
       "market": "上櫃"
     },
     {
       "code": "6729",
       "name": "機光科技",
       "industry": "光電",
-      "close": 53.1,
-      "change_amount": 2.1,
-      "change_pct": 4.12,
-      "ma5": 52.1,
-      "ma10": 52.1,
-      "ma20": 52.5,
+      "close": 54.5,
+      "change_amount": 3.5,
+      "change_pct": 6.86,
+      "ma5": 52.4,
+      "ma10": 52.2,
+      "ma20": 52.6,
       "ma60": 56.4,
       "high52": 71.0,
       "low52": 50.0,
-      "volume": 61023,
+      "volume": 68496,
       "market": "興櫃"
     },
     {
@@ -32368,7 +32368,7 @@ var LOOKUP = {
       "ma60": 37.6,
       "high52": 39.2,
       "low52": 34.4,
-      "volume": 49181,
+      "volume": 48000,
       "market": "上櫃"
     },
     {
@@ -32384,7 +32384,7 @@ var LOOKUP = {
       "ma60": 160.5,
       "high52": 190.0,
       "low52": 142.1,
-      "volume": 1229361,
+      "volume": 1196341,
       "market": "上櫃"
     },
     {
@@ -32400,23 +32400,23 @@ var LOOKUP = {
       "ma60": 27.4,
       "high52": 32.5,
       "low52": 23.7,
-      "volume": 498426,
+      "volume": 496004,
       "market": "上櫃"
     },
     {
       "code": "6734",
       "name": "安盛生",
       "industry": "生技醫療",
-      "close": 6.7,
-      "change_amount": 0.1,
-      "change_pct": 1.52,
+      "close": 7.1,
+      "change_amount": 0.5,
+      "change_pct": 6.82,
       "ma5": 6.8,
       "ma10": 6.9,
       "ma20": 6.9,
       "ma60": 6.9,
       "high52": 9.9,
       "low52": 5.0,
-      "volume": 49205,
+      "volume": 49206,
       "market": "興櫃"
     },
     {
@@ -32432,23 +32432,23 @@ var LOOKUP = {
       "ma60": 103.3,
       "high52": 145.0,
       "low52": 58.4,
-      "volume": 133665,
+      "volume": 131000,
       "market": "上櫃"
     },
     {
       "code": "6737",
       "name": "秀育",
       "industry": "電腦及週邊",
-      "close": 30.2,
-      "change_amount": 0.1,
-      "change_pct": 0.33,
+      "close": 30.1,
+      "change_amount": 0.0,
+      "change_pct": 0.17,
       "ma5": 29.6,
       "ma10": 29.6,
       "ma20": 29.8,
       "ma60": 33.1,
       "high52": 42.7,
       "low52": 28.2,
-      "volume": 10007,
+      "volume": 16009,
       "market": "興櫃"
     },
     {
@@ -32480,7 +32480,7 @@ var LOOKUP = {
       "ma60": 1303.5,
       "high52": 1689.8,
       "low52": 996.0,
-      "volume": 1077464,
+      "volume": 989227,
       "market": "上櫃"
     },
     {
@@ -32496,7 +32496,7 @@ var LOOKUP = {
       "ma60": 61.5,
       "high52": 64.4,
       "low52": 58.9,
-      "volume": 164704,
+      "volume": 163000,
       "market": "上櫃"
     },
     {
@@ -32512,7 +32512,7 @@ var LOOKUP = {
       "ma60": 52.6,
       "high52": 70.9,
       "low52": 38.6,
-      "volume": 3076089,
+      "volume": 3060520,
       "market": "上市"
     },
     {
@@ -32528,7 +32528,7 @@ var LOOKUP = {
       "ma60": 28.4,
       "high52": 32.0,
       "low52": 22.2,
-      "volume": 334050,
+      "volume": 331010,
       "market": "上市"
     },
     {
@@ -32551,32 +32551,32 @@ var LOOKUP = {
       "code": "6748",
       "name": "亞果生醫",
       "industry": "生技醫療",
-      "close": 153.5,
-      "change_amount": -5.5,
-      "change_pct": -3.46,
-      "ma5": 161.3,
-      "ma10": 151.8,
-      "ma20": 137.2,
+      "close": 152.0,
+      "change_amount": -7.0,
+      "change_pct": -4.4,
+      "ma5": 161.0,
+      "ma10": 151.7,
+      "ma20": 137.1,
       "ma60": 92.6,
       "high52": 168.0,
       "low52": 64.8,
-      "volume": 651420,
+      "volume": 701587,
       "market": "興櫃"
     },
     {
       "code": "6750",
       "name": "泰創工程",
       "industry": "文化創意",
-      "close": 65.4,
-      "change_amount": -0.4,
-      "change_pct": -0.61,
-      "ma5": 65.7,
+      "close": 66.1,
+      "change_amount": 0.3,
+      "change_pct": 0.46,
+      "ma5": 65.8,
       "ma10": 66.0,
-      "ma20": 65.3,
+      "ma20": 65.4,
       "ma60": 66.7,
       "high52": 74.3,
       "low52": 58.2,
-      "volume": 67970,
+      "volume": 165217,
       "market": "興櫃"
     },
     {
@@ -32592,7 +32592,7 @@ var LOOKUP = {
       "ma60": 46.4,
       "high52": 49.7,
       "low52": 42.8,
-      "volume": 14032,
+      "volume": 14010,
       "market": "上櫃"
     },
     {
@@ -32608,7 +32608,7 @@ var LOOKUP = {
       "ma60": 102.2,
       "high52": 108.5,
       "low52": 97.2,
-      "volume": 95855,
+      "volume": 94101,
       "market": "上櫃"
     },
     {
@@ -32624,7 +32624,7 @@ var LOOKUP = {
       "ma60": 130.8,
       "high52": 154.0,
       "low52": 119.0,
-      "volume": 4991495,
+      "volume": 4892782,
       "market": "上市"
     },
     {
@@ -32640,23 +32640,23 @@ var LOOKUP = {
       "ma60": 45.4,
       "high52": 47.6,
       "low52": 43.3,
-      "volume": 154169,
+      "volume": 153047,
       "market": "上市"
     },
     {
       "code": "6755",
       "name": "連鋐科技",
       "industry": "電子零組件",
-      "close": 16.0,
-      "change_amount": 0.4,
-      "change_pct": 2.88,
-      "ma5": 15.8,
+      "close": 16.6,
+      "change_amount": 1.0,
+      "change_pct": 6.41,
+      "ma5": 15.9,
       "ma10": 16.1,
       "ma20": 16.4,
       "ma60": 19.3,
       "high52": 26.0,
       "low52": 15.6,
-      "volume": 26596,
+      "volume": 65906,
       "market": "興櫃"
     },
     {
@@ -32672,7 +32672,7 @@ var LOOKUP = {
       "ma60": 93.6,
       "high52": 112.5,
       "low52": 69.6,
-      "volume": 308232,
+      "volume": 302116,
       "market": "上市"
     },
     {
@@ -32688,7 +32688,7 @@ var LOOKUP = {
       "ma60": 54.3,
       "high52": 65.6,
       "low52": 47.7,
-      "volume": 2298113,
+      "volume": 2277461,
       "market": "上市"
     },
     {
@@ -32720,7 +32720,7 @@ var LOOKUP = {
       "ma60": 201.2,
       "high52": 230.0,
       "low52": 158.5,
-      "volume": 412440,
+      "volume": 401002,
       "market": "上櫃"
     },
     {
@@ -32736,7 +32736,7 @@ var LOOKUP = {
       "ma60": 168.3,
       "high52": 190.0,
       "low52": 142.0,
-      "volume": 10058,
+      "volume": 10160,
       "market": "上櫃"
     },
     {
@@ -32752,7 +32752,7 @@ var LOOKUP = {
       "ma60": 46.9,
       "high52": 50.4,
       "low52": 42.8,
-      "volume": 871235,
+      "volume": 864030,
       "market": "上櫃"
     },
     {
@@ -32768,7 +32768,7 @@ var LOOKUP = {
       "ma60": 26.5,
       "high52": 28.5,
       "low52": 24.1,
-      "volume": 9200,
+      "volume": 9000,
       "market": "上櫃"
     },
     {
@@ -32784,7 +32784,7 @@ var LOOKUP = {
       "ma60": 79.9,
       "high52": 91.1,
       "low52": 69.9,
-      "volume": 340915,
+      "volume": 335000,
       "market": "上市"
     },
     {
@@ -32800,7 +32800,7 @@ var LOOKUP = {
       "ma60": 66.2,
       "high52": 88.7,
       "low52": 51.4,
-      "volume": 101489466,
+      "volume": 100825460,
       "market": "上市"
     },
     {
@@ -32816,23 +32816,23 @@ var LOOKUP = {
       "ma60": 39.7,
       "high52": 42.5,
       "low52": 38.1,
-      "volume": 13100,
+      "volume": 13000,
       "market": "上市"
     },
     {
       "code": "6775",
       "name": "穎台科技",
       "industry": "光電",
-      "close": 40.8,
-      "change_amount": 1.6,
-      "change_pct": 4.08,
+      "close": 41.0,
+      "change_amount": 1.8,
+      "change_pct": 4.46,
       "ma5": 40.1,
       "ma10": 41.1,
       "ma20": 41.5,
       "ma60": 42.2,
       "high52": 72.3,
       "low52": 24.1,
-      "volume": 237052,
+      "volume": 240052,
       "market": "興櫃"
     },
     {
@@ -32848,7 +32848,7 @@ var LOOKUP = {
       "ma60": 55.7,
       "high52": 58.1,
       "low52": 53.5,
-      "volume": 183946,
+      "volume": 182000,
       "market": "上市"
     },
     {
@@ -32880,7 +32880,7 @@ var LOOKUP = {
       "ma60": 1143.4,
       "high52": 1320.0,
       "low52": 960.0,
-      "volume": 1131785,
+      "volume": 1027783,
       "market": "上市"
     },
     {
@@ -32896,7 +32896,7 @@ var LOOKUP = {
       "ma60": 202.5,
       "high52": 235.0,
       "low52": 188.0,
-      "volume": 940780,
+      "volume": 913374,
       "market": "上市"
     },
     {
@@ -32905,14 +32905,14 @@ var LOOKUP = {
       "industry": "通信網路",
       "close": 20.5,
       "change_amount": 0.5,
-      "change_pct": 2.25,
+      "change_pct": 2.5,
       "ma5": 20.9,
       "ma10": 22.0,
       "ma20": 23.2,
       "ma60": 27.5,
       "high52": 40.9,
       "low52": 20.0,
-      "volume": 35147,
+      "volume": 38147,
       "market": "興櫃"
     },
     {
@@ -32928,7 +32928,7 @@ var LOOKUP = {
       "ma60": 133.8,
       "high52": 183.5,
       "low52": 113.0,
-      "volume": 117887,
+      "volume": 114030,
       "market": "上櫃"
     },
     {
@@ -32944,23 +32944,23 @@ var LOOKUP = {
       "ma60": 94.3,
       "high52": 138.0,
       "low52": 69.1,
-      "volume": 96201,
+      "volume": 103045,
       "market": "興櫃"
     },
     {
       "code": "6787",
       "name": "晶瑞光",
       "industry": "光電",
-      "close": 38.3,
-      "change_amount": -0.5,
-      "change_pct": -1.16,
+      "close": 38.7,
+      "change_amount": -0.1,
+      "change_pct": -0.26,
       "ma5": 38.1,
       "ma10": 36.3,
       "ma20": 34.6,
       "ma60": 35.7,
       "high52": 49.7,
       "low52": 28.3,
-      "volume": 692737,
+      "volume": 793027,
       "market": "興櫃"
     },
     {
@@ -32976,7 +32976,7 @@ var LOOKUP = {
       "ma60": 422.4,
       "high52": 504.6,
       "low52": 352.1,
-      "volume": 891447,
+      "volume": 850722,
       "market": "上櫃"
     },
     {
@@ -32992,7 +32992,7 @@ var LOOKUP = {
       "ma60": 515.9,
       "high52": 607.6,
       "low52": 332.1,
-      "volume": 1400729,
+      "volume": 1345699,
       "market": "上市"
     },
     {
@@ -33008,7 +33008,7 @@ var LOOKUP = {
       "ma60": 39.9,
       "high52": 40.8,
       "low52": 39.2,
-      "volume": 287269,
+      "volume": 286513,
       "market": "上市"
     },
     {
@@ -33024,7 +33024,7 @@ var LOOKUP = {
       "ma60": 113.9,
       "high52": 139.5,
       "low52": 96.5,
-      "volume": 45589,
+      "volume": 45016,
       "market": "上櫃"
     },
     {
@@ -33040,7 +33040,7 @@ var LOOKUP = {
       "ma60": 61.8,
       "high52": 70.1,
       "low52": 52.8,
-      "volume": 159321,
+      "volume": 159000,
       "market": "上市"
     },
     {
@@ -33048,15 +33048,15 @@ var LOOKUP = {
       "name": "天力離岸",
       "industry": "其他",
       "close": 5.1,
-      "change_amount": -0.0,
-      "change_pct": -0.78,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
       "ma5": 5.1,
       "ma10": 5.4,
       "ma20": 5.3,
       "ma60": 5.8,
       "high52": 8.2,
       "low52": 4.8,
-      "volume": 115968,
+      "volume": 157978,
       "market": "興櫃"
     },
     {
@@ -33072,7 +33072,7 @@ var LOOKUP = {
       "ma60": 80.8,
       "high52": 86.9,
       "low52": 77.5,
-      "volume": 187903,
+      "volume": 187000,
       "market": "上市"
     },
     {
@@ -33088,23 +33088,23 @@ var LOOKUP = {
       "ma60": 64.5,
       "high52": 77.7,
       "low52": 55.7,
-      "volume": 51704,
+      "volume": 50000,
       "market": "上市"
     },
     {
       "code": "6797",
       "name": "圓點奈米",
       "industry": "生技醫療",
-      "close": 13.7,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 13.6,
-      "ma10": 13.4,
+      "close": 14.2,
+      "change_amount": 0.5,
+      "change_pct": 3.65,
+      "ma5": 13.7,
+      "ma10": 13.5,
       "ma20": 13.4,
-      "ma60": 14.4,
+      "ma60": 14.5,
       "high52": 17.8,
       "low52": 12.4,
-      "volume": 28118,
+      "volume": 36126,
       "market": "興櫃"
     },
     {
@@ -33136,7 +33136,7 @@ var LOOKUP = {
       "ma60": 93.5,
       "high52": 111.5,
       "low52": 73.8,
-      "volume": 552090,
+      "volume": 551050,
       "market": "上市"
     },
     {
@@ -33152,7 +33152,7 @@ var LOOKUP = {
       "ma60": 272.6,
       "high52": 279.0,
       "low52": 270.0,
-      "volume": 297316,
+      "volume": 265665,
       "market": "上櫃"
     },
     {
@@ -33168,7 +33168,7 @@ var LOOKUP = {
       "ma60": 16.0,
       "high52": 16.7,
       "low52": 15.0,
-      "volume": 47065,
+      "volume": 46200,
       "market": "上櫃"
     },
     {
@@ -33184,7 +33184,7 @@ var LOOKUP = {
       "ma60": 1853.4,
       "high52": 2215.0,
       "low52": 1625.0,
-      "volume": 999765,
+      "volume": 928401,
       "market": "上市"
     },
     {
@@ -33200,23 +33200,23 @@ var LOOKUP = {
       "ma60": 34.9,
       "high52": 39.6,
       "low52": 32.8,
-      "volume": 7020,
+      "volume": 7018,
       "market": "上市"
     },
     {
       "code": "6808",
       "name": "三鼎生技",
       "industry": "生技醫療",
-      "close": 34.6,
+      "close": 34.5,
       "change_amount": 1.4,
-      "change_pct": 4.37,
+      "change_pct": 4.22,
       "ma5": 33.8,
       "ma10": 30.9,
       "ma20": 28.1,
       "ma60": 30.1,
       "high52": 35.9,
       "low52": 23.8,
-      "volume": 139416,
+      "volume": 141416,
       "market": "興櫃"
     },
     {
@@ -33232,7 +33232,7 @@ var LOOKUP = {
       "ma60": 26.8,
       "high52": 42.7,
       "low52": 17.4,
-      "volume": 66794,
+      "volume": 74804,
       "market": "興櫃"
     },
     {
@@ -33248,7 +33248,7 @@ var LOOKUP = {
       "ma60": 203.3,
       "high52": 236.4,
       "low52": 175.4,
-      "volume": 284711,
+      "volume": 279117,
       "market": "上櫃"
     },
     {
@@ -33280,7 +33280,7 @@ var LOOKUP = {
       "ma60": 24.8,
       "high52": 27.0,
       "low52": 22.1,
-      "volume": 12002,
+      "volume": 12032,
       "market": "興櫃"
     },
     {
@@ -33296,7 +33296,7 @@ var LOOKUP = {
       "ma60": 32.0,
       "high52": 42.5,
       "low52": 26.9,
-      "volume": 50495,
+      "volume": 64495,
       "market": "興櫃"
     },
     {
@@ -33335,32 +33335,32 @@ var LOOKUP = {
       "code": "6818",
       "name": "連騰",
       "industry": "通信網路",
-      "close": 57.9,
-      "change_amount": 0.4,
-      "change_pct": 0.7,
-      "ma5": 58.2,
+      "close": 58.1,
+      "change_amount": 0.6,
+      "change_pct": 1.04,
+      "ma5": 58.3,
       "ma10": 58.9,
       "ma20": 58.9,
       "ma60": 65.4,
       "high52": 99.0,
       "low52": 56.3,
-      "volume": 4234,
+      "volume": 7236,
       "market": "興櫃"
     },
     {
       "code": "6819",
       "name": "眾智",
       "industry": "半導體",
-      "close": 37.0,
-      "change_amount": -1.2,
-      "change_pct": -3.27,
-      "ma5": 37.1,
-      "ma10": 37.4,
+      "close": 37.8,
+      "change_amount": -0.4,
+      "change_pct": -1.05,
+      "ma5": 37.3,
+      "ma10": 37.5,
       "ma20": 38.6,
       "ma60": 41.4,
       "high52": 70.4,
       "low52": 21.6,
-      "volume": 17823,
+      "volume": 17824,
       "market": "興櫃"
     },
     {
@@ -33392,7 +33392,7 @@ var LOOKUP = {
       "ma60": 61.0,
       "high52": 72.0,
       "low52": 49.0,
-      "volume": 508363,
+      "volume": 505150,
       "market": "上櫃"
     },
     {
@@ -33408,7 +33408,7 @@ var LOOKUP = {
       "ma60": 76.8,
       "high52": 105.5,
       "low52": 62.1,
-      "volume": 85601,
+      "volume": 85000,
       "market": "上櫃"
     },
     {
@@ -33431,32 +33431,32 @@ var LOOKUP = {
       "code": "6826",
       "name": "和淞",
       "industry": "文化創意",
-      "close": 542.0,
-      "change_amount": -9.0,
-      "change_pct": -1.63,
-      "ma5": 541.4,
-      "ma10": 543.8,
-      "ma20": 540.6,
+      "close": 545.0,
+      "change_amount": -6.0,
+      "change_pct": -1.09,
+      "ma5": 542.0,
+      "ma10": 544.1,
+      "ma20": 540.8,
       "ma60": 544.1,
       "high52": 594.0,
       "low52": 516.0,
-      "volume": 121770,
+      "volume": 151223,
       "market": "興櫃"
     },
     {
       "code": "6827",
       "name": "巨生醫",
       "industry": "生技醫療",
-      "close": 12.0,
-      "change_amount": -0.4,
-      "change_pct": -3.23,
+      "close": 12.1,
+      "change_amount": -0.3,
+      "change_pct": -2.42,
       "ma5": 12.4,
       "ma10": 12.5,
       "ma20": 12.5,
       "ma60": 12.4,
       "high52": 15.5,
       "low52": 9.7,
-      "volume": 161000,
+      "volume": 166000,
       "market": "興櫃"
     },
     {
@@ -33472,7 +33472,7 @@ var LOOKUP = {
       "ma60": 212.7,
       "high52": 278.0,
       "low52": 118.0,
-      "volume": 2129653,
+      "volume": 2065136,
       "market": "上櫃"
     },
     {
@@ -33488,7 +33488,7 @@ var LOOKUP = {
       "ma60": 685.0,
       "high52": 975.0,
       "low52": 448.0,
-      "volume": 980313,
+      "volume": 928324,
       "market": "上市"
     },
     {
@@ -33504,23 +33504,23 @@ var LOOKUP = {
       "ma60": 669.4,
       "high52": 956.0,
       "low52": 393.0,
-      "volume": 1165253,
+      "volume": 1131322,
       "market": "上市"
     },
     {
       "code": "6832",
       "name": "金鼎科",
       "industry": "其他",
-      "close": 77.8,
-      "change_amount": -4.2,
-      "change_pct": -5.12,
-      "ma5": 75.1,
-      "ma10": 77.7,
-      "ma20": 81.5,
+      "close": 77.0,
+      "change_amount": -5.0,
+      "change_pct": -6.1,
+      "ma5": 75.0,
+      "ma10": 77.6,
+      "ma20": 81.4,
       "ma60": 86.5,
       "high52": 139.5,
       "low52": 54.4,
-      "volume": 14580,
+      "volume": 15688,
       "market": "興櫃"
     },
     {
@@ -33552,7 +33552,7 @@ var LOOKUP = {
       "ma60": 67.1,
       "high52": 132.0,
       "low52": 31.1,
-      "volume": 744282,
+      "volume": 728310,
       "market": "上市"
     },
     {
@@ -33568,7 +33568,7 @@ var LOOKUP = {
       "ma60": 36.8,
       "high52": 39.0,
       "low52": 34.1,
-      "volume": 67265,
+      "volume": 67000,
       "market": "上市"
     },
     {
@@ -33584,7 +33584,7 @@ var LOOKUP = {
       "ma60": 26.5,
       "high52": 32.0,
       "low52": 23.5,
-      "volume": 246101,
+      "volume": 246000,
       "market": "上市"
     },
     {
@@ -33600,7 +33600,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 16.6,
       "low52": 11.6,
-      "volume": 1111,
+      "volume": 6111,
       "market": "興櫃"
     },
     {
@@ -33616,7 +33616,7 @@ var LOOKUP = {
       "ma60": 66.4,
       "high52": 74.4,
       "low52": 59.5,
-      "volume": 47185,
+      "volume": 47000,
       "market": "上櫃"
     },
     {
@@ -33632,23 +33632,23 @@ var LOOKUP = {
       "ma60": 59.1,
       "high52": 63.6,
       "low52": 55.6,
-      "volume": 892294,
+      "volume": 884346,
       "market": "上櫃"
     },
     {
       "code": "6842",
       "name": "瑞宇",
       "industry": "半導體",
-      "close": 89.6,
-      "change_amount": 0.6,
-      "change_pct": 0.67,
+      "close": 90.0,
+      "change_amount": 1.0,
+      "change_pct": 1.12,
       "ma5": 89.0,
       "ma10": 90.6,
       "ma20": 91.7,
       "ma60": 109.8,
       "high52": 161.5,
       "low52": 80.8,
-      "volume": 57126,
+      "volume": 68536,
       "market": "興櫃"
     },
     {
@@ -33664,7 +33664,7 @@ var LOOKUP = {
       "ma60": 43.5,
       "high52": 48.0,
       "low52": 39.2,
-      "volume": 64520,
+      "volume": 64000,
       "market": "上櫃"
     },
     {
@@ -33680,7 +33680,7 @@ var LOOKUP = {
       "ma60": 60.6,
       "high52": 62.7,
       "low52": 58.2,
-      "volume": 32696,
+      "volume": 32000,
       "market": "上櫃"
     },
     {
@@ -33696,55 +33696,55 @@ var LOOKUP = {
       "ma60": 64.9,
       "high52": 67.3,
       "low52": 61.9,
-      "volume": 23021,
+      "volume": 23000,
       "market": "上櫃"
     },
     {
       "code": "6847",
       "name": "普瑞博",
       "industry": "生技醫療",
-      "close": 82.4,
-      "change_amount": 4.3,
-      "change_pct": 5.51,
-      "ma5": 80.6,
-      "ma10": 76.9,
-      "ma20": 78.5,
+      "close": 79.0,
+      "change_amount": 0.9,
+      "change_pct": 1.15,
+      "ma5": 79.9,
+      "ma10": 76.6,
+      "ma20": 78.3,
       "ma60": 67.8,
       "high52": 88.7,
       "low52": 47.8,
-      "volume": 152826,
+      "volume": 165826,
       "market": "興櫃"
     },
     {
       "code": "6848",
       "name": "拉法醫",
       "industry": "生技醫療",
-      "close": 23.2,
-      "change_amount": 1.0,
-      "change_pct": 4.26,
-      "ma5": 21.4,
+      "close": 23.5,
+      "change_amount": 1.2,
+      "change_pct": 5.61,
+      "ma5": 21.5,
       "ma10": 20.9,
       "ma20": 20.4,
       "ma60": 19.5,
-      "high52": 23.2,
+      "high52": 23.5,
       "low52": 16.7,
-      "volume": 130273,
+      "volume": 130274,
       "market": "興櫃"
     },
     {
       "code": "6849",
       "name": "奇鼎科技",
       "industry": "文化創意",
-      "close": 174.0,
-      "change_amount": -2.5,
-      "change_pct": -1.42,
-      "ma5": 157.6,
-      "ma10": 155.2,
-      "ma20": 169.9,
-      "ma60": 203.7,
+      "close": 172.5,
+      "change_amount": -4.0,
+      "change_pct": -2.27,
+      "ma5": 157.3,
+      "ma10": 155.1,
+      "ma20": 169.8,
+      "ma60": 203.6,
       "high52": 338.0,
       "low52": 114.5,
-      "volume": 297361,
+      "volume": 303536,
       "market": "興櫃"
     },
     {
@@ -33776,7 +33776,7 @@ var LOOKUP = {
       "ma60": 146.6,
       "high52": 190.5,
       "low52": 120.0,
-      "volume": 113248,
+      "volume": 111014,
       "market": "上市"
     },
     {
@@ -33792,7 +33792,7 @@ var LOOKUP = {
       "ma60": 113.3,
       "high52": 133.0,
       "low52": 101.0,
-      "volume": 2053,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -33808,7 +33808,7 @@ var LOOKUP = {
       "ma60": 49.5,
       "high52": 53.4,
       "low52": 44.5,
-      "volume": 92509,
+      "volume": 92000,
       "market": "上櫃"
     },
     {
@@ -33856,7 +33856,7 @@ var LOOKUP = {
       "ma60": 121.5,
       "high52": 136.8,
       "low52": 109.7,
-      "volume": 57366,
+      "volume": 55100,
       "market": "上櫃"
     },
     {
@@ -33872,7 +33872,7 @@ var LOOKUP = {
       "ma60": 328.6,
       "high52": 459.0,
       "low52": 125.2,
-      "volume": 259002,
+      "volume": 249147,
       "market": "上市"
     },
     {
@@ -33888,7 +33888,7 @@ var LOOKUP = {
       "ma60": 187.5,
       "high52": 227.0,
       "low52": 159.5,
-      "volume": 702293,
+      "volume": 687150,
       "market": "上市"
     },
     {
@@ -33904,23 +33904,23 @@ var LOOKUP = {
       "ma60": 101.8,
       "high52": 118.5,
       "low52": 88.1,
-      "volume": 120641,
+      "volume": 119000,
       "market": "上市"
     },
     {
       "code": "6864",
       "name": "元樟生技",
       "industry": "生技醫療",
-      "close": 43.7,
-      "change_amount": -0.1,
-      "change_pct": -0.23,
-      "ma5": 43.6,
+      "close": 42.8,
+      "change_amount": -1.0,
+      "change_pct": -2.17,
+      "ma5": 43.4,
       "ma10": 44.1,
-      "ma20": 46.7,
+      "ma20": 46.6,
       "ma60": 53.0,
       "high52": 61.4,
-      "low52": 42.9,
-      "volume": 12024,
+      "low52": 42.8,
+      "volume": 14030,
       "market": "興櫃"
     },
     {
@@ -33936,23 +33936,23 @@ var LOOKUP = {
       "ma60": 31.0,
       "high52": 37.7,
       "low52": 25.6,
-      "volume": 1010,
+      "volume": 1000,
       "market": "上櫃"
     },
     {
       "code": "6867",
       "name": "坦德科技",
       "industry": "光電",
-      "close": 21.4,
-      "change_amount": 0.0,
-      "change_pct": 0.23,
+      "close": 21.5,
+      "change_amount": 0.1,
+      "change_pct": 0.7,
       "ma5": 21.6,
       "ma10": 21.1,
       "ma20": 20.9,
       "ma60": 22.3,
       "high52": 29.6,
       "low52": 20.2,
-      "volume": 17245,
+      "volume": 17246,
       "market": "興櫃"
     },
     {
@@ -33984,7 +33984,7 @@ var LOOKUP = {
       "ma60": 81.6,
       "high52": 89.3,
       "low52": 68.6,
-      "volume": 602488,
+      "volume": 592209,
       "market": "上市"
     },
     {
@@ -34000,7 +34000,7 @@ var LOOKUP = {
       "ma60": 232.3,
       "high52": 321.5,
       "low52": 172.5,
-      "volume": 162875,
+      "volume": 155106,
       "market": "上櫃"
     },
     {
@@ -34032,7 +34032,7 @@ var LOOKUP = {
       "ma60": 86.8,
       "high52": 98.6,
       "low52": 77.6,
-      "volume": 850631,
+      "volume": 829170,
       "market": "上市"
     },
     {
@@ -34048,7 +34048,7 @@ var LOOKUP = {
       "ma60": 84.8,
       "high52": 94.0,
       "low52": 77.5,
-      "volume": 19301,
+      "volume": 19000,
       "market": "上櫃"
     },
     {
@@ -34064,23 +34064,23 @@ var LOOKUP = {
       "ma60": 36.7,
       "high52": 40.2,
       "low52": 33.8,
-      "volume": 118850,
+      "volume": 118000,
       "market": "上櫃"
     },
     {
       "code": "6876",
       "name": "朗齊生醫*",
       "industry": "生技醫療",
-      "close": 16.4,
-      "change_amount": 0.2,
-      "change_pct": 1.55,
+      "close": 16.8,
+      "change_amount": 0.6,
+      "change_pct": 4.02,
       "ma5": 16.1,
       "ma10": 16.2,
       "ma20": 16.7,
       "ma60": 18.8,
       "high52": 22.1,
       "low52": 15.8,
-      "volume": 119697,
+      "volume": 123699,
       "market": "興櫃"
     },
     {
@@ -34096,7 +34096,7 @@ var LOOKUP = {
       "ma60": 151.2,
       "high52": 186.0,
       "low52": 119.0,
-      "volume": 251189,
+      "volume": 248448,
       "market": "上櫃"
     },
     {
@@ -34112,7 +34112,7 @@ var LOOKUP = {
       "ma60": 10.1,
       "high52": 12.6,
       "low52": 9.5,
-      "volume": 22800,
+      "volume": 22810,
       "market": "興櫃"
     },
     {
@@ -34144,7 +34144,7 @@ var LOOKUP = {
       "ma60": 243.3,
       "high52": 256.1,
       "low52": 221.6,
-      "volume": 16698,
+      "volume": 16043,
       "market": "上櫃"
     },
     {
@@ -34160,7 +34160,7 @@ var LOOKUP = {
       "ma60": 18.7,
       "high52": 23.6,
       "low52": 13.0,
-      "volume": 45079,
+      "volume": 46090,
       "market": "興櫃"
     },
     {
@@ -34169,14 +34169,14 @@ var LOOKUP = {
       "industry": "數位雲端",
       "close": 10.1,
       "change_amount": 1.0,
-      "change_pct": 10.87,
+      "change_pct": 11.42,
       "ma5": 9.6,
       "ma10": 10.0,
       "ma20": 10.6,
       "ma60": 14.9,
       "high52": 29.4,
       "low52": 9.1,
-      "volume": 223455,
+      "volume": 223520,
       "market": "興櫃"
     },
     {
@@ -34192,7 +34192,7 @@ var LOOKUP = {
       "ma60": 32.6,
       "high52": 34.0,
       "low52": 31.4,
-      "volume": 8010,
+      "volume": 8000,
       "market": "上櫃"
     },
     {
@@ -34208,7 +34208,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 26.5,
       "low52": 20.7,
-      "volume": 219505,
+      "volume": 219050,
       "market": "上市"
     },
     {
@@ -34240,7 +34240,7 @@ var LOOKUP = {
       "ma60": 36.9,
       "high52": 44.3,
       "low52": 31.7,
-      "volume": 63148,
+      "volume": 63000,
       "market": "上市"
     },
     {
@@ -34256,39 +34256,39 @@ var LOOKUP = {
       "ma60": 189.2,
       "high52": 284.0,
       "low52": 150.5,
-      "volume": 711666,
+      "volume": 694350,
       "market": "上市"
     },
     {
       "code": "6891",
       "name": "樂迦再生",
       "industry": "生技醫療",
-      "close": 46.4,
-      "change_amount": 0.6,
-      "change_pct": 1.2,
-      "ma5": 47.1,
-      "ma10": 48.8,
+      "close": 46.6,
+      "change_amount": 0.8,
+      "change_pct": 1.64,
+      "ma5": 47.2,
+      "ma10": 48.9,
       "ma20": 47.9,
       "ma60": 52.9,
       "high52": 89.6,
       "low52": 27.8,
-      "volume": 196737,
+      "volume": 202951,
       "market": "興櫃"
     },
     {
       "code": "6892",
       "name": "台寶生醫",
       "industry": "生技醫療",
-      "close": 27.1,
-      "change_amount": 0.4,
-      "change_pct": 1.5,
+      "close": 27.2,
+      "change_amount": 0.5,
+      "change_pct": 2.06,
       "ma5": 26.9,
       "ma10": 27.1,
       "ma20": 26.5,
       "ma60": 26.5,
       "high52": 28.4,
       "low52": 24.4,
-      "volume": 215997,
+      "volume": 232399,
       "market": "興櫃"
     },
     {
@@ -34304,7 +34304,7 @@ var LOOKUP = {
       "ma60": 359.2,
       "high52": 409.0,
       "low52": 319.5,
-      "volume": 14728,
+      "volume": 13000,
       "market": "上櫃"
     },
     {
@@ -34320,7 +34320,7 @@ var LOOKUP = {
       "ma60": 161.2,
       "high52": 190.0,
       "low52": 140.5,
-      "volume": 47741,
+      "volume": 47000,
       "market": "上櫃"
     },
     {
@@ -34352,7 +34352,7 @@ var LOOKUP = {
       "ma60": 58.5,
       "high52": 66.1,
       "low52": 53.3,
-      "volume": 136801,
+      "volume": 135213,
       "market": "上櫃"
     },
     {
@@ -34368,7 +34368,7 @@ var LOOKUP = {
       "ma60": 14.8,
       "high52": 19.0,
       "low52": 12.2,
-      "volume": 6160255,
+      "volume": 6148100,
       "market": "上市"
     },
     {
@@ -34384,7 +34384,7 @@ var LOOKUP = {
       "ma60": 120.0,
       "high52": 147.5,
       "low52": 73.7,
-      "volume": 81583,
+      "volume": 79269,
       "market": "上市"
     },
     {
@@ -34400,7 +34400,7 @@ var LOOKUP = {
       "ma60": 388.2,
       "high52": 424.6,
       "low52": 293.5,
-      "volume": 1161691,
+      "volume": 1121739,
       "market": "上櫃"
     },
     {
@@ -34416,7 +34416,7 @@ var LOOKUP = {
       "ma60": 118.8,
       "high52": 126.5,
       "low52": 113.0,
-      "volume": 2009,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -34432,7 +34432,7 @@ var LOOKUP = {
       "ma60": 80.4,
       "high52": 109.0,
       "low52": 60.9,
-      "volume": 81927,
+      "volume": 80009,
       "market": "上市"
     },
     {
@@ -34448,7 +34448,7 @@ var LOOKUP = {
       "ma60": 131.0,
       "high52": 170.5,
       "low52": 107.2,
-      "volume": 1619543,
+      "volume": 1619698,
       "market": "上櫃"
     },
     {
@@ -34480,7 +34480,7 @@ var LOOKUP = {
       "ma60": 54.0,
       "high52": 65.6,
       "low52": 43.5,
-      "volume": 1233852,
+      "volume": 1229482,
       "market": "上市"
     },
     {
@@ -34496,7 +34496,7 @@ var LOOKUP = {
       "ma60": 28.5,
       "high52": 30.2,
       "low52": 26.4,
-      "volume": 40306,
+      "volume": 40000,
       "market": "上櫃"
     },
     {
@@ -34544,7 +34544,7 @@ var LOOKUP = {
       "ma60": 128.8,
       "high52": 146.3,
       "low52": 110.4,
-      "volume": 143150,
+      "volume": 143160,
       "market": "上櫃"
     },
     {
@@ -34560,23 +34560,23 @@ var LOOKUP = {
       "ma60": 144.7,
       "high52": 154.0,
       "low52": 140.0,
-      "volume": 71084,
+      "volume": 68150,
       "market": "上市"
     },
     {
       "code": "6915",
       "name": "美強光",
       "industry": "電子零組件",
-      "close": 49.0,
-      "change_amount": 2.4,
-      "change_pct": 5.15,
-      "ma5": 48.5,
-      "ma10": 51.6,
-      "ma20": 51.8,
+      "close": 46.8,
+      "change_amount": 0.2,
+      "change_pct": 0.54,
+      "ma5": 48.1,
+      "ma10": 51.4,
+      "ma20": 51.7,
       "ma60": 62.0,
       "high52": 120.0,
       "low52": 28.5,
-      "volume": 5303,
+      "volume": 11303,
       "market": "興櫃"
     },
     {
@@ -34592,7 +34592,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 22.3,
       "low52": 16.9,
-      "volume": 103912,
+      "volume": 103010,
       "market": "上市"
     },
     {
@@ -34608,7 +34608,7 @@ var LOOKUP = {
       "ma60": 33.7,
       "high52": 43.6,
       "low52": 24.5,
-      "volume": 87602,
+      "volume": 90328,
       "market": "興櫃"
     },
     {
@@ -34624,7 +34624,7 @@ var LOOKUP = {
       "ma60": 74.1,
       "high52": 79.2,
       "low52": 72.2,
-      "volume": 58136,
+      "volume": 58000,
       "market": "上市"
     },
     {
@@ -34640,23 +34640,23 @@ var LOOKUP = {
       "ma60": 101.4,
       "high52": 119.5,
       "low52": 88.2,
-      "volume": 5310627,
+      "volume": 5246400,
       "market": "上市"
     },
     {
       "code": "6920",
       "name": "恆勁科技",
       "industry": "半導體",
-      "close": 98.3,
-      "change_amount": -1.5,
-      "change_pct": -1.5,
-      "ma5": 100.2,
+      "close": 99.1,
+      "change_amount": -0.7,
+      "change_pct": -0.7,
+      "ma5": 100.3,
       "ma10": 103.0,
-      "ma20": 103.8,
+      "ma20": 103.9,
       "ma60": 104.0,
       "high52": 131.0,
       "low52": 43.7,
-      "volume": 1882369,
+      "volume": 1989811,
       "market": "興櫃"
     },
     {
@@ -34688,7 +34688,7 @@ var LOOKUP = {
       "ma60": 180.9,
       "high52": 212.0,
       "low52": 151.5,
-      "volume": 156743,
+      "volume": 151181,
       "market": "上櫃"
     },
     {
@@ -34704,7 +34704,7 @@ var LOOKUP = {
       "ma60": 76.9,
       "high52": 84.9,
       "low52": 71.8,
-      "volume": 144663,
+      "volume": 142000,
       "market": "上市"
     },
     {
@@ -34720,7 +34720,7 @@ var LOOKUP = {
       "ma60": 122.0,
       "high52": 193.5,
       "low52": 79.9,
-      "volume": 63629,
+      "volume": 62000,
       "market": "上市"
     },
     {
@@ -34736,39 +34736,39 @@ var LOOKUP = {
       "ma60": 63.8,
       "high52": 77.2,
       "low52": 54.7,
-      "volume": 52630,
+      "volume": 52038,
       "market": "上櫃"
     },
     {
       "code": "6926",
       "name": "聖安生醫",
       "industry": "生技醫療",
-      "close": 64.7,
-      "change_amount": 0.6,
-      "change_pct": 0.94,
-      "ma5": 63.9,
-      "ma10": 63.5,
+      "close": 63.7,
+      "change_amount": -0.4,
+      "change_pct": -0.62,
+      "ma5": 63.7,
+      "ma10": 63.4,
       "ma20": 63.4,
       "ma60": 64.5,
       "high52": 67.9,
       "low52": 61.5,
-      "volume": 3010,
+      "volume": 3510,
       "market": "興櫃"
     },
     {
       "code": "6927",
       "name": "聯合聚晶",
       "industry": "半導體",
-      "close": 75.2,
-      "change_amount": 0.8,
-      "change_pct": 1.08,
-      "ma5": 72.5,
+      "close": 75.0,
+      "change_amount": 0.6,
+      "change_pct": 0.81,
+      "ma5": 72.4,
       "ma10": 68.0,
       "ma20": 65.8,
       "ma60": 58.8,
-      "high52": 75.2,
+      "high52": 75.0,
       "low52": 39.0,
-      "volume": 145582,
+      "volume": 168344,
       "market": "興櫃"
     },
     {
@@ -34784,7 +34784,7 @@ var LOOKUP = {
       "ma60": 47.8,
       "high52": 57.6,
       "low52": 43.0,
-      "volume": 1499971,
+      "volume": 1488009,
       "market": "上市"
     },
     {
@@ -34800,7 +34800,7 @@ var LOOKUP = {
       "ma60": 25.0,
       "high52": 31.0,
       "low52": 21.4,
-      "volume": 16132,
+      "volume": 16000,
       "market": "上櫃"
     },
     {
@@ -34816,7 +34816,7 @@ var LOOKUP = {
       "ma60": 43.4,
       "high52": 51.6,
       "low52": 39.8,
-      "volume": 90287,
+      "volume": 89000,
       "market": "上市"
     },
     {
@@ -34848,7 +34848,7 @@ var LOOKUP = {
       "ma60": 165.8,
       "high52": 196.0,
       "low52": 137.5,
-      "volume": 259886,
+      "volume": 256000,
       "market": "上市"
     },
     {
@@ -34864,7 +34864,7 @@ var LOOKUP = {
       "ma60": 75.9,
       "high52": 97.6,
       "low52": 65.0,
-      "volume": 60288,
+      "volume": 58075,
       "market": "上市"
     },
     {
@@ -34880,7 +34880,7 @@ var LOOKUP = {
       "ma60": 29.4,
       "high52": 31.3,
       "low52": 27.6,
-      "volume": 36418,
+      "volume": 44418,
       "market": "興櫃"
     },
     {
@@ -34896,7 +34896,7 @@ var LOOKUP = {
       "ma60": 32.8,
       "high52": 34.1,
       "low52": 31.3,
-      "volume": 42120,
+      "volume": 41151,
       "market": "上市"
     },
     {
@@ -34912,7 +34912,7 @@ var LOOKUP = {
       "ma60": 296.6,
       "high52": 351.5,
       "low52": 248.0,
-      "volume": 1082728,
+      "volume": 1064302,
       "market": "上市"
     },
     {
@@ -34936,15 +34936,15 @@ var LOOKUP = {
       "name": "啟弘生技",
       "industry": "生技醫療",
       "close": 20.7,
-      "change_amount": 1.0,
-      "change_pct": 5.08,
-      "ma5": 20.1,
-      "ma10": 20.1,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 20.2,
+      "ma10": 20.2,
       "ma20": 20.0,
       "ma60": 21.2,
       "high52": 26.6,
       "low52": 19.0,
-      "volume": 10,
+      "volume": 0,
       "market": "興櫃"
     },
     {
@@ -34952,15 +34952,15 @@ var LOOKUP = {
       "name": "格斯科技*",
       "industry": "電子零組件",
       "close": 26.0,
-      "change_amount": 0.7,
-      "change_pct": 2.76,
+      "change_amount": 0.6,
+      "change_pct": 2.56,
       "ma5": 25.9,
       "ma10": 26.3,
       "ma20": 26.1,
       "ma60": 23.8,
       "high52": 30.3,
       "low52": 20.4,
-      "volume": 479537,
+      "volume": 485587,
       "market": "興櫃"
     },
     {
@@ -34976,7 +34976,7 @@ var LOOKUP = {
       "ma60": 946.9,
       "high52": 1070.0,
       "low52": 815.0,
-      "volume": 341526,
+      "volume": 321400,
       "market": "上市"
     },
     {
@@ -34992,7 +34992,7 @@ var LOOKUP = {
       "ma60": 146.5,
       "high52": 206.5,
       "low52": 94.8,
-      "volume": 671528,
+      "volume": 660515,
       "market": "上櫃"
     },
     {
@@ -35015,16 +35015,16 @@ var LOOKUP = {
       "code": "6947",
       "name": "台鎔科技",
       "industry": "數位雲端",
-      "close": 83.3,
-      "change_amount": -3.5,
-      "change_pct": -4.03,
-      "ma5": 88.5,
-      "ma10": 90.8,
-      "ma20": 91.4,
+      "close": 84.0,
+      "change_amount": -2.8,
+      "change_pct": -3.23,
+      "ma5": 88.7,
+      "ma10": 90.9,
+      "ma20": 91.5,
       "ma60": 83.9,
       "high52": 94.0,
       "low52": 76.2,
-      "volume": 840960,
+      "volume": 871084,
       "market": "興櫃"
     },
     {
@@ -35040,7 +35040,7 @@ var LOOKUP = {
       "ma60": 749.5,
       "high52": 916.0,
       "low52": 592.0,
-      "volume": 161483,
+      "volume": 167070,
       "market": "上市"
     },
     {
@@ -35056,7 +35056,7 @@ var LOOKUP = {
       "ma60": 77.3,
       "high52": 79.6,
       "low52": 74.3,
-      "volume": 23682,
+      "volume": 23000,
       "market": "上市"
     },
     {
@@ -35072,7 +35072,7 @@ var LOOKUP = {
       "ma60": 37.1,
       "high52": 40.5,
       "low52": 35.3,
-      "volume": 52088,
+      "volume": 52000,
       "market": "上市"
     },
     {
@@ -35088,7 +35088,7 @@ var LOOKUP = {
       "ma60": 245.9,
       "high52": 292.5,
       "low52": 199.0,
-      "volume": 33386,
+      "volume": 32001,
       "market": "上櫃"
     },
     {
@@ -35104,7 +35104,7 @@ var LOOKUP = {
       "ma60": 149.1,
       "high52": 168.0,
       "low52": 120.5,
-      "volume": 20025,
+      "volume": 20000,
       "market": "上市"
     },
     {
@@ -35120,7 +35120,7 @@ var LOOKUP = {
       "ma60": 172.0,
       "high52": 194.0,
       "low52": 153.5,
-      "volume": 150854,
+      "volume": 149000,
       "market": "上市"
     },
     {
@@ -35136,7 +35136,7 @@ var LOOKUP = {
       "ma60": 17.9,
       "high52": 20.0,
       "low52": 16.3,
-      "volume": 4870,
+      "volume": 4080,
       "market": "上市"
     },
     {
@@ -35152,7 +35152,7 @@ var LOOKUP = {
       "ma60": 134.2,
       "high52": 212.5,
       "low52": 83.8,
-      "volume": 382552,
+      "volume": 386153,
       "market": "興櫃"
     },
     {
@@ -35168,7 +35168,7 @@ var LOOKUP = {
       "ma60": 54.3,
       "high52": 57.1,
       "low52": 51.8,
-      "volume": 13010,
+      "volume": 13000,
       "market": "上櫃"
     },
     {
@@ -35184,23 +35184,23 @@ var LOOKUP = {
       "ma60": 36.8,
       "high52": 40.0,
       "low52": 32.5,
-      "volume": 3368317,
+      "volume": 3353201,
       "market": "上市"
     },
     {
       "code": "6963",
       "name": "品元",
       "industry": "食品",
-      "close": 26.1,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
+      "close": 26.0,
+      "change_amount": -0.1,
+      "change_pct": -0.38,
       "ma5": 26.8,
-      "ma10": 27.2,
+      "ma10": 27.1,
       "ma20": 27.1,
       "ma60": 26.9,
       "high52": 28.5,
       "low52": 25.8,
-      "volume": 2106,
+      "volume": 2329,
       "market": "興櫃"
     },
     {
@@ -35216,7 +35216,7 @@ var LOOKUP = {
       "ma60": 77.9,
       "high52": 84.2,
       "low52": 71.4,
-      "volume": 35480,
+      "volume": 35050,
       "market": "上市"
     },
     {
@@ -35232,7 +35232,7 @@ var LOOKUP = {
       "ma60": 72.9,
       "high52": 86.7,
       "low52": 62.6,
-      "volume": 103551,
+      "volume": 103000,
       "market": "上櫃"
     },
     {
@@ -35248,7 +35248,7 @@ var LOOKUP = {
       "ma60": 43.7,
       "high52": 47.2,
       "low52": 42.2,
-      "volume": 27285,
+      "volume": 26182,
       "market": "上櫃"
     },
     {
@@ -35264,7 +35264,7 @@ var LOOKUP = {
       "ma60": 27.8,
       "high52": 31.8,
       "low52": 23.5,
-      "volume": 168378,
+      "volume": 168471,
       "market": "上市"
     },
     {
@@ -35280,39 +35280,39 @@ var LOOKUP = {
       "ma60": 28.1,
       "high52": 29.6,
       "low52": 26.1,
-      "volume": 32011,
+      "volume": 32000,
       "market": "上櫃"
     },
     {
       "code": "6972",
       "name": "博瑞達應材",
       "industry": "化學",
-      "close": 24.6,
-      "change_amount": 0.5,
-      "change_pct": 2.28,
-      "ma5": 23.9,
-      "ma10": 23.9,
-      "ma20": 24.0,
+      "close": 25.7,
+      "change_amount": 1.6,
+      "change_pct": 6.64,
+      "ma5": 24.2,
+      "ma10": 24.0,
+      "ma20": 24.1,
       "ma60": 24.7,
       "high52": 31.0,
       "low52": 22.8,
-      "volume": 53441,
+      "volume": 53451,
       "market": "興櫃"
     },
     {
       "code": "6973",
       "name": "永立榮",
       "industry": "生技醫療",
-      "close": 32.5,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 32.8,
-      "ma10": 33.1,
-      "ma20": 33.0,
+      "close": 33.0,
+      "change_amount": 0.5,
+      "change_pct": 1.54,
+      "ma5": 32.9,
+      "ma10": 33.2,
+      "ma20": 33.1,
       "ma60": 34.6,
       "high52": 39.1,
       "low52": 32.0,
-      "volume": 13010,
+      "volume": 13020,
       "market": "興櫃"
     },
     {
@@ -35328,7 +35328,7 @@ var LOOKUP = {
       "ma60": 12.7,
       "high52": 13.8,
       "low52": 12.0,
-      "volume": 461292,
+      "volume": 477793,
       "market": "興櫃"
     },
     {
@@ -35344,7 +35344,7 @@ var LOOKUP = {
       "ma60": 304.5,
       "high52": 407.5,
       "low52": 264.0,
-      "volume": 13563,
+      "volume": 13564,
       "market": "興櫃"
     },
     {
@@ -35360,7 +35360,7 @@ var LOOKUP = {
       "ma60": 207.4,
       "high52": 284.0,
       "low52": 167.0,
-      "volume": 137,
+      "volume": 237,
       "market": "興櫃"
     },
     {
@@ -35376,7 +35376,7 @@ var LOOKUP = {
       "ma60": 168.2,
       "high52": 279.5,
       "low52": 129.0,
-      "volume": 56376,
+      "volume": 56626,
       "market": "興櫃"
     },
     {
@@ -35392,7 +35392,7 @@ var LOOKUP = {
       "ma60": 54.4,
       "high52": 61.5,
       "low52": 50.1,
-      "volume": 54301,
+      "volume": 54000,
       "market": "上櫃"
     },
     {
@@ -35408,7 +35408,7 @@ var LOOKUP = {
       "ma60": 404.4,
       "high52": 507.0,
       "low52": 337.5,
-      "volume": 36469,
+      "volume": 33012,
       "market": "上櫃"
     },
     {
@@ -35440,7 +35440,7 @@ var LOOKUP = {
       "ma60": 59.5,
       "high52": 65.0,
       "low52": 46.1,
-      "volume": 444383,
+      "volume": 440059,
       "market": "上櫃"
     },
     {
@@ -35448,15 +35448,15 @@ var LOOKUP = {
       "name": "寶晶能源*",
       "industry": "數位雲端",
       "close": 20.0,
-      "change_amount": 0.2,
-      "change_pct": 1.01,
+      "change_amount": 0.1,
+      "change_pct": 0.76,
       "ma5": 19.9,
       "ma10": 19.9,
       "ma20": 20.0,
       "ma60": 20.2,
       "high52": 22.6,
       "low52": 19.4,
-      "volume": 60657,
+      "volume": 65657,
       "market": "興櫃"
     },
     {
@@ -35472,7 +35472,7 @@ var LOOKUP = {
       "ma60": 14.7,
       "high52": 17.2,
       "low52": 13.3,
-      "volume": 34050,
+      "volume": 34000,
       "market": "上市"
     },
     {
@@ -35488,7 +35488,7 @@ var LOOKUP = {
       "ma60": 59.6,
       "high52": 73.6,
       "low52": 41.0,
-      "volume": 11724777,
+      "volume": 11709632,
       "market": "上市"
     },
     {
@@ -35520,7 +35520,7 @@ var LOOKUP = {
       "ma60": 186.4,
       "high52": 202.0,
       "low52": 155.9,
-      "volume": 194314,
+      "volume": 190600,
       "market": "上櫃"
     },
     {
@@ -35536,7 +35536,7 @@ var LOOKUP = {
       "ma60": 75.4,
       "high52": 83.5,
       "low52": 66.4,
-      "volume": 7010,
+      "volume": 7000,
       "market": "上櫃"
     },
     {
@@ -35544,15 +35544,15 @@ var LOOKUP = {
       "name": "瀚醫生技",
       "industry": "生技醫療",
       "close": 30.0,
-      "change_amount": 0.5,
-      "change_pct": 1.53,
-      "ma5": 29.5,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 29.7,
       "ma10": 29.7,
-      "ma20": 30.1,
+      "ma20": 30.0,
       "ma60": 30.5,
       "high52": 32.0,
       "low52": 29.0,
-      "volume": 100,
+      "volume": 0,
       "market": "興櫃"
     },
     {
@@ -35568,55 +35568,55 @@ var LOOKUP = {
       "ma60": 108.9,
       "high52": 138.5,
       "low52": 89.7,
-      "volume": 4885737,
+      "volume": 4848186,
       "market": "上櫃"
     },
     {
       "code": "7419",
       "name": "達勝",
       "industry": "電子零組件",
-      "close": 70.5,
-      "change_amount": 2.5,
-      "change_pct": 3.68,
-      "ma5": 70.5,
-      "ma10": 75.2,
+      "close": 69.8,
+      "change_amount": 1.8,
+      "change_pct": 2.65,
+      "ma5": 70.3,
+      "ma10": 75.1,
       "ma20": 76.2,
       "ma60": 120.0,
       "high52": 219.0,
       "low52": 57.1,
-      "volume": 128789,
+      "volume": 130629,
       "market": "興櫃"
     },
     {
       "code": "7427",
       "name": "華上生醫",
       "industry": "生技醫療",
-      "close": 39.5,
-      "change_amount": -0.0,
-      "change_pct": -0.13,
-      "ma5": 39.7,
-      "ma10": 39.6,
+      "close": 39.8,
+      "change_amount": 0.2,
+      "change_pct": 0.51,
+      "ma5": 39.8,
+      "ma10": 39.7,
       "ma20": 38.0,
       "ma60": 38.4,
       "high52": 45.1,
       "low52": 30.3,
-      "volume": 279969,
+      "volume": 304281,
       "market": "興櫃"
     },
     {
       "code": "7443",
       "name": "凡事康",
       "industry": "其他",
-      "close": 9.3,
-      "change_amount": -0.4,
-      "change_pct": -4.61,
-      "ma5": 9.6,
-      "ma10": 9.4,
+      "close": 9.8,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 9.7,
+      "ma10": 9.5,
       "ma20": 9.5,
       "ma60": 9.8,
       "high52": 11.1,
       "low52": 9.1,
-      "volume": 1000,
+      "volume": 1010,
       "market": "興櫃"
     },
     {
@@ -35639,16 +35639,16 @@ var LOOKUP = {
       "code": "7507",
       "name": "環拓科技",
       "industry": "數位雲端",
-      "close": 19.3,
-      "change_amount": -1.2,
-      "change_pct": -5.62,
-      "ma5": 20.4,
-      "ma10": 20.6,
-      "ma20": 21.2,
+      "close": 19.8,
+      "change_amount": -0.7,
+      "change_pct": -3.18,
+      "ma5": 20.5,
+      "ma10": 20.7,
+      "ma20": 21.3,
       "ma60": 23.2,
       "high52": 27.4,
-      "low52": 19.3,
-      "volume": 75101,
+      "low52": 19.8,
+      "volume": 94101,
       "market": "興櫃"
     },
     {
@@ -35664,7 +35664,7 @@ var LOOKUP = {
       "ma60": 9.3,
       "high52": 11.1,
       "low52": 8.6,
-      "volume": 44204,
+      "volume": 50205,
       "market": "興櫃"
     },
     {
@@ -35680,7 +35680,7 @@ var LOOKUP = {
       "ma60": 42.1,
       "high52": 60.6,
       "low52": 27.9,
-      "volume": 180015,
+      "volume": 186315,
       "market": "興櫃"
     },
     {
@@ -35696,7 +35696,7 @@ var LOOKUP = {
       "ma60": 65.7,
       "high52": 77.5,
       "low52": 55.9,
-      "volume": 9031,
+      "volume": 9040,
       "market": "上櫃"
     },
     {
@@ -35712,7 +35712,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 18.9,
       "low52": 12.4,
-      "volume": 21231,
+      "volume": 21241,
       "market": "興櫃"
     },
     {
@@ -35728,39 +35728,39 @@ var LOOKUP = {
       "ma60": 276.1,
       "high52": 319.0,
       "low52": 175.5,
-      "volume": 101723,
+      "volume": 95014,
       "market": "上櫃"
     },
     {
       "code": "7558",
       "name": "群利科技",
       "industry": "其他",
-      "close": 24.0,
-      "change_amount": 0.5,
-      "change_pct": 1.91,
-      "ma5": 23.9,
-      "ma10": 22.5,
+      "close": 23.3,
+      "change_amount": -0.2,
+      "change_pct": -1.06,
+      "ma5": 23.7,
+      "ma10": 22.4,
       "ma20": 21.6,
       "ma60": 21.5,
       "high52": 26.4,
       "low52": 16.1,
-      "volume": 14003,
+      "volume": 194003,
       "market": "興櫃"
     },
     {
       "code": "7561",
       "name": "光晟生技",
       "industry": "生技醫療",
-      "close": 18.1,
-      "change_amount": 0.1,
-      "change_pct": 0.55,
-      "ma5": 18.2,
-      "ma10": 18.6,
-      "ma20": 18.7,
+      "close": 18.9,
+      "change_amount": 0.8,
+      "change_pct": 4.43,
+      "ma5": 18.3,
+      "ma10": 18.7,
+      "ma20": 18.8,
       "ma60": 19.7,
       "high52": 22.2,
       "low52": 17.7,
-      "volume": 30001,
+      "volume": 31001,
       "market": "興櫃"
     },
     {
@@ -35824,7 +35824,7 @@ var LOOKUP = {
       "ma60": 52.7,
       "high52": 67.1,
       "low52": 33.0,
-      "volume": 18050,
+      "volume": 19150,
       "market": "興櫃"
     },
     {
@@ -35840,23 +35840,23 @@ var LOOKUP = {
       "ma60": 29.4,
       "high52": 35.0,
       "low52": 23.4,
-      "volume": 18084,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
       "code": "7590",
       "name": "怡和國際",
       "industry": "其他",
-      "close": 20.6,
-      "change_amount": 0.1,
-      "change_pct": 0.49,
+      "close": 20.7,
+      "change_amount": 0.2,
+      "change_pct": 0.98,
       "ma5": 20.3,
       "ma10": 20.9,
       "ma20": 21.2,
       "ma60": 22.8,
       "high52": 32.0,
       "low52": 17.0,
-      "volume": 136633,
+      "volume": 165534,
       "market": "興櫃"
     },
     {
@@ -35872,7 +35872,7 @@ var LOOKUP = {
       "ma60": 9.0,
       "high52": 10.5,
       "low52": 6.8,
-      "volume": 44031,
+      "volume": 44051,
       "market": "興櫃"
     },
     {
@@ -35880,15 +35880,15 @@ var LOOKUP = {
       "name": "通用幹細胞*",
       "industry": "生技醫療",
       "close": 13.5,
-      "change_amount": -0.1,
-      "change_pct": -1.1,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
       "ma5": 13.6,
-      "ma10": 13.7,
+      "ma10": 13.6,
       "ma20": 13.8,
       "ma60": 14.2,
       "high52": 16.0,
       "low52": 12.6,
-      "volume": 1300,
+      "volume": 0,
       "market": "興櫃"
     },
     {
@@ -35904,7 +35904,7 @@ var LOOKUP = {
       "ma60": 1304.6,
       "high52": 2550.0,
       "low52": 415.5,
-      "volume": 207464,
+      "volume": 179452,
       "market": "上市"
     },
     {
@@ -35920,7 +35920,7 @@ var LOOKUP = {
       "ma60": 130.5,
       "high52": 177.0,
       "low52": 107.4,
-      "volume": 115698,
+      "volume": 114100,
       "market": "上市"
     },
     {
@@ -35936,39 +35936,39 @@ var LOOKUP = {
       "ma60": 68.2,
       "high52": 78.2,
       "low52": 60.6,
-      "volume": 98801,
+      "volume": 97014,
       "market": "上櫃"
     },
     {
       "code": "7669",
       "name": "碩正科技",
       "industry": "半導體",
-      "close": 769.0,
-      "change_amount": 47.0,
-      "change_pct": 6.51,
-      "ma5": 725.6,
-      "ma10": 732.7,
-      "ma20": 701.8,
+      "close": 767.0,
+      "change_amount": 45.0,
+      "change_pct": 6.23,
+      "ma5": 725.2,
+      "ma10": 732.5,
+      "ma20": 701.6,
       "ma60": 780.2,
       "high52": 995.0,
       "low52": 584.0,
-      "volume": 176697,
+      "volume": 186006,
       "market": "興櫃"
     },
     {
       "code": "7689",
       "name": "大鵬科CLMX",
       "industry": "通信網路",
-      "close": 249.0,
-      "change_amount": -2.0,
-      "change_pct": -0.8,
-      "ma5": 240.7,
-      "ma10": 240.3,
-      "ma20": 239.5,
+      "close": 249.5,
+      "change_amount": -1.5,
+      "change_pct": -0.6,
+      "ma5": 240.8,
+      "ma10": 240.4,
+      "ma20": 239.6,
       "ma60": 239.1,
       "high52": 309.3,
       "low52": 175.9,
-      "volume": 20903,
+      "volume": 21123,
       "market": "興櫃"
     },
     {
@@ -36000,7 +36000,7 @@ var LOOKUP = {
       "ma60": 205.3,
       "high52": 234.6,
       "low52": 181.5,
-      "volume": 206750,
+      "volume": 205000,
       "market": "上櫃"
     },
     {
@@ -36016,7 +36016,7 @@ var LOOKUP = {
       "ma60": 60.8,
       "high52": 67.7,
       "low52": 49.4,
-      "volume": 114383,
+      "volume": 114140,
       "market": "上櫃"
     },
     {
@@ -36032,7 +36032,7 @@ var LOOKUP = {
       "ma60": 32.3,
       "high52": 35.2,
       "low52": 30.4,
-      "volume": 186320,
+      "volume": 185520,
       "market": "上市"
     },
     {
@@ -36055,16 +36055,16 @@ var LOOKUP = {
       "code": "7707",
       "name": "益芯科",
       "industry": "半導體",
-      "close": 128.5,
-      "change_amount": -3.0,
-      "change_pct": -2.28,
-      "ma5": 130.4,
-      "ma10": 136.3,
-      "ma20": 139.2,
-      "ma60": 154.0,
+      "close": 131.5,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 131.0,
+      "ma10": 136.6,
+      "ma20": 139.3,
+      "ma60": 154.1,
       "high52": 198.0,
       "low52": 128.5,
-      "volume": 40761,
+      "volume": 53462,
       "market": "興櫃"
     },
     {
@@ -36080,7 +36080,7 @@ var LOOKUP = {
       "ma60": 92.5,
       "high52": 94.5,
       "low52": 90.6,
-      "volume": 49643,
+      "volume": 48009,
       "market": "上櫃"
     },
     {
@@ -36096,23 +36096,23 @@ var LOOKUP = {
       "ma60": 90.3,
       "high52": 131.8,
       "low52": 66.5,
-      "volume": 150113,
+      "volume": 147000,
       "market": "上櫃"
     },
     {
       "code": "7710",
       "name": "東擎科技",
       "industry": "電腦及週邊",
-      "close": 258.0,
-      "change_amount": -2.0,
-      "change_pct": -0.77,
-      "ma5": 258.2,
-      "ma10": 256.5,
-      "ma20": 258.4,
+      "close": 260.0,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 258.6,
+      "ma10": 256.7,
+      "ma20": 258.5,
       "ma60": 257.7,
       "high52": 311.8,
       "low52": 226.8,
-      "volume": 2069,
+      "volume": 2089,
       "market": "興櫃"
     },
     {
@@ -36128,7 +36128,7 @@ var LOOKUP = {
       "ma60": 358.2,
       "high52": 457.9,
       "low52": 267.4,
-      "volume": 136404,
+      "volume": 128066,
       "market": "上市"
     },
     {
@@ -36144,7 +36144,7 @@ var LOOKUP = {
       "ma60": 150.9,
       "high52": 206.0,
       "low52": 107.5,
-      "volume": 412526,
+      "volume": 401120,
       "market": "上櫃"
     },
     {
@@ -36160,7 +36160,7 @@ var LOOKUP = {
       "ma60": 69.0,
       "high52": 73.9,
       "low52": 66.1,
-      "volume": 5005,
+      "volume": 5000,
       "market": "上櫃"
     },
     {
@@ -36176,7 +36176,7 @@ var LOOKUP = {
       "ma60": 128.8,
       "high52": 159.5,
       "low52": 114.5,
-      "volume": 895450,
+      "volume": 883468,
       "market": "上櫃"
     },
     {
@@ -36192,7 +36192,7 @@ var LOOKUP = {
       "ma60": 29.0,
       "high52": 37.7,
       "low52": 26.4,
-      "volume": 93232,
+      "volume": 91000,
       "market": "上櫃"
     },
     {
@@ -36208,7 +36208,7 @@ var LOOKUP = {
       "ma60": 25.4,
       "high52": 26.8,
       "low52": 24.4,
-      "volume": 18500,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
@@ -36224,7 +36224,7 @@ var LOOKUP = {
       "ma60": 662.1,
       "high52": 924.0,
       "low52": 420.5,
-      "volume": 325901,
+      "volume": 314130,
       "market": "上櫃"
     },
     {
@@ -36240,23 +36240,23 @@ var LOOKUP = {
       "ma60": 46.3,
       "high52": 47.9,
       "low52": 44.4,
-      "volume": 24135,
+      "volume": 24000,
       "market": "上櫃"
     },
     {
       "code": "7719",
       "name": "碳基",
       "industry": "其他",
-      "close": 59.7,
-      "change_amount": 2.6,
-      "change_pct": 4.55,
+      "close": 59.6,
+      "change_amount": 2.5,
+      "change_pct": 4.38,
       "ma5": 55.4,
       "ma10": 48.4,
       "ma20": 44.0,
       "ma60": 42.1,
       "high52": 59.7,
       "low52": 36.2,
-      "volume": 1889124,
+      "volume": 1942310,
       "market": "興櫃"
     },
     {
@@ -36272,7 +36272,7 @@ var LOOKUP = {
       "ma60": 77.3,
       "high52": 91.9,
       "low52": 69.1,
-      "volume": 254264,
+      "volume": 253100,
       "market": "上市"
     },
     {
@@ -36288,7 +36288,7 @@ var LOOKUP = {
       "ma60": 293.4,
       "high52": 368.8,
       "low52": 251.9,
-      "volume": 93486,
+      "volume": 88200,
       "market": "上市"
     },
     {
@@ -36304,7 +36304,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 34.8,
       "low52": 22.4,
-      "volume": 70616,
+      "volume": 69100,
       "market": "上櫃"
     },
     {
@@ -36312,15 +36312,15 @@ var LOOKUP = {
       "name": "諾亞克",
       "industry": "生技醫療",
       "close": 18.5,
-      "change_amount": -0.1,
-      "change_pct": -0.54,
-      "ma5": 18.3,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 18.4,
       "ma10": 18.6,
-      "ma20": 20.0,
-      "ma60": 22.4,
+      "ma20": 19.8,
+      "ma60": 22.3,
       "high52": 24.9,
       "low52": 18.0,
-      "volume": 3000,
+      "volume": 1000,
       "market": "興櫃"
     },
     {
@@ -36343,16 +36343,16 @@ var LOOKUP = {
       "code": "7726",
       "name": "暄達",
       "industry": "生技醫療",
-      "close": 31.0,
-      "change_amount": -1.0,
-      "change_pct": -3.28,
-      "ma5": 31.7,
-      "ma10": 32.0,
-      "ma20": 32.3,
+      "close": 32.0,
+      "change_amount": -0.1,
+      "change_pct": -0.31,
+      "ma5": 31.9,
+      "ma10": 32.1,
+      "ma20": 32.4,
       "ma60": 33.6,
       "high52": 35.7,
       "low52": 30.7,
-      "volume": 7110,
+      "volume": 7120,
       "market": "興櫃"
     },
     {
@@ -36368,23 +36368,23 @@ var LOOKUP = {
       "ma60": 733.3,
       "high52": 850.9,
       "low52": 654.0,
-      "volume": 26105,
+      "volume": 24004,
       "market": "上櫃"
     },
     {
       "code": "7729",
       "name": "仲恩生醫",
       "industry": "生技醫療",
-      "close": 73.9,
-      "change_amount": -0.3,
-      "change_pct": -0.4,
+      "close": 73.7,
+      "change_amount": -0.5,
+      "change_pct": -0.67,
       "ma5": 75.8,
       "ma10": 77.7,
       "ma20": 77.8,
       "ma60": 76.6,
       "high52": 84.9,
       "low52": 69.2,
-      "volume": 67421,
+      "volume": 68722,
       "market": "興櫃"
     },
     {
@@ -36400,7 +36400,7 @@ var LOOKUP = {
       "ma60": 186.4,
       "high52": 230.0,
       "low52": 162.0,
-      "volume": 103589,
+      "volume": 102207,
       "market": "上市"
     },
     {
@@ -36416,7 +36416,7 @@ var LOOKUP = {
       "ma60": 5.9,
       "high52": 8.0,
       "low52": 5.2,
-      "volume": 1430194,
+      "volume": 1442190,
       "market": "興櫃"
     },
     {
@@ -36432,7 +36432,7 @@ var LOOKUP = {
       "ma60": 35.6,
       "high52": 36.8,
       "low52": 34.1,
-      "volume": 4006,
+      "volume": 4000,
       "market": "上市"
     },
     {
@@ -36448,23 +36448,23 @@ var LOOKUP = {
       "ma60": 3288.6,
       "high52": 4375.0,
       "low52": 2280.0,
-      "volume": 75711,
+      "volume": 67123,
       "market": "上櫃"
     },
     {
       "code": "7735",
       "name": "台智雲",
       "industry": "其他電子",
-      "close": 204.5,
-      "change_amount": -3.5,
-      "change_pct": -1.68,
-      "ma5": 208.4,
-      "ma10": 211.4,
-      "ma20": 216.9,
+      "close": 207.0,
+      "change_amount": -1.0,
+      "change_pct": -0.48,
+      "ma5": 208.9,
+      "ma10": 211.7,
+      "ma20": 217.0,
       "ma60": null,
       "high52": 350.0,
       "low52": 199.0,
-      "volume": 12045,
+      "volume": 12950,
       "market": "興櫃"
     },
     {
@@ -36480,7 +36480,7 @@ var LOOKUP = {
       "ma60": 74.4,
       "high52": 82.7,
       "low52": 70.4,
-      "volume": 28200,
+      "volume": 28000,
       "market": "上市"
     },
     {
@@ -36512,7 +36512,7 @@ var LOOKUP = {
       "ma60": 173.9,
       "high52": 192.0,
       "low52": 164.5,
-      "volume": 17532,
+      "volume": 17000,
       "market": "上櫃"
     },
     {
@@ -36528,23 +36528,23 @@ var LOOKUP = {
       "ma60": 171.1,
       "high52": 200.0,
       "low52": 141.5,
-      "volume": 131627,
+      "volume": 131001,
       "market": "上市"
     },
     {
       "code": "7742",
       "name": "天弘化",
       "industry": "化學",
-      "close": 140.5,
-      "change_amount": -3.5,
-      "change_pct": -2.43,
-      "ma5": 139.4,
-      "ma10": 144.8,
-      "ma20": 146.5,
-      "ma60": 170.7,
+      "close": 143.5,
+      "change_amount": -0.5,
+      "change_pct": -0.35,
+      "ma5": 140.0,
+      "ma10": 145.1,
+      "ma20": 146.7,
+      "ma60": 170.8,
       "high52": 278.0,
       "low52": 124.5,
-      "volume": 203014,
+      "volume": 208391,
       "market": "興櫃"
     },
     {
@@ -36560,7 +36560,7 @@ var LOOKUP = {
       "ma60": 19.6,
       "high52": 21.0,
       "low52": 18.5,
-      "volume": 64096,
+      "volume": 64000,
       "market": "上櫃"
     },
     {
@@ -36576,7 +36576,7 @@ var LOOKUP = {
       "ma60": 496.3,
       "high52": 599.6,
       "low52": 439.5,
-      "volume": 42409,
+      "volume": 40005,
       "market": "上櫃"
     },
     {
@@ -36592,7 +36592,7 @@ var LOOKUP = {
       "ma60": 17.6,
       "high52": 23.1,
       "low52": 14.1,
-      "volume": 14639,
+      "volume": 19639,
       "market": "興櫃"
     },
     {
@@ -36608,7 +36608,7 @@ var LOOKUP = {
       "ma60": 128.2,
       "high52": 134.0,
       "low52": 114.0,
-      "volume": 4210,
+      "volume": 4000,
       "market": "上櫃"
     },
     {
@@ -36640,7 +36640,7 @@ var LOOKUP = {
       "ma60": 465.5,
       "high52": 544.0,
       "low52": 349.0,
-      "volume": 139780,
+      "volume": 134086,
       "market": "上市"
     },
     {
@@ -36656,7 +36656,7 @@ var LOOKUP = {
       "ma60": 2251.4,
       "high52": 3070.0,
       "low52": 1420.0,
-      "volume": 144189,
+      "volume": 132386,
       "market": "上市"
     },
     {
@@ -36672,7 +36672,7 @@ var LOOKUP = {
       "ma60": 1783.8,
       "high52": 2715.0,
       "low52": 1320.0,
-      "volume": 83660,
+      "volume": 74042,
       "market": "上櫃"
     },
     {
@@ -36688,7 +36688,7 @@ var LOOKUP = {
       "ma60": 36.9,
       "high52": 48.1,
       "low52": 26.4,
-      "volume": 45265,
+      "volume": 49366,
       "market": "興櫃"
     },
     {
@@ -36704,23 +36704,23 @@ var LOOKUP = {
       "ma60": 42.4,
       "high52": 48.3,
       "low52": 39.5,
-      "volume": 23498,
+      "volume": 23029,
       "market": "上櫃"
     },
     {
       "code": "7754",
       "name": "安基生技",
       "industry": "生技醫療",
-      "close": 60.4,
-      "change_amount": 1.6,
-      "change_pct": 2.72,
-      "ma5": 59.1,
-      "ma10": 59.3,
-      "ma20": 59.2,
+      "close": 62.1,
+      "change_amount": 3.3,
+      "change_pct": 5.61,
+      "ma5": 59.5,
+      "ma10": 59.5,
+      "ma20": 59.3,
       "ma60": 60.4,
       "high52": 67.3,
       "low52": 58.1,
-      "volume": 259875,
+      "volume": 324842,
       "market": "興櫃"
     },
     {
@@ -36752,7 +36752,7 @@ var LOOKUP = {
       "ma60": 99.1,
       "high52": 103.7,
       "low52": 94.1,
-      "volume": 27531,
+      "volume": 27010,
       "market": "上櫃"
     },
     {
@@ -36776,15 +36776,15 @@ var LOOKUP = {
       "name": "視航生醫",
       "industry": "生技醫療",
       "close": 31.2,
-      "change_amount": -0.3,
-      "change_pct": -0.95,
+      "change_amount": -0.2,
+      "change_pct": -0.79,
       "ma5": 30.1,
       "ma10": 29.2,
       "ma20": 29.8,
       "ma60": 34.5,
       "high52": 42.2,
       "low52": 27.6,
-      "volume": 25342,
+      "volume": 26342,
       "market": "興櫃"
     },
     {
@@ -36800,23 +36800,23 @@ var LOOKUP = {
       "ma60": 32.5,
       "high52": 37.9,
       "low52": 29.3,
-      "volume": 150230,
+      "volume": 149070,
       "market": "上市"
     },
     {
       "code": "7761",
       "name": "三大未來",
       "industry": "數位雲端",
-      "close": 39.5,
-      "change_amount": -0.6,
-      "change_pct": -1.5,
-      "ma5": 39.8,
-      "ma10": 39.7,
+      "close": 40.0,
+      "change_amount": -0.0,
+      "change_pct": -0.12,
+      "ma5": 39.9,
+      "ma10": 39.8,
       "ma20": 39.7,
       "ma60": 40.1,
       "high52": 52.4,
       "low52": 35.5,
-      "volume": 77145,
+      "volume": 80147,
       "market": "興櫃"
     },
     {
@@ -36839,32 +36839,32 @@ var LOOKUP = {
       "code": "7763",
       "name": "崇舜",
       "industry": "化學",
-      "close": 157.0,
-      "change_amount": -3.0,
-      "change_pct": -1.88,
-      "ma5": 165.6,
-      "ma10": 174.0,
-      "ma20": 182.9,
-      "ma60": 219.2,
+      "close": 160.0,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 166.2,
+      "ma10": 174.3,
+      "ma20": 183.1,
+      "ma60": 219.3,
       "high52": 319.1,
       "low52": 140.8,
-      "volume": 102632,
+      "volume": 104946,
       "market": "興櫃"
     },
     {
       "code": "7764",
       "name": "聖州",
       "industry": "其他",
-      "close": 12.7,
-      "change_amount": 0.4,
-      "change_pct": 3.67,
+      "close": 12.5,
+      "change_amount": 0.2,
+      "change_pct": 2.04,
       "ma5": 12.4,
       "ma10": 12.5,
       "ma20": 12.7,
       "ma60": 13.3,
       "high52": 15.4,
       "low52": 11.9,
-      "volume": 39117,
+      "volume": 39337,
       "market": "興櫃"
     },
     {
@@ -36880,7 +36880,7 @@ var LOOKUP = {
       "ma60": 230.0,
       "high52": 260.5,
       "low52": 210.5,
-      "volume": 70548,
+      "volume": 67040,
       "market": "上市"
     },
     {
@@ -36896,7 +36896,7 @@ var LOOKUP = {
       "ma60": 40.6,
       "high52": 41.9,
       "low52": 38.7,
-      "volume": 53698,
+      "volume": 53000,
       "market": "上櫃"
     },
     {
@@ -36912,7 +36912,7 @@ var LOOKUP = {
       "ma60": 393.9,
       "high52": 486.0,
       "low52": 333.5,
-      "volume": 172237,
+      "volume": 164115,
       "market": "上市"
     },
     {
@@ -36928,7 +36928,7 @@ var LOOKUP = {
       "ma60": 6334.6,
       "high52": 8260.0,
       "low52": 4010.0,
-      "volume": 682015,
+      "volume": 627420,
       "market": "上市"
     },
     {
@@ -37024,7 +37024,7 @@ var LOOKUP = {
       "ma60": 33.7,
       "high52": 44.4,
       "low52": 23.3,
-      "volume": 4512786,
+      "volume": 4483240,
       "market": "上櫃"
     },
     {
@@ -37056,23 +37056,23 @@ var LOOKUP = {
       "ma60": 18.0,
       "high52": 20.3,
       "low52": 16.7,
-      "volume": 1254461,
+      "volume": 1244052,
       "market": "上市"
     },
     {
       "code": "7781",
       "name": "昕力資*",
       "industry": "運動休閒",
-      "close": 28.0,
-      "change_amount": 0.4,
-      "change_pct": 1.27,
+      "close": 28.4,
+      "change_amount": 0.8,
+      "change_pct": 2.71,
       "ma5": 28.4,
       "ma10": 28.7,
       "ma20": 28.9,
       "ma60": 30.0,
       "high52": 33.1,
       "low52": 27.6,
-      "volume": 1364071,
+      "volume": 1437677,
       "market": "興櫃"
     },
     {
@@ -37088,7 +37088,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 28.8,
       "low52": 25.0,
-      "volume": 2057,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -37104,23 +37104,23 @@ var LOOKUP = {
       "ma60": 91.1,
       "high52": 109.6,
       "low52": 73.0,
-      "volume": 17700,
+      "volume": 21926,
       "market": "興櫃"
     },
     {
       "code": "7784",
       "name": "安邦生技*",
       "industry": "生技醫療",
-      "close": 10.0,
-      "change_amount": -0.3,
-      "change_pct": -2.91,
+      "close": 10.2,
+      "change_amount": -0.1,
+      "change_pct": -0.49,
       "ma5": 10.3,
       "ma10": 10.8,
       "ma20": 11.7,
       "ma60": null,
       "high52": 16.0,
       "low52": 9.5,
-      "volume": 293114,
+      "volume": 307545,
       "market": "興櫃"
     },
     {
@@ -37152,7 +37152,7 @@ var LOOKUP = {
       "ma60": 127.9,
       "high52": 142.5,
       "low52": 114.0,
-      "volume": 353765,
+      "volume": 352075,
       "market": "上市"
     },
     {
@@ -37168,7 +37168,7 @@ var LOOKUP = {
       "ma60": 204.7,
       "high52": 292.0,
       "low52": 132.5,
-      "volume": 749824,
+      "volume": 721866,
       "market": "上市"
     },
     {
@@ -37216,7 +37216,7 @@ var LOOKUP = {
       "ma60": 61.8,
       "high52": 65.3,
       "low52": 59.3,
-      "volume": 34279,
+      "volume": 33600,
       "market": "上市"
     },
     {
@@ -37232,7 +37232,7 @@ var LOOKUP = {
       "ma60": 292.5,
       "high52": 363.4,
       "low52": 248.1,
-      "volume": 33608,
+      "volume": 32042,
       "market": "上櫃"
     },
     {
@@ -37264,39 +37264,39 @@ var LOOKUP = {
       "ma60": 406.9,
       "high52": 626.0,
       "low52": 325.3,
-      "volume": 1678037,
+      "volume": 1642208,
       "market": "上市"
     },
     {
       "code": "7796",
       "name": "擷發科",
       "industry": "半導體",
-      "close": 82.5,
-      "change_amount": -0.7,
-      "change_pct": -0.84,
+      "close": 82.4,
+      "change_amount": -0.8,
+      "change_pct": -0.96,
       "ma5": 84.1,
       "ma10": 86.7,
       "ma20": 89.6,
       "ma60": 102.3,
       "high52": 130.5,
-      "low52": 82.5,
-      "volume": 79788,
+      "low52": 82.4,
+      "volume": 80198,
       "market": "興櫃"
     },
     {
       "code": "7797",
       "name": "Q Burger",
       "industry": "觀光餐旅",
-      "close": 58.4,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 58.7,
-      "ma10": 60.6,
-      "ma20": 62.1,
+      "close": 56.5,
+      "change_amount": -1.9,
+      "change_pct": -3.25,
+      "ma5": 58.3,
+      "ma10": 60.4,
+      "ma20": 62.0,
       "ma60": 59.9,
       "high52": 68.5,
       "low52": 52.3,
-      "volume": 2,
+      "volume": 7388,
       "market": "興櫃"
     },
     {
@@ -37305,14 +37305,14 @@ var LOOKUP = {
       "industry": "建材營造",
       "close": 17.9,
       "change_amount": 0.6,
-      "change_pct": 3.18,
+      "change_pct": 3.47,
       "ma5": 16.7,
       "ma10": 16.2,
       "ma20": 16.2,
       "ma60": 15.5,
       "high52": 17.9,
       "low52": 14.1,
-      "volume": 142840,
+      "volume": 157900,
       "market": "興櫃"
     },
     {
@@ -37328,7 +37328,7 @@ var LOOKUP = {
       "ma60": 361.8,
       "high52": 424.5,
       "low52": 303.0,
-      "volume": 851581,
+      "volume": 821070,
       "market": "上市"
     },
     {
@@ -37344,7 +37344,7 @@ var LOOKUP = {
       "ma60": 136.4,
       "high52": 197.0,
       "low52": 104.0,
-      "volume": 14421,
+      "volume": 14523,
       "market": "興櫃"
     },
     {
@@ -37360,7 +37360,7 @@ var LOOKUP = {
       "ma60": null,
       "high52": 25.2,
       "low52": 21.7,
-      "volume": 306409,
+      "volume": 305000,
       "market": "上市"
     },
     {
@@ -37376,7 +37376,7 @@ var LOOKUP = {
       "ma60": 711.5,
       "high52": 799.0,
       "low52": 645.0,
-      "volume": 47486,
+      "volume": 44000,
       "market": "上櫃"
     },
     {
@@ -37424,7 +37424,7 @@ var LOOKUP = {
       "ma60": 224.3,
       "high52": 260.0,
       "low52": 193.5,
-      "volume": 26121,
+      "volume": 25000,
       "market": "上櫃"
     },
     {
@@ -37440,7 +37440,7 @@ var LOOKUP = {
       "ma60": 81.4,
       "high52": 90.1,
       "low52": 77.0,
-      "volume": 6211,
+      "volume": 6000,
       "market": "上櫃"
     },
     {
@@ -37456,7 +37456,7 @@ var LOOKUP = {
       "ma60": 85.5,
       "high52": 113.5,
       "low52": 77.1,
-      "volume": 65022,
+      "volume": 65792,
       "market": "興櫃"
     },
     {
@@ -37479,32 +37479,32 @@ var LOOKUP = {
       "code": "7814",
       "name": "海昌生技",
       "industry": "生技醫療",
-      "close": 37.6,
-      "change_amount": 1.4,
-      "change_pct": 3.87,
-      "ma5": 37.1,
+      "close": 38.2,
+      "change_amount": 2.0,
+      "change_pct": 5.52,
+      "ma5": 37.2,
       "ma10": 38.2,
-      "ma20": 38.1,
+      "ma20": 38.2,
       "ma60": 40.7,
       "high52": 43.8,
       "low52": 35.3,
-      "volume": 44560,
+      "volume": 60581,
       "market": "興櫃"
     },
     {
       "code": "7815",
       "name": "新特",
       "industry": "半導體",
-      "close": 394.5,
-      "change_amount": -1.5,
-      "change_pct": -0.38,
-      "ma5": 392.7,
+      "close": 394.0,
+      "change_amount": -2.0,
+      "change_pct": -0.51,
+      "ma5": 392.6,
       "ma10": 399.8,
       "ma20": 397.8,
       "ma60": 448.8,
       "high52": 580.3,
       "low52": 353.0,
-      "volume": 37725,
+      "volume": 37977,
       "market": "興櫃"
     },
     {
@@ -37536,7 +37536,7 @@ var LOOKUP = {
       "ma60": 83.7,
       "high52": 124.0,
       "low52": 61.2,
-      "volume": 508057,
+      "volume": 502000,
       "market": "上市"
     },
     {
@@ -37552,7 +37552,7 @@ var LOOKUP = {
       "ma60": 55.0,
       "high52": 75.7,
       "low52": 39.0,
-      "volume": 54101,
+      "volume": 52000,
       "market": "上櫃"
     },
     {
@@ -37568,7 +37568,7 @@ var LOOKUP = {
       "ma60": 139.2,
       "high52": 208.4,
       "low52": 111.0,
-      "volume": 78244,
+      "volume": 75000,
       "market": "上櫃"
     },
     {
@@ -37584,7 +37584,7 @@ var LOOKUP = {
       "ma60": 47.2,
       "high52": 67.9,
       "low52": 41.2,
-      "volume": 201990,
+      "volume": 199065,
       "market": "上市"
     },
     {
@@ -37600,7 +37600,7 @@ var LOOKUP = {
       "ma60": 1241.3,
       "high52": 1825.0,
       "low52": 946.0,
-      "volume": 214582,
+      "volume": 172216,
       "market": "上市"
     },
     {
@@ -37616,7 +37616,7 @@ var LOOKUP = {
       "ma60": 87.6,
       "high52": 109.0,
       "low52": 76.8,
-      "volume": 35248,
+      "volume": 35100,
       "market": "上市"
     },
     {
@@ -37639,16 +37639,16 @@ var LOOKUP = {
       "code": "7825",
       "name": "和亞智慧",
       "industry": "文化創意",
-      "close": 78.7,
-      "change_amount": -4.0,
-      "change_pct": -4.84,
-      "ma5": 85.0,
+      "close": 78.5,
+      "change_amount": -4.2,
+      "change_pct": -5.08,
+      "ma5": 84.9,
       "ma10": 89.4,
       "ma20": 95.0,
       "ma60": 122.2,
       "high52": 220.0,
-      "low52": 78.7,
-      "volume": 200357,
+      "low52": 78.5,
+      "volume": 201814,
       "market": "興櫃"
     },
     {
@@ -37680,7 +37680,7 @@ var LOOKUP = {
       "ma60": 148.1,
       "high52": 174.5,
       "low52": 126.0,
-      "volume": 695782,
+      "volume": 691000,
       "market": "上市"
     },
     {
@@ -37696,23 +37696,23 @@ var LOOKUP = {
       "ma60": 1544.9,
       "high52": 2325.0,
       "low52": 1057.0,
-      "volume": 800039,
+      "volume": 734488,
       "market": "上櫃"
     },
     {
       "code": "7829",
       "name": "思捷優達-KY",
       "industry": "生技醫療",
-      "close": 38.1,
-      "change_amount": -0.9,
-      "change_pct": -2.31,
-      "ma5": 39.8,
-      "ma10": 40.1,
+      "close": 39.0,
+      "change_amount": -0.0,
+      "change_pct": -0.13,
+      "ma5": 40.0,
+      "ma10": 40.2,
       "ma20": 40.7,
       "ma60": 42.7,
       "high52": 50.9,
-      "low52": 38.1,
-      "volume": 41114,
+      "low52": 39.0,
+      "volume": 41341,
       "market": "興櫃"
     },
     {
@@ -37722,10 +37722,10 @@ var LOOKUP = {
       "close": 34.3,
       "change_amount": 0.0,
       "change_pct": 0.0,
-      "ma5": 35.0,
-      "ma10": 35.5,
-      "ma20": 35.7,
-      "ma60": 36.7,
+      "ma5": 34.6,
+      "ma10": 35.3,
+      "ma20": 35.6,
+      "ma60": 36.6,
       "high52": 38.0,
       "low52": 34.3,
       "volume": 0,
@@ -37735,16 +37735,16 @@ var LOOKUP = {
       "code": "7832",
       "name": "智新生技*",
       "industry": "生技醫療",
-      "close": 11.1,
-      "change_amount": 0.1,
-      "change_pct": 1.36,
+      "close": 11.2,
+      "change_amount": 0.2,
+      "change_pct": 1.82,
       "ma5": 11.1,
       "ma10": 11.1,
       "ma20": 11.2,
       "ma60": 12.2,
       "high52": 14.0,
       "low52": 11.0,
-      "volume": 87001,
+      "volume": 103002,
       "market": "興櫃"
     },
     {
@@ -37760,7 +37760,7 @@ var LOOKUP = {
       "ma60": 28.1,
       "high52": 31.2,
       "low52": 22.1,
-      "volume": 92228,
+      "volume": 92428,
       "market": "興櫃"
     },
     {
@@ -37783,32 +37783,32 @@ var LOOKUP = {
       "code": "7836",
       "name": "智生活",
       "industry": "其他",
-      "close": 50.0,
-      "change_amount": -0.0,
-      "change_pct": -0.1,
-      "ma5": 50.1,
+      "close": 49.5,
+      "change_amount": -0.5,
+      "change_pct": -1.0,
+      "ma5": 50.0,
       "ma10": 50.5,
       "ma20": 51.1,
       "ma60": 53.6,
       "high52": 61.4,
-      "low52": 50.0,
-      "volume": 1018,
+      "low52": 49.5,
+      "volume": 1056,
       "market": "興櫃"
     },
     {
       "code": "7837",
       "name": "啟新生",
       "industry": "生技醫療",
-      "close": 86.1,
-      "change_amount": -1.7,
-      "change_pct": -1.94,
-      "ma5": 89.3,
-      "ma10": 90.2,
+      "close": 85.5,
+      "change_amount": -2.3,
+      "change_pct": -2.62,
+      "ma5": 89.2,
+      "ma10": 90.1,
       "ma20": 93.1,
       "ma60": 101.5,
       "high52": 111.5,
-      "low52": 86.1,
-      "volume": 6111,
+      "low52": 85.5,
+      "volume": 6118,
       "market": "興櫃"
     },
     {
@@ -37824,7 +37824,7 @@ var LOOKUP = {
       "ma60": 55.4,
       "high52": 65.6,
       "low52": 41.1,
-      "volume": 12313,
+      "volume": 12000,
       "market": "上櫃"
     },
     {
@@ -37872,39 +37872,39 @@ var LOOKUP = {
       "ma60": 122.8,
       "high52": 170.0,
       "low52": 95.2,
-      "volume": 18185,
+      "volume": 18000,
       "market": "上櫃"
     },
     {
       "code": "7843",
       "name": "英柏得",
       "industry": "半導體",
-      "close": 105.0,
-      "change_amount": 3.5,
-      "change_pct": 3.45,
-      "ma5": 110.5,
-      "ma10": 120.3,
-      "ma20": 128.9,
+      "close": 107.5,
+      "change_amount": 6.0,
+      "change_pct": 5.91,
+      "ma5": 111.0,
+      "ma10": 120.6,
+      "ma20": 129.1,
       "ma60": 123.1,
       "high52": 147.0,
       "low52": 75.4,
-      "volume": 91843,
+      "volume": 94072,
       "market": "興櫃"
     },
     {
       "code": "7846",
       "name": "德揚",
       "industry": "數位雲端",
-      "close": 63.8,
-      "change_amount": -1.2,
-      "change_pct": -1.85,
-      "ma5": 65.4,
-      "ma10": 66.2,
-      "ma20": 65.6,
+      "close": 66.9,
+      "change_amount": 1.9,
+      "change_pct": 2.92,
+      "ma5": 66.0,
+      "ma10": 66.5,
+      "ma20": 65.8,
       "ma60": 79.3,
       "high52": 104.0,
       "low52": 60.0,
-      "volume": 13153,
+      "volume": 13154,
       "market": "興櫃"
     },
     {
@@ -37912,31 +37912,31 @@ var LOOKUP = {
       "name": "豊漁",
       "industry": "觀光餐旅",
       "close": 19.2,
-      "change_amount": 0.9,
-      "change_pct": 4.62,
+      "change_amount": 0.8,
+      "change_pct": 4.35,
       "ma5": 19.3,
       "ma10": 19.8,
       "ma20": 20.1,
       "ma60": 22.2,
       "high52": 26.0,
       "low52": 18.4,
-      "volume": 2112,
+      "volume": 2174,
       "market": "興櫃"
     },
     {
       "code": "7848",
       "name": "騏億鑫",
       "industry": "文化創意",
-      "close": 348.5,
-      "change_amount": -0.5,
-      "change_pct": -0.14,
-      "ma5": 345.8,
-      "ma10": 346.4,
-      "ma20": 361.6,
+      "close": 349.5,
+      "change_amount": 0.5,
+      "change_pct": 0.14,
+      "ma5": 346.0,
+      "ma10": 346.5,
+      "ma20": 361.7,
       "ma60": 389.8,
       "high52": 461.7,
       "low52": 331.7,
-      "volume": 21608,
+      "volume": 21818,
       "market": "興櫃"
     },
     {
@@ -37952,71 +37952,71 @@ var LOOKUP = {
       "ma60": 153.8,
       "high52": 185.0,
       "low52": 132.7,
-      "volume": 1000,
+      "volume": 2000,
       "market": "興櫃"
     },
     {
       "code": "7850",
       "name": "寶泰生醫",
       "industry": "生技醫療",
-      "close": 14.1,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
+      "close": 14.3,
+      "change_amount": 0.2,
+      "change_pct": 1.78,
       "ma5": 14.6,
       "ma10": 14.9,
       "ma20": 16.0,
       "ma60": 19.2,
       "high52": 26.7,
       "low52": 14.1,
-      "volume": 46298,
+      "volume": 56325,
       "market": "興櫃"
     },
     {
       "code": "7851",
       "name": "慧康生技*-KY",
       "industry": "生技醫療",
-      "close": 32.0,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 31.8,
+      "close": 32.2,
+      "change_amount": 0.2,
+      "change_pct": 0.47,
+      "ma5": 31.9,
       "ma10": 32.3,
       "ma20": 33.5,
       "ma60": 35.5,
       "high52": 45.0,
       "low52": 21.7,
-      "volume": 11031,
+      "volume": 11032,
       "market": "興櫃"
     },
     {
       "code": "7853",
       "name": "政美應用",
       "industry": "半導體",
-      "close": 415.0,
-      "change_amount": 24.5,
-      "change_pct": 6.27,
-      "ma5": 367.3,
-      "ma10": 348.0,
-      "ma20": 345.7,
-      "ma60": 368.7,
+      "close": 421.0,
+      "change_amount": 30.5,
+      "change_pct": 7.81,
+      "ma5": 368.5,
+      "ma10": 348.6,
+      "ma20": 346.0,
+      "ma60": 368.8,
       "high52": 605.0,
       "low52": 232.5,
-      "volume": 1801727,
+      "volume": 2113286,
       "market": "興櫃"
     },
     {
       "code": "7854",
       "name": "佐茂",
       "industry": "電腦及週邊",
-      "close": 76.5,
-      "change_amount": -2.0,
-      "change_pct": -2.55,
-      "ma5": 79.1,
-      "ma10": 82.3,
-      "ma20": 85.4,
-      "ma60": 86.7,
+      "close": 79.9,
+      "change_amount": 1.4,
+      "change_pct": 1.78,
+      "ma5": 79.8,
+      "ma10": 82.7,
+      "ma20": 85.6,
+      "ma60": 86.8,
       "high52": 130.0,
       "low52": 60.1,
-      "volume": 10994,
+      "volume": 17248,
       "market": "興櫃"
     },
     {
@@ -38039,48 +38039,48 @@ var LOOKUP = {
       "code": "7856",
       "name": "漢測",
       "industry": "半導體",
-      "close": 4200.0,
-      "change_amount": -40.0,
-      "change_pct": -0.94,
-      "ma5": 4261.0,
-      "ma10": 4233.5,
-      "ma20": 3779.8,
-      "ma60": 3492.3,
+      "close": 4215.0,
+      "change_amount": -25.0,
+      "change_pct": -0.59,
+      "ma5": 4264.0,
+      "ma10": 4235.0,
+      "ma20": 3780.6,
+      "ma60": 3492.6,
       "high52": 4490.0,
       "low52": 2929.3,
-      "volume": 132713,
+      "volume": 137071,
       "market": "興櫃"
     },
     {
       "code": "7857",
       "name": "合水先進",
       "industry": "數位雲端",
-      "close": 44.4,
-      "change_amount": -0.1,
-      "change_pct": -0.22,
-      "ma5": 44.8,
+      "close": 44.7,
+      "change_amount": 0.2,
+      "change_pct": 0.34,
+      "ma5": 44.9,
       "ma10": 45.8,
       "ma20": 47.1,
       "ma60": 49.9,
       "high52": 65.3,
-      "low52": 44.4,
-      "volume": 27862,
+      "low52": 44.5,
+      "volume": 27938,
       "market": "興櫃"
     },
     {
       "code": "7858",
       "name": "芝普",
       "industry": "化學",
-      "close": 189.0,
-      "change_amount": 19.0,
-      "change_pct": 11.18,
-      "ma5": 173.4,
-      "ma10": 177.5,
-      "ma20": 178.6,
-      "ma60": 219.2,
+      "close": 183.0,
+      "change_amount": 13.0,
+      "change_pct": 7.65,
+      "ma5": 172.2,
+      "ma10": 176.9,
+      "ma20": 178.3,
+      "ma60": 219.1,
       "high52": 328.4,
       "low52": 164.5,
-      "volume": 101077,
+      "volume": 118938,
       "market": "興櫃"
     },
     {
@@ -38112,7 +38112,7 @@ var LOOKUP = {
       "ma60": 1129.3,
       "high52": 1410.0,
       "low52": 850.0,
-      "volume": 67875,
+      "volume": 69004,
       "market": "興櫃"
     },
     {
@@ -38135,48 +38135,48 @@ var LOOKUP = {
       "code": "7863",
       "name": "中科物流",
       "industry": "航運",
-      "close": 45.1,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 45.4,
-      "ma10": 45.8,
-      "ma20": 47.6,
+      "close": 42.8,
+      "change_amount": -2.2,
+      "change_pct": -4.99,
+      "ma5": 45.0,
+      "ma10": 45.6,
+      "ma20": 47.5,
       "ma60": null,
       "high52": 53.0,
       "low52": 39.8,
-      "volume": 2,
+      "volume": 52,
       "market": "興櫃"
     },
     {
       "code": "7865",
       "name": "金聯成",
       "industry": "數位雲端",
-      "close": 55.4,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 55.4,
-      "ma10": 55.1,
-      "ma20": 58.6,
+      "close": 54.5,
+      "change_amount": -0.9,
+      "change_pct": -1.62,
+      "ma5": 55.2,
+      "ma10": 55.0,
+      "ma20": 58.5,
       "ma60": null,
       "high52": 71.9,
       "low52": 42.5,
-      "volume": 16431,
+      "volume": 17431,
       "market": "興櫃"
     },
     {
       "code": "7866",
       "name": "丹立",
       "industry": "半導體",
-      "close": 210.5,
-      "change_amount": 5.5,
-      "change_pct": 2.68,
-      "ma5": 211.3,
+      "close": 211.0,
+      "change_amount": 6.0,
+      "change_pct": 2.93,
+      "ma5": 211.4,
       "ma10": 221.9,
       "ma20": 214.0,
       "ma60": 227.1,
       "high52": 288.0,
       "low52": 145.5,
-      "volume": 174374,
+      "volume": 190714,
       "market": "興櫃"
     },
     {
@@ -38192,23 +38192,23 @@ var LOOKUP = {
       "ma60": 53.5,
       "high52": 57.3,
       "low52": 49.0,
-      "volume": 5114,
+      "volume": 5140,
       "market": "興櫃"
     },
     {
       "code": "7868",
       "name": "聖育",
       "industry": "其他電子",
-      "close": 61.5,
-      "change_amount": 0.5,
-      "change_pct": 0.82,
-      "ma5": 63.5,
+      "close": 62.0,
+      "change_amount": 1.0,
+      "change_pct": 1.64,
+      "ma5": 63.6,
       "ma10": 67.0,
       "ma20": 71.1,
       "ma60": 86.6,
       "high52": 110.5,
       "low52": 61.0,
-      "volume": 58140,
+      "volume": 71140,
       "market": "興櫃"
     },
     {
@@ -38247,32 +38247,32 @@ var LOOKUP = {
       "code": "7871",
       "name": "安立璽榮-KY",
       "industry": "生技醫療",
-      "close": 74.5,
-      "change_amount": -1.0,
-      "change_pct": -1.32,
+      "close": 74.6,
+      "change_amount": -0.9,
+      "change_pct": -1.19,
       "ma5": 75.9,
-      "ma10": 74.1,
+      "ma10": 74.2,
       "ma20": 73.1,
       "ma60": 72.2,
       "high52": 79.1,
       "low52": 67.3,
-      "volume": 554456,
+      "volume": 602850,
       "market": "興櫃"
     },
     {
       "code": "7872",
       "name": "登豐",
       "industry": "半導體",
-      "close": 69.7,
-      "change_amount": 1.6,
-      "change_pct": 2.35,
-      "ma5": 68.0,
-      "ma10": 68.8,
-      "ma20": 60.9,
+      "close": 71.2,
+      "change_amount": 3.1,
+      "change_pct": 4.55,
+      "ma5": 68.3,
+      "ma10": 68.9,
+      "ma20": 61.0,
       "ma60": 67.2,
       "high52": 99.4,
       "low52": 48.7,
-      "volume": 85950,
+      "volume": 102212,
       "market": "興櫃"
     },
     {
@@ -38288,39 +38288,39 @@ var LOOKUP = {
       "ma60": null,
       "high52": 277.5,
       "low52": 200.0,
-      "volume": 156210,
+      "volume": 160825,
       "market": "興櫃"
     },
     {
       "code": "7875",
       "name": "安圖斯",
       "industry": "電腦及週邊",
-      "close": 134.5,
-      "change_amount": 5.0,
-      "change_pct": 3.86,
-      "ma5": 132.5,
-      "ma10": 131.9,
-      "ma20": 136.7,
-      "ma60": 138.9,
+      "close": 129.0,
+      "change_amount": -0.5,
+      "change_pct": -0.39,
+      "ma5": 131.4,
+      "ma10": 131.4,
+      "ma20": 136.4,
+      "ma60": 138.8,
       "high52": 172.2,
       "low52": 112.0,
-      "volume": 5066,
+      "volume": 5316,
       "market": "興櫃"
     },
     {
       "code": "7876",
       "name": "鼎晉生技",
       "industry": "生技醫療",
-      "close": 37.5,
-      "change_amount": 1.4,
-      "change_pct": 3.87,
-      "ma5": 36.4,
-      "ma10": 36.3,
+      "close": 38.0,
+      "change_amount": 1.8,
+      "change_pct": 5.12,
+      "ma5": 36.5,
+      "ma10": 36.4,
       "ma20": 36.3,
       "ma60": 37.1,
       "high52": 39.7,
       "low52": 35.2,
-      "volume": 417588,
+      "volume": 454148,
       "market": "興櫃"
     },
     {
@@ -38343,32 +38343,32 @@ var LOOKUP = {
       "code": "7878",
       "name": "藥祇",
       "industry": "生技醫療",
-      "close": 249.5,
-      "change_amount": 11.5,
-      "change_pct": 4.83,
-      "ma5": 237.1,
-      "ma10": 232.1,
-      "ma20": 242.5,
+      "close": 254.5,
+      "change_amount": 16.5,
+      "change_pct": 6.93,
+      "ma5": 238.1,
+      "ma10": 232.6,
+      "ma20": 242.8,
       "ma60": 273.4,
       "high52": 315.5,
       "low52": 214.0,
-      "volume": 383092,
+      "volume": 398243,
       "market": "興櫃"
     },
     {
       "code": "7879",
       "name": "益材科技",
       "industry": "電機機械",
-      "close": 80.2,
-      "change_amount": 0.2,
-      "change_pct": 0.25,
-      "ma5": 79.8,
-      "ma10": 86.2,
+      "close": 80.3,
+      "change_amount": 0.3,
+      "change_pct": 0.38,
+      "ma5": 79.9,
+      "ma10": 86.3,
       "ma20": 94.7,
       "ma60": 109.6,
       "high52": 147.9,
       "low52": 78.2,
-      "volume": 88794,
+      "volume": 100214,
       "market": "興櫃"
     },
     {
@@ -38384,55 +38384,55 @@ var LOOKUP = {
       "ma60": 191.7,
       "high52": 240.6,
       "low52": 160.7,
-      "volume": 26095,
+      "volume": 26196,
       "market": "興櫃"
     },
     {
       "code": "7881",
       "name": "科明",
       "industry": "生技醫療",
-      "close": 96.0,
-      "change_amount": 2.0,
-      "change_pct": 2.13,
-      "ma5": 94.4,
-      "ma10": 94.2,
-      "ma20": 96.1,
+      "close": 97.0,
+      "change_amount": 3.0,
+      "change_pct": 3.19,
+      "ma5": 94.6,
+      "ma10": 94.3,
+      "ma20": 96.2,
       "ma60": 99.0,
       "high52": 108.5,
       "low52": 91.0,
-      "volume": 5140,
+      "volume": 6140,
       "market": "興櫃"
     },
     {
       "code": "7882",
       "name": "倍利創投",
       "industry": "其他",
-      "close": 21.1,
-      "change_amount": -0.4,
-      "change_pct": -1.63,
+      "close": 21.4,
+      "change_amount": -0.1,
+      "change_pct": -0.47,
       "ma5": 21.1,
       "ma10": 20.6,
       "ma20": 20.6,
       "ma60": 21.9,
       "high52": 23.2,
       "low52": 20.0,
-      "volume": 241702,
+      "volume": 278266,
       "market": "興櫃"
     },
     {
       "code": "7883",
       "name": "饗賓",
       "industry": "觀光餐旅",
-      "close": 251.5,
-      "change_amount": 0.5,
-      "change_pct": 0.2,
-      "ma5": 250.6,
+      "close": 251.0,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 250.5,
       "ma10": 252.9,
-      "ma20": 255.2,
+      "ma20": 255.1,
       "ma60": 274.2,
       "high52": 304.5,
       "low52": 235.8,
-      "volume": 11733,
+      "volume": 12733,
       "market": "興櫃"
     },
     {
@@ -38455,32 +38455,32 @@ var LOOKUP = {
       "code": "7886",
       "name": "科建",
       "industry": "半導體",
-      "close": 128.0,
-      "change_amount": -5.0,
-      "change_pct": -3.76,
-      "ma5": 127.5,
-      "ma10": 127.5,
-      "ma20": 144.4,
-      "ma60": 185.2,
+      "close": 115.0,
+      "change_amount": -18.0,
+      "change_pct": -13.53,
+      "ma5": 124.9,
+      "ma10": 126.2,
+      "ma20": 143.8,
+      "ma60": 185.0,
       "high52": 253.0,
-      "low52": 115.5,
-      "volume": 55391,
+      "low52": 115.0,
+      "volume": 126920,
       "market": "興櫃"
     },
     {
       "code": "7887",
       "name": "宇川精材",
       "industry": "半導體",
-      "close": 187.5,
-      "change_amount": -1.0,
-      "change_pct": -0.53,
-      "ma5": 178.2,
-      "ma10": 171.3,
-      "ma20": 184.8,
+      "close": 189.5,
+      "change_amount": 1.0,
+      "change_pct": 0.53,
+      "ma5": 178.6,
+      "ma10": 171.6,
+      "ma20": 184.9,
       "ma60": 231.9,
       "high52": 343.5,
       "low52": 149.0,
-      "volume": 401150,
+      "volume": 423093,
       "market": "興櫃"
     },
     {
@@ -38496,7 +38496,7 @@ var LOOKUP = {
       "ma60": 38.6,
       "high52": 46.6,
       "low52": 31.9,
-      "volume": 43055,
+      "volume": 43057,
       "market": "興櫃"
     },
     {
@@ -38528,55 +38528,55 @@ var LOOKUP = {
       "ma60": 119.0,
       "high52": 141.0,
       "low52": 109.5,
-      "volume": 2002,
+      "volume": 3103,
       "market": "興櫃"
     },
     {
       "code": "7891",
       "name": "博研醫藥",
       "industry": "生技醫療",
-      "close": 25.9,
-      "change_amount": 0.1,
-      "change_pct": 0.19,
-      "ma5": 25.9,
-      "ma10": 25.5,
-      "ma20": 24.9,
+      "close": 25.0,
+      "change_amount": -0.8,
+      "change_pct": -3.1,
+      "ma5": 25.8,
+      "ma10": 25.4,
+      "ma20": 24.8,
       "ma60": 24.3,
       "high52": 28.1,
       "low52": 20.2,
-      "volume": 20064,
+      "volume": 20082,
       "market": "興櫃"
     },
     {
       "code": "7892",
       "name": "元鈦科",
       "industry": "電腦及週邊",
-      "close": 783.0,
-      "change_amount": 3.0,
-      "change_pct": 0.38,
-      "ma5": 770.4,
-      "ma10": 784.0,
-      "ma20": 803.8,
-      "ma60": 912.6,
+      "close": 791.0,
+      "change_amount": 11.0,
+      "change_pct": 1.41,
+      "ma5": 772.0,
+      "ma10": 784.8,
+      "ma20": 804.1,
+      "ma60": 912.8,
       "high52": 1275.0,
       "low52": 752.0,
-      "volume": 66050,
+      "volume": 91221,
       "market": "興櫃"
     },
     {
       "code": "7893",
       "name": "睿信",
       "industry": "電子零組件",
-      "close": 203.0,
-      "change_amount": 9.0,
-      "change_pct": 4.64,
-      "ma5": 198.7,
-      "ma10": 193.3,
+      "close": 204.0,
+      "change_amount": 10.0,
+      "change_pct": 5.15,
+      "ma5": 198.9,
+      "ma10": 193.4,
       "ma20": 193.3,
       "ma60": 205.5,
       "high52": 243.1,
       "low52": 181.6,
-      "volume": 41726,
+      "volume": 49768,
       "market": "興櫃"
     },
     {
@@ -38599,16 +38599,16 @@ var LOOKUP = {
       "code": "7896",
       "name": "喬越",
       "industry": "電子零組件",
-      "close": 220.0,
-      "change_amount": 7.0,
-      "change_pct": 3.29,
-      "ma5": 216.7,
-      "ma10": 214.8,
-      "ma20": 220.6,
-      "ma60": 281.9,
+      "close": 212.5,
+      "change_amount": -0.5,
+      "change_pct": -0.23,
+      "ma5": 215.2,
+      "ma10": 214.0,
+      "ma20": 220.2,
+      "ma60": 281.8,
       "high52": 425.0,
       "low52": 210.0,
-      "volume": 35,
+      "volume": 111,
       "market": "興櫃"
     },
     {
@@ -38624,23 +38624,23 @@ var LOOKUP = {
       "ma60": null,
       "high52": 46.8,
       "low52": 34.4,
-      "volume": 6400,
+      "volume": 8400,
       "market": "興櫃"
     },
     {
       "code": "7898",
       "name": "乾瞻",
       "industry": "半導體",
-      "close": 481.5,
-      "change_amount": 22.5,
-      "change_pct": 4.9,
-      "ma5": 478.2,
+      "close": 482.0,
+      "change_amount": 23.0,
+      "change_pct": 5.01,
+      "ma5": 478.3,
       "ma10": 507.4,
       "ma20": 545.0,
       "ma60": null,
       "high52": 836.0,
       "low52": 459.0,
-      "volume": 71078,
+      "volume": 72317,
       "market": "興櫃"
     },
     {
@@ -38656,7 +38656,7 @@ var LOOKUP = {
       "ma60": 539.6,
       "high52": 805.0,
       "low52": 411.0,
-      "volume": 112422,
+      "volume": 128419,
       "market": "興櫃"
     },
     {
@@ -38679,16 +38679,16 @@ var LOOKUP = {
       "code": "7902",
       "name": "宇越生醫*",
       "industry": "生技醫療",
-      "close": 39.0,
-      "change_amount": 0.3,
-      "change_pct": 0.78,
-      "ma5": 33.9,
-      "ma10": 32.9,
+      "close": 39.5,
+      "change_amount": 0.8,
+      "change_pct": 2.07,
+      "ma5": 34.0,
+      "ma10": 33.0,
       "ma20": 33.8,
       "ma60": 39.2,
       "high52": 47.7,
       "low52": 30.2,
-      "volume": 411139,
+      "volume": 413341,
       "market": "興櫃"
     },
     {
@@ -38711,176 +38711,176 @@ var LOOKUP = {
       "code": "7907",
       "name": "錸恩帕斯",
       "industry": "文化創意",
-      "close": 239.5,
-      "change_amount": 4.5,
-      "change_pct": 1.91,
-      "ma5": 234.6,
+      "close": 239.0,
+      "change_amount": 4.0,
+      "change_pct": 1.7,
+      "ma5": 234.5,
       "ma10": 233.8,
       "ma20": 238.4,
       "ma60": null,
       "high52": 409.5,
       "low52": 226.0,
-      "volume": 30076,
+      "volume": 32383,
       "market": "興櫃"
     },
     {
       "code": "7909",
       "name": "鈺祥",
       "industry": "半導體",
-      "close": 645.0,
-      "change_amount": 77.0,
-      "change_pct": 13.56,
-      "ma5": 552.2,
-      "ma10": 571.4,
-      "ma20": 625.4,
-      "ma60": 781.4,
+      "close": 641.0,
+      "change_amount": 73.0,
+      "change_pct": 12.85,
+      "ma5": 551.4,
+      "ma10": 571.0,
+      "ma20": 625.2,
+      "ma60": 781.3,
       "high52": 1049.4,
       "low52": 503.0,
-      "volume": 336629,
+      "volume": 362801,
       "market": "興櫃"
     },
     {
       "code": "7911",
       "name": "阿波羅電力",
       "industry": "數位雲端",
-      "close": 147.0,
-      "change_amount": 3.0,
-      "change_pct": 2.08,
-      "ma5": 153.8,
-      "ma10": 162.2,
-      "ma20": 163.9,
+      "close": 146.0,
+      "change_amount": 2.0,
+      "change_pct": 1.39,
+      "ma5": 153.6,
+      "ma10": 162.1,
+      "ma20": 163.8,
       "ma60": null,
       "high52": 179.0,
       "low52": 113.0,
-      "volume": 111524,
+      "volume": 126439,
       "market": "興櫃"
     },
     {
       "code": "7912",
       "name": "新聿科",
       "industry": "電子零組件",
-      "close": 476.5,
-      "change_amount": 10.5,
-      "change_pct": 2.25,
-      "ma5": 462.0,
-      "ma10": 467.1,
+      "close": 477.5,
+      "change_amount": 11.5,
+      "change_pct": 2.47,
+      "ma5": 462.2,
+      "ma10": 467.2,
       "ma20": 473.2,
       "ma60": null,
       "high52": 1005.0,
       "low52": 371.0,
-      "volume": 24499,
+      "volume": 25075,
       "market": "興櫃"
     },
     {
       "code": "7913",
       "name": "通寶半導體",
       "industry": "半導體",
-      "close": 346.0,
-      "change_amount": 10.5,
-      "change_pct": 3.13,
-      "ma5": 340.9,
-      "ma10": 331.6,
-      "ma20": 338.3,
+      "close": 345.0,
+      "change_amount": 9.5,
+      "change_pct": 2.83,
+      "ma5": 340.7,
+      "ma10": 331.4,
+      "ma20": 338.2,
       "ma60": null,
       "high52": 529.0,
       "low52": 274.5,
-      "volume": 50643,
+      "volume": 55948,
       "market": "興櫃"
     },
     {
       "code": "7915",
       "name": "廌家",
       "industry": "通信網路",
-      "close": 462.0,
-      "change_amount": 0.0,
-      "change_pct": 0.0,
-      "ma5": 451.3,
-      "ma10": 466.4,
-      "ma20": 488.8,
+      "close": 453.0,
+      "change_amount": -9.0,
+      "change_pct": -1.95,
+      "ma5": 449.5,
+      "ma10": 465.6,
+      "ma20": 488.3,
       "ma60": null,
       "high52": 815.0,
       "low52": 438.0,
-      "volume": 9702,
+      "volume": 13223,
       "market": "興櫃"
     },
     {
       "code": "7918",
       "name": "創鉅材料",
       "industry": "半導體",
-      "close": 1175.0,
-      "change_amount": -10.0,
-      "change_pct": -0.84,
-      "ma5": 1189.0,
-      "ma10": 1251.5,
-      "ma20": 1318.0,
+      "close": 1180.0,
+      "change_amount": -5.0,
+      "change_pct": -0.42,
+      "ma5": 1190.0,
+      "ma10": 1252.0,
+      "ma20": 1318.2,
       "ma60": null,
       "high52": 1580.0,
       "low52": 849.0,
-      "volume": 55574,
+      "volume": 62017,
       "market": "興櫃"
     },
     {
       "code": "7919",
       "name": "禾蒼",
       "industry": "光電",
-      "close": 51.0,
-      "change_amount": 0.4,
-      "change_pct": 0.79,
-      "ma5": 51.1,
-      "ma10": 51.8,
-      "ma20": 57.5,
+      "close": 51.6,
+      "change_amount": 1.0,
+      "change_pct": 1.98,
+      "ma5": 51.2,
+      "ma10": 51.9,
+      "ma20": 57.6,
       "ma60": null,
       "high52": 120.5,
       "low52": 50.0,
-      "volume": 33373,
+      "volume": 40377,
       "market": "興櫃"
     },
     {
       "code": "7920",
       "name": "瀚陽*",
       "industry": "生技醫療",
-      "close": 13.6,
-      "change_amount": -0.2,
-      "change_pct": -1.81,
+      "close": 13.8,
+      "change_amount": -0.1,
+      "change_pct": -0.36,
       "ma5": 13.9,
       "ma10": 13.9,
       "ma20": 14.2,
       "ma60": null,
       "high52": 18.2,
       "low52": 6.0,
-      "volume": 793622,
+      "volume": 889126,
       "market": "興櫃"
     },
     {
       "code": "7921",
       "name": "台普威",
       "industry": "數位雲端",
-      "close": 93.4,
-      "change_amount": 5.9,
-      "change_pct": 6.74,
-      "ma5": 92.2,
-      "ma10": 96.4,
-      "ma20": 106.8,
+      "close": 93.9,
+      "change_amount": 6.4,
+      "change_pct": 7.31,
+      "ma5": 92.3,
+      "ma10": 96.5,
+      "ma20": 106.9,
       "ma60": null,
       "high52": 150.5,
       "low52": 87.5,
-      "volume": 27908,
+      "volume": 32210,
       "market": "興櫃"
     },
     {
       "code": "7922",
       "name": "源點*",
       "industry": "數位雲端",
-      "close": 105.0,
-      "change_amount": -5.0,
-      "change_pct": -4.55,
-      "ma5": 112.2,
-      "ma10": 109.0,
-      "ma20": 108.2,
+      "close": 108.5,
+      "change_amount": -1.5,
+      "change_pct": -1.36,
+      "ma5": 112.9,
+      "ma10": 109.4,
+      "ma20": 108.3,
       "ma60": null,
       "high52": 146.5,
       "low52": 103.5,
-      "volume": 6770,
+      "volume": 7770,
       "market": "興櫃"
     },
     {
@@ -38896,7 +38896,7 @@ var LOOKUP = {
       "ma60": 18.3,
       "high52": 20.7,
       "low52": 16.9,
-      "volume": 679001,
+      "volume": 671555,
       "market": "上市"
     },
     {
@@ -38912,7 +38912,7 @@ var LOOKUP = {
       "ma60": 265.1,
       "high52": 339.0,
       "low52": 186.3,
-      "volume": 1509512,
+      "volume": 1465502,
       "market": "上市"
     },
     {
@@ -38928,7 +38928,7 @@ var LOOKUP = {
       "ma60": 455.3,
       "high52": 581.0,
       "low52": 266.5,
-      "volume": 1599525,
+      "volume": 1556960,
       "market": "上市"
     },
     {
@@ -38944,7 +38944,7 @@ var LOOKUP = {
       "ma60": 13.0,
       "high52": 17.5,
       "low52": 12.1,
-      "volume": 108494,
+      "volume": 106000,
       "market": "上櫃"
     },
     {
@@ -38960,7 +38960,7 @@ var LOOKUP = {
       "ma60": 219.1,
       "high52": 293.0,
       "low52": 136.5,
-      "volume": 9135221,
+      "volume": 8892409,
       "market": "上櫃"
     },
     {
@@ -38976,7 +38976,7 @@ var LOOKUP = {
       "ma60": 271.8,
       "high52": 353.3,
       "low52": 175.9,
-      "volume": 11307019,
+      "volume": 11037974,
       "market": "上市"
     },
     {
@@ -38992,7 +38992,7 @@ var LOOKUP = {
       "ma60": 40.9,
       "high52": 46.6,
       "low52": 32.4,
-      "volume": 43334,
+      "volume": 42000,
       "market": "上櫃"
     },
     {
@@ -39008,7 +39008,7 @@ var LOOKUP = {
       "ma60": 142.9,
       "high52": 204.5,
       "low52": 125.0,
-      "volume": 10947350,
+      "volume": 10644292,
       "market": "上市"
     },
     {
@@ -39024,7 +39024,7 @@ var LOOKUP = {
       "ma60": 22.8,
       "high52": 25.0,
       "low52": 21.6,
-      "volume": 139469,
+      "volume": 135600,
       "market": "上櫃"
     },
     {
@@ -39040,7 +39040,7 @@ var LOOKUP = {
       "ma60": 41.7,
       "high52": 47.5,
       "low52": 38.6,
-      "volume": 194556,
+      "volume": 192004,
       "market": "上櫃"
     },
     {
@@ -39056,7 +39056,7 @@ var LOOKUP = {
       "ma60": 140.5,
       "high52": 159.7,
       "low52": 120.2,
-      "volume": 8248694,
+      "volume": 8164209,
       "market": "上市"
     },
     {
@@ -39072,7 +39072,7 @@ var LOOKUP = {
       "ma60": 89.4,
       "high52": 125.0,
       "low52": 47.2,
-      "volume": 1215606,
+      "volume": 1203422,
       "market": "上櫃"
     },
     {
@@ -39088,7 +39088,7 @@ var LOOKUP = {
       "ma60": 122.6,
       "high52": 210.5,
       "low52": 51.3,
-      "volume": 31434704,
+      "volume": 31218865,
       "market": "上櫃"
     },
     {
@@ -39104,7 +39104,7 @@ var LOOKUP = {
       "ma60": 135.5,
       "high52": 226.5,
       "low52": 63.6,
-      "volume": 25951708,
+      "volume": 25806632,
       "market": "上櫃"
     },
     {
@@ -39120,7 +39120,7 @@ var LOOKUP = {
       "ma60": 26.7,
       "high52": 32.0,
       "low52": 22.1,
-      "volume": 735245,
+      "volume": 732105,
       "market": "上櫃"
     },
     {
@@ -39136,7 +39136,7 @@ var LOOKUP = {
       "ma60": 67.8,
       "high52": 79.2,
       "low52": 57.8,
-      "volume": 146490,
+      "volume": 144160,
       "market": "上市"
     },
     {
@@ -39152,7 +39152,7 @@ var LOOKUP = {
       "ma60": 882.4,
       "high52": 1185.0,
       "low52": 622.7,
-      "volume": 13107626,
+      "volume": 12835965,
       "market": "上市"
     },
     {
@@ -39168,7 +39168,7 @@ var LOOKUP = {
       "ma60": 50.8,
       "high52": 57.6,
       "low52": 41.7,
-      "volume": 42056,
+      "volume": 42000,
       "market": "上櫃"
     },
     {
@@ -39184,7 +39184,7 @@ var LOOKUP = {
       "ma60": 63.0,
       "high52": 73.5,
       "low52": 52.5,
-      "volume": 182876,
+      "volume": 182080,
       "market": "上櫃"
     },
     {
@@ -39200,7 +39200,7 @@ var LOOKUP = {
       "ma60": 26.4,
       "high52": 28.1,
       "low52": 25.1,
-      "volume": 532832,
+      "volume": 532150,
       "market": "上櫃"
     },
     {
@@ -39216,7 +39216,7 @@ var LOOKUP = {
       "ma60": 50.2,
       "high52": 60.1,
       "low52": 40.0,
-      "volume": 722071,
+      "volume": 710482,
       "market": "上櫃"
     },
     {
@@ -39232,23 +39232,23 @@ var LOOKUP = {
       "ma60": 107.3,
       "high52": 136.5,
       "low52": 90.4,
-      "volume": 3382891,
+      "volume": 3357010,
       "market": "上櫃"
     },
     {
       "code": "8058",
       "name": "耐特",
       "industry": "文化創意",
-      "close": 101.0,
-      "change_amount": -4.0,
-      "change_pct": -3.81,
-      "ma5": 94.1,
-      "ma10": 91.8,
-      "ma20": 93.9,
-      "ma60": 107.4,
+      "close": 101.5,
+      "change_amount": -3.5,
+      "change_pct": -3.33,
+      "ma5": 94.2,
+      "ma10": 91.9,
+      "ma20": 94.0,
+      "ma60": 107.5,
       "high52": 151.4,
       "low52": 84.1,
-      "volume": 336368,
+      "volume": 348499,
       "market": "興櫃"
     },
     {
@@ -39264,7 +39264,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 23.2,
       "low52": 16.3,
-      "volume": 234117,
+      "volume": 233000,
       "market": "上櫃"
     },
     {
@@ -39280,7 +39280,7 @@ var LOOKUP = {
       "ma60": 122.8,
       "high52": 171.2,
       "low52": 64.3,
-      "volume": 4522134,
+      "volume": 4470750,
       "market": "上櫃"
     },
     {
@@ -39296,7 +39296,7 @@ var LOOKUP = {
       "ma60": 16.6,
       "high52": 18.5,
       "low52": 15.1,
-      "volume": 28649,
+      "volume": 23692,
       "market": "上櫃"
     },
     {
@@ -39312,7 +39312,7 @@ var LOOKUP = {
       "ma60": 13.2,
       "high52": 15.0,
       "low52": 12.2,
-      "volume": 4001,
+      "volume": 4000,
       "market": "上櫃"
     },
     {
@@ -39328,7 +39328,7 @@ var LOOKUP = {
       "ma60": 21.0,
       "high52": 24.5,
       "low52": 18.3,
-      "volume": 212951,
+      "volume": 212000,
       "market": "上櫃"
     },
     {
@@ -39344,7 +39344,7 @@ var LOOKUP = {
       "ma60": 189.1,
       "high52": 249.0,
       "low52": 137.5,
-      "volume": 10311335,
+      "volume": 10198202,
       "market": "上櫃"
     },
     {
@@ -39360,7 +39360,7 @@ var LOOKUP = {
       "ma60": 50.7,
       "high52": 64.5,
       "low52": 42.1,
-      "volume": 5003866,
+      "volume": 4976000,
       "market": "上市"
     },
     {
@@ -39376,7 +39376,7 @@ var LOOKUP = {
       "ma60": 21.3,
       "high52": 33.8,
       "low52": 15.4,
-      "volume": 3816499,
+      "volume": 3804470,
       "market": "上櫃"
     },
     {
@@ -39392,7 +39392,7 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 31.2,
       "low52": 26.4,
-      "volume": 503020,
+      "volume": 502694,
       "market": "上市"
     },
     {
@@ -39408,7 +39408,7 @@ var LOOKUP = {
       "ma60": 74.5,
       "high52": 91.6,
       "low52": 55.0,
-      "volume": 1150784,
+      "volume": 1125679,
       "market": "上櫃"
     },
     {
@@ -39424,7 +39424,7 @@ var LOOKUP = {
       "ma60": 24.5,
       "high52": 28.6,
       "low52": 22.4,
-      "volume": 1092398,
+      "volume": 1083820,
       "market": "上櫃"
     },
     {
@@ -39434,10 +39434,10 @@ var LOOKUP = {
       "close": 48.0,
       "change_amount": 0.0,
       "change_pct": 0.0,
-      "ma5": 47.5,
-      "ma10": 49.0,
-      "ma20": 50.5,
-      "ma60": 45.8,
+      "ma5": 47.7,
+      "ma10": 48.8,
+      "ma20": 50.2,
+      "ma60": 45.9,
       "high52": 54.2,
       "low52": 39.7,
       "volume": 0,
@@ -39456,7 +39456,7 @@ var LOOKUP = {
       "ma60": 28.3,
       "high52": 30.0,
       "low52": 27.1,
-      "volume": 55110,
+      "volume": 55000,
       "market": "上櫃"
     },
     {
@@ -39472,7 +39472,7 @@ var LOOKUP = {
       "ma60": 259.6,
       "high52": 323.8,
       "low52": 217.6,
-      "volume": 1790908,
+      "volume": 1750906,
       "market": "上市"
     },
     {
@@ -39488,7 +39488,7 @@ var LOOKUP = {
       "ma60": 172.1,
       "high52": 178.0,
       "low52": 166.5,
-      "volume": 201989,
+      "volume": 198021,
       "market": "上櫃"
     },
     {
@@ -39504,7 +39504,7 @@ var LOOKUP = {
       "ma60": 46.3,
       "high52": 51.9,
       "low52": 42.3,
-      "volume": 37063,
+      "volume": 38000,
       "market": "上櫃"
     },
     {
@@ -39520,7 +39520,7 @@ var LOOKUP = {
       "ma60": 12.9,
       "high52": 16.1,
       "low52": 11.0,
-      "volume": 270826,
+      "volume": 269000,
       "market": "上櫃"
     },
     {
@@ -39536,7 +39536,7 @@ var LOOKUP = {
       "ma60": 151.8,
       "high52": 179.0,
       "low52": 134.0,
-      "volume": 2244080,
+      "volume": 2212529,
       "market": "上櫃"
     },
     {
@@ -39552,7 +39552,7 @@ var LOOKUP = {
       "ma60": 34.0,
       "high52": 38.8,
       "low52": 31.5,
-      "volume": 259880,
+      "volume": 259145,
       "market": "上櫃"
     },
     {
@@ -39568,7 +39568,7 @@ var LOOKUP = {
       "ma60": 56.3,
       "high52": 67.6,
       "low52": 47.6,
-      "volume": 1115373,
+      "volume": 1112495,
       "market": "上櫃"
     },
     {
@@ -39584,7 +39584,7 @@ var LOOKUP = {
       "ma60": 20.8,
       "high52": 22.9,
       "low52": 19.6,
-      "volume": 223720,
+      "volume": 220003,
       "market": "上櫃"
     },
     {
@@ -39600,7 +39600,7 @@ var LOOKUP = {
       "ma60": 227.0,
       "high52": 293.5,
       "low52": 163.7,
-      "volume": 1761943,
+      "volume": 1728464,
       "market": "上櫃"
     },
     {
@@ -39616,7 +39616,7 @@ var LOOKUP = {
       "ma60": 15.7,
       "high52": 19.0,
       "low52": 11.7,
-      "volume": 206477,
+      "volume": 206702,
       "market": "上櫃"
     },
     {
@@ -39632,7 +39632,7 @@ var LOOKUP = {
       "ma60": 19.1,
       "high52": 20.9,
       "low52": 17.5,
-      "volume": 72807,
+      "volume": 68600,
       "market": "上櫃"
     },
     {
@@ -39648,7 +39648,7 @@ var LOOKUP = {
       "ma60": 116.9,
       "high52": 157.5,
       "low52": 88.6,
-      "volume": 2213770,
+      "volume": 2190303,
       "market": "上櫃"
     },
     {
@@ -39664,7 +39664,7 @@ var LOOKUP = {
       "ma60": 55.9,
       "high52": 61.2,
       "low52": 50.9,
-      "volume": 384728,
+      "volume": 383000,
       "market": "上櫃"
     },
     {
@@ -39680,7 +39680,7 @@ var LOOKUP = {
       "ma60": 382.9,
       "high52": 456.5,
       "low52": 325.0,
-      "volume": 162945,
+      "volume": 172781,
       "market": "興櫃"
     },
     {
@@ -39696,7 +39696,7 @@ var LOOKUP = {
       "ma60": 62.6,
       "high52": 72.0,
       "low52": 57.8,
-      "volume": 445546,
+      "volume": 445000,
       "market": "上櫃"
     },
     {
@@ -39712,7 +39712,7 @@ var LOOKUP = {
       "ma60": 13.8,
       "high52": 16.6,
       "low52": 12.4,
-      "volume": 37563,
+      "volume": 37302,
       "market": "上市"
     },
     {
@@ -39744,7 +39744,7 @@ var LOOKUP = {
       "ma60": 103.9,
       "high52": 128.0,
       "low52": 79.2,
-      "volume": 964089,
+      "volume": 954330,
       "market": "上市"
     },
     {
@@ -39760,7 +39760,7 @@ var LOOKUP = {
       "ma60": 37.2,
       "high52": 44.6,
       "low52": 31.2,
-      "volume": 595197,
+      "volume": 593008,
       "market": "上市"
     },
     {
@@ -39776,7 +39776,7 @@ var LOOKUP = {
       "ma60": 17.5,
       "high52": 25.1,
       "low52": 13.1,
-      "volume": 5560571,
+      "volume": 5563132,
       "market": "上市"
     },
     {
@@ -39792,7 +39792,7 @@ var LOOKUP = {
       "ma60": 12.3,
       "high52": 13.5,
       "low52": 11.2,
-      "volume": 94225,
+      "volume": 93170,
       "market": "上櫃"
     },
     {
@@ -39808,7 +39808,7 @@ var LOOKUP = {
       "ma60": 119.2,
       "high52": 140.5,
       "low52": 106.0,
-      "volume": 920119,
+      "volume": 903258,
       "market": "上櫃"
     },
     {
@@ -39824,7 +39824,7 @@ var LOOKUP = {
       "ma60": 52.9,
       "high52": 65.2,
       "low52": 44.8,
-      "volume": 4485722,
+      "volume": 4451398,
       "market": "上市"
     },
     {
@@ -39840,7 +39840,7 @@ var LOOKUP = {
       "ma60": 63.0,
       "high52": 80.0,
       "low52": 50.5,
-      "volume": 517152,
+      "volume": 512185,
       "market": "上櫃"
     },
     {
@@ -39856,7 +39856,7 @@ var LOOKUP = {
       "ma60": 88.4,
       "high52": 100.5,
       "low52": 78.5,
-      "volume": 29381771,
+      "volume": 29335341,
       "market": "上市"
     },
     {
@@ -39872,23 +39872,23 @@ var LOOKUP = {
       "ma60": 196.5,
       "high52": 252.3,
       "low52": 155.0,
-      "volume": 717860,
+      "volume": 698203,
       "market": "上市"
     },
     {
       "code": "8119",
       "name": "公信",
       "industry": "電腦及週邊",
-      "close": 9.4,
-      "change_amount": 0.3,
-      "change_pct": 3.85,
+      "close": 9.5,
+      "change_amount": 0.4,
+      "change_pct": 4.07,
       "ma5": 9.4,
       "ma10": 9.7,
       "ma20": 10.0,
       "ma60": 11.4,
       "high52": 17.1,
       "low52": 7.5,
-      "volume": 128819,
+      "volume": 128996,
       "market": "興櫃"
     },
     {
@@ -39904,7 +39904,7 @@ var LOOKUP = {
       "ma60": 37.4,
       "high52": 54.4,
       "low52": 23.0,
-      "volume": 3247722,
+      "volume": 3217904,
       "market": "上櫃"
     },
     {
@@ -39920,7 +39920,7 @@ var LOOKUP = {
       "ma60": 67.5,
       "high52": 78.8,
       "low52": 57.9,
-      "volume": 6012899,
+      "volume": 5952293,
       "market": "上市"
     },
     {
@@ -39936,7 +39936,7 @@ var LOOKUP = {
       "ma60": 160.3,
       "high52": 190.5,
       "low52": 137.0,
-      "volume": 695942,
+      "volume": 682322,
       "market": "上櫃"
     },
     {
@@ -39952,7 +39952,7 @@ var LOOKUP = {
       "ma60": 85.9,
       "high52": 112.6,
       "low52": 56.3,
-      "volume": 36195664,
+      "volume": 36043356,
       "market": "上市"
     },
     {
@@ -39968,7 +39968,7 @@ var LOOKUP = {
       "ma60": 390.6,
       "high52": 456.5,
       "low52": 278.0,
-      "volume": 711746,
+      "volume": 685211,
       "market": "上櫃"
     },
     {
@@ -39984,7 +39984,7 @@ var LOOKUP = {
       "ma60": 61.3,
       "high52": 86.2,
       "low52": 37.7,
-      "volume": 449721,
+      "volume": 446200,
       "market": "上市"
     },
     {
@@ -40000,7 +40000,7 @@ var LOOKUP = {
       "ma60": 34.8,
       "high52": 45.3,
       "low52": 26.3,
-      "volume": 1092917,
+      "volume": 1080727,
       "market": "上市"
     },
     {
@@ -40016,7 +40016,7 @@ var LOOKUP = {
       "ma60": 23.0,
       "high52": 25.9,
       "low52": 20.2,
-      "volume": 139521,
+      "volume": 139009,
       "market": "上櫃"
     },
     {
@@ -40032,7 +40032,7 @@ var LOOKUP = {
       "ma60": 10.3,
       "high52": 11.1,
       "low52": 9.9,
-      "volume": 417215,
+      "volume": 417235,
       "market": "上櫃"
     },
     {
@@ -40048,7 +40048,7 @@ var LOOKUP = {
       "ma60": 42.9,
       "high52": 59.0,
       "low52": 27.5,
-      "volume": 23152958,
+      "volume": 23119999,
       "market": "上櫃"
     },
     {
@@ -40064,7 +40064,7 @@ var LOOKUP = {
       "ma60": 33.2,
       "high52": 37.5,
       "low52": 29.9,
-      "volume": 560948,
+      "volume": 556000,
       "market": "上櫃"
     },
     {
@@ -40080,7 +40080,7 @@ var LOOKUP = {
       "ma60": 13.2,
       "high52": 15.1,
       "low52": 12.1,
-      "volume": 131063,
+      "volume": 130066,
       "market": "上市"
     },
     {
@@ -40096,7 +40096,7 @@ var LOOKUP = {
       "ma60": 1269.7,
       "high52": 1538.6,
       "low52": 821.2,
-      "volume": 682227,
+      "volume": 646716,
       "market": "上市"
     },
     {
@@ -40112,7 +40112,7 @@ var LOOKUP = {
       "ma60": 37.2,
       "high52": 41.8,
       "low52": 32.7,
-      "volume": 451522,
+      "volume": 444000,
       "market": "上市"
     },
     {
@@ -40128,7 +40128,7 @@ var LOOKUP = {
       "ma60": 28.3,
       "high52": 32.6,
       "low52": 23.2,
-      "volume": 1463275,
+      "volume": 1449451,
       "market": "上市"
     },
     {
@@ -40144,7 +40144,7 @@ var LOOKUP = {
       "ma60": 36.3,
       "high52": 44.8,
       "low52": 33.8,
-      "volume": 5994767,
+      "volume": 5967046,
       "market": "上市"
     },
     {
@@ -40160,7 +40160,7 @@ var LOOKUP = {
       "ma60": 184.0,
       "high52": 246.8,
       "low52": 118.4,
-      "volume": 2815013,
+      "volume": 2777110,
       "market": "上櫃"
     },
     {
@@ -40176,7 +40176,7 @@ var LOOKUP = {
       "ma60": 67.2,
       "high52": 75.9,
       "low52": 58.3,
-      "volume": 1351983,
+      "volume": 1329690,
       "market": "上櫃"
     },
     {
@@ -40192,7 +40192,7 @@ var LOOKUP = {
       "ma60": 60.8,
       "high52": 73.0,
       "low52": 50.0,
-      "volume": 204663,
+      "volume": 202000,
       "market": "上櫃"
     },
     {
@@ -40208,7 +40208,7 @@ var LOOKUP = {
       "ma60": 49.1,
       "high52": 55.9,
       "low52": 45.3,
-      "volume": 383903,
+      "volume": 381001,
       "market": "上市"
     },
     {
@@ -40224,7 +40224,7 @@ var LOOKUP = {
       "ma60": 156.7,
       "high52": 210.7,
       "low52": 118.8,
-      "volume": 1582770,
+      "volume": 1531588,
       "market": "上櫃"
     },
     {
@@ -40240,7 +40240,7 @@ var LOOKUP = {
       "ma60": 166.4,
       "high52": 327.0,
       "low52": 104.0,
-      "volume": 35045992,
+      "volume": 34465081,
       "market": "上市"
     },
     {
@@ -40256,7 +40256,7 @@ var LOOKUP = {
       "ma60": 210.2,
       "high52": 254.5,
       "low52": 138.3,
-      "volume": 2249652,
+      "volume": 2207293,
       "market": "上市"
     },
     {
@@ -40272,7 +40272,7 @@ var LOOKUP = {
       "ma60": 68.5,
       "high52": 74.9,
       "low52": 66.2,
-      "volume": 1022,
+      "volume": 1200,
       "market": "上櫃"
     },
     {
@@ -40288,7 +40288,7 @@ var LOOKUP = {
       "ma60": 8.5,
       "high52": 12.0,
       "low52": 6.4,
-      "volume": 216640,
+      "volume": 215650,
       "market": "上櫃"
     },
     {
@@ -40304,7 +40304,7 @@ var LOOKUP = {
       "ma60": 93.5,
       "high52": 103.3,
       "low52": 88.2,
-      "volume": 25090,
+      "volume": 25000,
       "market": "上櫃"
     },
     {
@@ -40320,7 +40320,7 @@ var LOOKUP = {
       "ma60": 64.0,
       "high52": 66.6,
       "low52": 62.4,
-      "volume": 28293,
+      "volume": 27000,
       "market": "上櫃"
     },
     {
@@ -40336,7 +40336,7 @@ var LOOKUP = {
       "ma60": 57.7,
       "high52": 75.5,
       "low52": 35.3,
-      "volume": 6421406,
+      "volume": 6404930,
       "market": "上櫃"
     },
     {
@@ -40352,7 +40352,7 @@ var LOOKUP = {
       "ma60": 48.4,
       "high52": 133.0,
       "low52": 12.1,
-      "volume": 105114,
+      "volume": 102050,
       "market": "上櫃"
     },
     {
@@ -40368,7 +40368,7 @@ var LOOKUP = {
       "ma60": 51.1,
       "high52": 58.0,
       "low52": 40.0,
-      "volume": 4265,
+      "volume": 4364,
       "market": "興櫃"
     },
     {
@@ -40384,7 +40384,7 @@ var LOOKUP = {
       "ma60": 2240.9,
       "high52": 2859.1,
       "low52": 1558.6,
-      "volume": 3584903,
+      "volume": 3395728,
       "market": "上櫃"
     },
     {
@@ -40400,7 +40400,7 @@ var LOOKUP = {
       "ma60": 10.4,
       "high52": 10.9,
       "low52": 10.1,
-      "volume": 89944,
+      "volume": 94944,
       "market": "興櫃"
     },
     {
@@ -40416,7 +40416,7 @@ var LOOKUP = {
       "ma60": 73.2,
       "high52": 77.1,
       "low52": 70.4,
-      "volume": 327029,
+      "volume": 319039,
       "market": "上市"
     },
     {
@@ -40424,15 +40424,15 @@ var LOOKUP = {
       "name": "益張",
       "industry": "其他",
       "close": 89.0,
-      "change_amount": -2.2,
-      "change_pct": -2.41,
-      "ma5": 90.1,
-      "ma10": 87.7,
-      "ma20": 86.1,
-      "ma60": 85.6,
+      "change_amount": 0.0,
+      "change_pct": 0.0,
+      "ma5": 89.7,
+      "ma10": 88.0,
+      "ma20": 86.4,
+      "ma60": 85.7,
       "high52": 91.2,
       "low52": 82.3,
-      "volume": 1000,
+      "volume": 0,
       "market": "上櫃"
     },
     {
@@ -40464,7 +40464,7 @@ var LOOKUP = {
       "ma60": 41.0,
       "high52": 44.8,
       "low52": 39.0,
-      "volume": 213247,
+      "volume": 212000,
       "market": "上櫃"
     },
     {
@@ -40480,7 +40480,7 @@ var LOOKUP = {
       "ma60": 16.5,
       "high52": 19.0,
       "low52": 15.0,
-      "volume": 16752,
+      "volume": 13140,
       "market": "上櫃"
     },
     {
@@ -40496,7 +40496,7 @@ var LOOKUP = {
       "ma60": 495.6,
       "high52": 700.0,
       "low52": 243.5,
-      "volume": 8077389,
+      "volume": 7794661,
       "market": "上櫃"
     },
     {
@@ -40512,7 +40512,7 @@ var LOOKUP = {
       "ma60": 61.4,
       "high52": 65.0,
       "low52": 59.7,
-      "volume": 209442,
+      "volume": 209525,
       "market": "興櫃"
     },
     {
@@ -40528,7 +40528,7 @@ var LOOKUP = {
       "ma60": 41.5,
       "high52": 43.8,
       "low52": 39.9,
-      "volume": 71508,
+      "volume": 71000,
       "market": "上市"
     },
     {
@@ -40544,7 +40544,7 @@ var LOOKUP = {
       "ma60": 90.9,
       "high52": 113.0,
       "low52": 70.5,
-      "volume": 3100999,
+      "volume": 2884259,
       "market": "上市"
     },
     {
@@ -40560,7 +40560,7 @@ var LOOKUP = {
       "ma60": 60.3,
       "high52": 72.4,
       "low52": 44.3,
-      "volume": 3136166,
+      "volume": 3104391,
       "market": "上櫃"
     },
     {
@@ -40576,7 +40576,7 @@ var LOOKUP = {
       "ma60": 106.2,
       "high52": 129.5,
       "low52": 84.0,
-      "volume": 390203,
+      "volume": 386613,
       "market": "上櫃"
     },
     {
@@ -40592,7 +40592,7 @@ var LOOKUP = {
       "ma60": 23.6,
       "high52": 25.0,
       "low52": 22.6,
-      "volume": 68863,
+      "volume": 68000,
       "market": "上櫃"
     },
     {
@@ -40608,7 +40608,7 @@ var LOOKUP = {
       "ma60": 20.4,
       "high52": 22.5,
       "low52": 19.0,
-      "volume": 221546,
+      "volume": 216030,
       "market": "上櫃"
     },
     {
@@ -40624,7 +40624,7 @@ var LOOKUP = {
       "ma60": 17.0,
       "high52": 18.4,
       "low52": 16.1,
-      "volume": 595668,
+      "volume": 593530,
       "market": "上市"
     },
     {
@@ -40640,7 +40640,7 @@ var LOOKUP = {
       "ma60": 19.6,
       "high52": 21.0,
       "low52": 18.8,
-      "volume": 13114,
+      "volume": 13001,
       "market": "上櫃"
     },
     {
@@ -40656,7 +40656,7 @@ var LOOKUP = {
       "ma60": 35.1,
       "high52": 38.2,
       "low52": 32.3,
-      "volume": 86124,
+      "volume": 86000,
       "market": "上櫃"
     },
     {
@@ -40672,7 +40672,7 @@ var LOOKUP = {
       "ma60": 12.2,
       "high52": 12.4,
       "low52": 11.8,
-      "volume": 62959,
+      "volume": 58000,
       "market": "上市"
     },
     {
@@ -40688,7 +40688,7 @@ var LOOKUP = {
       "ma60": 33.3,
       "high52": 34.9,
       "low52": 32.3,
-      "volume": 457747,
+      "volume": 457020,
       "market": "上櫃"
     },
     {
@@ -40704,7 +40704,7 @@ var LOOKUP = {
       "ma60": 167.5,
       "high52": 180.1,
       "low52": 161.0,
-      "volume": 7192,
+      "volume": 6168,
       "market": "上櫃"
     },
     {
@@ -40720,7 +40720,7 @@ var LOOKUP = {
       "ma60": 13.4,
       "high52": 13.8,
       "low52": 12.6,
-      "volume": 8936,
+      "volume": 8025,
       "market": "上櫃"
     },
     {
@@ -40736,7 +40736,7 @@ var LOOKUP = {
       "ma60": 27.0,
       "high52": 29.2,
       "low52": 24.5,
-      "volume": 48431101,
+      "volume": 48233754,
       "market": "上市"
     },
     {
@@ -40752,7 +40752,7 @@ var LOOKUP = {
       "ma60": 17.9,
       "high52": 18.5,
       "low52": 17.4,
-      "volume": 8048,
+      "volume": 7160,
       "market": "上櫃"
     },
     {
@@ -40768,7 +40768,7 @@ var LOOKUP = {
       "ma60": 68.8,
       "high52": 69.7,
       "low52": 67.6,
-      "volume": 29201,
+      "volume": 29000,
       "market": "上櫃"
     },
     {
@@ -40784,7 +40784,7 @@ var LOOKUP = {
       "ma60": 22.3,
       "high52": 25.2,
       "low52": 20.0,
-      "volume": 39644,
+      "volume": 39457,
       "market": "上櫃"
     },
     {
@@ -40800,7 +40800,7 @@ var LOOKUP = {
       "ma60": 6.5,
       "high52": 6.9,
       "low52": 6.0,
-      "volume": 501696,
+      "volume": 498685,
       "market": "上市"
     },
     {
@@ -40816,7 +40816,7 @@ var LOOKUP = {
       "ma60": 58.8,
       "high52": 73.5,
       "low52": 47.6,
-      "volume": 192949,
+      "volume": 191150,
       "market": "上櫃"
     },
     {
@@ -40832,7 +40832,7 @@ var LOOKUP = {
       "ma60": 49.1,
       "high52": 52.5,
       "low52": 46.8,
-      "volume": 51026,
+      "volume": 51100,
       "market": "上櫃"
     },
     {
@@ -40848,7 +40848,7 @@ var LOOKUP = {
       "ma60": 54.0,
       "high52": 59.0,
       "low52": 51.6,
-      "volume": 15865,
+      "volume": 15000,
       "market": "上櫃"
     },
     {
@@ -40864,7 +40864,7 @@ var LOOKUP = {
       "ma60": 53.0,
       "high52": 54.6,
       "low52": 51.6,
-      "volume": 12546,
+      "volume": 11000,
       "market": "上櫃"
     },
     {
@@ -40880,7 +40880,7 @@ var LOOKUP = {
       "ma60": 119.5,
       "high52": 125.5,
       "low52": 113.0,
-      "volume": 924149,
+      "volume": 916446,
       "market": "上櫃"
     },
     {
@@ -40896,7 +40896,7 @@ var LOOKUP = {
       "ma60": 11.4,
       "high52": 13.6,
       "low52": 10.0,
-      "volume": 70003,
+      "volume": 69301,
       "market": "上櫃"
     },
     {
@@ -40912,7 +40912,7 @@ var LOOKUP = {
       "ma60": 89.9,
       "high52": 103.5,
       "low52": 78.3,
-      "volume": 449076,
+      "volume": 444058,
       "market": "上市"
     },
     {
@@ -40928,7 +40928,7 @@ var LOOKUP = {
       "ma60": 22.1,
       "high52": 24.6,
       "low52": 20.0,
-      "volume": 106851,
+      "volume": 106850,
       "market": "上櫃"
     },
     {
@@ -40944,7 +40944,7 @@ var LOOKUP = {
       "ma60": 44.7,
       "high52": 52.6,
       "low52": 39.5,
-      "volume": 73737,
+      "volume": 73000,
       "market": "上市"
     },
     {
@@ -40960,7 +40960,7 @@ var LOOKUP = {
       "ma60": 11.6,
       "high52": 12.1,
       "low52": 11.1,
-      "volume": 46806,
+      "volume": 42376,
       "market": "上市"
     },
     {
@@ -40992,7 +40992,7 @@ var LOOKUP = {
       "ma60": 86.6,
       "high52": 91.1,
       "low52": 83.0,
-      "volume": 67925,
+      "volume": 66080,
       "market": "上櫃"
     },
     {
@@ -41008,7 +41008,7 @@ var LOOKUP = {
       "ma60": 16.1,
       "high52": 17.9,
       "low52": 14.9,
-      "volume": 49446,
+      "volume": 41089,
       "market": "上櫃"
     },
     {
@@ -41024,7 +41024,7 @@ var LOOKUP = {
       "ma60": 239.6,
       "high52": 439.5,
       "low52": 166.2,
-      "volume": 1770686,
+      "volume": 1721150,
       "market": "上市"
     },
     {
@@ -41040,7 +41040,7 @@ var LOOKUP = {
       "ma60": 29.6,
       "high52": 46.3,
       "low52": 20.0,
-      "volume": 7131,
+      "volume": 7000,
       "market": "上櫃"
     },
     {
@@ -41072,7 +41072,7 @@ var LOOKUP = {
       "ma60": 136.3,
       "high52": 147.0,
       "low52": 129.6,
-      "volume": 204427,
+      "volume": 196342,
       "market": "上市"
     },
     {
@@ -41088,7 +41088,7 @@ var LOOKUP = {
       "ma60": 21.3,
       "high52": 22.4,
       "low52": 20.2,
-      "volume": 73150,
+      "volume": 73000,
       "market": "上市"
     },
     {
@@ -41104,7 +41104,7 @@ var LOOKUP = {
       "ma60": 342.4,
       "high52": 380.5,
       "low52": 306.0,
-      "volume": 714216,
+      "volume": 706010,
       "market": "上市"
     },
     {
@@ -41120,7 +41120,7 @@ var LOOKUP = {
       "ma60": 16.1,
       "high52": 18.0,
       "low52": 13.1,
-      "volume": 125213,
+      "volume": 124000,
       "market": "上市"
     },
     {
@@ -41136,7 +41136,7 @@ var LOOKUP = {
       "ma60": 134.0,
       "high52": 159.0,
       "low52": 112.0,
-      "volume": 12444,
+      "volume": 12000,
       "market": "上市"
     },
     {
@@ -41152,7 +41152,7 @@ var LOOKUP = {
       "ma60": 77.5,
       "high52": 92.2,
       "low52": 67.5,
-      "volume": 3088,
+      "volume": 2000,
       "market": "上櫃"
     },
     {
@@ -41168,7 +41168,7 @@ var LOOKUP = {
       "ma60": 43.1,
       "high52": 56.0,
       "low52": 33.7,
-      "volume": 1077813,
+      "volume": 1066044,
       "market": "上市"
     },
     {
@@ -41184,7 +41184,7 @@ var LOOKUP = {
       "ma60": 18.5,
       "high52": 24.8,
       "low52": 15.1,
-      "volume": 1082529,
+      "volume": 1079100,
       "market": "上市"
     },
     {
@@ -41200,7 +41200,7 @@ var LOOKUP = {
       "ma60": 16.1,
       "high52": 20.8,
       "low52": 13.1,
-      "volume": 29001,
+      "volume": 29150,
       "market": "上櫃"
     },
     {
@@ -41216,7 +41216,7 @@ var LOOKUP = {
       "ma60": 159.8,
       "high52": 177.0,
       "low52": 146.5,
-      "volume": 584451,
+      "volume": 576140,
       "market": "上市"
     },
     {
@@ -41232,7 +41232,7 @@ var LOOKUP = {
       "ma60": 41.2,
       "high52": 42.2,
       "low52": 39.5,
-      "volume": 41252,
+      "volume": 41000,
       "market": "上市"
     },
     {
@@ -41264,7 +41264,7 @@ var LOOKUP = {
       "ma60": 70.6,
       "high52": 83.1,
       "low52": 62.8,
-      "volume": 28318,
+      "volume": 28004,
       "market": "上市"
     },
     {
@@ -41280,7 +41280,7 @@ var LOOKUP = {
       "ma60": 10.1,
       "high52": 10.9,
       "low52": 9.6,
-      "volume": 14225,
+      "volume": 14000,
       "market": "上市"
     },
     {
@@ -41296,7 +41296,7 @@ var LOOKUP = {
       "ma60": 24.3,
       "high52": 29.0,
       "low52": 21.6,
-      "volume": 43291,
+      "volume": 40089,
       "market": "上櫃"
     },
     {
@@ -41312,7 +41312,7 @@ var LOOKUP = {
       "ma60": 289.2,
       "high52": 336.5,
       "low52": 256.5,
-      "volume": 80114,
+      "volume": 77085,
       "market": "上市"
     },
     {
@@ -41328,7 +41328,7 @@ var LOOKUP = {
       "ma60": 33.3,
       "high52": 40.8,
       "low52": 29.2,
-      "volume": 1236,
+      "volume": 1000,
       "market": "上櫃"
     },
     {
@@ -41344,7 +41344,7 @@ var LOOKUP = {
       "ma60": 26.6,
       "high52": 31.7,
       "low52": 23.5,
-      "volume": 63005,
+      "volume": 63000,
       "market": "上櫃"
     },
     {
@@ -41360,7 +41360,7 @@ var LOOKUP = {
       "ma60": 40.8,
       "high52": 42.5,
       "low52": 38.8,
-      "volume": 148193,
+      "volume": 147002,
       "market": "上櫃"
     },
     {
@@ -41376,7 +41376,7 @@ var LOOKUP = {
       "ma60": 45.9,
       "high52": 48.4,
       "low52": 42.5,
-      "volume": 104147,
+      "volume": 104000,
       "market": "上櫃"
     },
     {
@@ -41392,7 +41392,7 @@ var LOOKUP = {
       "ma60": 50.7,
       "high52": 53.0,
       "low52": 49.5,
-      "volume": 9154,
+      "volume": 9000,
       "market": "上櫃"
     },
     {
@@ -41408,7 +41408,7 @@ var LOOKUP = {
       "ma60": 17.8,
       "high52": 18.7,
       "low52": 16.8,
-      "volume": 3093,
+      "volume": 3000,
       "market": "上櫃"
     },
     {
@@ -41424,7 +41424,7 @@ var LOOKUP = {
       "ma60": 19.5,
       "high52": 20.2,
       "low52": 18.9,
-      "volume": 13001,
+      "volume": 13050,
       "market": "上櫃"
     },
     {
@@ -41440,7 +41440,7 @@ var LOOKUP = {
       "ma60": 60.0,
       "high52": 64.4,
       "low52": 55.6,
-      "volume": 133738,
+      "volume": 130007,
       "market": "上櫃"
     },
     {
@@ -41456,7 +41456,7 @@ var LOOKUP = {
       "ma60": 59.3,
       "high52": 79.9,
       "low52": 41.8,
-      "volume": 5545587,
+      "volume": 5496768,
       "market": "上市"
     },
     {
@@ -41472,7 +41472,7 @@ var LOOKUP = {
       "ma60": 20.9,
       "high52": 25.2,
       "low52": 18.1,
-      "volume": 690340,
+      "volume": 685200,
       "market": "上櫃"
     },
     {
@@ -41488,7 +41488,7 @@ var LOOKUP = {
       "ma60": 21.6,
       "high52": 23.4,
       "low52": 20.6,
-      "volume": 453129,
+      "volume": 450000,
       "market": "上櫃"
     },
     {
@@ -41504,7 +41504,7 @@ var LOOKUP = {
       "ma60": 14.5,
       "high52": 16.2,
       "low52": 13.6,
-      "volume": 86762,
+      "volume": 83040,
       "market": "上櫃"
     },
     {
@@ -41520,7 +41520,7 @@ var LOOKUP = {
       "ma60": 28.8,
       "high52": 31.5,
       "low52": 27.1,
-      "volume": 205755,
+      "volume": 203000,
       "market": "上櫃"
     },
     {
@@ -41536,7 +41536,7 @@ var LOOKUP = {
       "ma60": 42.1,
       "high52": 43.5,
       "low52": 41.3,
-      "volume": 19063,
+      "volume": 19297,
       "market": "上櫃"
     },
     {
@@ -41552,7 +41552,7 @@ var LOOKUP = {
       "ma60": 97.8,
       "high52": 114.5,
       "low52": 81.0,
-      "volume": 2357305,
+      "volume": 2344523,
       "market": "上櫃"
     },
     {
@@ -41568,7 +41568,7 @@ var LOOKUP = {
       "ma60": 5.3,
       "high52": 6.7,
       "low52": 4.3,
-      "volume": 177118,
+      "volume": 174895,
       "market": "上櫃"
     },
     {
@@ -41584,7 +41584,7 @@ var LOOKUP = {
       "ma60": 20.3,
       "high52": 24.4,
       "low52": 17.8,
-      "volume": 1744446,
+      "volume": 1735041,
       "market": "上櫃"
     },
     {
@@ -41600,7 +41600,7 @@ var LOOKUP = {
       "ma60": 53.4,
       "high52": 65.0,
       "low52": 49.4,
-      "volume": 5266137,
+      "volume": 5217150,
       "market": "上櫃"
     },
     {
@@ -41616,7 +41616,7 @@ var LOOKUP = {
       "ma60": 31.2,
       "high52": 39.5,
       "low52": 21.8,
-      "volume": 82949,
+      "volume": 82020,
       "market": "上櫃"
     },
     {
@@ -41632,7 +41632,7 @@ var LOOKUP = {
       "ma60": 56.1,
       "high52": 64.2,
       "low52": 52.4,
-      "volume": 326922,
+      "volume": 322581,
       "market": "上櫃"
     },
     {
@@ -41648,7 +41648,7 @@ var LOOKUP = {
       "ma60": 17.1,
       "high52": 18.6,
       "low52": 16.3,
-      "volume": 80479,
+      "volume": 78500,
       "market": "上市"
     },
     {
@@ -41664,7 +41664,7 @@ var LOOKUP = {
       "ma60": 43.1,
       "high52": 45.2,
       "low52": 41.8,
-      "volume": 7057,
+      "volume": 7000,
       "market": "上櫃"
     },
     {
@@ -41680,7 +41680,7 @@ var LOOKUP = {
       "ma60": 42.1,
       "high52": 46.0,
       "low52": 37.8,
-      "volume": 205045,
+      "volume": 202260,
       "market": "上櫃"
     },
     {
@@ -41696,7 +41696,7 @@ var LOOKUP = {
       "ma60": 1203.0,
       "high52": 1590.0,
       "low52": 904.0,
-      "volume": 1319542,
+      "volume": 1245484,
       "market": "上市"
     },
     {
@@ -41706,8 +41706,8 @@ var LOOKUP = {
       "close": 37.5,
       "change_amount": 0.0,
       "change_pct": 0.0,
-      "ma5": 37.3,
-      "ma10": 37.8,
+      "ma5": 37.4,
+      "ma10": 37.7,
       "ma20": 37.5,
       "ma60": 37.8,
       "high52": 39.0,
@@ -41728,7 +41728,7 @@ var LOOKUP = {
       "ma60": 5.1,
       "high52": 6.1,
       "low52": 4.6,
-      "volume": 947603,
+      "volume": 948100,
       "market": "上市"
     },
     {
@@ -41744,7 +41744,7 @@ var LOOKUP = {
       "ma60": 7.6,
       "high52": 12.7,
       "low52": 5.3,
-      "volume": 21546613,
+      "volume": 21489724,
       "market": "上市"
     },
     {
@@ -41776,7 +41776,7 @@ var LOOKUP = {
       "ma60": 12.9,
       "high52": 17.8,
       "low52": 8.6,
-      "volume": 490456,
+      "volume": 488000,
       "market": "上市"
     },
     {
@@ -41792,7 +41792,7 @@ var LOOKUP = {
       "ma60": 77.0,
       "high52": 83.1,
       "low52": 72.4,
-      "volume": 535828,
+      "volume": 530080,
       "market": "上市"
     },
     {
@@ -41808,7 +41808,7 @@ var LOOKUP = {
       "ma60": 14.1,
       "high52": 15.1,
       "low52": 13.5,
-      "volume": 357863,
+      "volume": 355468,
       "market": "上市"
     },
     {
@@ -41824,7 +41824,7 @@ var LOOKUP = {
       "ma60": 24.9,
       "high52": 27.4,
       "low52": 23.7,
-      "volume": 25707931,
+      "volume": 25662467,
       "market": "上市"
     },
     {
@@ -41840,7 +41840,7 @@ var LOOKUP = {
       "ma60": 21.1,
       "high52": 21.8,
       "low52": 20.5,
-      "volume": 220511,
+      "volume": 219000,
       "market": "上市"
     },
     {
@@ -41856,7 +41856,7 @@ var LOOKUP = {
       "ma60": 39.1,
       "high52": 47.6,
       "low52": 31.9,
-      "volume": 122511,
+      "volume": 119729,
       "market": "上市"
     },
     {
@@ -41872,7 +41872,7 @@ var LOOKUP = {
       "ma60": 15.7,
       "high52": 17.3,
       "low52": 14.7,
-      "volume": 5186861,
+      "volume": 5173000,
       "market": "上市"
     },
     {
@@ -41888,7 +41888,7 @@ var LOOKUP = {
       "ma60": 29.5,
       "high52": 30.0,
       "low52": 29.0,
-      "volume": 139887,
+      "volume": 468320,
       "market": "上市"
     },
     {
@@ -41904,7 +41904,7 @@ var LOOKUP = {
       "ma60": 71.6,
       "high52": 92.7,
       "low52": 64.2,
-      "volume": 2295379,
+      "volume": 2285501,
       "market": "上市"
     },
     {
@@ -41920,7 +41920,7 @@ var LOOKUP = {
       "ma60": 83.2,
       "high52": 85.4,
       "low52": 81.5,
-      "volume": 469916,
+      "volume": 463121,
       "market": "上市"
     },
     {
@@ -41936,7 +41936,7 @@ var LOOKUP = {
       "ma60": 12.5,
       "high52": 12.9,
       "low52": 12.2,
-      "volume": 203100,
+      "volume": 200000,
       "market": "上市"
     },
     {
@@ -41952,7 +41952,7 @@ var LOOKUP = {
       "ma60": 66.1,
       "high52": 78.3,
       "low52": 55.7,
-      "volume": 1659568,
+      "volume": 1642256,
       "market": "上市"
     },
     {
@@ -41968,7 +41968,7 @@ var LOOKUP = {
       "ma60": 108.8,
       "high52": 116.0,
       "low52": 105.0,
-      "volume": 942084,
+      "volume": 930788,
       "market": "上市"
     },
     {
@@ -41984,7 +41984,7 @@ var LOOKUP = {
       "ma60": 43.4,
       "high52": 45.5,
       "low52": 42.7,
-      "volume": 21380,
+      "volume": 21000,
       "market": "上市"
     },
     {
@@ -42000,7 +42000,7 @@ var LOOKUP = {
       "ma60": 14.3,
       "high52": 15.5,
       "low52": 13.6,
-      "volume": 658236,
+      "volume": 655043,
       "market": "上市"
     },
     {
@@ -42016,7 +42016,7 @@ var LOOKUP = {
       "ma60": 71.2,
       "high52": 78.7,
       "low52": 65.3,
-      "volume": 890864,
+      "volume": 878976,
       "market": "上市"
     },
     {
@@ -42032,7 +42032,7 @@ var LOOKUP = {
       "ma60": 40.7,
       "high52": 42.8,
       "low52": 39.3,
-      "volume": 101920,
+      "volume": 98773,
       "market": "上市"
     },
     {
@@ -42048,7 +42048,7 @@ var LOOKUP = {
       "ma60": 40.5,
       "high52": 40.8,
       "low52": 40.1,
-      "volume": 330035,
+      "volume": 328116,
       "market": "上市"
     },
     {
@@ -42064,7 +42064,7 @@ var LOOKUP = {
       "ma60": 49.4,
       "high52": 50.0,
       "low52": 48.8,
-      "volume": 20294,
+      "volume": 20000,
       "market": "上市"
     },
     {
@@ -42080,7 +42080,7 @@ var LOOKUP = {
       "ma60": 68.8,
       "high52": 70.7,
       "low52": 66.6,
-      "volume": 72740,
+      "volume": 70335,
       "market": "上市"
     },
     {
@@ -42096,7 +42096,7 @@ var LOOKUP = {
       "ma60": 18.0,
       "high52": 19.0,
       "low52": 17.5,
-      "volume": 109100,
+      "volume": 109000,
       "market": "上市"
     },
     {
@@ -42112,7 +42112,7 @@ var LOOKUP = {
       "ma60": 11.8,
       "high52": 13.4,
       "low52": 10.9,
-      "volume": 10145,
+      "volume": 10385,
       "market": "上市"
     },
     {
@@ -42128,7 +42128,7 @@ var LOOKUP = {
       "ma60": 65.6,
       "high52": 67.0,
       "low52": 63.7,
-      "volume": 314519,
+      "volume": 299147,
       "market": "上市"
     },
     {
@@ -42144,7 +42144,7 @@ var LOOKUP = {
       "ma60": 33.1,
       "high52": 35.1,
       "low52": 32.0,
-      "volume": 155648,
+      "volume": 155000,
       "market": "上市"
     },
     {
@@ -42160,7 +42160,7 @@ var LOOKUP = {
       "ma60": 39.2,
       "high52": 43.8,
       "low52": 34.7,
-      "volume": 1553898,
+      "volume": 1541031,
       "market": "上市"
     },
     {
@@ -42176,7 +42176,7 @@ var LOOKUP = {
       "ma60": 9.7,
       "high52": 11.1,
       "low52": 9.0,
-      "volume": 1448274,
+      "volume": 1442122,
       "market": "上市"
     },
     {
@@ -42192,7 +42192,7 @@ var LOOKUP = {
       "ma60": 18.9,
       "high52": 20.5,
       "low52": 18.0,
-      "volume": 1700190,
+      "volume": 1704882,
       "market": "上市"
     },
     {
@@ -42208,7 +42208,7 @@ var LOOKUP = {
       "ma60": 56.1,
       "high52": 57.6,
       "low52": 55.0,
-      "volume": 34390,
+      "volume": 34345,
       "market": "上市"
     },
     {
@@ -42224,7 +42224,7 @@ var LOOKUP = {
       "ma60": 44.5,
       "high52": 46.8,
       "low52": 42.1,
-      "volume": 2344538,
+      "volume": 2329771,
       "market": "上市"
     },
     {
@@ -42240,7 +42240,7 @@ var LOOKUP = {
       "ma60": 116.1,
       "high52": 127.5,
       "low52": 104.7,
-      "volume": 2346217,
+      "volume": 2320781,
       "market": "上市"
     },
     {
@@ -42256,7 +42256,7 @@ var LOOKUP = {
       "ma60": 19.0,
       "high52": 20.2,
       "low52": 17.7,
-      "volume": 473478,
+      "volume": 464000,
       "market": "上市"
     },
     {
@@ -42272,7 +42272,7 @@ var LOOKUP = {
       "ma60": 78.0,
       "high52": 87.7,
       "low52": 72.0,
-      "volume": 1745209,
+      "volume": 1720283,
       "market": "上市"
     },
     {
@@ -42288,7 +42288,7 @@ var LOOKUP = {
       "ma60": 118.1,
       "high52": 121.5,
       "low52": 115.0,
-      "volume": 54846,
+      "volume": 52000,
       "market": "上市"
     },
     {
@@ -42304,7 +42304,7 @@ var LOOKUP = {
       "ma60": 56.4,
       "high52": 57.9,
       "low52": 55.1,
-      "volume": 327143,
+      "volume": 319900,
       "market": "上市"
     },
     {
@@ -42320,7 +42320,7 @@ var LOOKUP = {
       "ma60": 16.7,
       "high52": 18.0,
       "low52": 16.0,
-      "volume": 45984,
+      "volume": 44300,
       "market": "上市"
     },
     {
@@ -42336,7 +42336,7 @@ var LOOKUP = {
       "ma60": 24.8,
       "high52": 27.5,
       "low52": 23.0,
-      "volume": 14296241,
+      "volume": 14309254,
       "market": "上市"
     },
     {
@@ -42352,7 +42352,7 @@ var LOOKUP = {
       "ma60": 17.4,
       "high52": 20.6,
       "low52": 15.6,
-      "volume": 580105,
+      "volume": 578100,
       "market": "上市"
     },
     {
@@ -42368,7 +42368,7 @@ var LOOKUP = {
       "ma60": 26.5,
       "high52": 36.7,
       "low52": 22.6,
-      "volume": 28161,
+      "volume": 27086,
       "market": "上櫃"
     },
     {
@@ -42384,7 +42384,7 @@ var LOOKUP = {
       "ma60": 10.9,
       "high52": 13.3,
       "low52": 10.4,
-      "volume": 72018,
+      "volume": 72020,
       "market": "上櫃"
     },
     {
@@ -42400,7 +42400,7 @@ var LOOKUP = {
       "ma60": 53.5,
       "high52": 55.6,
       "low52": 51.7,
-      "volume": 89264,
+      "volume": 88001,
       "market": "上櫃"
     },
     {
@@ -42416,23 +42416,23 @@ var LOOKUP = {
       "ma60": 28.7,
       "high52": 32.3,
       "low52": 26.1,
-      "volume": 509014,
+      "volume": 505186,
       "market": "上市"
     },
     {
       "code": "9957",
       "name": "燁聯",
       "industry": "鋼鐵",
-      "close": 6.1,
-      "change_amount": 0.0,
-      "change_pct": 0.5,
-      "ma5": 6.1,
+      "close": 6.0,
+      "change_amount": -0.0,
+      "change_pct": -0.5,
+      "ma5": 6.0,
       "ma10": 6.1,
       "ma20": 6.1,
       "ma60": 6.4,
       "high52": 9.1,
       "low52": 5.9,
-      "volume": 173464,
+      "volume": 183520,
       "market": "興櫃"
     },
     {
@@ -42448,7 +42448,7 @@ var LOOKUP = {
       "ma60": 108.1,
       "high52": 121.0,
       "low52": 101.0,
-      "volume": 3089774,
+      "volume": 3033681,
       "market": "上市"
     },
     {
@@ -42464,7 +42464,7 @@ var LOOKUP = {
       "ma60": 31.3,
       "high52": 35.4,
       "low52": 25.0,
-      "volume": 4060,
+      "volume": 4010,
       "market": "上櫃"
     },
     {
@@ -42480,7 +42480,7 @@ var LOOKUP = {
       "ma60": 9.8,
       "high52": 10.8,
       "low52": 9.4,
-      "volume": 103397,
+      "volume": 98101,
       "market": "上櫃"
     }
   ]
