@@ -1,7 +1,7 @@
 var SCREENER = {
-  "update_time": "2026-07-09 14:00:10",
-  "update_date": "2026年07月09日",
-  "total_scanned": 2691,
+  "update_time": "2026-07-10 14:00:09",
+  "update_date": "2026年07月10日",
+  "total_scanned": 2692,
   "total_matched": 30,
   "stocks": [
     {
@@ -14,7 +14,7 @@ var SCREENER = {
       "ma5": 52.3,
       "ma10": 50.3,
       "ma20": 49.7,
-      "volume": 13854100,
+      "volume": 13761321,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.1x, 10日+17%, 站穩MA20"
     },
@@ -28,7 +28,7 @@ var SCREENER = {
       "ma5": 108.7,
       "ma10": 104.8,
       "ma20": 103.3,
-      "volume": 12446266,
+      "volume": 12316089,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量1.8x, 10日+17%, 站穩MA20"
     },
@@ -42,7 +42,7 @@ var SCREENER = {
       "ma5": 88.6,
       "ma10": 84.8,
       "ma20": 80.6,
-      "volume": 27765195,
+      "volume": 27604833,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量1.6x, 10日+23%, 站穩MA20"
     },
@@ -56,7 +56,7 @@ var SCREENER = {
       "ma5": 227.3,
       "ma10": 220.8,
       "ma20": 217.4,
-      "volume": 2361529,
+      "volume": 2330161,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.1x, 10日+16%, 站穩MA20"
     },
@@ -70,7 +70,7 @@ var SCREENER = {
       "ma5": 94.1,
       "ma10": 92.7,
       "ma20": 91.5,
-      "volume": 226069,
+      "volume": 224072,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量3.7x, 10日+11%, 站穩MA20"
     },
@@ -84,7 +84,7 @@ var SCREENER = {
       "ma5": 18.6,
       "ma10": 17.3,
       "ma20": 16.5,
-      "volume": 11077774,
+      "volume": 11063538,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量1.6x, 10日+25%, 站穩MA20"
     },
@@ -98,7 +98,7 @@ var SCREENER = {
       "ma5": 63.6,
       "ma10": 62.0,
       "ma20": 60.7,
-      "volume": 16961551,
+      "volume": 16860777,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.3x, 10日+16%, 站穩MA20"
     },
@@ -112,7 +112,7 @@ var SCREENER = {
       "ma5": 71.9,
       "ma10": 68.8,
       "ma20": 68.7,
-      "volume": 188271,
+      "volume": 184040,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量1.8x, 10日+21%, 站穩MA20"
     },
@@ -126,7 +126,7 @@ var SCREENER = {
       "ma5": 147.1,
       "ma10": 144.9,
       "ma20": 144.2,
-      "volume": 16592107,
+      "volume": 16316409,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量1.6x, 10日+14%, 站穩MA20"
     },
@@ -140,7 +140,7 @@ var SCREENER = {
       "ma5": 140.7,
       "ma10": 139.0,
       "ma20": 134.4,
-      "volume": 4325314,
+      "volume": 4263579,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.2x, 10日+6%, 站穩MA20"
     },
@@ -154,7 +154,7 @@ var SCREENER = {
       "ma5": 12.9,
       "ma10": 12.7,
       "ma20": 12.6,
-      "volume": 483709,
+      "volume": 481000,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.7x, 10日+13%, 站穩MA20"
     },
@@ -168,9 +168,9 @@ var SCREENER = {
       "ma5": 42.3,
       "ma10": 40.6,
       "ma20": 39.3,
-      "volume": 53046,
+      "volume": 52014,
       "score": 100,
-      "flags": "創新高, 多頭排列, 放量2.4x, 10日+19%, 站穩MA20"
+      "flags": "創新高, 多頭排列, 放量2.3x, 10日+19%, 站穩MA20"
     },
     {
       "code": "6023",
@@ -182,9 +182,9 @@ var SCREENER = {
       "ma5": 104.5,
       "ma10": 102.3,
       "ma20": 101.0,
-      "volume": 656522,
+      "volume": 645517,
       "score": 100,
-      "flags": "創新高, 多頭排列, 放量1.7x, 10日+9%, 站穩MA20"
+      "flags": "創新高, 多頭排列, 放量1.6x, 10日+9%, 站穩MA20"
     },
     {
       "code": "6574",
@@ -196,9 +196,9 @@ var SCREENER = {
       "ma5": 123.9,
       "ma10": 118.2,
       "ma20": 115.5,
-      "volume": 199424,
+      "volume": 187673,
       "score": 100,
-      "flags": "創新高, 多頭排列, 放量1.6x, 10日+21%, 站穩MA20"
+      "flags": "創新高, 多頭排列, 放量1.5x, 10日+21%, 站穩MA20"
     },
     {
       "code": "6577",
@@ -210,23 +210,9 @@ var SCREENER = {
       "ma5": 77.4,
       "ma10": 75.4,
       "ma20": 75.2,
-      "volume": 128414,
+      "volume": 124000,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量1.6x, 10日+11%, 站穩MA20"
-    },
-    {
-      "code": "8091",
-      "name": "翔名",
-      "industry": "半導體",
-      "close": 295.0,
-      "change_amount": 16.5,
-      "change_pct": 5.92,
-      "ma5": 283.9,
-      "ma10": 277.1,
-      "ma20": 269.0,
-      "volume": 2684692,
-      "score": 100,
-      "flags": "創新高, 多頭排列, 放量1.5x, 10日+16%, 站穩MA20"
     },
     {
       "code": "8929",
@@ -238,7 +224,7 @@ var SCREENER = {
       "ma5": 14.6,
       "ma10": 14.2,
       "ma20": 14.0,
-      "volume": 194567,
+      "volume": 192100,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.8x, 10日+11%, 站穩MA20"
     },
@@ -246,27 +232,27 @@ var SCREENER = {
       "code": "2237",
       "name": "華德動能",
       "industry": "電機機械",
-      "close": 42.1,
-      "change_amount": 2.1,
-      "change_pct": 5.25,
+      "close": 41.9,
+      "change_amount": 1.9,
+      "change_pct": 4.75,
       "ma5": 40.4,
-      "ma10": 40.1,
+      "ma10": 40.0,
       "ma20": 39.7,
-      "volume": 546838,
+      "volume": 554593,
       "score": 100,
-      "flags": "創新高, 多頭排列, 放量2.5x, 10日+6%, 站穩MA20"
+      "flags": "創新高, 多頭排列, 放量2.6x, 10日+6%, 站穩MA20"
     },
     {
       "code": "4565",
       "name": "宏偉",
       "industry": "電機機械",
-      "close": 127.5,
-      "change_amount": 5.0,
-      "change_pct": 4.08,
-      "ma5": 123.0,
-      "ma10": 122.0,
-      "ma20": 121.7,
-      "volume": 40573,
+      "close": 127.0,
+      "change_amount": 4.5,
+      "change_pct": 3.67,
+      "ma5": 122.9,
+      "ma10": 121.9,
+      "ma20": 121.6,
+      "volume": 41573,
       "score": 100,
       "flags": "創新高, 多頭排列, 放量2.2x, 10日+6%, 站穩MA20"
     },
@@ -274,15 +260,15 @@ var SCREENER = {
       "code": "7832",
       "name": "智新生技*",
       "industry": "生技醫療",
-      "close": 12.2,
-      "change_amount": 0.8,
-      "change_pct": 6.99,
+      "close": 12.3,
+      "change_amount": 0.9,
+      "change_pct": 7.42,
       "ma5": 11.4,
       "ma10": 11.2,
       "ma20": 11.2,
-      "volume": 583114,
+      "volume": 598117,
       "score": 100,
-      "flags": "創新高, 多頭排列, 放量2.1x, 10日+11%, 站穩MA20"
+      "flags": "創新高, 多頭排列, 放量2.2x, 10日+12%, 站穩MA20"
     },
     {
       "code": "7860",
@@ -308,7 +294,7 @@ var SCREENER = {
       "ma5": 45.6,
       "ma10": 45.1,
       "ma20": 45.0,
-      "volume": 592322,
+      "volume": 585190,
       "score": 93,
       "flags": "創新高, 多頭排列, 放量2.3x, 10日+5%, 站穩MA20"
     },
@@ -322,7 +308,7 @@ var SCREENER = {
       "ma5": 27.0,
       "ma10": 26.7,
       "ma20": 26.3,
-      "volume": 2001,
+      "volume": 2000,
       "score": 93,
       "flags": "創新高, 多頭排列, 放量2.0x, 10日+3%, 站穩MA20"
     },
@@ -336,23 +322,9 @@ var SCREENER = {
       "ma5": 75.5,
       "ma10": 75.2,
       "ma20": 74.8,
-      "volume": 4934639,
+      "volume": 4898200,
       "score": 93,
       "flags": "創新高, 多頭排列, 放量3.5x, 10日+3%, 站穩MA20"
-    },
-    {
-      "code": "6904",
-      "name": "伯鑫",
-      "industry": "其他",
-      "close": 128.0,
-      "change_amount": 1.0,
-      "change_pct": 0.79,
-      "ma5": 126.6,
-      "ma10": 125.9,
-      "ma20": 123.8,
-      "volume": 3000,
-      "score": 93,
-      "flags": "創新高, 多頭排列, 放量2.5x, 10日+3%, 站穩MA20"
     },
     {
       "code": "6142",
@@ -364,7 +336,7 @@ var SCREENER = {
       "ma5": 10.1,
       "ma10": 9.7,
       "ma20": 9.4,
-      "volume": 4489346,
+      "volume": 4488489,
       "score": 92,
       "flags": "創新高, 多頭排列, 放量1.8x, 10日+24%"
     },
@@ -378,7 +350,7 @@ var SCREENER = {
       "ma5": 76.1,
       "ma10": 72.5,
       "ma20": 69.8,
-      "volume": 124633,
+      "volume": 120378,
       "score": 92,
       "flags": "創新高, 多頭排列, 放量2.7x, 10日+23%"
     },
@@ -392,7 +364,7 @@ var SCREENER = {
       "ma5": 14.9,
       "ma10": 14.0,
       "ma20": 13.3,
-      "volume": 7811482,
+      "volume": 7796104,
       "score": 92,
       "flags": "創新高, 多頭排列, 放量1.7x, 10日+29%"
     },
@@ -400,39 +372,67 @@ var SCREENER = {
       "code": "6808",
       "name": "三鼎生技",
       "industry": "生技醫療",
-      "close": 38.5,
-      "change_amount": 5.4,
-      "change_pct": 16.31,
+      "close": 38.3,
+      "change_amount": 5.2,
+      "change_pct": 15.86,
       "ma5": 34.9,
       "ma10": 34.2,
       "ma20": 30.0,
-      "volume": 1070559,
+      "volume": 1093459,
       "score": 92,
-      "flags": "創新高, 多頭排列, 放量3.1x, 10日+18%"
+      "flags": "創新高, 多頭排列, 放量3.1x, 10日+17%"
     },
     {
       "code": "6995",
       "name": "野獸國",
       "industry": "其他",
-      "close": 58.6,
-      "change_amount": 6.4,
-      "change_pct": 12.26,
-      "ma5": 52.1,
-      "ma10": 50.1,
+      "close": 58.4,
+      "change_amount": 6.2,
+      "change_pct": 11.88,
+      "ma5": 52.0,
+      "ma10": 50.0,
       "ma20": 47.0,
-      "volume": 66216,
+      "volume": 72326,
       "score": 92,
-      "flags": "創新高, 多頭排列, 放量2.4x, 10日+24%"
+      "flags": "創新高, 多頭排列, 放量2.5x, 10日+23%"
+    },
+    {
+      "code": "7871",
+      "name": "安立璽榮-KY",
+      "industry": "生技醫療",
+      "close": 91.3,
+      "change_amount": 13.3,
+      "change_pct": 17.05,
+      "ma5": 78.4,
+      "ma10": 77.2,
+      "ma20": 74.3,
+      "volume": 5281552,
+      "score": 92,
+      "flags": "創新高, 多頭排列, 放量3.0x, 10日+22%"
+    },
+    {
+      "code": "2356",
+      "name": "英業達",
+      "industry": "電腦及週邊",
+      "close": 69.8,
+      "change_amount": 3.6,
+      "change_pct": 5.44,
+      "ma5": 67.2,
+      "ma10": 66.4,
+      "ma20": 66.6,
+      "volume": 143018285,
+      "score": 87,
+      "flags": "創新高, 短多, 放量3.0x, 10日+10%, 站穩MA20"
     }
   ],
   "industry_distribution": [
     {
       "name": "生技醫療",
-      "count": 6
+      "count": 7
     },
     {
       "name": "電腦及週邊",
-      "count": 4
+      "count": 5
     },
     {
       "name": "電子零組件",
@@ -444,10 +444,6 @@ var SCREENER = {
     },
     {
       "name": "其他",
-      "count": 3
-    },
-    {
-      "name": "半導體",
       "count": 2
     },
     {
@@ -460,6 +456,10 @@ var SCREENER = {
     },
     {
       "name": "紡織纖維",
+      "count": 1
+    },
+    {
+      "name": "半導體",
       "count": 1
     },
     {
